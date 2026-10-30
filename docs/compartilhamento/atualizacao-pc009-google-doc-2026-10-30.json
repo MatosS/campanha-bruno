@@ -1,0 +1,33 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. A FC-017 foi posteriormente respondida e permanece identificada neste documento, deixando 100 registros pendentes. As partes resolvidas ficam preservadas sem nova solicitação de resposta.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017 e PC-009 foram posteriormente respondidas e permanecem identificadas neste documento, deixando 99 registros pendentes. As partes resolvidas ficam preservadas sem nova solicitação de resposta."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta confirmada (30/10/2026): Não há mais informações, considere resolvido, não mantenha em pendencias."
+    },
+    {
+      "antes": "A completar: Há revelação sobre intenção e agentes envolvidos nas mortes ou prova de participação de terceiros? A causa já está confirmada. Não atribuir a Glim suspeita sobre Fash, de quem nunca ouviu falar.",
+      "depois": "Item encerrado: A causa das mortes está confirmada como o grimório. Não há informações adicionais sobre intenção ou terceiros; esses detalhes não ficam como perguntas abertas. O encerramento não comprova ausência de terceiros nem ordem direta de Shar."
+    },
+    {
+      "antes": "Em espera — complementar apenas com informação nova ou outra fonte.",
+      "depois": "Item encerrado pelo jogador em 30/10/2026. Não há informações adicionais e não é mantido como pendência."
+    },
+    {
+      "antes": "PC-009 — Responsabilidade pelas mortes de Lilo e Piche",
+      "depois": "PC-009 — Responsabilidade pelas mortes de Lilo e Piche — RESPONDIDA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. A FC-017 já foi respondida neste documento; restam 100 registros com informação pendente. As partes resolvidas aparecem como contexto ou resposta identificada. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017 e PC-009 já foram respondidas neste documento; restam 99 registros com informação pendente. As partes resolvidas aparecem como contexto ou resposta identificada. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "respondida",
+  "pendencias_restantes": 99,
+  "demais_textos_preservados": true
+}

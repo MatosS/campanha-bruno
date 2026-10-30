@@ -1,0 +1,813 @@
+{
+  "schema_version": 1,
+  "survey_date": "2026-10-29",
+  "task": "Identificar material de Fash e Glim no vault-42 para uma futura base publica independente",
+  "decision_source": "Conversa atual com o usuario",
+  "public_knowledge_base": true,
+  "campaign_era_separation_years": 70,
+  "source_root": "C:\\sources\\vault-42",
+  "source_vault_modified": false,
+  "migration_performed": false,
+  "selected_markdown": [
+    {
+      "source": "20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 2446,
+      "sha256": "978d4698b9a04a6dcadd0aa2226c7ac596943449068559696b786fd1de4b794b"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 916,
+      "sha256": "2e5153affd4fbf1f6ebf44a044a71f5d3ceafb898b201b844cc42bc42245197b"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 63073,
+      "sha256": "16cb3d2fe5d5230de41fd4b937fec5eab76f72aec0bcd892919d4cb4f2254aa8"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 1549,
+      "sha256": "9f0a4ef11a85dd735956a457bc85163d77aff83208c7e01812855cef12f517d5"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 14386,
+      "sha256": "12e8b8c3d7ddbe0d118f2b80e31a2f5fb87912f46adbff8b5f4e473f6b0a99f7"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 251525,
+      "sha256": "80d8bd7b0ea3f3df0ea3e1f117bcb5409c3a5aac7e949f575dc26ee263b967d8"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 5958,
+      "sha256": "0461ac677b625e2fd65364fc42daf5f595ca5827afd371328d4f30b01b8523f6"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 20832,
+      "sha256": "1facb00efbb0028bba77614405cf95a4bf854cefefad7347de3734c7598de485"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 27266,
+      "sha256": "741d4730c911da060230fb34e82c54533137af3598dbafd2d67deb2e2e5eccbe"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 13951,
+      "sha256": "8cfcfcd327509fa2d675fc3c8d7105a2137a04b5c55a8cde66cad9ac760c6759"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 25784,
+      "sha256": "9204d49c6d58af0309edc3e19f4c4e9270c4a3bd7f087649fcf1b7391bf4e261"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 20256,
+      "sha256": "a891c6d7d014c357d950c443a2d1903bc70eb8e33aa058fcd42dc6d5f8e4f121"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 14930,
+      "sha256": "0b38c3b077e9b8a0b60e579254e3cda5a67cb5637cb9f3aa688e950d712a4884"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 15172,
+      "sha256": "41d357a384179dd438f0dfe600af0b6f98f0cff197e81143006d7e0eea24aca3"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 13739,
+      "sha256": "b4e7e24e5207131c1c8aaf28facbb84e5245dc9226c274ec38e21ad50e79d5cc"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 7982,
+      "sha256": "d035e4d61f186f7921fd97a5f55f260375c6d91b6a49e34cd18ae8c53d325a45"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 5976,
+      "sha256": "fec2c7717cd20891c4556727175a50e5ab25172107416ba5981f96595eacf2b0"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 9196,
+      "sha256": "d3b89b9da36d48f20c9ffbd5df8c5eecb4f6462c3af23365806cbc69bb011454"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 16572,
+      "sha256": "2a6ffff3241cb62617baac715ea7ffb86c2414ad59bb17dd9e28a4c16a2c0b61"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 21029,
+      "sha256": "32121f016135daa14a1e2c4a1c05935aaedbe3ab11a6614c0d1d23a08e445a69"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 22345,
+      "sha256": "c139fc6a3d92a7f44afae9f3cceb456c500a9d95b162d73fc62932057aa6c028"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 13605,
+      "sha256": "129aa754c4bbb3c0f00c5103cfad0419b8f30deb8b3d42e7a36dd942a2c7e6ff"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 2946,
+      "sha256": "85f44c554fa362dd035d5a19b09c97ef982dc0982d9224130bbee479e55e4653"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 1327,
+      "sha256": "3f2aa7856ab4cfea0a3b3f6d81fe19c6f48015d1636223c8a543051efeec33dd"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 1573,
+      "sha256": "28acf01df7a8a2836f245712c7823a415f2028fa59f05dd5dca8960b0f54a1d6"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Piche.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 800,
+      "sha256": "bf4642d47aa59814f0612220a8661540d13cc9af6de48c296f7fd79a2c65953b"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 747,
+      "sha256": "757b3546f3a1577312e5f982e63b70e6d9ae262f09deff8f372bb443a1d6123d"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Ryld.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 985,
+      "sha256": "886f02a2fffe12d7102343dae5ac43721021a1bec52dc22a32bcd8ef3b8ab92b"
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Ébano.md",
+      "category": "notas-do-projeto-glim",
+      "bytes": 984,
+      "sha256": "eeadc8fdfdc5b67fbf82333477c4f0f1f8830901b727bbe10a0bfb9d0575050d"
+    },
+    {
+      "source": "70 Research/RPG - Handoff do cenario para o mestre.md",
+      "category": "sintese-do-cenario",
+      "bytes": 90357,
+      "sha256": "183a3bf14c92819a5399c6e17ed2df75a21888bf0d8393ee24ac890994b38fea"
+    },
+    {
+      "source": "40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "category": "esclarecimentos-do-jogador",
+      "bytes": 6364,
+      "sha256": "8a36c19cfa113aa378fd01f59de3104258b8fd625cd23862a7d7612727d0bb8b"
+    },
+    {
+      "source": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "category": "indice-historico-fash",
+      "bytes": 3630,
+      "sha256": "1d9cbc6c7bbedf06f2ad848898468455a6c0cf3ef8fd3ec25f22d39005cdc60b"
+    },
+    {
+      "source": "40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "category": "registro-de-fonte-drive",
+      "bytes": 2122,
+      "sha256": "e192f00a0b60678d071b5aea90629e17932636e9a083a7029ccc675424c36f64"
+    },
+    {
+      "source": "40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "category": "registro-de-fonte-drive",
+      "bytes": 3408,
+      "sha256": "d352fbbbd36faee151b30fa86a1c6bc02525960bf9d4b14b26936bdfd2cf0a55"
+    },
+    {
+      "source": "40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "category": "registro-de-fonte-drive",
+      "bytes": 1847,
+      "sha256": "23b0306dcb48ba23ef20e024c5e96bb422d217355cc5af995c3e495d6415d943"
+    },
+    {
+      "source": "40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "category": "registro-de-fonte-drive",
+      "bytes": 1663,
+      "sha256": "72211362582af38beda28380f68f39da2a6bb3dd468ebcf0c4687b7b4f657462"
+    }
+  ],
+  "selected_transcripts": [
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "category": "transcricao",
+      "bytes": 70826,
+      "sha256": "742e0b4b18e09e0e2c8b334f9f53ff6f2a23e5c93abfedded26d8b2a63c3c7e0",
+      "session": 13,
+      "date": "2026-05-27",
+      "parts": 1,
+      "entries": 686,
+      "normalized_lf_sha256": "bf562a33b605e7404ab122d7b0cf765bce0872805ea6171e9dd870a61a4ab16c",
+      "expected_sha256": "bf562a33b605e7404ab122d7b0cf765bce0872805ea6171e9dd870a61a4ab16c",
+      "hash_matches": true,
+      "limitation": "A gravacao foi iniciada depois do comeco da sessao; o inicio nao esta transcrito."
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "category": "transcricao",
+      "bytes": 137996,
+      "sha256": "4eb0a0c7df214d77af426497f6c6de202a679bdc5278b23ba3a662377a375b05",
+      "session": 14,
+      "date": "2026-06-17",
+      "parts": 3,
+      "entries": 1105,
+      "normalized_lf_sha256": "598797579b69ede9748748e801f8eea88a13b020f822bd37c05b212c5917ef87",
+      "expected_sha256": "598797579b69ede9748748e801f8eea88a13b020f822bd37c05b212c5917ef87",
+      "hash_matches": true,
+      "limitation": "Tres partes por desconexoes do bot. Existem lacunas entre as partes; os timestamps originais reiniciam em cada parte."
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "category": "transcricao",
+      "bytes": 84224,
+      "sha256": "f9e002f5ca955d4dee836695e8bb992932f59ef95daf5493a6efe5fba25de0be",
+      "session": 15,
+      "date": "2026-06-29",
+      "parts": 1,
+      "entries": 998,
+      "normalized_lf_sha256": "64adf8952ddc5416c097d0686345a028460d128fa93fd824a16bb6bb158ab944",
+      "expected_sha256": "64adf8952ddc5416c097d0686345a028460d128fa93fd824a16bb6bb158ab944",
+      "hash_matches": true,
+      "limitation": "Gravacao parcial. A pasta 2026-06-29 - GLIM tem zero trechos e nenhuma transcricao; o material disponivel comecou as 21h58 de 29/06 no horario de Sao Paulo."
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "category": "transcricao",
+      "bytes": 98726,
+      "sha256": "b50ce48394bf9cbc959a6f2417c074b3db3e89a04118ab9d9749db4ea321b0b5",
+      "session": 16,
+      "date": "2026-08-05",
+      "parts": 1,
+      "entries": 765,
+      "normalized_lf_sha256": "d6748a529a5a2b25a1efbe5c29e75a1da877d76e5a35916fd65026b3903d86b0",
+      "expected_sha256": "d6748a529a5a2b25a1efbe5c29e75a1da877d76e5a35916fd65026b3903d86b0",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "category": "transcricao",
+      "bytes": 162663,
+      "sha256": "ca755212a077b895d7b64d78202777305b8853ad5ab89f90c33a7cde6adc42f9",
+      "session": 17,
+      "date": "2026-08-17",
+      "parts": 1,
+      "entries": 1611,
+      "normalized_lf_sha256": "25786305259580f1e6fa14e2ec7e94e8196dd680880368e724ebe42a41cdf200",
+      "expected_sha256": "25786305259580f1e6fa14e2ec7e94e8196dd680880368e724ebe42a41cdf200",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "category": "transcricao",
+      "bytes": 80657,
+      "sha256": "e1b06300e074fdf3dec6681a7ba9c738f3d1404dd8b48a1855f23a290f71ea5c",
+      "session": 18,
+      "date": "2026-08-25",
+      "parts": 1,
+      "entries": 753,
+      "normalized_lf_sha256": "6dc3fdbde8ac1a5855d13a56443276e67dabfdb66b482a6b50814052a00bf843",
+      "expected_sha256": "6dc3fdbde8ac1a5855d13a56443276e67dabfdb66b482a6b50814052a00bf843",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "category": "transcricao",
+      "bytes": 145006,
+      "sha256": "fd4d38aca0b7843db50b512819cb07c21aa5fe95e5d58b3759ab2437e920035a",
+      "session": 19,
+      "date": "2026-09-01",
+      "parts": 1,
+      "entries": 1479,
+      "normalized_lf_sha256": "34fc469efd1f5a4607c2cae0987aa9a9ca4c780c855164a6382134ebcf254f9b",
+      "expected_sha256": "34fc469efd1f5a4607c2cae0987aa9a9ca4c780c855164a6382134ebcf254f9b",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "category": "transcricao",
+      "bytes": 58951,
+      "sha256": "f580351d0b61f6623516b0c72fe3cfb32001825ea76eee06ec3ca81abdb72171",
+      "session": 20,
+      "date": "2026-09-02",
+      "parts": 1,
+      "entries": 494,
+      "normalized_lf_sha256": "88d450d4d26d6e1437b235286c160de253134f43b02615dba436842bac491ca3",
+      "expected_sha256": "88d450d4d26d6e1437b235286c160de253134f43b02615dba436842bac491ca3",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "category": "transcricao",
+      "bytes": 147636,
+      "sha256": "79bcd945e90593ddcb1aed30a99d610968e999c4ef1ace3cde9b86bdcec33af7",
+      "session": 21,
+      "date": "2026-09-13",
+      "parts": 1,
+      "entries": 1383,
+      "normalized_lf_sha256": "ada954faf847fd7b686b6146c8193d06918bb4ed7b4cee2ec5fb57884b29b709",
+      "expected_sha256": "ada954faf847fd7b686b6146c8193d06918bb4ed7b4cee2ec5fb57884b29b709",
+      "hash_matches": true,
+      "limitation": "O manifest registra cinco trechos com falha de transcricao. O arquivo inclui todas as 1.383 entradas disponiveis."
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "category": "transcricao",
+      "bytes": 55776,
+      "sha256": "9308709de60bef681678f7296c213edab0af30dfd471da7775412660f9361642",
+      "session": 22,
+      "date": "2026-09-16",
+      "parts": 1,
+      "entries": 469,
+      "normalized_lf_sha256": "946fc669b299c086173837b342e5de1c85b7c9dc3e8005ad4c744f723ad1893c",
+      "expected_sha256": "946fc669b299c086173837b342e5de1c85b7c9dc3e8005ad4c744f723ad1893c",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "category": "transcricao",
+      "bytes": 234940,
+      "sha256": "d602645ef2b2e31f701eab0004edfe478549cdf9fe0bb349fc1120b0e58b861c",
+      "session": 23,
+      "date": "2026-09-27",
+      "parts": 1,
+      "entries": 2174,
+      "normalized_lf_sha256": "f42c98320ebf8f823c007e699935b1c690e3f2a0f009c8d691d42509fc8e5260",
+      "expected_sha256": "f42c98320ebf8f823c007e699935b1c690e3f2a0f009c8d691d42509fc8e5260",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "category": "transcricao",
+      "bytes": 202071,
+      "sha256": "74edb5e3ce08f051b7d8500f95ff5b02e5fe5f82b565fcc9b4b07622afe2b7ea",
+      "session": 24,
+      "date": "2026-09-30",
+      "parts": 1,
+      "entries": 1842,
+      "normalized_lf_sha256": "7189ea193c84fd470b074cc3bb5d561128597c47d1ebfc44426ad4aefa4bd4bd",
+      "expected_sha256": "7189ea193c84fd470b074cc3bb5d561128597c47d1ebfc44426ad4aefa4bd4bd",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "category": "transcricao",
+      "bytes": 131498,
+      "sha256": "776d1619dcfb4125af9485c5e8e9d230e3dd4e30f15fcf3c473c822225f4d957",
+      "session": 25,
+      "date": "2026-10-05",
+      "parts": 1,
+      "entries": 1212,
+      "normalized_lf_sha256": "d1a8b8c1f7e7bf85d33dac628bed4565bf5e1a3d19526c733a182de61bb2e097",
+      "expected_sha256": "d1a8b8c1f7e7bf85d33dac628bed4565bf5e1a3d19526c733a182de61bb2e097",
+      "hash_matches": true,
+      "limitation": null
+    },
+    {
+      "source": "98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "category": "transcricao",
+      "bytes": 162025,
+      "sha256": "07dc5dbaaaad4857eaeb20b9dbacc67354fdbf33af0898e4a8abf02fafcacb06",
+      "session": 26,
+      "date": "2026-10-20",
+      "parts": 1,
+      "entries": 1831,
+      "normalized_lf_sha256": "fa31010f1745229774479bc3a554165d3921991bfdf6d11b2ac281d950578919",
+      "expected_sha256": "fa31010f1745229774479bc3a554165d3921991bfdf6d11b2ac281d950578919",
+      "hash_reference": "60 Daily/2026-10-21 Agent Session - Glim Session 26 Diary.md",
+      "hash_matches": true,
+      "limitation": "A tentativa anterior de gravacao nao tem texto transcrito segundo o registro local; o inicio da sessao nao e reconstruido."
+    }
+  ],
+  "selected_support": [
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "category": "proveniencia",
+      "bytes": 11295,
+      "sha256": "158ab35f67c02f3880c2d212035f8836295de85f5a239d721d27940b633d2432"
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "category": "indice-das-transcricoes",
+      "bytes": 3493,
+      "sha256": "4620afe00e952148cf8ca7fad3d8a8d788bd84bb3a36011c382cdc80db392c33"
+    }
+  ],
+  "counts": {
+    "project_glim_markdown": 29,
+    "selected_markdown": 36,
+    "transcripts": 14,
+    "support_files": 2,
+    "total_selected_files": 52,
+    "initial_files": 12
+  },
+  "review_before_selection": [
+    {
+      "source": "90 Archive/RPG/Fash Paleskin.md",
+      "category": "revisar-continuidade",
+      "bytes": 1774,
+      "sha256": "e28619310e67fb2aa09204eb0cf4f2f2b0624c446f4a964b7abe7e695ec49d34",
+      "reason": "Background Tinkar Daergel/Eldrosia: nao integrar automaticamente na continuidade antiga; os esclarecimentos nao confirmam Eldrosia como nome do cenario."
+    }
+  ],
+  "initial_files": [
+    {
+      "source": "BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "bytes": 60608,
+      "sha256": "2bee000af32830f22b079ba8af4e51c1f2cde35b41e676d6314785988e8991bf",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "bytes": 117718,
+      "sha256": "2597614929c99d199d6a4b9e7c31a5807734dddf2d973a6ec0544e5ed256dded",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "bytes": 246518,
+      "sha256": "ec630a69c611d0d652a343f165aa0a6b97a730f7f71226f9a67beeb053a3391d",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "bytes": 246275,
+      "sha256": "6813a22f8dab0c50a20d7c64623e42807260e81a6bad679ca70d0d5779510e25",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "bytes": 41324,
+      "sha256": "8e2fb8c1a33fe5b2cc23cdfdb73f57aa9d28dc247337ed9118c5ca07f35e9c47",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/FASH PALESKIN.xlsx",
+      "bytes": 3865756,
+      "sha256": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+      "bytes": 1800127,
+      "sha256": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/Nota1.pdf",
+      "bytes": 6119049,
+      "sha256": "7f1ec942aa1b1716661295eb04ea6e383de12f5a46294532c8a9c1602d5e9884",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/Nota2.pdf",
+      "bytes": 2329817,
+      "sha256": "b92a57304804baad64a9493f4958580ae92f87fb1ad5a551b958499a7e603555",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/Personagens e Herois.txt",
+      "bytes": 5660,
+      "sha256": "480e21a7c7c3d79bf21339eb56bb6f9213ce9ba86152de3b9e0fd9e708eb69ea",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/Resumo detalhado.docx",
+      "bytes": 36573,
+      "sha256": "2078a8f535cb171168297a34f2ca6e2afba9857b407eea71e458ff39225b77f3",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    },
+    {
+      "source": "BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "bytes": 90357,
+      "sha256": "183a3bf14c92819a5399c6e17ed2df75a21888bf0d8393ee24ac890994b38fea",
+      "content_review": "Texto parcial e comparacoes selecionadas para MD/TXT; binarios apenas catalogados."
+    }
+  ],
+  "comparisons": [
+    {
+      "base": "RPG - Handoff do cenario para o mestre.md",
+      "vault": "70 Research/RPG - Handoff do cenario para o mestre.md",
+      "method": "Texto UTF-8, quebras de linha normalizadas, espacos externos removidos",
+      "equal": true
+    },
+    {
+      "base": "BACKGROUND - GLIM SOMBRASSELVA.md",
+      "vault": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "method": "Comparacao do corpo apos remover o cabecalho documental do vault",
+      "equal": true
+    },
+    {
+      "base": "DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "vault": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "method": "Corpo por sessao, ignorando marcacao Markdown e diferencas de espaco; titulos e indice nao sao comparados",
+      "base_order": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "solo",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "vault_order": [
+        "26",
+        "25",
+        "24",
+        "23",
+        "22",
+        "21",
+        "20",
+        "19",
+        "18",
+        "17",
+        "16",
+        "15",
+        "14",
+        "13",
+        "12",
+        "11",
+        "10",
+        "9",
+        "8",
+        "solo",
+        "7",
+        "6",
+        "5",
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "sessions": [
+        {
+          "session": "1",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "2",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "3",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "4",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "5",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "6",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "7",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "solo",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "8",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "9",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "10",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "11",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "12",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "13",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "14",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "15",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "16",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "17",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "18",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "19",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "20",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "21",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "22",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "23",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "24",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "25",
+          "equal_after_normalization": true
+        },
+        {
+          "session": "26",
+          "equal_after_normalization": true
+        }
+      ]
+    }
+  ],
+  "wikilink_scan": {
+    "method": "Resolucao por nome de arquivo nas 36 notas selecionadas; nomes de outras notas somente para resolver destinos; aliases e links Markdown nao auditados exaustivamente.",
+    "external_dependencies": [
+      {
+        "target": "30 Areas/RPG/Player Characters.md",
+        "from": [
+          "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md"
+        ]
+      },
+      {
+        "target": "30 Areas/RPG/RPG.md",
+        "from": [
+          "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md"
+        ]
+      },
+      {
+        "target": "40 Sources/Google Drive/RPG/Drive - RPG ANTIGOS Folder.md",
+        "from": [
+          "90 Archive/RPG/Fash Paleskin - Old Archive.md"
+        ]
+      },
+      {
+        "target": "40 Sources/Google Drive/RPG/Drive - RPG Folder.md",
+        "from": [
+          "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md"
+        ]
+      },
+      {
+        "target": "40 Sources/Google Drive/RPG/RPG Drive Inventory.md",
+        "from": [
+          "40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+          "40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+          "40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+          "40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md"
+        ]
+      },
+      {
+        "target": "90 Archive/RPG/Archived RPG Diaries.md",
+        "from": [
+          "90 Archive/RPG/Fash Paleskin - Old Archive.md"
+        ]
+      },
+      {
+        "target": "90 Archive/RPG/Fash Paleskin.md",
+        "from": [
+          "40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+          "90 Archive/RPG/Fash Paleskin - Old Archive.md"
+        ]
+      },
+      {
+        "target": "90 Archive/RPG/Historical Player Characters.md",
+        "from": [
+          "90 Archive/RPG/Fash Paleskin - Old Archive.md"
+        ]
+      }
+    ],
+    "unresolved_by_filename": [
+      {
+        "target": "Folha-Seca",
+        "from": [
+          "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md"
+        ]
+      },
+      {
+        "target": "Kenku",
+        "from": [
+          "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md"
+        ]
+      },
+      {
+        "target": "Tork",
+        "from": [
+          "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md"
+        ]
+      }
+    ]
+  },
+  "known_limits": [
+    "Copias locais das transcricoes cobrem sessoes 13-26; o pacote nao inclui 1-12 nem a solo de 22/04.",
+    "As fontes do Drive nao foram reabertas; notas locais e seus metadados podem conter snapshots antigos.",
+    "A pasta G:/Meu Drive/rpg-session-recorder-sessions nao ficou acessivel; novas gravacoes posteriores ao acervo local nao foram verificadas.",
+    "Hash confirma integridade do texto em relacao ao manifest/registro local; nao confirma exatidao da transcricao frente ao audio.",
+    "Nao foi realizada leitura continua de todas as falas nem validacao de todas as afirmacoes do cenario.",
+    "PDFs, DOCX e XLSX da BASE INICIAL ainda nao tiveram seu conteudo extraido neste levantamento."
+  ],
+  "excluded_scope": [
+    "Conteudo pessoal e configuracoes do segundo cerebro",
+    "Mundo de Auria e outras mesas/personagens sem ligacao confirmada a Fash/Glim",
+    "Audios e transcricoes de Index",
+    "Indices globais de RPG sem recorte da campanha",
+    "ZIP redundante das transcricoes",
+    "Diarios de agente e caminhos pessoais como conteudo da futura wiki"
+  ]
+}

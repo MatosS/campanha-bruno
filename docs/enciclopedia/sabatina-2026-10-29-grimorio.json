@@ -1,0 +1,56 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Grimorio de Glim e Shar.md",
+  "fonte_nova_sha256": "b867faa4492fa9aeacd777a968a3173b392061879e67259e62801ab5ff6b09be",
+  "resposta_literal": "As mortes de Lilo e Piche foram causadas pelo grimório, mas o Glim ainda não entende bem, o grimório é um artefato divino relacionado a deusa Shar.",
+  "confirmacoes": {
+    "PC-009": "parcialmente_respondida",
+    "IT-001": "parcialmente_respondida"
+  },
+  "escopo": [
+    "Grimório causou as mortes de Lilo e Piche.",
+    "Artefato divino relacionado à deusa Shar.",
+    "Compreensão de Glim continua limitada; não se presume conhecimento do vínculo com Shar."
+  ],
+  "nao_confirmado": [
+    "Função exata do selo e identidade da presença interna.",
+    "Ordem ou ação direta de Shar e intenção do artefato.",
+    "Participação pessoal de Fash ou do Ébano.",
+    "Identidade espiritual do familiar de Lilo.",
+    "Origem divina de todos os poderes de Glim."
+  ],
+  "nota_nova": "conteudo/Personagens/Shar.md",
+  "notas_atualizadas": [
+    "conteudo/Itens/Grimorio de Glim.md",
+    "conteudo/Personagens/Glim Sombrasselva.md",
+    "conteudo/Personagens/Lilo Sombrasselva.md",
+    "conteudo/Personagens/Piche.md",
+    "conteudo/Eventos/Infancia e ruptura de Glim.md",
+    "conteudo/Pendencias/Personagens/PC-009 - Responsabilidade pelas mortes de Lilo e Piche.md",
+    "conteudo/Pendencias/Itens/IT-001 - Entidade e selo do grimório.md",
+    "conteudo/Pendencias/Personagens/PC-046 - Poderes e identificação divina.md"
+  ],
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 386,
+    "arquivos_anteriores_identicos": 385,
+    "alteracoes_autorizadas": [
+      "conteudo/Fontes/Indice.md"
+    ],
+    "fontes_integrais_sessoes_anexos_originais_alterados": 0
+  },
+  "navegacao": {
+    "comando": "tools/indexar_enciclopedia.py --somente-indices",
+    "pendencias_total": 105,
+    "pendencias_ativas": 103,
+    "estados": {
+      "aberta": 99,
+      "parcialmente_respondida": 4,
+      "respondida": 2
+    }
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "teste_indexacao_aprovado": true
+  }
+}

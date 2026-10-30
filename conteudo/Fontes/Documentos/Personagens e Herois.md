@@ -1,0 +1,147 @@
+---
+tipo: "fonte"
+titulo: "Personagens e Herois"
+campanhas: []
+publico: true
+status: "revisar_continuidade"
+origens: ["BASE INICIAL/Personagens e Herois.txt"]
+aliases: []
+---
+
+# Personagens e Herois
+
+Origem preservada: [arquivo original](../../../arquivo/originais/BASE%20INICIAL/Personagens%20e%20Herois.txt).
+
+> A continuidade deste documento precisa de revisão. Os nomes e afirmações da fonte foram preservados, sem integração automática ao cânone.
+
+<!-- inicio-conteudo-fonte -->
+## Personagens e Heróis
+
+ A Família Velkyn Ryldan (patrulheiro e estudioso narrador), Zaerith (pai e guardião da biblioteca), Lythrana (mãe clériga), Vaerion (irmão guerreiro desaparecido) e Sylra (irmã caçula).
+ Firael Autor dos diários da nova era, paladinoalgoz, guerreiro calculista e fundador oculto do culto da Mente-Registro.
+
+
+ Timo O escolhido e rei abençoado por Silvanus, líder do povo da floresta; transformou-se permanentemente após os eventos das bruxas, adquirindo asas e traços animais.
+
+
+ Fash Integrante furtivo, analítico e letal do grupo de sobreviventes.
+
+
+ Kael Mago de origens nebulosas; possui múltiplas vidas, sendo possivelmente ligado à cúpula da organização Zodíaco.
+
+
+ Rake Companheiro do grupo cuja morte em combate com o Drow fraturou as relações internas, especialmente entre Firael e Timo.
+
+
+ Elena (Serethyn) Vítima sequestrada e aprisionada em um artefato pelas bruxas, indicada nos antigos grimórios não como uma mortal, mas como uma possível entidade cósmica de ordem superior.
+
+
+ O Líder e o Clérigo Regentes da cidade humana que ficaram catatônicosiluminados permanentemente após a explosão e destruição do artefato arcano.
+
+
+ Furion Profeta e emissário da floresta, um humanoide com traços arbóreos.
+
+
+ Cogu Lobo aliado leal de Timo, com familiares territoriais na mata.
+
+
+ Anão Ferreiro Especialista no manuseio de mithral que reforçou as defesas da cidade humana.
+
+
+
+## Vilões e Antagonistas
+
+ O Drow Druida Sangrento (Sanguinário) O carcereiro e último sobrevivente de uma antiga guerra drow, amaldiçoado por Lolth para vigiar o Cérebro Ancião e dominar anões através de magia necromântica.
+
+
+ A Líder da Convenção Bruxa suprema que extrai poder direto do Nó, atualmente fragilizada pela perda de sua esfera de visão.
+
+
+ Morvessh, Selara e Lyvessa Bruxas fundadoras do Círculo Vetrilus que canalizam, respectivamente, as forças conceituais de Lua, Mar e Grama.
+
+
+ Líder do Zodíaco Figura venerada como deus, dita ser imortal e capaz de renascer repetidas vezes.
+
+
+ Dragão Negro da Montanha Entidade soberana intocável do subterrâneo que exige um rígido sistema mensal de tributos.
+
+
+ Líder do Clã da Carne Negra O brutal comandante das hostes de trolls que intermediam e extorquem ouro para o dragão.
+
+
+
+## Divindades e Dragões Históricos
+
+ Bahamut O Dragão de Platina da justiça, cujos cultistas começaram a mobilizar forças nos picos antes dos cataclismos.
+ Eilistraee Deusa drow da luz do luar e redenção, padroeira de Lythrana Velkyn e Sylra.
+ Lolth A Rainha Aranha, responsável pela aniquilação e maldição da cidade do Sanguinário.
+
+
+ Silvanus O deus da natureza selvagem que tomou Timo como seu escolhido.
+
+
+ Pyrotharxaziondrakulmorthvyrion (Haurim) Dragão vermelho milenar com covis secretos espalhados pelo continente. Dragão vermelho heróico do passado, lembrado por ter rompido as castas de tirania dracônica para permitir que as raças menores civilizassem a superfície.
+
+
+ Deuses-Dragões (Dragões Antigos) Entidades ancestrais mencionadas como fontes de força nas preces de Firael.
+
+
+
+## Criaturas e Ameaças
+
+ Kharzûn, a Mente-Registro (Cérebro Ancião) Um ilitídeo gigante e aprisionado; estabeleceu um pacto neural com Firael e tornou-se a divindade de um novo culto baseado em acumular conhecimento prático.
+
+
+ Lumis Animais, bestas e humanoides consumidos pela doença da luz — seres irradiantes predatórios desprovidos de mente.
+
+
+ Caçadores de Dragões Vigilantes extraplanares absolutos que chegaram pelos portais com o único foco de caçar e aniquilar dragões plenos, ignorando meio-dragões e outras raças.
+
+
+ Marrash Seres extraplanares alados invocados por rituais de bruxaria para enraizar corrupção nas florestas.
+
+
+ Ankheg Besta escavadora capturada no subterrâneo e usada como transporte de infiltração tática.
+
+
+
+## Facções e Organizações
+
+ A Casa Velkyn Linhagem drow pacifista baseada perto da superfície oriental, responsável por catalogar e proteger o conhecimento do passado.
+ Séquito de Kharzûn (O Conclave) Religião secreta e pragmática arquitetada por Firael para proteger informações em dois santuários (bons e maus) sob a tutela telepática do ilitídeo.
+
+
+ Círculo Vetrilus (A Convenção) Triunvirato das bruxas alimentado pelo Nó.
+
+
+ O Zodíaco Sociedade arcaica e tirânica que depende de 12 artefatos perdidos para recuperar seu antigo poder de obliterar cidades.
+
+
+ Povo da Floresta (Seguidores de Silvanus) Aliança silvestre militarizada de fadas, ents e ninfas sob a liderança coroada de Timo.
+
+
+ Guarnição Miscigenada Batalhão de soldados exilados (meio-elfos, orcs e proscritos) estabelecido para proteger a cidade humana do sul.
+
+
+
+## Eventos, Locais e Artefatos Relevantes
+
+ As Doze Noites Rubras O fenômeno sangrento que marcou a transformação apocalíptica da realidade.
+ A Revoada Planar O evento cosmológico em que incontáveis portais lançaram dragões extraplanares e caçadores de volta ao mundo.
+
+
+ O Nó A anomalia arcana de poder imensurável que abastece o Círculo Vetrilus com força maligna ilimitada.
+
+
+ O Livro de Morvessh Grimório saqueado de uma bruxa contendo diagramas, histórias e rituais corruptores detalhados.
+
+
+ Os Portais dos Drow
+ O Portal do Espelho Acesso à realidade invertida e corrompida das bruxas.
+
+
+ O Portal do Abismo Passagem inativa dependente de conjuradores extremos para barganhas demoníacas.
+
+
+ O Portal da Noite Rota sociopolítica até a Ilha dos Elfos da Noite.
+<!-- fim-conteudo-fonte -->

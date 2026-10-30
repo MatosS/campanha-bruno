@@ -1,0 +1,32 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Nome da aldeia de Glim nao definido.md",
+  "fonte_nova_sha256": "462d117907796023a1618ddb23d61af35606c11b515b040211ee3833469bd88e",
+  "resposta_literal": "Não foi definido e não tem importância por agora",
+  "confirmacao": "Nome da aldeia não definido; usuário considera a definição sem importância por agora.",
+  "tratamento": "Manter designação descritiva; retirar somente o tópico do nome da fila atual. Outros assuntos familiares e geográficos permanecem separados, sem validação ou adiamento por extensão.",
+  "pendencias": {
+    "PC-042": "parcialmente_respondida",
+    "LG-013": "parcialmente_respondida"
+  },
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 392,
+    "arquivos_identicos": 391,
+    "alteracoes_autorizadas": [
+      "conteudo/Fontes/Indice.md"
+    ],
+    "fontes_integrais_sessoes_anexos_originais_alterados": 0
+  },
+  "indices": {
+    "estados": {
+      "aberta": 93,
+      "parcialmente_respondida": 10,
+      "respondida": 3
+    }
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "teste_indexacao_aprovado": true
+  }
+}

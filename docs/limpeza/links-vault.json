@@ -1,0 +1,1159 @@
+{
+  "arquivos": [
+    {
+      "caminho": "20 Projects/Projects.md",
+      "antes_sha256": "b8a2b12bb3a92d0b0dfb97fd5111c9a651e19903b85da779a258d907433f3d54",
+      "depois_sha256": "cc25bf5c1408aaa6592fd107ef88b0df6a1f501245e17f2336bc1a73694411c1",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-05-21 Agent Session - Glim Thread Notes.md",
+      "antes_sha256": "e3c025ca361723d97674220997f88a42fc0bf247da57f7ce5262328a210f1683",
+      "depois_sha256": "690d1e27c4f37cc92021848de8808630eb961332f223beeecfdb2205ecb4af14",
+      "links": [
+        {
+          "antes": "[[Drive - BACKGROUND - GLIM SOMBRASSELVA]]",
+          "origem": "40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Drive - DIARIOS - GLIM SOMBRASSELVA]]",
+          "origem": "40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Arkhavel]]",
+          "origem": "20 Projects/Glim Sombrasselva/Arkhavel.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Ryld]]",
+          "origem": "20 Projects/Glim Sombrasselva/Ryld.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Grimório de Glim]]",
+          "origem": "20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Ébano]]",
+          "origem": "20 Projects/Glim Sombrasselva/Ébano.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Lilo Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Piche]]",
+          "origem": "20 Projects/Glim Sombrasselva/Piche.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Roda de Estopa]]",
+          "origem": "20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-05-21 Agent Session - RPG Fash Archive.md",
+      "antes_sha256": "626122432c50caec3ddfd34f16f562e225e66df99d8acd7968a60de902ea7e8b",
+      "depois_sha256": "38604fa0a33adc4a7641f14ade4bcf9666badde82e1180b48cb4401e7236ab24",
+      "links": [
+        {
+          "antes": "[[Fash Paleskin]]",
+          "origem": "90 Archive/RPG/Fash Paleskin.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin - Old Archive]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin]]",
+          "origem": "90 Archive/RPG/Fash Paleskin.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin - Old Archive]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-05-21 Agent Session - RPG Glim Assets.md",
+      "antes_sha256": "b28c0e4a28ae935566dcc4b8924b206c4eb5c949c3ac47ab4b8a46020c77553e",
+      "depois_sha256": "7aff4197640126534fb3cbf85548d45f310b2e8a0d29608b73816139f801713d",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Assets]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Assets]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-05-21 Agent Session - RPG Historical Characters Batch 1.md",
+      "antes_sha256": "e4d1078798f294582818825276da0c2aaeddd67406e99c558b93300e78b4ec41",
+      "depois_sha256": "98071c1b34d5d9c00ff99eae18b0d9679c735cb92fe85bcd3363745235c51414",
+      "links": [
+        {
+          "antes": "[[Fash Paleskin]]",
+          "origem": "90 Archive/RPG/Fash Paleskin.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-05-21 Agent Session - RPG Migration Execution.md",
+      "antes_sha256": "0b7bab3654cf5b1bc6742e9afdaccac5a64de95b41752382aacc8bc7feb9c4b6",
+      "depois_sha256": "b768c702a8b0563bf9caf476536d82fd022c2429ed2b57d3a6e4f64d820eefc8",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-05-28 Agent Session - Glim Drive Exports.md",
+      "antes_sha256": "dd9ed7bf6c6a519c150d2c7ec77aba74c8e3e58a7325a1496bad4d91003cfc0e",
+      "depois_sha256": "52f5c6a11c0f4f1636889a7b3f015598e738b67feab6572cb610e55c5f68a10d",
+      "links": [
+        {
+          "antes": "[[Drive - DIARIOS - GLIM SOMBRASSELVA]]",
+          "origem": "40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Drive - BACKGROUND - GLIM SOMBRASSELVA]]",
+          "origem": "40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-05-28 Agent Session - Glim Session 13 Draft.md",
+      "antes_sha256": "2ee128832d6910c70b3e8a8e4c2e7bb7ae44937fb1618d9510b01892e611695d",
+      "depois_sha256": "43be94bc1c1eea448fcf8d42a81a8c08a9b0507132531dffb6f7ddae4303babe",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 13 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 13 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-06-17 Agent Session - Glim Session 14 Draft.md",
+      "antes_sha256": "9dd04fb0cfb32378fe8566176af74c47d73c8d5961672f8c5f3d94f4e6db16b4",
+      "depois_sha256": "3f1c4af086aa3c6119016c785303645ef240f2ca88b376f4362fe4fde0064d56",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 14 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 14 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 13 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 14 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-08-05 Agent Session - Glim Session 15 Diary.md",
+      "antes_sha256": "b0b8b118be32e94e5f9ac7192771abded756aee26b519ca677b0b4e946f4c646",
+      "depois_sha256": "84377ebccfb12de39928e98dc8dee54d75e9b689ea77c9b225cb67a15db83196",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 15 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 15 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 13 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 14 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 15 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-08-17 Agent Session - Glim Session 16 Diary.md",
+      "antes_sha256": "f799996ce71c6db7e478a2c8572a5ad3f0b599504424e0142dad1a070977f3a4",
+      "depois_sha256": "69221062e5200e97d65b0b68c835061bc3cb1f80d9fdf52c6c85d7c1c8bc9152",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 16 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 16 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-08-24 Agent Session - Glim Session 17 Diary.md",
+      "antes_sha256": "702a4acbcc7b3a29d0f6a3f37cab13a98e2499fdb431c73bff87c3988c6755da",
+      "depois_sha256": "f08ff62b29d70505afce6824ebebf88abbf29ccfb4ad7a8d76dc12b66d694b36",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 17 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 17 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-09-01 Agent Session - Glim Session 18 Diary.md",
+      "antes_sha256": "f25f14fabaa8b983d1e090d7a3de32aae007bd3863290b106a1b7d6bfaf85611",
+      "depois_sha256": "7c03984a705b0ca6bf71a65782618ac2eea73f0203726df416e86849a5e5836e",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 18 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 18 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-09-02 Agent Session - Glim Campaign Chronology.md",
+      "antes_sha256": "25c0e9e085a49b2c8fbc7158b08bd021e86c5b1aaaaa7d98893530a1e442f08e",
+      "depois_sha256": "1399fc2a2d74a602dbce8f73cb5b39de50357484c8313ad55bb6e3bdbf55aa9f",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Cronologia da Campanha]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-09-02 Agent Session - Glim Session 19 Diary.md",
+      "antes_sha256": "fa35389ae17539786cbc289ba74162632abffd91b29979e6d9abe4fcac8f95c1",
+      "depois_sha256": "0c68d6de524c83b839e1b95742993e5c7f01e6f3baeeb580fb30e47d017187fe",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 19 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 19 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-09-13 Agent Session - Glim Session 20 Diary.md",
+      "antes_sha256": "3ff23794e27f9e16ad28350cfb50f82bafe5ea6f9cf289417d8109719224b0a2",
+      "depois_sha256": "83df0356152b05cc5b1c5f1244b7e41a7c62ff4aa29ff47b199f42c065095676",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 20 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 20 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-09-30 Agent Session - Glim Sessions 21-23 Diaries.md",
+      "antes_sha256": "e56a2da95f6c7cc90c280221c0ba7617bfdcc4f8dbc0d9aa9c74146b65f08003",
+      "depois_sha256": "f4a006a1122349f8746595496ead9b2be67356e230402326540b124219b56cb0",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-10-01 Agent Session - Glim Session 24 Diary And Drive Doc.md",
+      "antes_sha256": "793fa0bcaeffd5937941a09dba7e99e1f516d540efa4607aed0a3e944e883964",
+      "depois_sha256": "f36e87d6e4d37a055de58e7e1f4d70d28a5ef06db759eba939a43d577b1a636f",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 24 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-10-20 Agent Session - Glim Session 25 Diary.md",
+      "antes_sha256": "95b0d3f453061fd4e294bef89eaa46d85fad19e1302f06418176c259f9d52cc9",
+      "depois_sha256": "043a07bbac2bfde6401945c9ec31687d4c28d8560c5d886664cd6fb82bff6ec2",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 25 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Cronologia da Campanha]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Lilo Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Drive - DIARIOS - GLIM SOMBRASSELVA]]",
+          "origem": "40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 25 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-10-20 Agent Session - Glim Transcripts Export.md",
+      "antes_sha256": "a375cd81bb3a4b3425851cbc317b2cd9d6708af871bd96c0ef97c624d0c89758",
+      "depois_sha256": "1af5a4e47a4169300e72d8c00e1091020d960810b223ad4b3aedbc6b13264cde",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-10-21 Agent Session - Glim Session 26 Diary.md",
+      "antes_sha256": "f570252e669d8fa702f1f5eb9b2e1e9b54cc9baa6bf2c4beca1dfbe40e01a668",
+      "depois_sha256": "887e57e7aa2f7f7ff0ad3a07a44b8298bce738f1c487f46216d5f00280b31c17",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva - Session 26 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Cronologia da Campanha]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Arkhavel]]",
+          "origem": "20 Projects/Glim Sombrasselva/Arkhavel.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Drive - DIARIOS - GLIM SOMBRASSELVA]]",
+          "origem": "40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Session 26 Diary Draft]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "60 Daily/2026-10-23 Agent Session - RPG Handoff Discovery.md",
+      "antes_sha256": "0476c24168362428d8d031f787ba4b66b8c515e87de8828a35d6b477d86ec1b9",
+      "depois_sha256": "1ce60f5a8fce0dbaeaf6ed2b6f8c567f5f3d0e09df1e057f6c9ab441c2580e6b",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin - Old Archive]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Cronologia da Campanha]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin]]",
+          "origem": "90 Archive/RPG/Fash Paleskin.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin - Old Archive]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Threads]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Cronologia da Campanha]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[RPG - Handoff do cenario para o mestre]]",
+          "origem": "70 Research/RPG - Handoff do cenario para o mestre.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim]]",
+          "origem": "40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "30 Areas/RPG/Player Characters.md",
+      "antes_sha256": "3a5543e57e0e4592fd911a8a862fab9db2212781fab567e83a44fe713491a1b6",
+      "depois_sha256": "f336c47be912bdc4e45c4583da202ebfc0a4f3bfba994383cb096d69f2eeb45a",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "30 Areas/RPG/RPG.md",
+      "antes_sha256": "e2e100b3c66ffc7139d13fe41112b1c95d8a896b8a676cfef2c678995d26d913",
+      "depois_sha256": "b33a0b1fde2854feb321da77e78585ccd680fb2b6ad655f56ded22842d3c6e43",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "40 Sources/Google Drive/RPG/Drive - RPG ANTIGOS Folder.md",
+      "antes_sha256": "18b19bfea763edf8444ff8f319b758dc75eb5cc4d9c060af49926a71f94d0358",
+      "depois_sha256": "f254c1c22e35f781efe3bcf2e3234012812f5ada87962063bcf47c23e97ecdb3",
+      "links": [
+        {
+          "antes": "[[Fash Paleskin - Old Archive]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "40 Sources/Google Drive/RPG/Drive - RPG BACKGROUNDS Folder.md",
+      "antes_sha256": "a99ab8a42662eba365ebd2f5ded98c82512c0b76719c2836d72cd08cfa93b6b1",
+      "depois_sha256": "f3ccc033e153897cbee2c9b27b375ca9af3f4a671cb9f037bf34f17a4724f5d2",
+      "links": [
+        {
+          "antes": "[[Fash Paleskin]]",
+          "origem": "90 Archive/RPG/Fash Paleskin.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "40 Sources/Google Drive/RPG/Drive - RPG Folder.md",
+      "antes_sha256": "0f5b2f28a552a40fc3dd74b91ff06a9d88ea5dd09f2b1f8e24cebcffa1e4b5be",
+      "depois_sha256": "ce3a86c2eb6dc0114530fb2e955c1c0d21d445c37b4a23b306d76262c0ffa73d",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Assets]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "40 Sources/Google Drive/RPG/RPG Drive Inventory.md",
+      "antes_sha256": "763238b0ae52312aa61b37df648e9b4bc0003842d3ee90487d1dd18ae6f476cf",
+      "depois_sha256": "414370c27cf2c0e86917d11c7042ae09b5519874dac32114cd261e0278b8e57d",
+      "links": [
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Diary Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Character Sheet]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Background Full]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Assets]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Glim Sombrasselva - Assets]]",
+          "origem": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "90 Archive/RPG/Archived RPG Diaries.md",
+      "antes_sha256": "fccce934d78cebe70e12ab845f566ed0fd8a7de4d2cc607456c5cfaf22bf0691",
+      "depois_sha256": "56372203c7e3e248c5ef4cd8c2d093ca5f097938e2cf699106da08f73060b1db",
+      "links": [
+        {
+          "antes": "[[Fash Paleskin - Old Archive]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin - Old Archive|ANTIGOS/FASH PALESKIN]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "90 Archive/RPG/Historical Player Characters.md",
+      "antes_sha256": "d1363edd08495e23b45dfbc897a256e5f95329e83d819444432894ebf1f16ea2",
+      "depois_sha256": "df54bacfdd062dd24ba559d9f835103edc57b426b92c9dde6fd038fc89565836",
+      "links": [
+        {
+          "antes": "[[Fash Paleskin - Old Archive]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin]]",
+          "origem": "90 Archive/RPG/Fash Paleskin.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin - Old Archive|ANTIGOS/FASH PALESKIN]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin]]",
+          "origem": "90 Archive/RPG/Fash Paleskin.md",
+          "fragmento_anterior": null
+        },
+        {
+          "antes": "[[Fash Paleskin - Old Archive]]",
+          "origem": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+          "fragmento_anterior": null
+        }
+      ]
+    },
+    {
+      "caminho": "30 Areas/RPG/Campanha de Fash e Glim - Base externa.md",
+      "antes_sha256": null,
+      "depois_sha256": "718023a52bf62f7ed91a0e1ee347a70fe1f87bccf027ce5475cffecf8dc36990",
+      "links": []
+    },
+    {
+      "caminho": "60 Daily/2026-10-29 Agent Session - RPG Base Migration Cleanup.md",
+      "antes_sha256": null,
+      "depois_sha256": "d24a0d6502265cdaf6877618f189d9a969a7127277ada1ed1ce4be7f07574f74",
+      "links": []
+    }
+  ],
+  "arquivos_existentes_alterados": 30,
+  "links_redirecionados": 186,
+  "nota_destino": "30 Areas/RPG/Campanha de Fash e Glim - Base externa.md"
+}

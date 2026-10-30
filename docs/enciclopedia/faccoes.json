@@ -1,0 +1,1203 @@
+{
+  "dominio": "faccoes_e_criaturas",
+  "atualizado": "2026-10-29",
+  "estado": "congelado_para_integracao",
+  "resumo": {
+    "faccoes": 20,
+    "criaturas": 8,
+    "notas": 28,
+    "pendencias": 24,
+    "extras": 0
+  },
+  "cobertura": [
+    {
+      "dominio": "faccoes",
+      "nome": "Ébano",
+      "destino": "Faccoes/Ebano",
+      "arquivo": "Faccoes/Ebano.md",
+      "fontes": [
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Documentos/Background - Glim Sombrasselva"
+      ],
+      "pendencias": [
+        "FC-001",
+        "FC-003",
+        "FC-005"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Organização de Firael",
+      "destino": "Faccoes/Organizacao de Firael",
+      "arquivo": "Faccoes/Organizacao de Firael.md",
+      "fontes": [
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-002",
+        "FC-003",
+        "FC-005"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Mercado Negro",
+      "destino": "Faccoes/Mercado Negro",
+      "arquivo": "Faccoes/Mercado Negro.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+        "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "pendencias": [
+        "FC-003",
+        "FC-004",
+        "FC-005",
+        "FC-006"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Negócio da arena de Silthan",
+      "destino": "Faccoes/Arena de Silthan",
+      "arquivo": "Faccoes/Arena de Silthan.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+        "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-006",
+        "FC-004"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Kenku de Eral",
+      "destino": "Faccoes/Kenku de Eral",
+      "arquivo": "Faccoes/Kenku de Eral.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+        "Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17",
+        "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+        "Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-007"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Conclave da floresta",
+      "destino": "Faccoes/Conclave da floresta",
+      "arquivo": "Faccoes/Conclave da floresta.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+        "Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17",
+        "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+        "Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-008",
+        "FC-009"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Círculo Vetrilus",
+      "destino": "Faccoes/Circulo Vetrilus",
+      "arquivo": "Faccoes/Circulo Vetrilus.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-009",
+        "FC-010"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Igreja de Kord",
+      "destino": "Faccoes/Igreja de Kord",
+      "arquivo": "Faccoes/Igreja de Kord.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-011",
+        "FC-018"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Arquivistas da sociedade élfica",
+      "destino": "Faccoes/Arquivistas",
+      "arquivo": "Faccoes/Arquivistas.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-012",
+        "FC-013",
+        "FC-002"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Lua Sangrenta",
+      "destino": "Faccoes/Lua Sangrenta",
+      "arquivo": "Faccoes/Lua Sangrenta.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "pendencias": [
+        "FC-014"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Zodíacos",
+      "destino": "Faccoes/Zodiacos",
+      "arquivo": "Faccoes/Zodiacos.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-015",
+        "FC-012"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Organização do Necromante",
+      "destino": "Faccoes/Organizacao do Necromante",
+      "arquivo": "Faccoes/Organizacao do Necromante.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-016",
+        "FC-010"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Roda de Estopa",
+      "destino": "Faccoes/Roda de Estopa",
+      "arquivo": "Faccoes/Roda de Estopa.md",
+      "fontes": [
+        "Fontes/Documentos/Background - Glim Sombrasselva",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "pendencias": [
+        "FC-017"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Guarda de Eral",
+      "destino": "Faccoes/Guarda de Eral",
+      "arquivo": "Faccoes/Guarda de Eral.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+        "Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17",
+        "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+        "Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02"
+      ],
+      "pendencias": [
+        "FC-018",
+        "FC-005"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Traficantes planares de almas",
+      "destino": "Faccoes/Traficantes planares de almas",
+      "arquivo": "Faccoes/Traficantes planares de almas.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 17 - 2026-08-17"
+      ],
+      "pendencias": [
+        "FC-019"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Conclave das Bruxas nos registros antigos",
+      "destino": "Faccoes/Conclave das Bruxas",
+      "arquivo": "Faccoes/Conclave das Bruxas.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-009",
+        "FC-010"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Os Magníficos",
+      "destino": "Faccoes/Magnificos",
+      "arquivo": "Faccoes/Magnificos.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+        "Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Documentos/Background - Glim Sombrasselva"
+      ],
+      "pendencias": [
+        "FC-003",
+        "FC-005"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Meio-dragões de Throden",
+      "destino": "Faccoes/Meio-dragoes de Throden",
+      "arquivo": "Faccoes/Meio-dragoes de Throden.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-020"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Anões libertos",
+      "destino": "Faccoes/Anoes libertos",
+      "arquivo": "Faccoes/Anoes libertos.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-020"
+      ]
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Instituições do sonho de Lazathar",
+      "destino": "Faccoes/Instituicoes de Lazathar",
+      "arquivo": "Faccoes/Instituicoes de Lazathar.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "pendencias": [
+        "FC-021"
+      ]
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Mind Shredders",
+      "destino": "Criaturas/Mind Shredders",
+      "arquivo": "Criaturas/Mind Shredders.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01",
+        "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-022"
+      ]
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Devoradores de mente",
+      "destino": "Criaturas/Devoradores de mente",
+      "arquivo": "Criaturas/Devoradores de mente.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": [
+        "FC-002"
+      ]
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Vasuthant",
+      "destino": "Criaturas/Vasuthant",
+      "arquivo": "Criaturas/Vasuthant.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "pendencias": []
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Magia viva do sono",
+      "destino": "Criaturas/Magia viva do sono",
+      "arquivo": "Criaturas/Magia viva do sono.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "pendencias": [
+        "FC-023"
+      ]
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Fada Órfã",
+      "destino": "Criaturas/Fada Orfa",
+      "arquivo": "Criaturas/Fada Orfa.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "pendencias": []
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Goblins de Dekanter",
+      "destino": "Criaturas/Goblins de Dekanter",
+      "arquivo": "Criaturas/Goblins de Dekanter.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 21 - 2026-09-13",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "pendencias": []
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Crepúsculos Venenosos",
+      "destino": "Criaturas/Crepusculos Venenosos",
+      "arquivo": "Criaturas/Crepusculos Venenosos.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "pendencias": [
+        "FC-024"
+      ]
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Inevitáveis na descrição da mesa",
+      "destino": "Criaturas/Inevitaveis",
+      "arquivo": "Criaturas/Inevitaveis.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02"
+      ],
+      "pendencias": []
+    }
+  ],
+  "notas": [
+    {
+      "destino": "Faccoes/Ebano",
+      "arquivo": "Faccoes/Ebano.md",
+      "titulo": "Ébano",
+      "tipo": "faccao",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": [
+        "Ebano",
+        "Sociedade das Sombras"
+      ]
+    },
+    {
+      "destino": "Faccoes/Organizacao de Firael",
+      "arquivo": "Faccoes/Organizacao de Firael.md",
+      "titulo": "Organização de Firael",
+      "tipo": "faccao",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Mercado Negro",
+      "arquivo": "Faccoes/Mercado Negro.md",
+      "titulo": "Mercado Negro",
+      "tipo": "faccao",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Arena de Silthan",
+      "arquivo": "Faccoes/Arena de Silthan.md",
+      "titulo": "Negócio da arena de Silthan",
+      "tipo": "grupo",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": [
+        "Arena de Silthan"
+      ]
+    },
+    {
+      "destino": "Faccoes/Kenku de Eral",
+      "arquivo": "Faccoes/Kenku de Eral.md",
+      "titulo": "Kenku de Eral",
+      "tipo": "grupo",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Conclave da floresta",
+      "arquivo": "Faccoes/Conclave da floresta.md",
+      "titulo": "Conclave da floresta",
+      "tipo": "grupo",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Circulo Vetrilus",
+      "arquivo": "Faccoes/Circulo Vetrilus.md",
+      "titulo": "Círculo Vetrilus",
+      "tipo": "faccao",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Igreja de Kord",
+      "arquivo": "Faccoes/Igreja de Kord.md",
+      "titulo": "Igreja de Kord",
+      "tipo": "faccao",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Arquivistas",
+      "arquivo": "Faccoes/Arquivistas.md",
+      "titulo": "Arquivistas da sociedade élfica",
+      "tipo": "faccao",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Lua Sangrenta",
+      "arquivo": "Faccoes/Lua Sangrenta.md",
+      "titulo": "Lua Sangrenta",
+      "tipo": "faccao",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Zodiacos",
+      "arquivo": "Faccoes/Zodiacos.md",
+      "titulo": "Zodíacos",
+      "tipo": "faccao",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Organizacao do Necromante",
+      "arquivo": "Faccoes/Organizacao do Necromante.md",
+      "titulo": "Organização do Necromante",
+      "tipo": "faccao",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Roda de Estopa",
+      "arquivo": "Faccoes/Roda de Estopa.md",
+      "titulo": "Roda de Estopa",
+      "tipo": "grupo",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Guarda de Eral",
+      "arquivo": "Faccoes/Guarda de Eral.md",
+      "titulo": "Guarda de Eral",
+      "tipo": "grupo",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Traficantes planares de almas",
+      "arquivo": "Faccoes/Traficantes planares de almas.md",
+      "titulo": "Traficantes planares de almas",
+      "tipo": "grupo",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Conclave das Bruxas",
+      "arquivo": "Faccoes/Conclave das Bruxas.md",
+      "titulo": "Conclave das Bruxas nos registros antigos",
+      "tipo": "grupo",
+      "campanhas": [
+        "fash"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Magnificos",
+      "arquivo": "Faccoes/Magnificos.md",
+      "titulo": "Os Magníficos",
+      "tipo": "grupo",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": [
+        "Magníficos"
+      ]
+    },
+    {
+      "destino": "Faccoes/Meio-dragoes de Throden",
+      "arquivo": "Faccoes/Meio-dragoes de Throden.md",
+      "titulo": "Meio-dragões de Throden",
+      "tipo": "grupo",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Anoes libertos",
+      "arquivo": "Faccoes/Anoes libertos.md",
+      "titulo": "Anões libertos",
+      "tipo": "grupo",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Faccoes/Instituicoes de Lazathar",
+      "arquivo": "Faccoes/Instituicoes de Lazathar.md",
+      "titulo": "Instituições do sonho de Lazathar",
+      "tipo": "grupo",
+      "campanhas": [
+        "fash"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Criaturas/Mind Shredders",
+      "arquivo": "Criaturas/Mind Shredders.md",
+      "titulo": "Mind Shredders",
+      "tipo": "criatura",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Criaturas/Devoradores de mente",
+      "arquivo": "Criaturas/Devoradores de mente.md",
+      "titulo": "Devoradores de mente",
+      "tipo": "criatura",
+      "campanhas": [
+        "fash",
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Criaturas/Vasuthant",
+      "arquivo": "Criaturas/Vasuthant.md",
+      "titulo": "Vasuthant",
+      "tipo": "criatura",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Criaturas/Magia viva do sono",
+      "arquivo": "Criaturas/Magia viva do sono.md",
+      "titulo": "Magia viva do sono",
+      "tipo": "criatura",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Criaturas/Fada Orfa",
+      "arquivo": "Criaturas/Fada Orfa.md",
+      "titulo": "Fada Órfã",
+      "tipo": "criatura",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": [
+        "Fada Orfã"
+      ]
+    },
+    {
+      "destino": "Criaturas/Goblins de Dekanter",
+      "arquivo": "Criaturas/Goblins de Dekanter.md",
+      "titulo": "Goblins de Dekanter",
+      "tipo": "criatura",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    },
+    {
+      "destino": "Criaturas/Crepusculos Venenosos",
+      "arquivo": "Criaturas/Crepusculos Venenosos.md",
+      "titulo": "Crepúsculos Venenosos",
+      "tipo": "criatura",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": [
+        "Crepúsculo Venenoso"
+      ]
+    },
+    {
+      "destino": "Criaturas/Inevitaveis",
+      "arquivo": "Criaturas/Inevitaveis.md",
+      "titulo": "Inevitáveis na descrição da mesa",
+      "tipo": "criatura",
+      "campanhas": [
+        "glim"
+      ],
+      "aliases": []
+    }
+  ],
+  "perguntas": [
+    {
+      "id": "FC-001",
+      "titulo": "Estrutura e alcance atual do Ébano",
+      "pergunta": "Como se organiza hoje o Ébano, quais territórios e guildas controla e como distribui comando e filiação?",
+      "fontes": [
+        "J",
+        "T16"
+      ],
+      "entidades": [
+        "Faccoes/Ebano",
+        "Faccoes/Mercado Negro"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-001 - Estrutura e alcance atual do Ébano"
+    },
+    {
+      "id": "FC-002",
+      "titulo": "Nome e composição da organização de Firael",
+      "pergunta": "Qual é o nome oficial da organização de Firael, quem pode integrá-la e como Firael e o Cérebro exercem autoridade sobre seus membros?",
+      "fontes": [
+        "T25",
+        "J"
+      ],
+      "entidades": [
+        "Faccoes/Organizacao de Firael",
+        "Criaturas/Devoradores de mente",
+        "Personagens/Cerebro Anciao"
+      ],
+      "prioridade": "alta",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-002 - Nome e composição da organização de Firael"
+    },
+    {
+      "id": "FC-003",
+      "titulo": "Aliança de Firael com o Mercado e operação em Eral",
+      "pergunta": "Que objetivo explica a organização de Firael ajudar a conduzir os Magníficos contra o Mercado em Eral apesar da aliança entre as duas facções?",
+      "fontes": [
+        "T25"
+      ],
+      "entidades": [
+        "Faccoes/Organizacao de Firael",
+        "Faccoes/Mercado Negro",
+        "Faccoes/Ebano",
+        "Faccoes/Magnificos"
+      ],
+      "prioridade": "alta",
+      "natureza": "motivacao",
+      "destino": "Pendencias/Faccoes/FC-003 - Aliança de Firael com o Mercado e operação em Eral"
+    },
+    {
+      "id": "FC-004",
+      "titulo": "Estrutura e rotas do Mercado Negro",
+      "pergunta": "Quem dirige o Mercado Negro e quais vínculos formais unem suas guildas, os fornecedores goblinoides e as rotas usadas por Eral?",
+      "fontes": [
+        "T16"
+      ],
+      "entidades": [
+        "Faccoes/Mercado Negro",
+        "Faccoes/Arena de Silthan",
+        "Lugares/Assentamento goblinoide"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-004 - Estrutura e rotas do Mercado Negro"
+    },
+    {
+      "id": "FC-005",
+      "titulo": "Informante investigado pelo Mercado",
+      "pergunta": "Quem enviou as cartas clandestinas sobre Eral e quem, se alguém, manipulava os Magníficos em nome de uma facção?",
+      "fontes": [
+        "T16"
+      ],
+      "entidades": [
+        "Faccoes/Mercado Negro",
+        "Faccoes/Magnificos",
+        "Faccoes/Conclave da floresta",
+        "Faccoes/Igreja de Kord"
+      ],
+      "prioridade": "alta",
+      "natureza": "identidade",
+      "destino": "Pendencias/Faccoes/FC-005 - Informante investigado pelo Mercado"
+    },
+    {
+      "id": "FC-006",
+      "titulo": "Propriedade e liquidação do negócio da arena",
+      "pergunta": "Como se dividia a propriedade entre Silthan, conde, condessa e demais financiadores, e o que restou da rede depois da queda da arena?",
+      "fontes": [
+        "T13",
+        "T16"
+      ],
+      "entidades": [
+        "Faccoes/Arena de Silthan",
+        "Faccoes/Mercado Negro",
+        "Lugares/Arena de Eral"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-006 - Propriedade e liquidação do negócio da arena"
+    },
+    {
+      "id": "FC-007",
+      "titulo": "Decisão e vínculos dos Kenku no saque",
+      "pergunta": "O grupo Kenku planejou a traição com os atacantes, foi contratado por alguém ou decidiu agir durante a oportunidade, e qual foi o destino coletivo de seu núcleo familiar?",
+      "fontes": [
+        "T13",
+        "T16",
+        "T18"
+      ],
+      "entidades": [
+        "Faccoes/Kenku de Eral",
+        "Faccoes/Mercado Negro",
+        "Faccoes/Guarda de Eral"
+      ],
+      "prioridade": "alta",
+      "natureza": "relacao",
+      "destino": "Pendencias/Faccoes/FC-007 - Decisão e vínculos dos Kenku no saque"
+    },
+    {
+      "id": "FC-008",
+      "titulo": "Responsabilidade e governo do Conclave da floresta",
+      "pergunta": "Quem decide pelo Conclave da floresta e como o acordo de imunidade dos seis envolvidos na arena e a expedição desaparecida afetaram sua comunidade?",
+      "fontes": [
+        "T14",
+        "T16",
+        "T18"
+      ],
+      "entidades": [
+        "Faccoes/Conclave da floresta",
+        "Faccoes/Arena de Silthan"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-008 - Responsabilidade e governo do Conclave da floresta"
+    },
+    {
+      "id": "FC-009",
+      "titulo": "Círculo Vetrilus e nome Conclave das Bruxas",
+      "pergunta": "O símbolo do Conclave das Bruxas e o Círculo Vetrilus designam a mesma convenção, uma rede de vassalos ou grupos distintos?",
+      "fontes": [
+        "F"
+      ],
+      "entidades": [
+        "Faccoes/Circulo Vetrilus",
+        "Faccoes/Conclave das Bruxas",
+        "Faccoes/Conclave da floresta"
+      ],
+      "prioridade": "alta",
+      "natureza": "nomenclatura",
+      "destino": "Pendencias/Faccoes/FC-009 - Círculo Vetrilus e nome Conclave das Bruxas"
+    },
+    {
+      "id": "FC-010",
+      "titulo": "Rede de vassalos e continuidade das bruxas",
+      "pergunta": "Como a rede de vassalos se relacionava com as três bruxas, e o que permaneceu dessa rede depois da campanha antiga e da Noite Eterna?",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "entidades": [
+        "Faccoes/Circulo Vetrilus",
+        "Faccoes/Conclave das Bruxas",
+        "Faccoes/Organizacao do Necromante",
+        "Eventos/Noite Eterna"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-010 - Rede de vassalos e continuidade das bruxas"
+    },
+    {
+      "id": "FC-011",
+      "titulo": "Igreja de Kord após o ataque a Eral",
+      "pergunta": "Quem assumiu a igreja de Kord em Eral após a perda dos clérigos combatentes e qual é sua relação institucional com Tariun e outros templos?",
+      "fontes": [
+        "T18",
+        "H"
+      ],
+      "entidades": [
+        "Faccoes/Igreja de Kord",
+        "Lugares/Igreja de Kord em Eral"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-011 - Igreja de Kord após o ataque a Eral"
+    },
+    {
+      "id": "FC-012",
+      "titulo": "Nome e subdivisões dos arquivistas",
+      "pergunta": "Qual é o nome formal da organização dos arquivistas e de sua subdivisão de milagres, e como se relacionam escolas, anciões e representantes?",
+      "fontes": [
+        "T24",
+        "T25"
+      ],
+      "entidades": [
+        "Faccoes/Arquivistas",
+        "Faccoes/Zodiacos"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-012 - Nome e subdivisões dos arquivistas"
+    },
+    {
+      "id": "FC-013",
+      "titulo": "Relatórios e resposta às expedições perdidas",
+      "pergunta": "Que relatórios a organização conserva das duas expedições ao covil marítimo e que decisão institucional tomou sobre resgate, quarentena ou nova missão?",
+      "fontes": [
+        "T24"
+      ],
+      "entidades": [
+        "Faccoes/Arquivistas",
+        "Lugares/Covil maritimo"
+      ],
+      "prioridade": "alta",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-013 - Relatórios e resposta às expedições perdidas"
+    },
+    {
+      "id": "FC-014",
+      "titulo": "Identidade e atividade da Lua Sangrenta",
+      "pergunta": "Quem compôs a Lua Sangrenta, como a organização se manteve depois da Noite Eterna e qual é sua atuação atual?",
+      "fontes": [
+        "T24",
+        "T25"
+      ],
+      "entidades": [
+        "Faccoes/Lua Sangrenta",
+        "Eventos/Noite Eterna"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-014 - Identidade e atividade da Lua Sangrenta"
+    },
+    {
+      "id": "FC-015",
+      "titulo": "Estrutura e legado dos Zodíacos",
+      "pergunta": "Como funciona a casta dos Zodíacos e a transmissão de seus artefatos, e quais ritos ou vínculos ainda existem na época de Okay?",
+      "fontes": [
+        "T25"
+      ],
+      "entidades": [
+        "Faccoes/Zodiacos",
+        "Personagens/Okay dBoa",
+        "Itens/Artefatos investigados pelos arquivistas"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-015 - Estrutura e legado dos Zodíacos"
+    },
+    {
+      "id": "FC-016",
+      "titulo": "Nome e continuidade da organização do Necromante",
+      "pergunta": "Qual era o nome da organização do Necromante, quem eram os três julgadores e o que restou dela e de sua relação com o Ébano?",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "entidades": [
+        "Faccoes/Organizacao do Necromante",
+        "Faccoes/Ebano",
+        "Lugares/Necropole"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-016 - Nome e continuidade da organização do Necromante"
+    },
+    {
+      "id": "FC-017",
+      "titulo": "Continuidade coletiva da Roda de Estopa",
+      "pergunta": "A Roda de Estopa deixou registros, remanescentes organizados ou alguma continuidade depois de ser dispersa nos Doze Dias Rubros?",
+      "fontes": [
+        "B",
+        "J"
+      ],
+      "entidades": [
+        "Faccoes/Roda de Estopa",
+        "Eventos/Queda da Roda de Estopa"
+      ],
+      "prioridade": "baixa",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-017 - Continuidade coletiva da Roda de Estopa"
+    },
+    {
+      "id": "FC-018",
+      "titulo": "Reconstituição da Guarda de Eral",
+      "pergunta": "A ajuda pedida após o saque chegou, e quem recebeu a responsabilidade de reconstruir a Guarda e o governo de Eral?",
+      "fontes": [
+        "T18",
+        "H"
+      ],
+      "entidades": [
+        "Faccoes/Guarda de Eral",
+        "Lugares/Eral"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-018 - Reconstituição da Guarda de Eral"
+    },
+    {
+      "id": "FC-019",
+      "titulo": "Identidade da organização de traficantes de almas",
+      "pergunta": "Qual é o nome e alcance da organização das máscaras com anzol, e como ela se relaciona com os compradores e autoridades do leilão?",
+      "fontes": [
+        "T17"
+      ],
+      "entidades": [
+        "Faccoes/Traficantes planares de almas",
+        "Eventos/Experiencia de Okay no amuleto",
+        "Lugares/Muro das Lamentacoes"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-019 - Identidade da organização de traficantes de almas"
+    },
+    {
+      "id": "FC-020",
+      "titulo": "Pacto e governo das comunidades reassentadas",
+      "pergunta": "Como ficaram a autonomia dos anões libertos e o pacto de proteção e ocupação de Throden pelos meio-dragões, inclusive na época atual?",
+      "fontes": [
+        "F"
+      ],
+      "entidades": [
+        "Faccoes/Anoes libertos",
+        "Faccoes/Meio-dragoes de Throden",
+        "Lugares/Throden",
+        "Eventos/Reassentamento em Throden"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-020 - Pacto e governo das comunidades reassentadas"
+    },
+    {
+      "id": "FC-021",
+      "titulo": "Correspondentes materiais das instituições do sonho",
+      "pergunta": "Alguma instituição ou relação política vivida em Lazathar possui correspondente material confirmado, ou deve permanecer apenas no registro do sonho?",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "entidades": [
+        "Faccoes/Instituicoes de Lazathar",
+        "Lugares/Lazathar"
+      ],
+      "prioridade": "baixa",
+      "natureza": "continuidade",
+      "destino": "Pendencias/Faccoes/FC-021 - Correspondentes materiais das instituições do sonho"
+    },
+    {
+      "id": "FC-022",
+      "titulo": "Colônia dos Mind Shredders",
+      "pergunta": "O que a inspeção de Ryld encontrou no posto e onde está a colônia principal, com seu estágio inteligente, na região de Eral?",
+      "fontes": [
+        "T19",
+        "T20",
+        "H"
+      ],
+      "entidades": [
+        "Criaturas/Mind Shredders",
+        "Lugares/Casa em quarentena",
+        "Eventos/Posto dos Mind Shredders"
+      ],
+      "prioridade": "alta",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-022 - Colônia dos Mind Shredders"
+    },
+    {
+      "id": "FC-023",
+      "titulo": "Destino e reprodução da magia viva",
+      "pergunta": "O que ocorreu com o exemplar pequeno entregue a Arkhavel, e houve confirmação do mecanismo que produziu esse segundo exemplar?",
+      "fontes": [
+        "G"
+      ],
+      "entidades": [
+        "Criaturas/Magia viva do sono",
+        "Personagens/Arkhavel",
+        "Eventos/Caso Carlos e magia viva"
+      ],
+      "prioridade": "media",
+      "natureza": "lacuna",
+      "destino": "Pendencias/Faccoes/FC-023 - Destino e reprodução da magia viva"
+    },
+    {
+      "id": "FC-024",
+      "titulo": "Envenenamento e Crepúsculos Venenosos",
+      "pergunta": "A tribo dos Crepúsculos Venenosos foi confirmada como responsável pelo veneno de Eral, e qual é sua relação política atual com a cidade?",
+      "fontes": [
+        "G"
+      ],
+      "entidades": [
+        "Criaturas/Crepusculos Venenosos",
+        "Lugares/Eral",
+        "Faccoes/Guarda de Eral"
+      ],
+      "prioridade": "media",
+      "natureza": "responsabilidade",
+      "destino": "Pendencias/Faccoes/FC-024 - Envenenamento e Crepúsculos Venenosos"
+    }
+  ],
+  "fontes_efetivamente_consultadas": [
+    {
+      "fonte": "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+      "alcance": "Seções de correções, cronologia, campanha antiga, facções e quadro, pessoas, lugares, planos, ameaças, criaturas e instituições do sonho; síntese secundária identificada como tal nas notas."
+    },
+    {
+      "fonte": "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+      "alcance": "Leitura integral do conteúdo dos esclarecimentos de 23/10/2026."
+    },
+    {
+      "fonte": "Fontes/Documentos/Diario - Fash Paleskin",
+      "alcance": "Trechos Dia 45/solo dos 45 dias, 22/01–25/01, 08/02, 07/11, 28/11–02/12, 25/10 e menções a guildas/Timo em Lazathar. Pesquisa textual e leitura de excertos, não releitura integral do diário."
+    },
+    {
+      "fonte": "Fontes/Documentos/Background - Glim Sombrasselva",
+      "alcance": "Ato 2 de Brakka e trechos do ato 3 sobre dispersão nos Dias Rubros; ato 4 de Varo e excertos dos atos 5–6 com morte de Tom, trabalho avulso, investigação do Ébano e interpretação de afinidade das sombras. Não releitura integral do background."
+    },
+    {
+      "fonte": "Fontes/Documentos/Diario - Glim Sombrasselva",
+      "alcance": "Leitura de S4–S5, S7–S8 e S9–S10; começo S6 e menções pesquisadas sobre criaturas. Não releitura integral das 26 sessões."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+      "alcance": "00:54:32–00:59:24 e 01:11:44–01:14:48: lista, arena, Kenku, comunidade e tática de Tork."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17",
+      "alcance": "00:10:10, 00:29:54, 01:35:56–01:36:40 e 01:41:18–01:49:02: Kenku, tamanho do Conclave e negociação."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+      "alcance": "Excertos de 00:16 e leitura concentrada de 00:51:56–01:25:49: cartas, pagamentos, Conclave, Kenku e rivais. Não transcrição integral."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 17 - 2026-08-17",
+      "alcance": "00:22:03; 00:47:07–01:01:08 e 02:00:15–02:02:03: experiência planar, máscaras, leilão e validação da vivência."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25",
+      "alcance": "01:06:50–01:16:04: retorno, depoimento, guarda, clérigos, Kenku e mensagem."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01",
+      "alcance": "00:56:07–01:09:18: identificação e capacidades de Mind Shredders. Desfecho dos três no posto via Handoff."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02",
+      "alcance": "00:00:00–00:08:22; 00:28:51–00:33:08: posto, reprodução, alimentação e inevitáveis. Menções e excertos posteriores da loja sem uso de lore externo."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 21 - 2026-09-13",
+      "alcance": "01:03:01, 01:05:56, 01:24:33 e 01:40:37: Dekanter, fuga e escravidão. Consequências posteriores via Handoff."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30",
+      "alcance": "01:20:08–01:21:53; 01:57:35–01:58:34; 02:08:41–02:23:31: Lua Sangrenta, Tahen, organização e expedições."
+    },
+    {
+      "fonte": "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+      "alcance": "00:01:41–00:04:18; 01:10:24–01:15:05; 01:35:18–01:45:56; 01:49:34–01:55:22 e menções correlatas: Zodíacos, corpos, Firael, Cérebro e aliança. Demais fatos atribuídos explicitamente ao Handoff."
+    }
+  ],
+  "limites": [
+    "Não foram consultadas fontes externas de D&D nem completada taxonomia de criaturas por lore de publicação.",
+    "As leituras de transcrições foram de excertos direcionados; uma citação ao Handoff permanece citação de síntese, ainda que esta informe timestamps de primárias.",
+    "O background foi consultado diretamente em trechos dos atos 2–6; as perspectivas de Brakka, Varo, Tom e Glim conservam suas limitações.",
+    "Índices e cadastro comum não foram alterados; destinos de outros domínios serão conferidos pelo integrador.",
+    "Perguntas institucionais não pretendem resolver as pendências individuais de Fash, Timo, rangers ou demais personagens.",
+    "Conhecimento público da base não significa que todos os personagens conheçam informações de bastidores."
+  ],
+  "verificacoes": {
+    "cobertura_cadastro": 28,
+    "arquivos_gerados": 52,
+    "citacoes_fontes_inexistentes": [],
+    "links_fora_cadastro": [],
+    "links_outros_dominios_pendentes": [
+      "Eventos/Caso Carlos e magia viva",
+      "Eventos/Experiencia de Okay no amuleto",
+      "Eventos/Posto dos Mind Shredders",
+      "Eventos/Queda da Roda de Estopa",
+      "Eventos/Reassentamento em Throden",
+      "Itens/Artefatos investigados pelos arquivistas"
+    ],
+    "paragrafos_factuais_sem_citacao": [],
+    "metadados_json_yaml_compativeis": true,
+    "fontes_modificadas_desde_snapshot": [],
+    "fontes_no_snapshot_verificadas": 315,
+    "status_notas": "documentado_parcial",
+    "status_pendencias": "aberta",
+    "indices_alterados": false,
+    "extras_propostos": []
+  }
+}

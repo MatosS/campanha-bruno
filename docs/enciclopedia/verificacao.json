@@ -1,0 +1,39 @@
+{
+  "data": "2026-10-30",
+  "aprovado": true,
+  "fontes_preservadas": 314,
+  "fontes_verificadas": 315,
+  "correcoes_apresentacao": [
+    {
+      "path": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+      "antes_sha256": "ec3a2ed246e7dda6c25527ae2cff7500143201a7f8a6c813ec197f67fd2b6b4a",
+      "depois_sha256": "8d65d37af028ac905184ae852bdf817b5314ea2e043bbb63bb36e5e72c635af6",
+      "data": "2026-10-29",
+      "motivo": "Recuperar a indicacao visual de fonte riscada em seis celulas de Fash INTERESSES, omitida na primeira apresentacao Markdown.",
+      "evidencia": "BASE INICIAL/FASH PALESKIN.xlsx; INTERESSES C3,D4,C24,C25,C51,C52; xl/styles.xml preservado.",
+      "registro": "docs/auditoria-exclusao/correcao-rasuras.json",
+      "copia_anterior": "docs/auditoria-exclusao/antes-correcao/conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+      "dados_literais_alterados": false
+    }
+  ],
+  "entidades_do_cadastro": 181,
+  "entidades_detalhadas": {
+    "Personagens": 94,
+    "Lugares": 51,
+    "Faccoes": 22,
+    "Criaturas": 9,
+    "Eventos": 31,
+    "Itens": 23
+  },
+  "total_entidades": 230,
+  "pendencias": 107,
+  "ids_unicos": 107,
+  "aliases_compartilhados": [],
+  "erros": [],
+  "avisos": [],
+  "limites": [
+    "Citações e destinos foram verificados estruturalmente; a verificação automática não prova todas as interpretações narrativas.",
+    "Leitura primária seletiva e uso de síntese são discriminados nos manifestos de domínio.",
+    "O controle de YAML aqui é do subconjunto JSON-compatível emitido para as novas notas."
+  ]
+}

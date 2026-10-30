@@ -1,0 +1,21 @@
+{
+  "data": "2026-10-29",
+  "fonte_primaria": [
+    {
+      "path": "conteudo/Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27.md",
+      "trecho": "01:09:05–01:09:13",
+      "tipo": "Informação atribuída a Tork: quatro dias."
+    },
+    {
+      "path": "conteudo/Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17.md",
+      "trecho": "00:37:25–00:38:08",
+      "tipo": "Estimativa de Glim: questão de um dia; sem confirmação explícita no trecho."
+    }
+  ],
+  "tratamento": "Não promover diferença de atribuição/contexto a contradição comprovada. Relação exata dos sítios e trajetos permanece aberta.",
+  "nota_pendente": "conteudo/Pendencias/Lugares/LG-003 - Assentamentos goblinoides e rotas de Eral.md",
+  "antes_sha256": "c9ede45d0da55bd2a9fc09b2db70189ca8f435ef784ee253a6f7395e7ee2b92f",
+  "depois_sha256": "ded42fae7d534179a309b504b6902366164aafd97e1d5142ce39b8d8b5ae205d",
+  "retomar_na_sabatina": false,
+  "fonte_importada_alterada": false
+}

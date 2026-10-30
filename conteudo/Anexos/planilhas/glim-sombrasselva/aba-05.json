@@ -1,0 +1,1789 @@
+{
+  "fonte": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+  "sha256_fonte": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+  "aba": "SPELLS TABLE",
+  "ordem": 5,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet5.xml",
+  "celulas": [
+    {
+      "celula": "A2",
+      "atributos": {
+        "r": "A2",
+        "s": "76",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "232",
+      "valor": "SPELLS KNOWN",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F2",
+      "atributos": {
+        "r": "F2",
+        "s": "76",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "235",
+      "valor": "SPELLS PREPARED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A3",
+      "atributos": {
+        "r": "A3",
+        "s": "77",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "237",
+      "valor": "SPELL LEVEL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C3",
+      "atributos": {
+        "r": "C3",
+        "s": "78",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "238",
+      "valor": "QTD",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D3",
+      "atributos": {
+        "r": "D3",
+        "s": "78",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "239",
+      "valor": "GRM",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F3",
+      "atributos": {
+        "r": "F3",
+        "s": "77",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "237",
+      "valor": "SPELL LEVEL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H3",
+      "atributos": {
+        "r": "H3",
+        "s": "77",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "240",
+      "valor": "DIARY",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J3",
+      "atributos": {
+        "r": "J3",
+        "s": "78",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "241",
+      "valor": "SPECIALIST",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L3",
+      "atributos": {
+        "r": "L3",
+        "s": "78",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "242",
+      "valor": "F. SPECIALIST",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "N3",
+      "atributos": {
+        "r": "N3",
+        "s": "77",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "244",
+      "valor": "BONUS",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "P3",
+      "atributos": {
+        "r": "P3",
+        "s": "77",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "21",
+      "valor": "TOTAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A4",
+      "atributos": {
+        "r": "A4",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C4",
+      "atributos": {
+        "r": "C4",
+        "s": "79",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F4",
+      "atributos": {
+        "r": "F4",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H4",
+      "atributos": {
+        "r": "H4",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J4",
+      "atributos": {
+        "r": "J4",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L4",
+      "atributos": {
+        "r": "L4",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "-1.0",
+      "valor": -1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "M4",
+      "atributos": {
+        "r": "M4",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "N4",
+      "atributos": {
+        "r": "N4",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "P4",
+      "atributos": {
+        "r": "P4",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6",
+      "valor": 6,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(H4:O4)",
+        "atributos": {
+          "t": "shared",
+          "ref": "P4:P8",
+          "si": "1"
+        },
+        "expandida": "=SUM(H4:O4)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "6",
+        "valor": 6
+      }
+    },
+    {
+      "celula": "A5",
+      "atributos": {
+        "r": "A5",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C5",
+      "atributos": {
+        "r": "C5",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "9.0",
+      "valor": 9.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D5",
+      "atributos": {
+        "r": "D5",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F5",
+      "atributos": {
+        "r": "F5",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H5",
+      "atributos": {
+        "r": "H5",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J5",
+      "atributos": {
+        "r": "J5",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L5",
+      "atributos": {
+        "r": "L5",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "-1.0",
+      "valor": -1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "M5",
+      "atributos": {
+        "r": "M5",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "N5",
+      "atributos": {
+        "r": "N5",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "P5",
+      "atributos": {
+        "r": "P5",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8",
+      "valor": 8,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H5:O5)",
+        "ancora_compartilhada": "P4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "8",
+        "valor": 8
+      }
+    },
+    {
+      "celula": "A6",
+      "atributos": {
+        "r": "A6",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C6",
+      "atributos": {
+        "r": "C6",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D6",
+      "atributos": {
+        "r": "D6",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F6",
+      "atributos": {
+        "r": "F6",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H6",
+      "atributos": {
+        "r": "H6",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J6",
+      "atributos": {
+        "r": "J6",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L6",
+      "atributos": {
+        "r": "L6",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "-1.0",
+      "valor": -1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "M6",
+      "atributos": {
+        "r": "M6",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "N6",
+      "atributos": {
+        "r": "N6",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "P6",
+      "atributos": {
+        "r": "P6",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7",
+      "valor": 7,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H6:O6)",
+        "ancora_compartilhada": "P4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "7",
+        "valor": 7
+      }
+    },
+    {
+      "celula": "A7",
+      "atributos": {
+        "r": "A7",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C7",
+      "atributos": {
+        "r": "C7",
+        "s": "79",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "254",
+      "valor": "4 + 1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D7",
+      "atributos": {
+        "r": "D7",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F7",
+      "atributos": {
+        "r": "F7",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H7",
+      "atributos": {
+        "r": "H7",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J7",
+      "atributos": {
+        "r": "J7",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L7",
+      "atributos": {
+        "r": "L7",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "-1.0",
+      "valor": -1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "M7",
+      "atributos": {
+        "r": "M7",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "N7",
+      "atributos": {
+        "r": "N7",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "P7",
+      "atributos": {
+        "r": "P7",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H7:O7)",
+        "ancora_compartilhada": "P4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A8",
+      "atributos": {
+        "r": "A8",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F8",
+      "atributos": {
+        "r": "F8",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H8",
+      "atributos": {
+        "r": "H8",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J8",
+      "atributos": {
+        "r": "J8",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L8",
+      "atributos": {
+        "r": "L8",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "-1.0",
+      "valor": -1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "M8",
+      "atributos": {
+        "r": "M8",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "N8",
+      "atributos": {
+        "r": "N8",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "P8",
+      "atributos": {
+        "r": "P8",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H8:O8)",
+        "ancora_compartilhada": "P4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "A9",
+      "atributos": {
+        "r": "A9",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F9",
+      "atributos": {
+        "r": "F9",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "N9",
+      "atributos": {
+        "r": "N9",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A10",
+      "atributos": {
+        "r": "A10",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6.0",
+      "valor": 6.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F10",
+      "atributos": {
+        "r": "F10",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6.0",
+      "valor": 6.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "N10",
+      "atributos": {
+        "r": "N10",
+        "s": "79"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A11",
+      "atributos": {
+        "r": "A11",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7.0",
+      "valor": 7.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F11",
+      "atributos": {
+        "r": "F11",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7.0",
+      "valor": 7.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A12",
+      "atributos": {
+        "r": "A12",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F12",
+      "atributos": {
+        "r": "F12",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A13",
+      "atributos": {
+        "r": "A13",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "9.0",
+      "valor": 9.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F13",
+      "atributos": {
+        "r": "F13",
+        "s": "83"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "9.0",
+      "valor": 9.0,
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [],
+  "hyperlinks": [],
+  "mesclagens": [
+    "N7:O7",
+    "N8:O8",
+    "A7:B7",
+    "F7:G7",
+    "H7:I7",
+    "J7:K7",
+    "P7:Q7",
+    "A8:B8",
+    "J8:K8",
+    "P8:Q8",
+    "H10:I10",
+    "J10:K10",
+    "N10:O10",
+    "P10:Q10",
+    "F8:G8",
+    "H8:I8",
+    "F9:G9",
+    "H9:I9",
+    "J9:K9",
+    "N9:O9",
+    "P9:Q9",
+    "F5:G5",
+    "F6:G6",
+    "F10:G10",
+    "H11:I11",
+    "J11:K11",
+    "N11:O11",
+    "P11:Q11",
+    "N13:O13",
+    "P13:Q13",
+    "F11:G11",
+    "F12:G12",
+    "H12:I12",
+    "J12:K12",
+    "N12:O12",
+    "P12:Q12",
+    "F13:G13",
+    "L3:M3",
+    "N3:O3",
+    "N4:O4",
+    "P4:Q4",
+    "A1:Q1",
+    "A2:D2",
+    "F2:Q2",
+    "F3:G3",
+    "H3:I3",
+    "J3:K3",
+    "P3:Q3",
+    "H5:I5",
+    "J5:K5",
+    "N5:O5",
+    "P5:Q5",
+    "H6:I6",
+    "J6:K6",
+    "N6:O6",
+    "P6:Q6",
+    "A3:B3",
+    "A4:B4",
+    "F4:G4",
+    "H4:I4",
+    "J4:K4",
+    "A5:B5",
+    "A6:B6",
+    "A9:B9",
+    "A10:B10",
+    "A11:B11",
+    "A12:B12",
+    "A13:B13",
+    "H13:I13",
+    "J13:K13",
+    "A14:Q14"
+  ],
+  "drawings": [],
+  "objetos_vml": [],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing5.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet5.xml.rels",
+      "parte_destino": "xl/drawings/drawing5.xml"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}cols",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "1",
+            "max": "17",
+            "width": "7.63"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCells",
+      "atributos": {
+        "count": "71"
+      },
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N7:O7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N8:O8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A7:B7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F7:G7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H7:I7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J7:K7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P7:Q7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A8:B8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J8:K8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P8:Q8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H10:I10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J10:K10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N10:O10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P10:Q10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F8:G8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H8:I8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F9:G9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H9:I9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J9:K9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N9:O9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P9:Q9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F5:G5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F6:G6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F10:G10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H11:I11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J11:K11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N11:O11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P11:Q11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N13:O13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P13:Q13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F11:G11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F12:G12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H12:I12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J12:K12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N12:O12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P12:Q12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F13:G13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "L3:M3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N3:O3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N4:O4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P4:Q4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A1:Q1"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A2:D2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F2:Q2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F3:G3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H3:I3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J3:K3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P3:Q3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H5:I5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J5:K5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N5:O5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P5:Q5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H6:I6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J6:K6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "N6:O6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "P6:Q6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A3:B3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A4:B4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F4:G4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H4:I4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J4:K4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A5:B5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A6:B6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A9:B9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A10:B10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A11:B11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A12:B12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A13:B13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H13:I13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "J13:K13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "A14:Q14"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    }
+  ],
+  "celulas_xml_total": 111,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 70,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

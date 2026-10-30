@@ -1,0 +1,13 @@
+{
+  "repositorio": "C:/sources/vault-42",
+  "branch": "main",
+  "commit_local": "4eefce77b1648b9b6f3bcb4a3ca51adc253932ce",
+  "arquivos_no_commit": 85,
+  "estado_local": "limpo; main sincronizada com origin/main",
+  "destino_origin": "https://github.com/MatosS/vault-42.git",
+  "envio_remoto": "concluido",
+  "motivo": "Envio concluído após autorização explícita do usuário. A revisão automática aprovou o push autorizado; origin/main e HEAD apontam para o mesmo commit.",
+  "pergunta_de_autorizacao": "Apresentada ao usuário após a conclusão e verificação da limpeza, em 2026-10-29.",
+  "autorizacao_envio": "Usuário respondeu explicitamente: Autorizar envio para MatosS/vault-42",
+  "commit_origin_main": "4eefce77b1648b9b6f3bcb4a3ca51adc253932ce"
+}

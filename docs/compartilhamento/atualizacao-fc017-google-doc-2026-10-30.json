@@ -1,0 +1,36 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "Incluídos todos os 101 registros ainda abertos ou parcialmente respondidos. Cinco registros integralmente respondidos ficaram fora das perguntas: PC-002, PC-003, PC-011, FC-009 e IT-005. As partes resolvidas de outros registros aparecem como contexto, sem nova pergunta.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. A FC-017 foi posteriormente respondida e permanece identificada neste documento, deixando 100 registros pendentes. As partes resolvidas ficam preservadas sem nova solicitação de resposta."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta confirmada (30/10/2026): Só deixou de existir e Glim não teve mais contato com ninguém de lá. FC-017 encerrada; não inferir morte coletiva."
+    },
+    {
+      "antes": "Referências: Background - Glim Sombrasselva; Esclarecimentos do jogador (23/10/2026).",
+      "depois": "Referências: Background - Glim Sombrasselva; Esclarecimentos do jogador (23/10/2026); confirmação do jogador nesta conversa (30/10/2026)."
+    },
+    {
+      "antes": "A completar: A Roda de Estopa deixou registros, remanescentes organizados ou alguma continuidade depois de ser dispersa nos Doze Dias Rubros?",
+      "depois": "Pergunta respondida: A Roda de Estopa deixou registros, remanescentes organizados ou alguma continuidade depois de ser dispersa nos Doze Dias Rubros?"
+    },
+    {
+      "antes": "Já registrado: O background canônico descreve a pequena trupe em fuga e fragmentação na crise. Não fornece uma reconstituição institucional posterior nem permite declarar a morte de todos os integrantes. Os destinos pessoais cabem às notas de personagens.",
+      "depois": "Já registrado: A Roda de Estopa deixou de existir como trupe, e Glim não teve mais contato com ninguém de lá. Isso não confirma a morte de todos os integrantes; os destinos individuais ainda desconhecidos continuam em PC-040."
+    },
+    {
+      "antes": "FC-017 — Continuidade coletiva da Roda de Estopa",
+      "depois": "FC-017 — Continuidade coletiva da Roda de Estopa — RESPONDIDA"
+    },
+    {
+      "antes": "Este documento reúne os 101 registros que ainda têm informação a completar. As perguntas foram ajustadas ao que já foi respondido: fatos resolvidos aparecem apenas como contexto. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. A FC-017 já foi respondida neste documento; restam 100 registros com informação pendente. As partes resolvidas aparecem como contexto ou resposta identificada. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "pendencias_restantes": 100,
+  "demais_textos_preservados": true
+}

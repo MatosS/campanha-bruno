@@ -1,0 +1,33 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017 e PC-009 foram posteriormente respondidas; PC-010 foi encerrada a pedido do jogador, com as incertezas preservadas. Os três registros permanecem identificados neste documento, deixando 98 registros pendentes, sem nova solicitação de resposta nos itens encerrados.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017 e PC-009 foram posteriormente respondidas; PC-010 foi encerrada com as incertezas preservadas e PC-024 por irrelevância. Os quatro registros permanecem identificados neste documento, deixando 97 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Irrelevante."
+    },
+    {
+      "antes": "A completar: Alguém conhece o nome da taverneira ou possui registro adicional de como a notícia chegou a Okay e Crave? Não pedir novamente resposta binária sobre a suspeita de Glim.",
+      "depois": "Item encerrado: Não é necessário completar o nome da taverneira ou os detalhes da comunicação da notícia. Os fatos já registrados sobre sua morte e a perspectiva de Glim permanecem preservados."
+    },
+    {
+      "antes": "Em espera — complementar apenas com informação nova ou outra fonte.",
+      "depois": "Item encerrado pelo jogador em 30/10/2026 por irrelevância e retirado das pendências."
+    },
+    {
+      "antes": "PC-024 — Taverneira nome e comunicação",
+      "depois": "PC-024 — Taverneira nome e comunicação — ENCERRADA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017 e PC-009 já foram respondidas, e PC-010 foi encerrada com as incertezas preservadas; restam 98 registros com informação pendente. As partes resolvidas ou encerradas aparecem identificadas. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017 e PC-009 já foram respondidas; PC-010 e PC-024 foram encerradas por orientação do jogador, preservando as incertezas e os fatos conhecidos. Restam 97 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "encerrada_por_irrelevancia",
+  "pendencias_restantes": 97,
+  "demais_textos_preservados": true
+}

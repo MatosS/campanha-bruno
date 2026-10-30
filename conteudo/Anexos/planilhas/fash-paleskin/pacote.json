@@ -1,0 +1,632 @@
+{
+  "fonte": "BASE INICIAL/FASH PALESKIN.xlsx",
+  "sha256_fonte": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+  "membros": [
+    {
+      "parte": "xl/comments1.xml",
+      "bytes": 1685,
+      "sha256": "6124291fee5101b67202986becde73520e4d262516f2bcc00bcfe1c877efa72d",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/comments1.xml"
+    },
+    {
+      "parte": "xl/comments2.xml",
+      "bytes": 481,
+      "sha256": "c3be95d29adde444bc8fe1ad8f81294b5b8406e574d0041ac9fe8771fc00aaf9",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/comments2.xml"
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "bytes": 6191,
+      "sha256": "ea96d1f7dfc16341b76fa84a338a4aba5a01573b60fd74f0b45d34a35e69889c",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/vmlDrawing1.vml"
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing2.vml",
+      "bytes": 1115,
+      "sha256": "115f738ca8ad94990819a19538524875fb7e73ea1b97632f1f082b234b135051",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/vmlDrawing2.vml"
+    },
+    {
+      "parte": "xl/drawings/drawing1.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/drawing1.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing2.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/drawing2.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing3.xml",
+      "bytes": 1898,
+      "sha256": "7438bd520e0971d1d3e5b25f502ebeaa882378521dcb623e1db15bd01b3ff306",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/drawing3.xml"
+    },
+    {
+      "parte": "xl/drawings/_rels/drawing3.xml.rels",
+      "bytes": 426,
+      "sha256": "274b25ce7bc9f56f1e8761085c9e8676721b082ebcefe36f8ba497d56dcf32d1",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/_rels/drawing3.xml.rels"
+    },
+    {
+      "parte": "xl/drawings/drawing4.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/drawing4.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing5.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/drawing5.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing6.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/drawings/drawing6.xml"
+    },
+    {
+      "parte": "xl/worksheets/sheet1.xml",
+      "bytes": 50240,
+      "sha256": "8154d4ede7b19a54bac333bf4c6801487e42bc9633ee251466ded4f8d2e9f0ff",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/sheet1.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet1.xml.rels",
+      "bytes": 3482,
+      "sha256": "4e9824da4594abfb913ddc946991066024e4fb930c452a862ff7ca42d6a16a8f",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet2.xml",
+      "bytes": 6109,
+      "sha256": "5b2e0453ffbf60e05641d59c6c77df27b5b2c85c504bd1ba09afe148bd641a19",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/sheet2.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet2.xml.rels",
+      "bytes": 2245,
+      "sha256": "9dda5cf7a3410f519cf17b46eed82707c320f29ba7ed74589f68b92235743f60",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet3.xml",
+      "bytes": 5789,
+      "sha256": "6a96321dcb17dd5a6ff6350da13ba49fa64336c0cde169f93268a4e68abc8c19",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/sheet3.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet3.xml.rels",
+      "bytes": 298,
+      "sha256": "415576c07ecf629b3f0143ac8b1480862eab992262dc68cc9ed91f9632ee7524",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/_rels/sheet3.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet4.xml",
+      "bytes": 1678,
+      "sha256": "a7de59810c6a1889095c5f50f1d4fa84abf38a74d9d079e655e736349c3b273b",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/sheet4.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet4.xml.rels",
+      "bytes": 581,
+      "sha256": "cafe27bcf02430b7c1e868949d650fb60869cd2996943e15db369c3f27b57418",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet5.xml",
+      "bytes": 2699,
+      "sha256": "fa3fe45dff4f9a60a08a640399357468086cbf9b9b51f40ec3a8a19f1d572dbe",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/sheet5.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet5.xml.rels",
+      "bytes": 298,
+      "sha256": "4f7aefe2ca16e6be537157c55112d03434865c97d679f669015971a281609b84",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/_rels/sheet5.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet6.xml",
+      "bytes": 1871,
+      "sha256": "e6ac2289f60f8208e193a10f7b36f72ce15dbc6a6414cd50bd52c87cc7288f12",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/sheet6.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet6.xml.rels",
+      "bytes": 298,
+      "sha256": "80e227f486e2d10d014a6f48bb5e3a7c6ed30688a8204591df56a43bc76b0a85",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/worksheets/_rels/sheet6.xml.rels"
+    },
+    {
+      "parte": "xl/theme/theme1.xml",
+      "bytes": 3757,
+      "sha256": "ae5d71054ede722ca536030c3010fecb3f6ce424a0a7518978bdbf2d32003b19",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/theme/theme1.xml"
+    },
+    {
+      "parte": "xl/sharedStrings.xml",
+      "bytes": 10352,
+      "sha256": "8c9eccef1df7f79016ccbe7d6880a89bb736603487467aa361713886f12b5151",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/sharedStrings.xml"
+    },
+    {
+      "parte": "xl/styles.xml",
+      "bytes": 9365,
+      "sha256": "4eb93a85e04ac838eed8cb32a360d55cf658ae5c095d8b33b305a761ea1d4f47",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/styles.xml"
+    },
+    {
+      "parte": "xl/persons/person.xml",
+      "bytes": 161,
+      "sha256": "4ebd5532d853723b706f7de3d7ec4f8824ff5885c1b2fad14760298a574b608c",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/persons/person.xml"
+    },
+    {
+      "parte": "xl/workbook.xml",
+      "bytes": 1169,
+      "sha256": "bb4a7ce12a168add7471968a9ece8d45427b8a79f7cf1edf0d661251f40f0ec7",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/workbook.xml"
+    },
+    {
+      "parte": "xl/_rels/workbook.xml.rels",
+      "bytes": 1528,
+      "sha256": "fe0a22d1f042ca11d24bd50a712bd83d272c8d2ea4bb7f26d53f275143730e50",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/_rels/workbook.xml.rels"
+    },
+    {
+      "parte": "_rels/.rels",
+      "bytes": 296,
+      "sha256": "8cbbdc48821190ccc33949fb8f8d021399ddbd526f770a8e86afae1c19e8d3e5",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/_rels/.rels"
+    },
+    {
+      "parte": "xl/media/image2.png",
+      "bytes": 3716625,
+      "sha256": "f181909826a2ded3f887655fee9549bffbe3046e6fcb5ced034a42776e276c94",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/media/image2.png"
+    },
+    {
+      "parte": "xl/media/image1.png",
+      "bytes": 133344,
+      "sha256": "24b901054c5ad918356263392eb076e3e415cfe3a152f29078fe25ce0f555667",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/media/image1.png"
+    },
+    {
+      "parte": "[Content_Types].xml",
+      "bytes": 2928,
+      "sha256": "c1aeed742912d495ae9189b6444a6fd5d77cba6767274af1ff082832a54a4224",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/[Content_Types].xml"
+    }
+  ],
+  "metadados_workbook": {
+    "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}workbook",
+    "atributos": {},
+    "texto": null,
+    "filhos": [
+      {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}workbookPr",
+        "atributos": {},
+        "texto": null,
+        "filhos": []
+      },
+      {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheets",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "PERSONGEM",
+              "sheetId": "1",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "UNDEAD COMPANION",
+              "sheetId": "2",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "INTERESSES",
+              "sheetId": "3",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "ADMINISTRAÇÃO CIDADE DROW",
+              "sheetId": "4",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "CONTROLE DE XP",
+              "sheetId": "5",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "PLANEJAMENTO",
+              "sheetId": "6",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}definedNames",
+        "atributos": {},
+        "texto": null,
+        "filhos": []
+      },
+      {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}calcPr",
+        "atributos": {},
+        "texto": null,
+        "filhos": []
+      }
+    ]
+  },
+  "relacionamentos_workbook": {
+    "rId10": {
+      "Id": "rId10",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet6.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet6.xml"
+    },
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme",
+      "Target": "theme/theme1.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/theme/theme1.xml"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles",
+      "Target": "styles.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/styles.xml"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/sharedStrings",
+      "Target": "sharedStrings.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/sharedStrings.xml"
+    },
+    "rId4": {
+      "Id": "rId4",
+      "Type": "http://schemas.microsoft.com/office/2017/10/relationships/person",
+      "Target": "persons/person.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/persons/person.xml"
+    },
+    "rId9": {
+      "Id": "rId9",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet5.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet5.xml"
+    },
+    "rId5": {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet1.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet1.xml"
+    },
+    "rId6": {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet2.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet2.xml"
+    },
+    "rId7": {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet3.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet3.xml"
+    },
+    "rId8": {
+      "Id": "rId8",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet4.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet4.xml"
+    }
+  },
+  "midias": [
+    {
+      "parte": "xl/media/image2.png",
+      "bytes": 3716625,
+      "sha256": "f181909826a2ded3f887655fee9549bffbe3046e6fcb5ced034a42776e276c94",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/media/image2.png",
+      "formato": "PNG",
+      "largura": 1536,
+      "altura": 1024,
+      "modo": "RGB",
+      "usos": [
+        {
+          "aba": "INTERESSES",
+          "celula": "I1",
+          "nome_objeto": "image2.png"
+        }
+      ],
+      "inspecao_visual": {
+        "data": "2026-10-29",
+        "metodo": "view_image da mídia original extraída, sem transformação",
+        "resultado": "Imagem legível, preservada sem redimensionamento; âncora conferida no DrawingML."
+      }
+    },
+    {
+      "parte": "xl/media/image1.png",
+      "bytes": 133344,
+      "sha256": "24b901054c5ad918356263392eb076e3e415cfe3a152f29078fe25ce0f555667",
+      "saida": "conteudo/Anexos/planilhas/fash-paleskin/ooxml/xl/media/image1.png",
+      "formato": "PNG",
+      "largura": 1536,
+      "altura": 1024,
+      "modo": "RGB",
+      "usos": [
+        {
+          "aba": "INTERESSES",
+          "celula": "I31",
+          "nome_objeto": "image1.png"
+        }
+      ],
+      "inspecao_visual": {
+        "data": "2026-10-29",
+        "metodo": "view_image da mídia original extraída, sem transformação",
+        "resultado": "Imagem legível, preservada sem redimensionamento; âncora conferida no DrawingML."
+      }
+    }
+  ],
+  "abas": [
+    {
+      "nome": "PERSONGEM",
+      "ordem": 1,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet1.xml",
+      "celulas_xml": 2297,
+      "celulas_com_conteudo": 206,
+      "formulas": 39,
+      "formulas_compartilhadas": 37,
+      "cache_formulas": {
+        "presente": 39
+      },
+      "comentarios": 12,
+      "hyperlinks": 14,
+      "mesclagens": 17,
+      "objetos_drawingml": 0,
+      "objetos_vml": 12,
+      "cobertura_markdown": {
+        "celulas": 206,
+        "comentarios": 12,
+        "hyperlinks": 14,
+        "mesclagens": 17,
+        "objetos_vml": 12
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+      "dados_json": "conteudo/Anexos/planilhas/fash-paleskin/aba-01.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 206,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "UNDEAD COMPANION",
+      "ordem": 2,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet2.xml",
+      "celulas_xml": 138,
+      "celulas_com_conteudo": 56,
+      "formulas": 1,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {
+        "presente": 1
+      },
+      "comentarios": 0,
+      "hyperlinks": 9,
+      "mesclagens": 36,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 56,
+        "comentarios": 0,
+        "hyperlinks": 9,
+        "mesclagens": 36,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+      "dados_json": "conteudo/Anexos/planilhas/fash-paleskin/aba-02.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 56,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "INTERESSES",
+      "ordem": 3,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet3.xml",
+      "celulas_xml": 105,
+      "celulas_com_conteudo": 78,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 0,
+      "hyperlinks": 0,
+      "mesclagens": 0,
+      "objetos_drawingml": 2,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 78,
+        "comentarios": 0,
+        "hyperlinks": 0,
+        "mesclagens": 0,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+      "dados_json": "conteudo/Anexos/planilhas/fash-paleskin/aba-03.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 78,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "ADMINISTRAÇÃO CIDADE DROW",
+      "ordem": 4,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet4.xml",
+      "celulas_xml": 17,
+      "celulas_com_conteudo": 10,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 1,
+      "hyperlinks": 0,
+      "mesclagens": 0,
+      "objetos_drawingml": 0,
+      "objetos_vml": 1,
+      "cobertura_markdown": {
+        "celulas": 10,
+        "comentarios": 1,
+        "hyperlinks": 0,
+        "mesclagens": 0,
+        "objetos_vml": 1
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+      "dados_json": "conteudo/Anexos/planilhas/fash-paleskin/aba-04.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 10,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "CONTROLE DE XP",
+      "ordem": 5,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet5.xml",
+      "celulas_xml": 33,
+      "celulas_com_conteudo": 31,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 0,
+      "hyperlinks": 0,
+      "mesclagens": 0,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 31,
+        "comentarios": 0,
+        "hyperlinks": 0,
+        "mesclagens": 0,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+      "dados_json": "conteudo/Anexos/planilhas/fash-paleskin/aba-05.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 31,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "PLANEJAMENTO",
+      "ordem": 6,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet6.xml",
+      "celulas_xml": 17,
+      "celulas_com_conteudo": 17,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 0,
+      "hyperlinks": 0,
+      "mesclagens": 0,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 17,
+        "comentarios": 0,
+        "hyperlinks": 0,
+        "mesclagens": 0,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md",
+      "dados_json": "conteudo/Anexos/planilhas/fash-paleskin/aba-06.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 17,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    }
+  ],
+  "strings_compartilhadas_sem_uso_em_celulas": [],
+  "avisos_leitor_openpyxl": []
+}

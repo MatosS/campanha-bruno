@@ -1,0 +1,910 @@
+{
+  "versao": 1,
+  "entidades": [
+    {
+      "dominio": "personagens",
+      "nome": "Fash Paleskin",
+      "destino": "Personagens/Fash Paleskin"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Glim Sombrasselva",
+      "destino": "Personagens/Glim Sombrasselva"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Okay d’Boa",
+      "destino": "Personagens/Okay dBoa"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Kael",
+      "destino": "Personagens/Kael"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Crave",
+      "destino": "Personagens/Crave"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Ryld",
+      "destino": "Personagens/Ryld"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Arkhavel",
+      "destino": "Personagens/Arkhavel"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Timo",
+      "destino": "Personagens/Timo"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Firael",
+      "destino": "Personagens/Firael"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Rake",
+      "destino": "Personagens/Rake"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Elena / Serethyn",
+      "destino": "Personagens/Elena"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Morvessh",
+      "destino": "Personagens/Morvessh"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Selara",
+      "destino": "Personagens/Selara"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Lyvessa",
+      "destino": "Personagens/Lyvessa"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Grixxian",
+      "destino": "Personagens/Grixxian"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Lídia",
+      "destino": "Personagens/Lidia"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "O Necromante",
+      "destino": "Personagens/Necromante"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Druida Sangrento",
+      "destino": "Personagens/Druida Sangrento"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Cogu",
+      "destino": "Personagens/Cogu"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Anão guardião",
+      "destino": "Personagens/Anao guardiao"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Dragão negro",
+      "destino": "Personagens/Dragao negro"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Hourian",
+      "destino": "Personagens/Hourian Haurim"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Vyrix",
+      "destino": "Personagens/Vyrix"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Tork",
+      "destino": "Personagens/Tork"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Darian Folha-Seca Valek",
+      "destino": "Personagens/Folha-Seca"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Hanta",
+      "destino": "Personagens/Hanta"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Tólomon",
+      "destino": "Personagens/Tolomon"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Tariun",
+      "destino": "Personagens/Tariun"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Rudiger",
+      "destino": "Personagens/Rudiger"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Lilo Sombrasselva",
+      "destino": "Personagens/Lilo Sombrasselva"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Piche",
+      "destino": "Personagens/Piche"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Brakka Pedramansa",
+      "destino": "Personagens/Brakka Pedramansa"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Dornal",
+      "destino": "Personagens/Dornal"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Harlom Vinte-E-Dois",
+      "destino": "Personagens/Harlom Vinte-E-Dois"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Rumo",
+      "destino": "Personagens/Rumo"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Miri",
+      "destino": "Personagens/Miri"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Varo",
+      "destino": "Personagens/Varo"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Tom do Cesto",
+      "destino": "Personagens/Tom do Cesto"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Nina",
+      "destino": "Personagens/Nina"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Tahen",
+      "destino": "Personagens/Tahen"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Elrohir",
+      "destino": "Personagens/Elrohir"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Aurel Vesperal",
+      "destino": "Personagens/Aurel Vesperal"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Carlos — carpinteiro",
+      "destino": "Personagens/Carlos carpinteiro"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Carlos — guarda de Eral",
+      "destino": "Personagens/Carlos guarda"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Silthan",
+      "destino": "Personagens/Silthan"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Duque Teodoron Talent",
+      "destino": "Personagens/Teodoron Talent"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Falso mordomo de Eral",
+      "destino": "Personagens/Kuat"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Donovan",
+      "destino": "Personagens/Donovan"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Filho de Arkhavel ligado ao prefeito",
+      "destino": "Personagens/Filho de Arkhavel ligado ao prefeito"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Prefeito humano de Eral",
+      "destino": "Personagens/Prefeito humano de Eral"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Tauro",
+      "destino": "Personagens/Tauro"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Mulher originada do braço de Tauro",
+      "destino": "Personagens/Mulher originada do braco"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Mulher possuída da caravana",
+      "destino": "Personagens/Mulher possuida da caravana"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Taverneira de Eral",
+      "destino": "Personagens/Taverneira de Eral"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Kenku caolho",
+      "destino": "Personagens/Kenku caolho"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Gnoll sobrevivente",
+      "destino": "Personagens/Gnoll sobrevivente"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Dríade do cajado de girassol",
+      "destino": "Personagens/Driade do cajado de girassol"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Furion",
+      "destino": "Personagens/Furion"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Beholder da biblioteca",
+      "destino": "Personagens/Beholder da biblioteca"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Cérebro Ancião",
+      "destino": "Personagens/Cerebro Anciao"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Cavaleiro da Morte",
+      "destino": "Personagens/Cavaleiro da Morte"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Mulher das memórias",
+      "destino": "Personagens/Mulher das memorias"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Chefe goblin",
+      "destino": "Personagens/Chefe goblin"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Kord",
+      "destino": "Personagens/Kord"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Hextor",
+      "destino": "Personagens/Hextor"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Silvanus",
+      "destino": "Personagens/Silvanus"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Lolth",
+      "destino": "Personagens/Lolth"
+    },
+    {
+      "dominio": "personagens",
+      "nome": "Pelor",
+      "destino": "Personagens/Pelor"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Carruan",
+      "destino": "Lugares/Carruan"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Lazathar",
+      "destino": "Lugares/Lazathar"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Eral",
+      "destino": "Lugares/Eral"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Mercadia",
+      "destino": "Lugares/Mercadia"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Laoum",
+      "destino": "Lugares/Laoum"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Torre de Arkhavel",
+      "destino": "Lugares/Torre de Arkhavel"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Igreja de Kord em Eral",
+      "destino": "Lugares/Igreja de Kord em Eral"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Arena de Eral",
+      "destino": "Lugares/Arena de Eral"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Casa de Carlos carpinteiro",
+      "destino": "Lugares/Casa de Carlos"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Casa em quarentena",
+      "destino": "Lugares/Casa em quarentena"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Comunidade da floresta",
+      "destino": "Lugares/Comunidade da floresta"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Assentamento goblinoide",
+      "destino": "Lugares/Assentamento goblinoide"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Cidade drow — P22",
+      "destino": "Lugares/Cidade drow"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Antiga cidade anã dos trolls",
+      "destino": "Lugares/Cidade ana dos trolls"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Forte Q23 / Throden",
+      "destino": "Lugares/Throden"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Vila dos meio-dragões — U27",
+      "destino": "Lugares/Vila dos meio-dragoes"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Fosso de ossos e nodo",
+      "destino": "Lugares/Fosso de ossos e nodo"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Biblioteca do beholder",
+      "destino": "Lugares/Biblioteca do beholder"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Floresta de Timo",
+      "destino": "Lugares/Floresta de Timo"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Necrópole",
+      "destino": "Lugares/Necropole"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Covis de Hourian",
+      "destino": "Lugares/Covis de Hourian Haurim"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Região gelada e cidade sem nome",
+      "destino": "Lugares/Regiao gelada"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Aldeia ocupada na neve",
+      "destino": "Lugares/Aldeia ocupada na neve"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Santuário da dríade",
+      "destino": "Lugares/Santuario da driade"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Área dos mortos-vivos imóveis",
+      "destino": "Lugares/Area dos mortos-vivos imoveis"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Covil marítimo das expedições",
+      "destino": "Lugares/Covil maritimo"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Montanha das memórias",
+      "destino": "Lugares/Montanha das memorias"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Plano Elemental do Ar",
+      "destino": "Lugares/Plano Elemental do Ar"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Plano Etéreo",
+      "destino": "Lugares/Plano Etereo"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Plano das Sombras",
+      "destino": "Lugares/Plano das Sombras"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Experiência e mundo dos sonhos",
+      "destino": "Lugares/Plano dos sonhos"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Cabana das bruxas",
+      "destino": "Lugares/Cabana das bruxas"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Aldeia natal de Glim",
+      "destino": "Lugares/Aldeia natal de Glim"
+    },
+    {
+      "dominio": "lugares",
+      "nome": "Muro das Lamentações",
+      "destino": "Lugares/Muro das Lamentacoes"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Ébano",
+      "destino": "Faccoes/Ebano"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Séquito de Kharzun",
+      "destino": "Faccoes/Organizacao de Firael"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Mercado Negro",
+      "destino": "Faccoes/Mercado Negro"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Negócio da arena de Silthan",
+      "destino": "Faccoes/Arena de Silthan"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Kenku de Eral",
+      "destino": "Faccoes/Kenku de Eral"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Conclave da floresta",
+      "destino": "Faccoes/Conclave da floresta"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Círculo Vetrilus",
+      "destino": "Faccoes/Circulo Vetrilus"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Igreja de Kord",
+      "destino": "Faccoes/Igreja de Kord"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Ordem do Véu Sepulcral",
+      "destino": "Faccoes/Arquivistas"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Lua Sangrenta",
+      "destino": "Faccoes/Lua Sangrenta"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Zodíacos",
+      "destino": "Faccoes/Zodiacos"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Organização do Necromante",
+      "destino": "Faccoes/Organizacao do Necromante"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Roda de Estopa",
+      "destino": "Faccoes/Roda de Estopa"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Guarda de Eral",
+      "destino": "Faccoes/Guarda de Eral"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Traficantes planares de almas",
+      "destino": "Faccoes/Traficantes planares de almas"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Conclave das Bruxas nos registros antigos",
+      "destino": "Faccoes/Conclave das Bruxas"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Os Magníficos",
+      "destino": "Faccoes/Magnificos"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Meio-dragões de Throden",
+      "destino": "Faccoes/Meio-dragoes de Throden"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Anões libertos",
+      "destino": "Faccoes/Anoes libertos"
+    },
+    {
+      "dominio": "faccoes",
+      "nome": "Instituições do sonho de Lazathar",
+      "destino": "Faccoes/Instituicoes de Lazathar"
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Mind Shredders",
+      "destino": "Criaturas/Mind Shredders"
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Devoradores de mente",
+      "destino": "Criaturas/Devoradores de mente"
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Vasuthant",
+      "destino": "Criaturas/Vasuthant"
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Magia viva do sono",
+      "destino": "Criaturas/Magia viva do sono"
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Fada Órfã",
+      "destino": "Criaturas/Fada Orfa"
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Goblins de Dekanter",
+      "destino": "Criaturas/Goblins de Dekanter"
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Crepúsculos Venenosos",
+      "destino": "Criaturas/Crepusculos Venenosos"
+    },
+    {
+      "dominio": "criaturas",
+      "nome": "Inevitáveis na descrição da mesa",
+      "destino": "Criaturas/Inevitaveis"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Aprisionamento do Cérebro e guerra dos guardiões",
+      "destino": "Eventos/Aprisionamento do Cerebro"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Cativeiro e sonho de Fash",
+      "destino": "Eventos/Cativeiro e sonho de Fash"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Destruição da esfera de Elena e epidemia de luz",
+      "destino": "Eventos/Destruicao da esfera de Elena"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Queda do Druida Sangrento e libertação dos anões",
+      "destino": "Eventos/Queda do Druida Sangrento"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Reassentamento da cidade drow e de Throden",
+      "destino": "Eventos/Reassentamento em Throden"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Duelo dos trolls e entrega de Firael",
+      "destino": "Eventos/Duelo e entrega de Firael"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Morte de Kael e continuidade em Okay",
+      "destino": "Eventos/Morte de Kael"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Noite Eterna",
+      "destino": "Eventos/Noite Eterna"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Infância de Glim e ruptura do selo",
+      "destino": "Eventos/Infancia e ruptura de Glim"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Queda da Roda de Estopa",
+      "destino": "Eventos/Queda da Roda de Estopa"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Trabalho de Glim para Varo e morte de Tom",
+      "destino": "Eventos/Trabalho de Glim para Varo"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Chegada a Eral e contrato com Arkhavel",
+      "destino": "Eventos/Chegada a Eral"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Desaparecimento das crianças e Fada Órfã",
+      "destino": "Eventos/Caso das criancas"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Caça ao Vasuthant",
+      "destino": "Eventos/Caca ao Vasuthant"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Caso da família de Carlos e magia viva",
+      "destino": "Eventos/Caso Carlos e magia viva"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Crise do prefeito e do Aboleth",
+      "destino": "Eventos/Crise do prefeito"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Queda da arena de Eral",
+      "destino": "Eventos/Queda da arena"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Busca dos rangers e retorno a Eral",
+      "destino": "Eventos/Busca dos rangers"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Ataque a Eral e traição dos Kenku",
+      "destino": "Eventos/Ataque a Eral"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Experiência de Okay no amuleto",
+      "destino": "Eventos/Experiencia de Okay no amuleto"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Combate ao posto dos Mind Shredders",
+      "destino": "Eventos/Posto dos Mind Shredders"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Crise dos reféns e massacre nas cavernas",
+      "destino": "Eventos/Crise dos refens"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Provações de Kord e aldeia na neve",
+      "destino": "Eventos/Provacoes de Kord"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Despertar do Fogo Primordial",
+      "destino": "Eventos/Despertar do Fogo Primordial"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Manifestação da sombra de Lilo",
+      "destino": "Eventos/Manifestacao da sombra de Lilo"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Recuperação das memórias de Kael",
+      "destino": "Eventos/Memorias de Kael"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Confronto com Aurel Vesperal",
+      "destino": "Eventos/Confronto com Vesperal"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Preparativos da torre e ida ao Etéreo",
+      "destino": "Eventos/Preparativos da torre"
+    },
+    {
+      "dominio": "eventos",
+      "nome": "Revoada Branca e outras revoadas",
+      "destino": "Eventos/Revoada Branca"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Grimório de Glim",
+      "destino": "Itens/Grimorio de Glim"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Amuleto ou anel de Kord",
+      "destino": "Itens/Amuleto de Kord"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Cinto de Kord no gelo",
+      "destino": "Itens/Cinto de Kord"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Livro de Hextor",
+      "destino": "Itens/Livro de Hextor"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Esfera de Elena",
+      "destino": "Itens/Esfera de Elena"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Livro das três bruxas",
+      "destino": "Itens/Livro das tres bruxas"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Livro do dragão negro",
+      "destino": "Itens/Livro do dragao negro"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Cajado de girassol",
+      "destino": "Itens/Cajado de girassol"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Mesa de análise de Arkhavel",
+      "destino": "Itens/Mesa de analise"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Medalhão de limpeza",
+      "destino": "Itens/Medalhao de limpeza"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Corneta da arena",
+      "destino": "Itens/Corneta da arena"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Coleiras drow",
+      "destino": "Itens/Coleiras drow"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Máscara astral do drow",
+      "destino": "Itens/Mascara astral do drow"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Máscara dos testes do sonho",
+      "destino": "Itens/Mascara dos testes"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Colar de mortos-vivos do drow",
+      "destino": "Itens/Colar de mortos-vivos"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Disco de Tariun",
+      "destino": "Itens/Disco de Tariun"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Pergaminho do anjo",
+      "destino": "Itens/Pergaminho do anjo"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Memórias materiais de Glim",
+      "destino": "Itens/Memorias materiais de Glim"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Artefatos investigados pelos arquivistas",
+      "destino": "Itens/Artefatos investigados pelos arquivistas"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Mapas e pergaminhos de Firael",
+      "destino": "Itens/Mapas e pergaminhos de Firael"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Portas de Arkhavel",
+      "destino": "Itens/Portas de Arkhavel"
+    },
+    {
+      "dominio": "itens",
+      "nome": "Fogo Primordial de Okay",
+      "destino": "Itens/Fogo Primordial"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+configuration:
+  pageTitle: Fash & Glim
+  pageTitleSuffix: " · Fash & Glim"
+  enableSPA: true
+  enablePopovers: true
+  analytics: null
+  locale: pt-BR
+  baseUrl: matoss.github.io/campanha-bruno
+  ignorePatterns: [.obsidian, .git]
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      title: Spectral
+      header: Spectral
+      body: Source Sans 3
+      code: IBM Plex Mono
+    colors:
+      lightMode:
+        light: "#f2f5f5"
+        lightgray: "#d4dedf"
+        gray: "#7b969d"
+        darkgray: "#34474e"
+        dark: "#172e39"
+        secondary: "#735623"
+        tertiary: "#286d66"
+        highlight: "#9cb7bd25"
+        textHighlight: "#c3a66c50"
+      darkMode:
+        light: "#111b23"
+        lightgray: "#293b47"
+        gray: "#66808e"
+        darkgray: "#c7d3db"
+        dark: "#e7edef"
+        secondary: "#d1b57b"
+        tertiary: "#85c4b9"
+        highlight: "#5f849521"
+        textHighlight: "#c3a66c45"
+plugins:
+  - source: "@quartz-community/note-properties"
+    enabled: true
+    order: 5
+    options: {hidePropertiesView: true}
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    order: 10
+    options: {priority: [frontmatter, filesystem]}
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    order: 30
+    options: {mermaid: true, enableInHtmlEmbed: true}
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 40
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    order: 60
+    options: {markdownLinkResolution: absolute}
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+  - source: "@quartz-community/remove-draft"
+    enabled: true
+  - source: "@quartz-community/content-index"
+    enabled: true
+    options: {enableSiteMap: false, enableRSS: false}
+  - source: "@quartz-community/content-page"
+    enabled: true
+  - source: "@quartz-community/folder-page"
+    enabled: true
+  - source: "@quartz-community/tag-page"
+    enabled: true
+  - source: "@quartz-community/page-title"
+    enabled: true
+    layout: {position: left, priority: 10}
+  - source: "@quartz-community/search"
+    enabled: true
+    layout: {position: left, priority: 20, group: toolbar, groupOptions: {grow: true}}
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout: {position: left, priority: 30, group: toolbar}
+  - source: "@quartz-community/explorer"
+    enabled: true
+    layout: {position: left, priority: 50}
+  - source: "@quartz-community/article-title"
+    enabled: true
+    layout: {position: beforeBody, priority: 10}
+  - source: "@quartz-community/breadcrumbs"
+    enabled: true
+    layout: {position: beforeBody, priority: 5, condition: not-index}
+  - source: "@quartz-community/graph"
+    enabled: true
+    options:
+      localGraph: {depth: 1, showTags: false, removeTags: [acervo-fonte, acervo-revisao, navegacao]}
+      globalGraph: {showTags: false, removeTags: [acervo-fonte, acervo-revisao, navegacao]}
+    layout: {position: right, priority: 10}
+  - source: "@quartz-community/table-of-contents"
+    enabled: true
+    order: 50
+    layout: {position: right, priority: 30}
+  - source: "@quartz-community/backlinks"
+    enabled: true
+    layout: {position: right, priority: 50}
+  - source: "@quartz-community/footer"
+    enabled: true
+    options: {links: {Quartz: "https://quartz.jzhao.xyz"}}
+    layout: {position: footer, priority: 50}
+layout:
+  groups:
+    toolbar: {priority: 35, direction: row, gap: 0.5rem}
+  byPageType:
+    "404": {positions: {beforeBody: [], left: [], right: []}}
+    content: {}
+    folder: {positions: {right: []}}
+    tag: {positions: {right: []}}

@@ -1,0 +1,818 @@
+{
+  "dominio": "lugares",
+  "data": "2026-10-29",
+  "status": "congelado_aguardando_integracao",
+  "cobertura": {
+    "previstos": 34,
+    "cobertos": 34,
+    "faltantes": [],
+    "extras": 13
+  },
+  "notas": [
+    {
+      "nome": "Carruan",
+      "caminho": "Lugares/Carruan.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Lazathar",
+      "caminho": "Lugares/Lazathar.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Eral",
+      "caminho": "Lugares/Eral.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+        "Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Torre de Arkhavel",
+      "caminho": "Lugares/Torre de Arkhavel.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17",
+        "Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Igreja de Kord em Eral",
+      "caminho": "Lugares/Igreja de Kord em Eral.md",
+      "fontes": [
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Arena de Eral",
+      "caminho": "Lugares/Arena de Eral.md",
+      "fontes": [
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Casa de Carlos carpinteiro",
+      "caminho": "Lugares/Casa de Carlos.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Casa em quarentena",
+      "caminho": "Lugares/Casa em quarentena.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Comunidade da floresta",
+      "caminho": "Lugares/Comunidade da floresta.md",
+      "fontes": [
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Assentamento goblinoide",
+      "caminho": "Lugares/Assentamento goblinoide.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Cidade drow — P22",
+      "caminho": "Lugares/Cidade drow.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Antiga cidade anã dos trolls",
+      "caminho": "Lugares/Cidade ana dos trolls.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Throden — Forte Q23",
+      "caminho": "Lugares/Throden.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Vila dos meio-dragões — U27",
+      "caminho": "Lugares/Vila dos meio-dragoes.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Fosso de ossos e nodo",
+      "caminho": "Lugares/Fosso de ossos e nodo.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Biblioteca do beholder",
+      "caminho": "Lugares/Biblioteca do beholder.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Floresta de Timo",
+      "caminho": "Lugares/Floresta de Timo.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Necrópole",
+      "caminho": "Lugares/Necropole.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Covis de Hourian / Haurim",
+      "caminho": "Lugares/Covis de Hourian Haurim.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Região gelada e cidade sem nome",
+      "caminho": "Lugares/Regiao gelada.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Aldeia ocupada na neve",
+      "caminho": "Lugares/Aldeia ocupada na neve.md",
+      "fontes": [
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Santuário da dríade",
+      "caminho": "Lugares/Santuario da driade.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Área dos mortos-vivos imóveis",
+      "caminho": "Lugares/Area dos mortos-vivos imoveis.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Covil marítimo das expedições",
+      "caminho": "Lugares/Covil maritimo.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Montanha das memórias",
+      "caminho": "Lugares/Montanha das memorias.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Mercadia",
+      "caminho": "Lugares/Mercadia.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Laoum",
+      "caminho": "Lugares/Laoum.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Plano Elemental do Ar",
+      "caminho": "Lugares/Plano Elemental do Ar.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Plano Etéreo",
+      "caminho": "Lugares/Plano Etereo.md",
+      "fontes": [
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20",
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Plano das Sombras",
+      "caminho": "Lugares/Plano das Sombras.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20",
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Experiência e mundo dos sonhos",
+      "caminho": "Lugares/Plano dos sonhos.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Cabana das bruxas",
+      "caminho": "Lugares/Cabana das bruxas.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Aldeia natal de Glim",
+      "caminho": "Lugares/Aldeia natal de Glim.md",
+      "fontes": [
+        "Fontes/Documentos/Background - Glim Sombrasselva",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Muro das Lamentações",
+      "caminho": "Lugares/Muro das Lamentacoes.md",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 17 - 2026-08-17",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Kranklefang Lunhollow — vila dos gnomos",
+      "caminho": "Lugares/Kranklefang Lunhollow.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Loraeth — vila dos Furion",
+      "caminho": "Lugares/Loraeth.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Thornaeva — vila das fadas espinho",
+      "caminho": "Lugares/Thornaeva.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Thael`Voren — vila das fadas",
+      "caminho": "Lugares/Thael V oren.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Vael`Tharion — vila dos centauros",
+      "caminho": "Lugares/Vael Tharion.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Syltha Vaelor — vila das dríades",
+      "caminho": "Lugares/Syltha Vaelor.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Conclave da Raiz Ancestral — T23",
+      "caminho": "Lugares/Conclave da Raiz Ancestral.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Ruínas do mapa de Fash",
+      "caminho": "Lugares/Ruinas do mapa de Fash.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Covil do dragão negro da região de P22",
+      "caminho": "Lugares/Covil do dragao negro.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Cartografia regional de Fash",
+      "caminho": "Lugares/Cartografia regional de Fash.md",
+      "fontes": [
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Documentos/Diario - Fash Paleskin"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Eldrosia",
+      "caminho": "Lugares/Eldrosia.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Montanhas de Thal Karak",
+      "caminho": "Lugares/Thal Karak.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": true
+    },
+    {
+      "nome": "Teladelion",
+      "caminho": "Lugares/Teladelion.md",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "extra": true
+    }
+  ],
+  "pendencias": [
+    {
+      "id": "LG-001",
+      "caminho": "Pendencias/Lugares/LG-001 - Nomes oficiais e lei de Carruan.md",
+      "prioridade": "alta",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "entidades": [
+        "Lugares/Carruan",
+        "Lugares/Lazathar"
+      ]
+    },
+    {
+      "id": "LG-002",
+      "caminho": "Pendencias/Lugares/LG-002 - Ocupação de Eral e destino dos refugiados.md",
+      "prioridade": "alta",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "entidades": [
+        "Lugares/Eral",
+        "Lugares/Torre de Arkhavel",
+        "Lugares/Casa de Carlos",
+        "Lugares/Igreja de Kord em Eral"
+      ]
+    },
+    {
+      "id": "LG-003",
+      "caminho": "Pendencias/Lugares/LG-003 - Assentamentos goblinoides e rotas de Eral.md",
+      "prioridade": "alta",
+      "fontes": [
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "entidades": [
+        "Lugares/Assentamento goblinoide",
+        "Lugares/Eral",
+        "Eventos/Crise dos refens"
+      ]
+    },
+    {
+      "id": "LG-004",
+      "caminho": "Pendencias/Lugares/LG-004 - Ocupantes de P22 Q23 e U27.md",
+      "prioridade": "alta",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "entidades": [
+        "Lugares/Cidade drow",
+        "Lugares/Throden",
+        "Lugares/Vila dos meio-dragoes"
+      ]
+    },
+    {
+      "id": "LG-005",
+      "caminho": "Pendencias/Lugares/LG-005 - Cartografia e destinos antigos da cidade drow.md",
+      "prioridade": "alta",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "entidades": [
+        "Lugares/Cidade drow",
+        "Lugares/Floresta de Timo",
+        "Lugares/Loraeth",
+        "Lugares/Ruinas do mapa de Fash"
+      ]
+    },
+    {
+      "id": "LG-006",
+      "caminho": "Pendencias/Lugares/LG-006 - Localização e guarda atual do nodo.md",
+      "prioridade": "alta",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "entidades": [
+        "Lugares/Fosso de ossos e nodo",
+        "Lugares/Cabana das bruxas",
+        "Lugares/Cidade drow"
+      ]
+    },
+    {
+      "id": "LG-007",
+      "caminho": "Pendencias/Lugares/LG-007 - Necrópole e área de mortos-vivos.md",
+      "prioridade": "alta",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05"
+      ],
+      "entidades": [
+        "Lugares/Necropole",
+        "Lugares/Area dos mortos-vivos imoveis",
+        "Personagens/Cavaleiro da Morte"
+      ]
+    },
+    {
+      "id": "LG-008",
+      "caminho": "Pendencias/Lugares/LG-008 - Covis de Hourian Haurim.md",
+      "prioridade": "media",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "entidades": [
+        "Lugares/Covis de Hourian Haurim",
+        "Personagens/Hourian Haurim"
+      ]
+    },
+    {
+      "id": "LG-009",
+      "caminho": "Pendencias/Lugares/LG-009 - Região gelada e aldeia após os yetis.md",
+      "prioridade": "media",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Documentos/Diario - Glim Sombrasselva"
+      ],
+      "entidades": [
+        "Lugares/Regiao gelada",
+        "Lugares/Aldeia ocupada na neve",
+        "Personagens/Tariun"
+      ]
+    },
+    {
+      "id": "LG-010",
+      "caminho": "Pendencias/Lugares/LG-010 - Floresta de Timo e santuário atual.md",
+      "prioridade": "media",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "entidades": [
+        "Lugares/Floresta de Timo",
+        "Lugares/Santuario da driade",
+        "Lugares/Ruinas do mapa de Fash"
+      ]
+    },
+    {
+      "id": "LG-011",
+      "caminho": "Pendencias/Lugares/LG-011 - Rota marítima dos arquivistas.md",
+      "prioridade": "alta",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "entidades": [
+        "Lugares/Covil maritimo",
+        "Faccoes/Arquivistas",
+        "Personagens/Elrohir"
+      ]
+    },
+    {
+      "id": "LG-012",
+      "caminho": "Pendencias/Lugares/LG-012 - Nome e rota da montanha das memórias.md",
+      "prioridade": "media",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+        "Fontes/Documentos/Diario - Glim Sombrasselva",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "entidades": [
+        "Lugares/Montanha das memorias",
+        "Lugares/Carruan",
+        "Personagens/Mulher das memorias"
+      ]
+    },
+    {
+      "id": "LG-013",
+      "caminho": "Pendencias/Lugares/LG-013 - Nome e localização da aldeia de Glim.md",
+      "prioridade": "media",
+      "fontes": [
+        "Fontes/Documentos/Background - Glim Sombrasselva",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "entidades": [
+        "Lugares/Aldeia natal de Glim",
+        "Personagens/Glim Sombrasselva"
+      ]
+    },
+    {
+      "id": "LG-014",
+      "caminho": "Pendencias/Lugares/LG-014 - Referentes materiais dos lugares do sonho.md",
+      "prioridade": "media",
+      "fontes": [
+        "Fontes/Documentos/Diario - Fash Paleskin",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+      ],
+      "entidades": [
+        "Lugares/Lazathar",
+        "Lugares/Plano dos sonhos",
+        "Lugares/Cabana das bruxas"
+      ]
+    },
+    {
+      "id": "LG-015",
+      "caminho": "Pendencias/Lugares/LG-015 - Mercadia acessos e regras locais.md",
+      "prioridade": "baixa",
+      "fontes": [
+        "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02",
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre"
+      ],
+      "entidades": [
+        "Lugares/Mercadia",
+        "Lugares/Laoum",
+        "Lugares/Torre de Arkhavel"
+      ]
+    },
+    {
+      "id": "LG-016",
+      "caminho": "Pendencias/Lugares/LG-016 - Localização da comunidade de Eral.md",
+      "prioridade": "media",
+      "fontes": [
+        "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+        "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+        "Fontes/Planilhas/Fash Paleskin - INTERESSES"
+      ],
+      "entidades": [
+        "Lugares/Comunidade da floresta",
+        "Lugares/Conclave da Raiz Ancestral"
+      ]
+    }
+  ],
+  "fontes_efetivamente_consultadas": [
+    {
+      "caminho": "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre.md",
+      "alcance": "seções completas de geografia, campanha antiga, portas, cosmologia e sonho; consultas adicionais a relações, consequências e mistérios"
+    },
+    {
+      "caminho": "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "alcance": "integral"
+    },
+    {
+      "caminho": "Fontes/Documentos/Diario - Fash Paleskin.md",
+      "alcance": "entradas Dia 45 e solo dos 45 dias; 08/02; 29/01; 25/01; 22/01; 30/10; 31/10; 07/11; 24/11; 28/11; 01/12; 02/12 solo; 25/10 e saída; provas 08/08 a 23/08; confronto/retorno 17/10; 11/09, mapa e noticias de Teladelion; BACKGROUND"
+    },
+    {
+      "caminho": "Fontes/Documentos/Diario - Glim Sombrasselva.md",
+      "alcance": "S1 integral; trechos pertinentes S4, S8–S10, S13–S14, S18–S20, S25–S26; buscas temáticas em restante"
+    },
+    {
+      "caminho": "Fontes/Documentos/Background - Glim Sombrasselva.md",
+      "alcance": "abertura/ato 1 e retorno à aldeia/ato 6; busca temática de localidade"
+    },
+    {
+      "caminho": "Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+      "alcance": "integral, incluindo transcrição de legenda; ambas imagens verificadas visualmente"
+    },
+    {
+      "caminho": "Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+      "alcance": "integral"
+    },
+    {
+      "caminho": "Fontes/Planilhas/Fash Paleskin.md",
+      "alcance": "índice das abas e inventário de imagens"
+    },
+    {
+      "caminho": "Fontes/Planilhas/Glim Sombrasselva.md",
+      "alcance": "índice das abas e inventário de imagens; sem mapa geográfico ali listado"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27.md",
+      "alcance": "01:12:10–01:12:47 e busca temática comunidade"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17.md",
+      "alcance": "parte 1: 01:16:26–01:18:53, clones e espaços"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 17 - 2026-08-17.md",
+      "alcance": "00:11:29–00:30:30, especialmente Muro e saída ao Abismo"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01.md",
+      "alcance": "00:23:31–00:27:33 censo corrigido; trechos 00:32–00:43 buraco; 00:58:47 posto/colônia"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02.md",
+      "alcance": "00:21:38–00:38:56 cidade, loja, negociação"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27.md",
+      "alcance": "01:07:13–01:08:44 região; 01:47:37 terreno; 02:12:00–02:13:36 ocupação; buscas na sequência final"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30.md",
+      "alcance": "02:08:41–02:13:37 covil e expedições"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05.md",
+      "alcance": "00:46:15–00:47:55 mortos-vivos; 01:25:43–01:28:35 mapas e santuários; 01:34:26–01:45:03 memória; 01:57:28–01:59:24 rota; buscas adicionais"
+    },
+    {
+      "caminho": "Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20.md",
+      "alcance": "00:51:02–00:55:39 mecanismos e cascas; 02:43:10–02:44:06 destinos; 02:50:01 encerramento"
+    },
+    {
+      "caminho": "Anexos/planilhas/fash-paleskin/ooxml/xl/media/image1.png",
+      "alcance": "visual integral; legenda nominal e coordenadas"
+    },
+    {
+      "caminho": "Anexos/planilhas/fash-paleskin/ooxml/xl/media/image2.png",
+      "alcance": "visual integral; grade, rio, costa e símbolos; sem inferência métrica"
+    },
+    {
+      "caminho": "Fontes/Vault/Vault - Fash Paleskin.md",
+      "alcance": "integral; nota expressamente marcada revisar_continuidade, usada com ressalva para Eldrosia e Thal Karak"
+    },
+    {
+      "caminho": "arquivo/originais/BASE INICIAL/FASH PALESKIN.xlsx",
+      "raiz": "workspace",
+      "alcance": "auditoria posterior: leitura direta de sheet3.xml e styles.xml do XLSX; C48:C50 sem rasura, C51:C52 font.strike=true"
+    }
+  ],
+  "limites": [
+    "Nenhuma fonte, anexo, sessão, índice, arquivo original ou cadastro comum foi modificado por este script.",
+    "Pesquisa seletiva; consultar transcrição em trecho não equivale a auditar integralmente toda a sessão.",
+    "Diário PRONTO mencionado no handoff não está convertido como fonte própria consultada; coordenadas P22/Q23/U27 foram conferidas na planilha e imagens locais.",
+    "Afirmações conhecidas apenas pelo handoff são marcadas como síntese e citam H, sem alegar consulta às transcrições ali referidas.",
+    "As imagens da planilha Glim listadas são da aba de formas, não mapas geográficos; inventário consultado sem alegar inspeção visual dessas imagens.",
+    "Nenhum nome oficial de mundo/reino é inferido de Eldrosia ou Auria; nenhuma geografia externa de D&D foi importada.",
+    "Sem censo atual de Throden/P22/U27, escala métrica do mapa antigo ou identificação segura entre nodos, necrópole e cordilheira atual.",
+    "LG-005 trata nomenclatura e cartografia de portais antigos; a divergência de funcionamento das portas de Arkhavel fica com o integrador/Itens."
+  ],
+  "ajustes_de_auditoria": [
+    {
+      "data": "2026-10-29",
+      "registro": "docs/auditoria-exclusao/ajuste-cartografia.json",
+      "assunto": "Rasura dos rótulos de portais em INTERESSES C51:C52",
+      "conclusao": "Cinco rótulos totais: três sem rasura e dois riscados. Não há contradição automática de contagem nem prova de eliminação física de portais; LG-005 conserva dúvidas de significado, época, correspondência e coordenadas."
+    }
+  ]
+}

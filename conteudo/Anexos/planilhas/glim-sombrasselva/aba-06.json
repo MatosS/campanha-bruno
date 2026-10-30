@@ -1,0 +1,6501 @@
+{
+  "fonte": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+  "sha256_fonte": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+  "aba": "ITEMS",
+  "ordem": 6,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet6.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "82",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "245",
+      "valor": "QUANTITY",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C2",
+      "atributos": {
+        "r": "C2",
+        "s": "82",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "246",
+      "valor": "DESCRIPTION",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G2",
+      "atributos": {
+        "r": "G2",
+        "s": "82",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "247",
+      "valor": "WEIGHT (LB)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I2",
+      "atributos": {
+        "r": "I2",
+        "s": "82",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "248",
+      "valor": "VALUE (PO)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K2",
+      "atributos": {
+        "r": "K2",
+        "s": "82",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "249",
+      "valor": "LOCAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "M2",
+      "atributos": {
+        "r": "M2",
+        "s": "84",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "250",
+      "valor": "WISH LIST",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B3",
+      "atributos": {
+        "r": "B3",
+        "s": "85",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "251",
+      "valor": "GENERAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C4",
+      "atributos": {
+        "r": "C4",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "252",
+      "valor": "Third Eye Clarity",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K4",
+      "atributos": {
+        "r": "K4",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B5",
+      "atributos": {
+        "r": "B5",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C5",
+      "atributos": {
+        "r": "C5",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "256",
+      "valor": "Cloak of Resistence +2",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K5",
+      "atributos": {
+        "r": "K5",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B6",
+      "atributos": {
+        "r": "B6",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C6",
+      "atributos": {
+        "r": "C6",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "257",
+      "valor": "Ciclet of Intellect +2",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K6",
+      "atributos": {
+        "r": "K6",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B7",
+      "atributos": {
+        "r": "B7",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C7",
+      "atributos": {
+        "r": "C7",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "259",
+      "valor": "Dimension Stride Boots",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K7",
+      "atributos": {
+        "r": "K7",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B8",
+      "atributos": {
+        "r": "B8",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K8",
+      "atributos": {
+        "r": "K8",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B9",
+      "atributos": {
+        "r": "B9",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K9",
+      "atributos": {
+        "r": "K9",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B10",
+      "atributos": {
+        "r": "B10",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K10",
+      "atributos": {
+        "r": "K10",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "M10",
+      "atributos": {
+        "r": "M10",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "260",
+      "valor": "Scout's Headband",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "P10",
+      "atributos": {
+        "r": "P10",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3400.0",
+      "valor": 3400.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B11",
+      "atributos": {
+        "r": "B11",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C11",
+      "atributos": {
+        "r": "C11",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "261",
+      "valor": "Spellbook",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G11",
+      "atributos": {
+        "r": "G11",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "0.00",
+      "formula": null
+    },
+    {
+      "celula": "H11",
+      "atributos": {
+        "r": "H11",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3",
+      "valor": 3,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "G11*B11",
+        "atributos": {
+          "t": "shared",
+          "ref": "H11:H23",
+          "si": "1"
+        },
+        "expandida": "=G11*B11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "3",
+        "valor": 3
+      }
+    },
+    {
+      "celula": "I11",
+      "atributos": {
+        "r": "I11",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J11",
+      "atributos": {
+        "r": "J11",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "I11*B11",
+        "atributos": {
+          "t": "shared",
+          "ref": "J11:J23",
+          "si": "2"
+        },
+        "expandida": "=I11*B11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "K11",
+      "atributos": {
+        "r": "K11",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B12",
+      "atributos": {
+        "r": "B12",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C12",
+      "atributos": {
+        "r": "C12",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "122",
+      "valor": "Caltrops",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G12",
+      "atributos": {
+        "r": "G12",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "0.00",
+      "formula": null
+    },
+    {
+      "celula": "H12",
+      "atributos": {
+        "r": "H12",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G12*B12",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "I12",
+      "atributos": {
+        "r": "I12",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J12",
+      "atributos": {
+        "r": "J12",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I12*B12",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "K12",
+      "atributos": {
+        "r": "K12",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B13",
+      "atributos": {
+        "r": "B13",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C13",
+      "atributos": {
+        "r": "C13",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "264",
+      "valor": "Bedroll",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G13",
+      "atributos": {
+        "r": "G13",
+        "s": "91"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.25",
+      "valor": 1.25,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "5/4",
+        "atributos": {},
+        "expandida": "=5/4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1.25",
+        "valor": 1.25
+      }
+    },
+    {
+      "celula": "H13",
+      "atributos": {
+        "r": "H13",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.25",
+      "valor": 1.25,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G13*B13",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1.25",
+        "valor": 1.25
+      }
+    },
+    {
+      "celula": "I13",
+      "atributos": {
+        "r": "I13",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.1",
+      "valor": 0.1,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J13",
+      "atributos": {
+        "r": "J13",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.1",
+      "valor": 0.1,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I13*B13",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.1",
+        "valor": 0.1
+      }
+    },
+    {
+      "celula": "K13",
+      "atributos": {
+        "r": "K13",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B14",
+      "atributos": {
+        "r": "B14",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C14",
+      "atributos": {
+        "r": "C14",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "265",
+      "valor": "Backpack ",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G14",
+      "atributos": {
+        "r": "G14",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.5",
+      "valor": 0.5,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "2/4",
+        "atributos": {},
+        "expandida": "=2/4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.5",
+        "valor": 0.5
+      }
+    },
+    {
+      "celula": "H14",
+      "atributos": {
+        "r": "H14",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.5",
+      "valor": 0.5,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G14*B14",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.5",
+        "valor": 0.5
+      }
+    },
+    {
+      "celula": "I14",
+      "atributos": {
+        "r": "I14",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J14",
+      "atributos": {
+        "r": "J14",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I14*B14",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "K14",
+      "atributos": {
+        "r": "K14",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B15",
+      "atributos": {
+        "r": "B15",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C15",
+      "atributos": {
+        "r": "C15",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "266",
+      "valor": "Case, map or scroll",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G15",
+      "atributos": {
+        "r": "G15",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.5",
+      "valor": 0.5,
+      "formato_numero": "0.00",
+      "formula": null
+    },
+    {
+      "celula": "H15",
+      "atributos": {
+        "r": "H15",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.5",
+      "valor": 0.5,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G15*B15",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.5",
+        "valor": 0.5
+      }
+    },
+    {
+      "celula": "I15",
+      "atributos": {
+        "r": "I15",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J15",
+      "atributos": {
+        "r": "J15",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I15*B15",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "K15",
+      "atributos": {
+        "r": "K15",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B16",
+      "atributos": {
+        "r": "B16",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C16",
+      "atributos": {
+        "r": "C16",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "268",
+      "valor": "Flint and steel",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G16",
+      "atributos": {
+        "r": "G16",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "0.00",
+      "formula": null
+    },
+    {
+      "celula": "H16",
+      "atributos": {
+        "r": "H16",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G16*B16",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "I16",
+      "atributos": {
+        "r": "I16",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J16",
+      "atributos": {
+        "r": "J16",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I16*B16",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "K16",
+      "atributos": {
+        "r": "K16",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B17",
+      "atributos": {
+        "r": "B17",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C17",
+      "atributos": {
+        "r": "C17",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "269",
+      "valor": "Ink (1 oz. vial)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G17",
+      "atributos": {
+        "r": "G17",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "0.00",
+      "formula": null
+    },
+    {
+      "celula": "H17",
+      "atributos": {
+        "r": "H17",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G17*B17",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "I17",
+      "atributos": {
+        "r": "I17",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J17",
+      "atributos": {
+        "r": "J17",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8",
+      "valor": 8,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I17*B17",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "8",
+        "valor": 8
+      }
+    },
+    {
+      "celula": "K17",
+      "atributos": {
+        "r": "K17",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B18",
+      "atributos": {
+        "r": "B18",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C18",
+      "atributos": {
+        "r": "C18",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "270",
+      "valor": "Inkpen",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G18",
+      "atributos": {
+        "r": "G18",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "0.00",
+      "formula": null
+    },
+    {
+      "celula": "H18",
+      "atributos": {
+        "r": "H18",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G18*B18",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "I18",
+      "atributos": {
+        "r": "I18",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.1",
+      "valor": 0.1,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J18",
+      "atributos": {
+        "r": "J18",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.1",
+      "valor": 0.1,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I18*B18",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.1",
+        "valor": 0.1
+      }
+    },
+    {
+      "celula": "K18",
+      "atributos": {
+        "r": "K18",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B19",
+      "atributos": {
+        "r": "B19",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "10.0",
+      "valor": 10.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C19",
+      "atributos": {
+        "r": "C19",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "273",
+      "valor": "Paper (sheet)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G19",
+      "atributos": {
+        "r": "G19",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "0.00",
+      "formula": null
+    },
+    {
+      "celula": "H19",
+      "atributos": {
+        "r": "H19",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G19*B19",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "I19",
+      "atributos": {
+        "r": "I19",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.4",
+      "valor": 0.4,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J19",
+      "atributos": {
+        "r": "J19",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I19*B19",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "K19",
+      "atributos": {
+        "r": "K19",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B20",
+      "atributos": {
+        "r": "B20",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C20",
+      "atributos": {
+        "r": "C20",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "274",
+      "valor": "Waterskin",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G20",
+      "atributos": {
+        "r": "G20",
+        "s": "91"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "4/4",
+        "atributos": {},
+        "expandida": "=4/4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "H20",
+      "atributos": {
+        "r": "H20",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G20*B20",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "I20",
+      "atributos": {
+        "r": "I20",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J20",
+      "atributos": {
+        "r": "J20",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I20*B20",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "K20",
+      "atributos": {
+        "r": "K20",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B21",
+      "atributos": {
+        "r": "B21",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C21",
+      "atributos": {
+        "r": "C21",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "277",
+      "valor": "Pouch, belt",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G21",
+      "atributos": {
+        "r": "G21",
+        "s": "91"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.125",
+      "valor": 0.125,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "0.5/4",
+        "atributos": {},
+        "expandida": "=0.5/4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.125",
+        "valor": 0.125
+      }
+    },
+    {
+      "celula": "H21",
+      "atributos": {
+        "r": "H21",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.125",
+      "valor": 0.125,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G21*B21",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.125",
+        "valor": 0.125
+      }
+    },
+    {
+      "celula": "I21",
+      "atributos": {
+        "r": "I21",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J21",
+      "atributos": {
+        "r": "J21",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I21*B21",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "K21",
+      "atributos": {
+        "r": "K21",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B22",
+      "atributos": {
+        "r": "B22",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C22",
+      "atributos": {
+        "r": "C22",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "282",
+      "valor": "Torch",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G22",
+      "atributos": {
+        "r": "G22",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "0.00",
+      "formula": null
+    },
+    {
+      "celula": "H22",
+      "atributos": {
+        "r": "H22",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3",
+      "valor": 3,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G22*B22",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "3",
+        "valor": 3
+      }
+    },
+    {
+      "celula": "I22",
+      "atributos": {
+        "r": "I22",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.5",
+      "valor": 0.5,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J22",
+      "atributos": {
+        "r": "J22",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.5",
+      "valor": 1.5,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I22*B22",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1.5",
+        "valor": 1.5
+      }
+    },
+    {
+      "celula": "K22",
+      "atributos": {
+        "r": "K22",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B23",
+      "atributos": {
+        "r": "B23",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C23",
+      "atributos": {
+        "r": "C23",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "284",
+      "valor": "Rations, trail",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G23",
+      "atributos": {
+        "r": "G23",
+        "s": "91"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.25",
+      "valor": 0.25,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "1/4",
+        "atributos": {},
+        "expandida": "=1/4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.25",
+        "valor": 0.25
+      }
+    },
+    {
+      "celula": "H23",
+      "atributos": {
+        "r": "H23",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.25",
+      "valor": 1.25,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=G23*B23",
+        "ancora_compartilhada": "H11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1.25",
+        "valor": 1.25
+      }
+    },
+    {
+      "celula": "I23",
+      "atributos": {
+        "r": "I23",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.01",
+      "valor": 0.01,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J23",
+      "atributos": {
+        "r": "J23",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.05",
+      "valor": 0.05,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=I23*B23",
+        "ancora_compartilhada": "J11"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.05",
+        "valor": 0.05
+      }
+    },
+    {
+      "celula": "K23",
+      "atributos": {
+        "r": "K23",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B24",
+      "atributos": {
+        "r": "B24",
+        "s": "85",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "289",
+      "valor": "EQUIPAMENT",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B25",
+      "atributos": {
+        "r": "B25",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C25",
+      "atributos": {
+        "r": "C25",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "290",
+      "valor": "Dagger",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G25",
+      "atributos": {
+        "r": "G25",
+        "s": "91"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.5",
+      "valor": 0.5,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "1/2",
+        "atributos": {},
+        "expandida": "=1/2"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.5",
+        "valor": 0.5
+      }
+    },
+    {
+      "celula": "H25",
+      "atributos": {
+        "r": "H25",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.5",
+      "valor": 0.5,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "G25*B25",
+        "atributos": {
+          "t": "shared",
+          "ref": "H25:H26",
+          "si": "3"
+        },
+        "expandida": "=G25*B25"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0.5",
+        "valor": 0.5
+      }
+    },
+    {
+      "celula": "I25",
+      "atributos": {
+        "r": "I25",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J25",
+      "atributos": {
+        "r": "J25",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "I25*B25",
+        "atributos": {
+          "t": "shared",
+          "ref": "J25:J26",
+          "si": "4"
+        },
+        "expandida": "=I25*B25"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "K25",
+      "atributos": {
+        "r": "K25",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B26",
+      "atributos": {
+        "r": "B26",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C26",
+      "atributos": {
+        "r": "C26",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "294",
+      "valor": "Quarterstaff",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G26",
+      "atributos": {
+        "r": "G26",
+        "s": "91"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "4/2",
+        "atributos": {},
+        "expandida": "=4/2"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "H26",
+      "atributos": {
+        "r": "H26",
+        "s": "86"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=G26*B26",
+        "ancora_compartilhada": "H25"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "I26",
+      "atributos": {
+        "r": "I26",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "#,##0.00",
+      "formula": null
+    },
+    {
+      "celula": "J26",
+      "atributos": {
+        "r": "J26",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "4"
+        },
+        "expandida": "=I26*B26",
+        "ancora_compartilhada": "J25"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "K26",
+      "atributos": {
+        "r": "K26",
+        "s": "81",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "CARRIED",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B28",
+      "atributos": {
+        "r": "B28",
+        "s": "97",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "21",
+      "valor": "TOTAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G28",
+      "atributos": {
+        "r": "G28",
+        "s": "91"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "15.125",
+      "valor": 15.125,
+      "formato_numero": "0.00",
+      "formula": {
+        "texto_xml": "SUM(H10:H23,H25:H27)",
+        "atributos": {},
+        "expandida": "=SUM(H10:H23,H25:H27)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "15.125",
+        "valor": 15.125
+      }
+    },
+    {
+      "celula": "I28",
+      "atributos": {
+        "r": "I28",
+        "s": "88"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "22.75",
+      "valor": 22.75,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "SUM(J10:J23,J25:J27)",
+        "atributos": {},
+        "expandida": "=SUM(J10:J23,J25:J27)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "22.75",
+        "valor": 22.75
+      }
+    },
+    {
+      "celula": "P29",
+      "atributos": {
+        "r": "P29",
+        "s": "99"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3400",
+      "valor": 3400,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(P3:P28)",
+        "atributos": {},
+        "expandida": "=SUM(P3:P28)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "3400",
+        "valor": 3400
+      }
+    },
+    {
+      "celula": "B30",
+      "atributos": {
+        "r": "B30",
+        "s": "100",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "307",
+      "valor": "CARRY CAPACITY",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E30",
+      "atributos": {
+        "r": "E30",
+        "s": "84",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "310",
+      "valor": "HISTORY",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B31",
+      "atributos": {
+        "r": "B31",
+        "s": "100",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "312",
+      "valor": "LIGHT",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C31",
+      "atributos": {
+        "r": "C31",
+        "s": "99"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "19.5",
+      "valor": 19.5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "26*3/4",
+        "atributos": {},
+        "expandida": "=26*3/4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "19.5",
+        "valor": 19.5
+      }
+    },
+    {
+      "celula": "E31",
+      "atributos": {
+        "r": "E31",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "315",
+      "valor": "INITIAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K31",
+      "atributos": {
+        "r": "K31",
+        "s": "81"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "72.25",
+      "valor": 72.25,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B32",
+      "atributos": {
+        "r": "B32",
+        "s": "100",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "317",
+      "valor": "MEDIUM",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C32",
+      "atributos": {
+        "r": "C32",
+        "s": "99"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "39.75",
+      "valor": 39.75,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "53*3/4",
+        "atributos": {},
+        "expandida": "=53*3/4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "39.75",
+        "valor": 39.75
+      }
+    },
+    {
+      "celula": "B33",
+      "atributos": {
+        "r": "B33",
+        "s": "100",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "320",
+      "valor": "HEAVY",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C33",
+      "atributos": {
+        "r": "C33",
+        "s": "99"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "60",
+      "valor": 60,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "80*3/4",
+        "atributos": {},
+        "expandida": "=80*3/4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "60",
+        "valor": 60
+      }
+    },
+    {
+      "celula": "E39",
+      "atributos": {
+        "r": "E39",
+        "s": "97",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "327",
+      "valor": "CURRENT GOLD",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K39",
+      "atributos": {
+        "r": "K39",
+        "s": "80"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "72.25",
+      "valor": 72.25,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(K31:K38)",
+        "atributos": {},
+        "expandida": "=SUM(K31:K38)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "72.25",
+        "valor": 72.25
+      }
+    },
+    {
+      "celula": "E40",
+      "atributos": {
+        "r": "E40",
+        "s": "97",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "339",
+      "valor": "CURRENT PATRIMONY",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K40",
+      "atributos": {
+        "r": "K40",
+        "s": "87"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "22.75",
+      "valor": 22.75,
+      "formato_numero": "#,##0.00",
+      "formula": {
+        "texto_xml": "I28",
+        "atributos": {},
+        "expandida": "=I28"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "22.75",
+        "valor": 22.75
+      }
+    },
+    {
+      "celula": "E41",
+      "atributos": {
+        "r": "E41",
+        "s": "97",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "21",
+      "valor": "TOTAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K41",
+      "atributos": {
+        "r": "K41",
+        "s": "80"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "95",
+      "valor": 95,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(K39,K40)",
+        "atributos": {},
+        "expandida": "=SUM(K39,K40)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "95",
+        "valor": 95
+      }
+    }
+  ],
+  "comentarios": [
+    {
+      "celula": "C7",
+      "autor": "",
+      "texto": "DIMENSION STRIDE\nBOOTS\nPrice (Item Level): 2,000 gp (6th)\nBody Slot: Feet\nCaster Level: 7th\nAura: Faint; (DC 16) conjuration\nActivation: — and standard (command)\nWeight: 1 lb.\nThese sleek leather boots lean slightly forward,\nas if poised to leap.\nWhile wearing dimension stride boots, you\ngain a +2 competence bonus on Jump\nchecks. This is a continuous effect and\nrequires no activation.\n In addition, the boots have 5 charges,\nwhich are renewed each day at dawn.\nSpending 1 or more charges allows you to\nteleport a short distance (with no chance\nof error). You must have line of sight and\nline of effect to your destination. You\ncan’t use the boots to move into a space\noccupied by another creature, nor can you\nteleport into a solid object; if you attempt\nto do so, the boots’ activation is wasted.\nYou can bring along objects weighing up\nto your maximum load, but you can’t bring\nother creatures.\n1 charge: Teleport 20 feet.\n3 charges: Teleport 40 feet.\n5 charges: Teleport 60 feet.",
+      "atributos": {
+        "authorId": "0",
+        "ref": "C7"
+      },
+      "parte": "xl/comments3.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "C7"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "DIMENSION STRIDE\nBOOTS\nPrice (Item Level): 2,000 gp (6th)\nBody Slot: Feet\nCaster Level: 7th\nAura: Faint; (DC 16) conjuration\nActivation: — and standard (command)\nWeight: 1 lb.\nThese sleek leather boots lean slightly forward,\nas if poised to leap.\nWhile wearing dimension stride boots, you\ngain a +2 competence bonus on Jump\nchecks. This is a continuous effect and\nrequires no activation.\n In addition, the boots have 5 charges,\nwhich are renewed each day at dawn.\nSpending 1 or more charges allows you to\nteleport a short distance (with no chance\nof error). You must have line of sight and\nline of effect to your destination. You\ncan’t use the boots to move into a space\noccupied by another creature, nor can you\nteleport into a solid object; if you attempt\nto do so, the boots’ activation is wasted.\nYou can bring along objects weighing up\nto your maximum load, but you can’t bring\nother creatures.\n1 charge: Teleport 20 feet.\n3 charges: Teleport 40 feet.\n5 charges: Teleport 60 feet.",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "C4",
+      "autor": "",
+      "texto": "Third Eye Clarity\nPrice (Item Level): 3,000 gp (7th)\nBody Slot: Face\nCaster Level: 7th\nAura: Moderate; (DC 18) conjuration\nActivation: Immediate (mental)\nWeight: —\nThis crystal is so clear that it is diffi cult to\nsee.\nYou can activate this crystal to negate any\none of the following conditions affecting you: confused, dazed, fascinated, or\nstunned.\n You can activate the eye in response to\nan effect that would impose one of these\nconditions (for instance, after failing your\nsave against a monk’s Stunning Fist attack\nbut before the stun takes effect).\n This ability functions once per day\n",
+      "atributos": {
+        "authorId": "0",
+        "ref": "C4"
+      },
+      "parte": "xl/comments3.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "C4"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "Third Eye Clarity\nPrice (Item Level): 3,000 gp (7th)\nBody Slot: Face\nCaster Level: 7th\nAura: Moderate; (DC 18) conjuration\nActivation: Immediate (mental)\nWeight: —\nThis crystal is so clear that it is diffi cult to\nsee.\nYou can activate this crystal to negate any\none of the following conditions affecting you: confused, dazed, fascinated, or\nstunned.\n You can activate the eye in response to\nan effect that would impose one of these\nconditions (for instance, after failing your\nsave against a monk’s Stunning Fist attack\nbut before the stun takes effect).\n This ability functions once per day\n",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "hyperlinks": [],
+  "mesclagens": [
+    "C2:F2",
+    "G2:H2",
+    "I2:J2",
+    "M2:P2",
+    "B3:K3",
+    "C4:F4",
+    "C5:F5",
+    "C6:F6",
+    "C7:F7",
+    "C8:F8",
+    "C9:F9",
+    "C10:F10",
+    "C11:F11",
+    "C12:F12",
+    "C13:F13",
+    "C14:F14",
+    "C15:F15",
+    "C16:F16",
+    "C17:F17",
+    "C18:F18",
+    "C19:F19",
+    "C20:F20",
+    "C21:F21",
+    "C22:F22",
+    "C23:F23",
+    "B24:K24",
+    "C25:F25",
+    "C26:F26",
+    "C27:F27",
+    "B28:F28",
+    "G28:H28",
+    "I28:J28",
+    "B30:C30",
+    "E30:K30",
+    "E31:J31",
+    "E39:J39",
+    "E40:J40",
+    "E41:J41",
+    "E32:J32",
+    "E33:J33",
+    "E34:J34",
+    "E35:J35",
+    "E36:J36",
+    "E37:J37",
+    "E38:J38"
+  ],
+  "drawings": [],
+  "objetos_vml": [
+    {
+      "parte": "xl/drawings/vmlDrawing3.vml",
+      "id": "_x0000_s3073",
+      "tipo": "Note",
+      "celula": "C7",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "3, 15, 7, 10, 7, 15, 38, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s3073",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "3, 15, 7, 10, 7, 15, 38, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "6",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "2",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing3.vml",
+      "id": "_x0000_s3074",
+      "tipo": "Note",
+      "celula": "C4",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "3, 15, 4, 10, 7, 15, 24, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s3074",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "3, 15, 4, 10, 7, 15, 24, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "3",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "2",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments",
+      "Target": "../comments3.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet6.xml.rels",
+      "parte_destino": "xl/comments3.xml"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing6.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet6.xml.rels",
+      "parte_destino": "xl/drawings/drawing6.xml"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing",
+      "Target": "../drawings/vmlDrawing3.vml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet6.xml.rels",
+      "parte_destino": "xl/drawings/vmlDrawing3.vml"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}cols",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "2",
+            "max": "2",
+            "width": "10.13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "7",
+            "max": "8",
+            "width": "6.13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "9",
+            "max": "10",
+            "width": "7.5"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCells",
+      "atributos": {
+        "count": "45"
+      },
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C2:F2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "G2:H2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "I2:J2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "M2:P2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B3:K3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C4:F4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C5:F5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C6:F6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C7:F7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C8:F8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C9:F9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C10:F10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C11:F11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C12:F12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C13:F13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C14:F14"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C15:F15"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C16:F16"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C17:F17"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C18:F18"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C19:F19"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C20:F20"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C21:F21"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C22:F22"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C23:F23"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B24:K24"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C25:F25"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C26:F26"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "C27:F27"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B28:F28"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "G28:H28"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "I28:J28"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B30:C30"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E30:K30"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E31:J31"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E39:J39"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E40:J40"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E41:J41"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E32:J32"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E33:J33"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E34:J34"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E35:J35"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E36:J36"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E37:J37"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "E38:J38"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}legacyDrawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    },
+    {
+      "r": "34"
+    },
+    {
+      "r": "35"
+    },
+    {
+      "r": "36"
+    },
+    {
+      "r": "37"
+    },
+    {
+      "r": "38"
+    },
+    {
+      "r": "39"
+    },
+    {
+      "r": "40"
+    },
+    {
+      "r": "41"
+    },
+    {
+      "r": "42"
+    },
+    {
+      "r": "43"
+    },
+    {
+      "r": "44"
+    },
+    {
+      "r": "45"
+    },
+    {
+      "r": "46"
+    },
+    {
+      "r": "47"
+    },
+    {
+      "r": "48"
+    },
+    {
+      "r": "49"
+    },
+    {
+      "r": "50"
+    },
+    {
+      "r": "51"
+    },
+    {
+      "r": "52"
+    },
+    {
+      "r": "53"
+    },
+    {
+      "r": "54"
+    },
+    {
+      "r": "55"
+    },
+    {
+      "r": "56"
+    },
+    {
+      "r": "57"
+    },
+    {
+      "r": "58"
+    },
+    {
+      "r": "59"
+    },
+    {
+      "r": "60"
+    },
+    {
+      "r": "61"
+    },
+    {
+      "r": "62"
+    },
+    {
+      "r": "63"
+    },
+    {
+      "r": "64"
+    },
+    {
+      "r": "65"
+    },
+    {
+      "r": "66"
+    },
+    {
+      "r": "67"
+    },
+    {
+      "r": "68"
+    },
+    {
+      "r": "69"
+    },
+    {
+      "r": "70"
+    },
+    {
+      "r": "71"
+    },
+    {
+      "r": "72"
+    },
+    {
+      "r": "73"
+    },
+    {
+      "r": "74"
+    },
+    {
+      "r": "75"
+    },
+    {
+      "r": "76"
+    },
+    {
+      "r": "77"
+    },
+    {
+      "r": "78"
+    },
+    {
+      "r": "79"
+    },
+    {
+      "r": "80"
+    },
+    {
+      "r": "81"
+    },
+    {
+      "r": "82"
+    },
+    {
+      "r": "83"
+    },
+    {
+      "r": "84"
+    },
+    {
+      "r": "85"
+    },
+    {
+      "r": "86"
+    },
+    {
+      "r": "87"
+    },
+    {
+      "r": "88"
+    },
+    {
+      "r": "89"
+    },
+    {
+      "r": "90"
+    },
+    {
+      "r": "91"
+    },
+    {
+      "r": "92"
+    },
+    {
+      "r": "93"
+    },
+    {
+      "r": "94"
+    },
+    {
+      "r": "95"
+    },
+    {
+      "r": "96"
+    },
+    {
+      "r": "97"
+    },
+    {
+      "r": "98"
+    },
+    {
+      "r": "99"
+    },
+    {
+      "r": "100"
+    },
+    {
+      "r": "101"
+    },
+    {
+      "r": "102"
+    },
+    {
+      "r": "103"
+    },
+    {
+      "r": "104"
+    },
+    {
+      "r": "105"
+    },
+    {
+      "r": "106"
+    },
+    {
+      "r": "107"
+    },
+    {
+      "r": "108"
+    },
+    {
+      "r": "109"
+    },
+    {
+      "r": "110"
+    },
+    {
+      "r": "111"
+    },
+    {
+      "r": "112"
+    },
+    {
+      "r": "113"
+    },
+    {
+      "r": "114"
+    },
+    {
+      "r": "115"
+    },
+    {
+      "r": "116"
+    },
+    {
+      "r": "117"
+    },
+    {
+      "r": "118"
+    },
+    {
+      "r": "119"
+    },
+    {
+      "r": "120"
+    },
+    {
+      "r": "121"
+    },
+    {
+      "r": "122"
+    },
+    {
+      "r": "123"
+    },
+    {
+      "r": "124"
+    },
+    {
+      "r": "125"
+    },
+    {
+      "r": "126"
+    },
+    {
+      "r": "127"
+    },
+    {
+      "r": "128"
+    },
+    {
+      "r": "129"
+    },
+    {
+      "r": "130"
+    },
+    {
+      "r": "131"
+    },
+    {
+      "r": "132"
+    },
+    {
+      "r": "133"
+    },
+    {
+      "r": "134"
+    },
+    {
+      "r": "135"
+    },
+    {
+      "r": "136"
+    },
+    {
+      "r": "137"
+    },
+    {
+      "r": "138"
+    },
+    {
+      "r": "139"
+    },
+    {
+      "r": "140"
+    },
+    {
+      "r": "141"
+    },
+    {
+      "r": "142"
+    },
+    {
+      "r": "143"
+    },
+    {
+      "r": "144"
+    },
+    {
+      "r": "145"
+    },
+    {
+      "r": "146"
+    },
+    {
+      "r": "147"
+    },
+    {
+      "r": "148"
+    },
+    {
+      "r": "149"
+    },
+    {
+      "r": "150"
+    },
+    {
+      "r": "151"
+    },
+    {
+      "r": "152"
+    },
+    {
+      "r": "153"
+    },
+    {
+      "r": "154"
+    },
+    {
+      "r": "155"
+    },
+    {
+      "r": "156"
+    },
+    {
+      "r": "157"
+    },
+    {
+      "r": "158"
+    },
+    {
+      "r": "159"
+    },
+    {
+      "r": "160"
+    },
+    {
+      "r": "161"
+    },
+    {
+      "r": "162"
+    },
+    {
+      "r": "163"
+    },
+    {
+      "r": "164"
+    },
+    {
+      "r": "165"
+    },
+    {
+      "r": "166"
+    },
+    {
+      "r": "167"
+    },
+    {
+      "r": "168"
+    },
+    {
+      "r": "169"
+    },
+    {
+      "r": "170"
+    },
+    {
+      "r": "171"
+    },
+    {
+      "r": "172"
+    },
+    {
+      "r": "173"
+    },
+    {
+      "r": "174"
+    },
+    {
+      "r": "175"
+    },
+    {
+      "r": "176"
+    },
+    {
+      "r": "177"
+    },
+    {
+      "r": "178"
+    },
+    {
+      "r": "179"
+    },
+    {
+      "r": "180"
+    },
+    {
+      "r": "181"
+    },
+    {
+      "r": "182"
+    },
+    {
+      "r": "183"
+    },
+    {
+      "r": "184"
+    },
+    {
+      "r": "185"
+    },
+    {
+      "r": "186"
+    },
+    {
+      "r": "187"
+    },
+    {
+      "r": "188"
+    },
+    {
+      "r": "189"
+    },
+    {
+      "r": "190"
+    },
+    {
+      "r": "191"
+    },
+    {
+      "r": "192"
+    },
+    {
+      "r": "193"
+    },
+    {
+      "r": "194"
+    },
+    {
+      "r": "195"
+    },
+    {
+      "r": "196"
+    },
+    {
+      "r": "197"
+    },
+    {
+      "r": "198"
+    },
+    {
+      "r": "199"
+    },
+    {
+      "r": "200"
+    },
+    {
+      "r": "201"
+    },
+    {
+      "r": "202"
+    },
+    {
+      "r": "203"
+    },
+    {
+      "r": "204"
+    },
+    {
+      "r": "205"
+    },
+    {
+      "r": "206"
+    },
+    {
+      "r": "207"
+    },
+    {
+      "r": "208"
+    },
+    {
+      "r": "209"
+    },
+    {
+      "r": "210"
+    },
+    {
+      "r": "211"
+    },
+    {
+      "r": "212"
+    },
+    {
+      "r": "213"
+    },
+    {
+      "r": "214"
+    },
+    {
+      "r": "215"
+    },
+    {
+      "r": "216"
+    },
+    {
+      "r": "217"
+    },
+    {
+      "r": "218"
+    },
+    {
+      "r": "219"
+    },
+    {
+      "r": "220"
+    },
+    {
+      "r": "221"
+    },
+    {
+      "r": "222"
+    },
+    {
+      "r": "223"
+    },
+    {
+      "r": "224"
+    },
+    {
+      "r": "225"
+    },
+    {
+      "r": "226"
+    },
+    {
+      "r": "227"
+    },
+    {
+      "r": "228"
+    },
+    {
+      "r": "229"
+    },
+    {
+      "r": "230"
+    },
+    {
+      "r": "231"
+    },
+    {
+      "r": "232"
+    },
+    {
+      "r": "233"
+    },
+    {
+      "r": "234"
+    },
+    {
+      "r": "235"
+    },
+    {
+      "r": "236"
+    },
+    {
+      "r": "237"
+    },
+    {
+      "r": "238"
+    },
+    {
+      "r": "239"
+    },
+    {
+      "r": "240"
+    },
+    {
+      "r": "241"
+    },
+    {
+      "r": "242"
+    },
+    {
+      "r": "243"
+    },
+    {
+      "r": "244"
+    },
+    {
+      "r": "245"
+    },
+    {
+      "r": "246"
+    },
+    {
+      "r": "247"
+    },
+    {
+      "r": "248"
+    },
+    {
+      "r": "249"
+    },
+    {
+      "r": "250"
+    },
+    {
+      "r": "251"
+    },
+    {
+      "r": "252"
+    },
+    {
+      "r": "253"
+    },
+    {
+      "r": "254"
+    },
+    {
+      "r": "255"
+    },
+    {
+      "r": "256"
+    },
+    {
+      "r": "257"
+    },
+    {
+      "r": "258"
+    },
+    {
+      "r": "259"
+    },
+    {
+      "r": "260"
+    },
+    {
+      "r": "261"
+    },
+    {
+      "r": "262"
+    },
+    {
+      "r": "263"
+    },
+    {
+      "r": "264"
+    },
+    {
+      "r": "265"
+    },
+    {
+      "r": "266"
+    },
+    {
+      "r": "267"
+    },
+    {
+      "r": "268"
+    },
+    {
+      "r": "269"
+    },
+    {
+      "r": "270"
+    },
+    {
+      "r": "271"
+    },
+    {
+      "r": "272"
+    },
+    {
+      "r": "273"
+    },
+    {
+      "r": "274"
+    },
+    {
+      "r": "275"
+    },
+    {
+      "r": "276"
+    },
+    {
+      "r": "277"
+    },
+    {
+      "r": "278"
+    },
+    {
+      "r": "279"
+    },
+    {
+      "r": "280"
+    },
+    {
+      "r": "281"
+    },
+    {
+      "r": "282"
+    },
+    {
+      "r": "283"
+    },
+    {
+      "r": "284"
+    },
+    {
+      "r": "285"
+    },
+    {
+      "r": "286"
+    },
+    {
+      "r": "287"
+    },
+    {
+      "r": "288"
+    },
+    {
+      "r": "289"
+    },
+    {
+      "r": "290"
+    },
+    {
+      "r": "291"
+    },
+    {
+      "r": "292"
+    },
+    {
+      "r": "293"
+    },
+    {
+      "r": "294"
+    },
+    {
+      "r": "295"
+    },
+    {
+      "r": "296"
+    },
+    {
+      "r": "297"
+    },
+    {
+      "r": "298"
+    },
+    {
+      "r": "299"
+    },
+    {
+      "r": "300"
+    },
+    {
+      "r": "301"
+    },
+    {
+      "r": "302"
+    },
+    {
+      "r": "303"
+    },
+    {
+      "r": "304"
+    },
+    {
+      "r": "305"
+    },
+    {
+      "r": "306"
+    },
+    {
+      "r": "307"
+    },
+    {
+      "r": "308"
+    },
+    {
+      "r": "309"
+    },
+    {
+      "r": "310"
+    },
+    {
+      "r": "311"
+    },
+    {
+      "r": "312"
+    },
+    {
+      "r": "313"
+    },
+    {
+      "r": "314"
+    },
+    {
+      "r": "315"
+    },
+    {
+      "r": "316"
+    },
+    {
+      "r": "317"
+    },
+    {
+      "r": "318"
+    },
+    {
+      "r": "319"
+    },
+    {
+      "r": "320"
+    },
+    {
+      "r": "321"
+    },
+    {
+      "r": "322"
+    },
+    {
+      "r": "323"
+    },
+    {
+      "r": "324"
+    },
+    {
+      "r": "325"
+    },
+    {
+      "r": "326"
+    },
+    {
+      "r": "327"
+    },
+    {
+      "r": "328"
+    },
+    {
+      "r": "329"
+    },
+    {
+      "r": "330"
+    },
+    {
+      "r": "331"
+    },
+    {
+      "r": "332"
+    },
+    {
+      "r": "333"
+    },
+    {
+      "r": "334"
+    },
+    {
+      "r": "335"
+    },
+    {
+      "r": "336"
+    },
+    {
+      "r": "337"
+    },
+    {
+      "r": "338"
+    },
+    {
+      "r": "339"
+    },
+    {
+      "r": "340"
+    },
+    {
+      "r": "341"
+    },
+    {
+      "r": "342"
+    },
+    {
+      "r": "343"
+    },
+    {
+      "r": "344"
+    },
+    {
+      "r": "345"
+    },
+    {
+      "r": "346"
+    },
+    {
+      "r": "347"
+    },
+    {
+      "r": "348"
+    },
+    {
+      "r": "349"
+    },
+    {
+      "r": "350"
+    },
+    {
+      "r": "351"
+    },
+    {
+      "r": "352"
+    },
+    {
+      "r": "353"
+    },
+    {
+      "r": "354"
+    },
+    {
+      "r": "355"
+    },
+    {
+      "r": "356"
+    },
+    {
+      "r": "357"
+    },
+    {
+      "r": "358"
+    },
+    {
+      "r": "359"
+    },
+    {
+      "r": "360"
+    },
+    {
+      "r": "361"
+    },
+    {
+      "r": "362"
+    },
+    {
+      "r": "363"
+    },
+    {
+      "r": "364"
+    },
+    {
+      "r": "365"
+    },
+    {
+      "r": "366"
+    },
+    {
+      "r": "367"
+    },
+    {
+      "r": "368"
+    },
+    {
+      "r": "369"
+    },
+    {
+      "r": "370"
+    },
+    {
+      "r": "371"
+    },
+    {
+      "r": "372"
+    },
+    {
+      "r": "373"
+    },
+    {
+      "r": "374"
+    },
+    {
+      "r": "375"
+    },
+    {
+      "r": "376"
+    },
+    {
+      "r": "377"
+    },
+    {
+      "r": "378"
+    },
+    {
+      "r": "379"
+    },
+    {
+      "r": "380"
+    },
+    {
+      "r": "381"
+    },
+    {
+      "r": "382"
+    },
+    {
+      "r": "383"
+    },
+    {
+      "r": "384"
+    },
+    {
+      "r": "385"
+    },
+    {
+      "r": "386"
+    },
+    {
+      "r": "387"
+    },
+    {
+      "r": "388"
+    },
+    {
+      "r": "389"
+    },
+    {
+      "r": "390"
+    },
+    {
+      "r": "391"
+    },
+    {
+      "r": "392"
+    },
+    {
+      "r": "393"
+    },
+    {
+      "r": "394"
+    },
+    {
+      "r": "395"
+    },
+    {
+      "r": "396"
+    },
+    {
+      "r": "397"
+    },
+    {
+      "r": "398"
+    },
+    {
+      "r": "399"
+    },
+    {
+      "r": "400"
+    },
+    {
+      "r": "401"
+    },
+    {
+      "r": "402"
+    },
+    {
+      "r": "403"
+    },
+    {
+      "r": "404"
+    },
+    {
+      "r": "405"
+    },
+    {
+      "r": "406"
+    },
+    {
+      "r": "407"
+    },
+    {
+      "r": "408"
+    },
+    {
+      "r": "409"
+    },
+    {
+      "r": "410"
+    },
+    {
+      "r": "411"
+    },
+    {
+      "r": "412"
+    },
+    {
+      "r": "413"
+    },
+    {
+      "r": "414"
+    },
+    {
+      "r": "415"
+    },
+    {
+      "r": "416"
+    },
+    {
+      "r": "417"
+    },
+    {
+      "r": "418"
+    },
+    {
+      "r": "419"
+    },
+    {
+      "r": "420"
+    },
+    {
+      "r": "421"
+    },
+    {
+      "r": "422"
+    },
+    {
+      "r": "423"
+    },
+    {
+      "r": "424"
+    },
+    {
+      "r": "425"
+    },
+    {
+      "r": "426"
+    },
+    {
+      "r": "427"
+    },
+    {
+      "r": "428"
+    },
+    {
+      "r": "429"
+    },
+    {
+      "r": "430"
+    },
+    {
+      "r": "431"
+    },
+    {
+      "r": "432"
+    },
+    {
+      "r": "433"
+    },
+    {
+      "r": "434"
+    },
+    {
+      "r": "435"
+    },
+    {
+      "r": "436"
+    },
+    {
+      "r": "437"
+    },
+    {
+      "r": "438"
+    },
+    {
+      "r": "439"
+    },
+    {
+      "r": "440"
+    },
+    {
+      "r": "441"
+    },
+    {
+      "r": "442"
+    },
+    {
+      "r": "443"
+    },
+    {
+      "r": "444"
+    },
+    {
+      "r": "445"
+    },
+    {
+      "r": "446"
+    },
+    {
+      "r": "447"
+    },
+    {
+      "r": "448"
+    },
+    {
+      "r": "449"
+    },
+    {
+      "r": "450"
+    },
+    {
+      "r": "451"
+    },
+    {
+      "r": "452"
+    },
+    {
+      "r": "453"
+    },
+    {
+      "r": "454"
+    },
+    {
+      "r": "455"
+    },
+    {
+      "r": "456"
+    },
+    {
+      "r": "457"
+    },
+    {
+      "r": "458"
+    },
+    {
+      "r": "459"
+    },
+    {
+      "r": "460"
+    },
+    {
+      "r": "461"
+    },
+    {
+      "r": "462"
+    },
+    {
+      "r": "463"
+    },
+    {
+      "r": "464"
+    },
+    {
+      "r": "465"
+    },
+    {
+      "r": "466"
+    },
+    {
+      "r": "467"
+    },
+    {
+      "r": "468"
+    },
+    {
+      "r": "469"
+    },
+    {
+      "r": "470"
+    },
+    {
+      "r": "471"
+    },
+    {
+      "r": "472"
+    },
+    {
+      "r": "473"
+    },
+    {
+      "r": "474"
+    },
+    {
+      "r": "475"
+    },
+    {
+      "r": "476"
+    },
+    {
+      "r": "477"
+    },
+    {
+      "r": "478"
+    },
+    {
+      "r": "479"
+    },
+    {
+      "r": "480"
+    },
+    {
+      "r": "481"
+    },
+    {
+      "r": "482"
+    },
+    {
+      "r": "483"
+    },
+    {
+      "r": "484"
+    },
+    {
+      "r": "485"
+    },
+    {
+      "r": "486"
+    },
+    {
+      "r": "487"
+    },
+    {
+      "r": "488"
+    },
+    {
+      "r": "489"
+    },
+    {
+      "r": "490"
+    },
+    {
+      "r": "491"
+    },
+    {
+      "r": "492"
+    },
+    {
+      "r": "493"
+    },
+    {
+      "r": "494"
+    },
+    {
+      "r": "495"
+    },
+    {
+      "r": "496"
+    },
+    {
+      "r": "497"
+    },
+    {
+      "r": "498"
+    },
+    {
+      "r": "499"
+    },
+    {
+      "r": "500"
+    },
+    {
+      "r": "501"
+    },
+    {
+      "r": "502"
+    },
+    {
+      "r": "503"
+    },
+    {
+      "r": "504"
+    },
+    {
+      "r": "505"
+    },
+    {
+      "r": "506"
+    },
+    {
+      "r": "507"
+    },
+    {
+      "r": "508"
+    },
+    {
+      "r": "509"
+    },
+    {
+      "r": "510"
+    },
+    {
+      "r": "511"
+    },
+    {
+      "r": "512"
+    },
+    {
+      "r": "513"
+    },
+    {
+      "r": "514"
+    },
+    {
+      "r": "515"
+    },
+    {
+      "r": "516"
+    },
+    {
+      "r": "517"
+    },
+    {
+      "r": "518"
+    },
+    {
+      "r": "519"
+    },
+    {
+      "r": "520"
+    },
+    {
+      "r": "521"
+    },
+    {
+      "r": "522"
+    },
+    {
+      "r": "523"
+    },
+    {
+      "r": "524"
+    },
+    {
+      "r": "525"
+    },
+    {
+      "r": "526"
+    },
+    {
+      "r": "527"
+    },
+    {
+      "r": "528"
+    },
+    {
+      "r": "529"
+    },
+    {
+      "r": "530"
+    },
+    {
+      "r": "531"
+    },
+    {
+      "r": "532"
+    },
+    {
+      "r": "533"
+    },
+    {
+      "r": "534"
+    },
+    {
+      "r": "535"
+    },
+    {
+      "r": "536"
+    },
+    {
+      "r": "537"
+    },
+    {
+      "r": "538"
+    },
+    {
+      "r": "539"
+    },
+    {
+      "r": "540"
+    },
+    {
+      "r": "541"
+    },
+    {
+      "r": "542"
+    },
+    {
+      "r": "543"
+    },
+    {
+      "r": "544"
+    },
+    {
+      "r": "545"
+    },
+    {
+      "r": "546"
+    },
+    {
+      "r": "547"
+    },
+    {
+      "r": "548"
+    },
+    {
+      "r": "549"
+    },
+    {
+      "r": "550"
+    },
+    {
+      "r": "551"
+    },
+    {
+      "r": "552"
+    },
+    {
+      "r": "553"
+    },
+    {
+      "r": "554"
+    },
+    {
+      "r": "555"
+    },
+    {
+      "r": "556"
+    },
+    {
+      "r": "557"
+    },
+    {
+      "r": "558"
+    },
+    {
+      "r": "559"
+    },
+    {
+      "r": "560"
+    },
+    {
+      "r": "561"
+    },
+    {
+      "r": "562"
+    },
+    {
+      "r": "563"
+    },
+    {
+      "r": "564"
+    },
+    {
+      "r": "565"
+    },
+    {
+      "r": "566"
+    },
+    {
+      "r": "567"
+    },
+    {
+      "r": "568"
+    },
+    {
+      "r": "569"
+    },
+    {
+      "r": "570"
+    },
+    {
+      "r": "571"
+    },
+    {
+      "r": "572"
+    },
+    {
+      "r": "573"
+    },
+    {
+      "r": "574"
+    },
+    {
+      "r": "575"
+    },
+    {
+      "r": "576"
+    },
+    {
+      "r": "577"
+    },
+    {
+      "r": "578"
+    },
+    {
+      "r": "579"
+    },
+    {
+      "r": "580"
+    },
+    {
+      "r": "581"
+    },
+    {
+      "r": "582"
+    },
+    {
+      "r": "583"
+    },
+    {
+      "r": "584"
+    },
+    {
+      "r": "585"
+    },
+    {
+      "r": "586"
+    },
+    {
+      "r": "587"
+    },
+    {
+      "r": "588"
+    },
+    {
+      "r": "589"
+    },
+    {
+      "r": "590"
+    },
+    {
+      "r": "591"
+    },
+    {
+      "r": "592"
+    },
+    {
+      "r": "593"
+    },
+    {
+      "r": "594"
+    },
+    {
+      "r": "595"
+    },
+    {
+      "r": "596"
+    },
+    {
+      "r": "597"
+    },
+    {
+      "r": "598"
+    },
+    {
+      "r": "599"
+    },
+    {
+      "r": "600"
+    },
+    {
+      "r": "601"
+    },
+    {
+      "r": "602"
+    },
+    {
+      "r": "603"
+    },
+    {
+      "r": "604"
+    },
+    {
+      "r": "605"
+    },
+    {
+      "r": "606"
+    },
+    {
+      "r": "607"
+    },
+    {
+      "r": "608"
+    },
+    {
+      "r": "609"
+    },
+    {
+      "r": "610"
+    },
+    {
+      "r": "611"
+    },
+    {
+      "r": "612"
+    },
+    {
+      "r": "613"
+    },
+    {
+      "r": "614"
+    },
+    {
+      "r": "615"
+    },
+    {
+      "r": "616"
+    },
+    {
+      "r": "617"
+    },
+    {
+      "r": "618"
+    },
+    {
+      "r": "619"
+    },
+    {
+      "r": "620"
+    },
+    {
+      "r": "621"
+    },
+    {
+      "r": "622"
+    },
+    {
+      "r": "623"
+    },
+    {
+      "r": "624"
+    },
+    {
+      "r": "625"
+    },
+    {
+      "r": "626"
+    },
+    {
+      "r": "627"
+    },
+    {
+      "r": "628"
+    },
+    {
+      "r": "629"
+    },
+    {
+      "r": "630"
+    },
+    {
+      "r": "631"
+    },
+    {
+      "r": "632"
+    },
+    {
+      "r": "633"
+    },
+    {
+      "r": "634"
+    },
+    {
+      "r": "635"
+    },
+    {
+      "r": "636"
+    },
+    {
+      "r": "637"
+    },
+    {
+      "r": "638"
+    },
+    {
+      "r": "639"
+    },
+    {
+      "r": "640"
+    },
+    {
+      "r": "641"
+    },
+    {
+      "r": "642"
+    },
+    {
+      "r": "643"
+    },
+    {
+      "r": "644"
+    },
+    {
+      "r": "645"
+    },
+    {
+      "r": "646"
+    },
+    {
+      "r": "647"
+    },
+    {
+      "r": "648"
+    },
+    {
+      "r": "649"
+    },
+    {
+      "r": "650"
+    },
+    {
+      "r": "651"
+    },
+    {
+      "r": "652"
+    },
+    {
+      "r": "653"
+    },
+    {
+      "r": "654"
+    },
+    {
+      "r": "655"
+    },
+    {
+      "r": "656"
+    },
+    {
+      "r": "657"
+    },
+    {
+      "r": "658"
+    },
+    {
+      "r": "659"
+    },
+    {
+      "r": "660"
+    },
+    {
+      "r": "661"
+    },
+    {
+      "r": "662"
+    },
+    {
+      "r": "663"
+    },
+    {
+      "r": "664"
+    },
+    {
+      "r": "665"
+    },
+    {
+      "r": "666"
+    },
+    {
+      "r": "667"
+    },
+    {
+      "r": "668"
+    },
+    {
+      "r": "669"
+    },
+    {
+      "r": "670"
+    },
+    {
+      "r": "671"
+    },
+    {
+      "r": "672"
+    },
+    {
+      "r": "673"
+    },
+    {
+      "r": "674"
+    },
+    {
+      "r": "675"
+    },
+    {
+      "r": "676"
+    },
+    {
+      "r": "677"
+    },
+    {
+      "r": "678"
+    },
+    {
+      "r": "679"
+    },
+    {
+      "r": "680"
+    },
+    {
+      "r": "681"
+    },
+    {
+      "r": "682"
+    },
+    {
+      "r": "683"
+    },
+    {
+      "r": "684"
+    },
+    {
+      "r": "685"
+    },
+    {
+      "r": "686"
+    },
+    {
+      "r": "687"
+    },
+    {
+      "r": "688"
+    },
+    {
+      "r": "689"
+    },
+    {
+      "r": "690"
+    },
+    {
+      "r": "691"
+    },
+    {
+      "r": "692"
+    },
+    {
+      "r": "693"
+    },
+    {
+      "r": "694"
+    },
+    {
+      "r": "695"
+    },
+    {
+      "r": "696"
+    },
+    {
+      "r": "697"
+    },
+    {
+      "r": "698"
+    },
+    {
+      "r": "699"
+    },
+    {
+      "r": "700"
+    },
+    {
+      "r": "701"
+    },
+    {
+      "r": "702"
+    },
+    {
+      "r": "703"
+    },
+    {
+      "r": "704"
+    },
+    {
+      "r": "705"
+    },
+    {
+      "r": "706"
+    },
+    {
+      "r": "707"
+    },
+    {
+      "r": "708"
+    },
+    {
+      "r": "709"
+    },
+    {
+      "r": "710"
+    },
+    {
+      "r": "711"
+    },
+    {
+      "r": "712"
+    },
+    {
+      "r": "713"
+    },
+    {
+      "r": "714"
+    },
+    {
+      "r": "715"
+    },
+    {
+      "r": "716"
+    },
+    {
+      "r": "717"
+    },
+    {
+      "r": "718"
+    },
+    {
+      "r": "719"
+    },
+    {
+      "r": "720"
+    },
+    {
+      "r": "721"
+    },
+    {
+      "r": "722"
+    },
+    {
+      "r": "723"
+    },
+    {
+      "r": "724"
+    },
+    {
+      "r": "725"
+    },
+    {
+      "r": "726"
+    },
+    {
+      "r": "727"
+    },
+    {
+      "r": "728"
+    },
+    {
+      "r": "729"
+    },
+    {
+      "r": "730"
+    },
+    {
+      "r": "731"
+    },
+    {
+      "r": "732"
+    },
+    {
+      "r": "733"
+    },
+    {
+      "r": "734"
+    },
+    {
+      "r": "735"
+    },
+    {
+      "r": "736"
+    },
+    {
+      "r": "737"
+    },
+    {
+      "r": "738"
+    },
+    {
+      "r": "739"
+    },
+    {
+      "r": "740"
+    },
+    {
+      "r": "741"
+    },
+    {
+      "r": "742"
+    },
+    {
+      "r": "743"
+    },
+    {
+      "r": "744"
+    },
+    {
+      "r": "745"
+    },
+    {
+      "r": "746"
+    },
+    {
+      "r": "747"
+    },
+    {
+      "r": "748"
+    },
+    {
+      "r": "749"
+    },
+    {
+      "r": "750"
+    },
+    {
+      "r": "751"
+    },
+    {
+      "r": "752"
+    },
+    {
+      "r": "753"
+    },
+    {
+      "r": "754"
+    },
+    {
+      "r": "755"
+    },
+    {
+      "r": "756"
+    },
+    {
+      "r": "757"
+    },
+    {
+      "r": "758"
+    },
+    {
+      "r": "759"
+    },
+    {
+      "r": "760"
+    },
+    {
+      "r": "761"
+    },
+    {
+      "r": "762"
+    },
+    {
+      "r": "763"
+    },
+    {
+      "r": "764"
+    },
+    {
+      "r": "765"
+    },
+    {
+      "r": "766"
+    },
+    {
+      "r": "767"
+    },
+    {
+      "r": "768"
+    },
+    {
+      "r": "769"
+    },
+    {
+      "r": "770"
+    },
+    {
+      "r": "771"
+    },
+    {
+      "r": "772"
+    },
+    {
+      "r": "773"
+    },
+    {
+      "r": "774"
+    },
+    {
+      "r": "775"
+    },
+    {
+      "r": "776"
+    },
+    {
+      "r": "777"
+    },
+    {
+      "r": "778"
+    },
+    {
+      "r": "779"
+    },
+    {
+      "r": "780"
+    },
+    {
+      "r": "781"
+    },
+    {
+      "r": "782"
+    },
+    {
+      "r": "783"
+    },
+    {
+      "r": "784"
+    },
+    {
+      "r": "785"
+    },
+    {
+      "r": "786"
+    },
+    {
+      "r": "787"
+    },
+    {
+      "r": "788"
+    },
+    {
+      "r": "789"
+    },
+    {
+      "r": "790"
+    },
+    {
+      "r": "791"
+    },
+    {
+      "r": "792"
+    },
+    {
+      "r": "793"
+    },
+    {
+      "r": "794"
+    },
+    {
+      "r": "795"
+    },
+    {
+      "r": "796"
+    },
+    {
+      "r": "797"
+    },
+    {
+      "r": "798"
+    },
+    {
+      "r": "799"
+    },
+    {
+      "r": "800"
+    },
+    {
+      "r": "801"
+    },
+    {
+      "r": "802"
+    },
+    {
+      "r": "803"
+    },
+    {
+      "r": "804"
+    },
+    {
+      "r": "805"
+    },
+    {
+      "r": "806"
+    },
+    {
+      "r": "807"
+    },
+    {
+      "r": "808"
+    },
+    {
+      "r": "809"
+    },
+    {
+      "r": "810"
+    },
+    {
+      "r": "811"
+    },
+    {
+      "r": "812"
+    },
+    {
+      "r": "813"
+    },
+    {
+      "r": "814"
+    },
+    {
+      "r": "815"
+    },
+    {
+      "r": "816"
+    },
+    {
+      "r": "817"
+    },
+    {
+      "r": "818"
+    },
+    {
+      "r": "819"
+    },
+    {
+      "r": "820"
+    },
+    {
+      "r": "821"
+    },
+    {
+      "r": "822"
+    },
+    {
+      "r": "823"
+    },
+    {
+      "r": "824"
+    },
+    {
+      "r": "825"
+    },
+    {
+      "r": "826"
+    },
+    {
+      "r": "827"
+    },
+    {
+      "r": "828"
+    },
+    {
+      "r": "829"
+    },
+    {
+      "r": "830"
+    },
+    {
+      "r": "831"
+    },
+    {
+      "r": "832"
+    },
+    {
+      "r": "833"
+    },
+    {
+      "r": "834"
+    },
+    {
+      "r": "835"
+    },
+    {
+      "r": "836"
+    },
+    {
+      "r": "837"
+    },
+    {
+      "r": "838"
+    },
+    {
+      "r": "839"
+    },
+    {
+      "r": "840"
+    },
+    {
+      "r": "841"
+    },
+    {
+      "r": "842"
+    },
+    {
+      "r": "843"
+    },
+    {
+      "r": "844"
+    },
+    {
+      "r": "845"
+    },
+    {
+      "r": "846"
+    },
+    {
+      "r": "847"
+    },
+    {
+      "r": "848"
+    },
+    {
+      "r": "849"
+    },
+    {
+      "r": "850"
+    },
+    {
+      "r": "851"
+    },
+    {
+      "r": "852"
+    },
+    {
+      "r": "853"
+    },
+    {
+      "r": "854"
+    },
+    {
+      "r": "855"
+    },
+    {
+      "r": "856"
+    },
+    {
+      "r": "857"
+    },
+    {
+      "r": "858"
+    },
+    {
+      "r": "859"
+    },
+    {
+      "r": "860"
+    },
+    {
+      "r": "861"
+    },
+    {
+      "r": "862"
+    },
+    {
+      "r": "863"
+    },
+    {
+      "r": "864"
+    },
+    {
+      "r": "865"
+    },
+    {
+      "r": "866"
+    },
+    {
+      "r": "867"
+    },
+    {
+      "r": "868"
+    },
+    {
+      "r": "869"
+    },
+    {
+      "r": "870"
+    },
+    {
+      "r": "871"
+    },
+    {
+      "r": "872"
+    },
+    {
+      "r": "873"
+    },
+    {
+      "r": "874"
+    },
+    {
+      "r": "875"
+    },
+    {
+      "r": "876"
+    },
+    {
+      "r": "877"
+    },
+    {
+      "r": "878"
+    },
+    {
+      "r": "879"
+    },
+    {
+      "r": "880"
+    },
+    {
+      "r": "881"
+    },
+    {
+      "r": "882"
+    },
+    {
+      "r": "883"
+    },
+    {
+      "r": "884"
+    },
+    {
+      "r": "885"
+    },
+    {
+      "r": "886"
+    },
+    {
+      "r": "887"
+    },
+    {
+      "r": "888"
+    },
+    {
+      "r": "889"
+    },
+    {
+      "r": "890"
+    },
+    {
+      "r": "891"
+    },
+    {
+      "r": "892"
+    },
+    {
+      "r": "893"
+    },
+    {
+      "r": "894"
+    },
+    {
+      "r": "895"
+    },
+    {
+      "r": "896"
+    },
+    {
+      "r": "897"
+    },
+    {
+      "r": "898"
+    },
+    {
+      "r": "899"
+    },
+    {
+      "r": "900"
+    },
+    {
+      "r": "901"
+    },
+    {
+      "r": "902"
+    },
+    {
+      "r": "903"
+    },
+    {
+      "r": "904"
+    },
+    {
+      "r": "905"
+    },
+    {
+      "r": "906"
+    },
+    {
+      "r": "907"
+    },
+    {
+      "r": "908"
+    },
+    {
+      "r": "909"
+    },
+    {
+      "r": "910"
+    },
+    {
+      "r": "911"
+    },
+    {
+      "r": "912"
+    },
+    {
+      "r": "913"
+    },
+    {
+      "r": "914"
+    },
+    {
+      "r": "915"
+    },
+    {
+      "r": "916"
+    },
+    {
+      "r": "917"
+    },
+    {
+      "r": "918"
+    },
+    {
+      "r": "919"
+    },
+    {
+      "r": "920"
+    },
+    {
+      "r": "921"
+    },
+    {
+      "r": "922"
+    },
+    {
+      "r": "923"
+    },
+    {
+      "r": "924"
+    },
+    {
+      "r": "925"
+    },
+    {
+      "r": "926"
+    },
+    {
+      "r": "927"
+    },
+    {
+      "r": "928"
+    },
+    {
+      "r": "929"
+    },
+    {
+      "r": "930"
+    },
+    {
+      "r": "931"
+    },
+    {
+      "r": "932"
+    },
+    {
+      "r": "933"
+    },
+    {
+      "r": "934"
+    },
+    {
+      "r": "935"
+    },
+    {
+      "r": "936"
+    },
+    {
+      "r": "937"
+    },
+    {
+      "r": "938"
+    },
+    {
+      "r": "939"
+    },
+    {
+      "r": "940"
+    },
+    {
+      "r": "941"
+    },
+    {
+      "r": "942"
+    },
+    {
+      "r": "943"
+    },
+    {
+      "r": "944"
+    },
+    {
+      "r": "945"
+    },
+    {
+      "r": "946"
+    },
+    {
+      "r": "947"
+    },
+    {
+      "r": "948"
+    },
+    {
+      "r": "949"
+    },
+    {
+      "r": "950"
+    },
+    {
+      "r": "951"
+    },
+    {
+      "r": "952"
+    },
+    {
+      "r": "953"
+    },
+    {
+      "r": "954"
+    },
+    {
+      "r": "955"
+    },
+    {
+      "r": "956"
+    },
+    {
+      "r": "957"
+    },
+    {
+      "r": "958"
+    },
+    {
+      "r": "959"
+    },
+    {
+      "r": "960"
+    },
+    {
+      "r": "961"
+    },
+    {
+      "r": "962"
+    },
+    {
+      "r": "963"
+    },
+    {
+      "r": "964"
+    },
+    {
+      "r": "965"
+    },
+    {
+      "r": "966"
+    },
+    {
+      "r": "967"
+    },
+    {
+      "r": "968"
+    },
+    {
+      "r": "969"
+    },
+    {
+      "r": "970"
+    },
+    {
+      "r": "971"
+    },
+    {
+      "r": "972"
+    },
+    {
+      "r": "973"
+    },
+    {
+      "r": "974"
+    },
+    {
+      "r": "975"
+    },
+    {
+      "r": "976"
+    },
+    {
+      "r": "977"
+    },
+    {
+      "r": "978"
+    },
+    {
+      "r": "979"
+    },
+    {
+      "r": "980"
+    },
+    {
+      "r": "981"
+    },
+    {
+      "r": "982"
+    },
+    {
+      "r": "983"
+    },
+    {
+      "r": "984"
+    },
+    {
+      "r": "985"
+    },
+    {
+      "r": "986"
+    },
+    {
+      "r": "987"
+    },
+    {
+      "r": "988"
+    },
+    {
+      "r": "989"
+    },
+    {
+      "r": "990"
+    },
+    {
+      "r": "991"
+    },
+    {
+      "r": "992"
+    },
+    {
+      "r": "993"
+    },
+    {
+      "r": "994"
+    },
+    {
+      "r": "995"
+    },
+    {
+      "r": "996"
+    },
+    {
+      "r": "997"
+    },
+    {
+      "r": "998"
+    },
+    {
+      "r": "999"
+    },
+    {
+      "r": "1000"
+    },
+    {
+      "r": "1001"
+    },
+    {
+      "r": "1002"
+    },
+    {
+      "r": "1003"
+    },
+    {
+      "r": "1004"
+    },
+    {
+      "r": "1005"
+    },
+    {
+      "r": "1006"
+    },
+    {
+      "r": "1007"
+    },
+    {
+      "r": "1008"
+    },
+    {
+      "r": "1009"
+    },
+    {
+      "r": "1010"
+    },
+    {
+      "r": "1011"
+    }
+  ],
+  "celulas_xml_total": 6040,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 153,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

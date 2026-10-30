@@ -1,0 +1,93 @@
+{
+  "data": "2026-10-29",
+  "aprovado": true,
+  "contagens": {
+    "originais": 65,
+    "conversoes_textuais": 60,
+    "sessoes": 27,
+    "hashes_saidas_binarias": 227,
+    "notas_markdown": 563,
+    "wikilinks": 5429,
+    "links_locais": 359,
+    "origens_presentes": 0,
+    "origens_removidas_com_registro": 65
+  },
+  "origens_com_destino": 65,
+  "cobertura_base_inicial": {
+    "BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md": [
+      "conteudo/Fontes/Documentos/Background - Glim Sombrasselva.md"
+    ],
+    "BASE INICIAL/DIARIO DE RPG (Fash).md": [
+      "conteudo/Fontes/Documentos/Diario - Fash Paleskin.md"
+    ],
+    "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md": [
+      "conteudo/Fontes/Documentos/Diario - Glim Sombrasselva.md"
+    ],
+    "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt": [
+      "conteudo/Fontes/Documentos/Diario - Glim Sombrasselva - Texto.md"
+    ],
+    "BASE INICIAL/Dossiê de personagem - Okay dBoa.txt": [
+      "conteudo/Fontes/Documentos/Dossie de personagem - Okay dBoa.md"
+    ],
+    "BASE INICIAL/FASH PALESKIN.xlsx": [
+      "conteudo/Fontes/Planilhas/Fash Paleskin.md",
+      "conteudo/Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+      "conteudo/Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+      "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+      "conteudo/Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+      "conteudo/Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+      "conteudo/Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md"
+    ],
+    "BASE INICIAL/GLIM SOMBRASSELVA.xlsx": [
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - XP.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+      "conteudo/Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md"
+    ],
+    "BASE INICIAL/Nota1.pdf": [
+      "conteudo/Fontes/Documentos/Nota1.md"
+    ],
+    "BASE INICIAL/Nota2.pdf": [
+      "conteudo/Fontes/Documentos/Nota2.md"
+    ],
+    "BASE INICIAL/Personagens e Herois.txt": [
+      "conteudo/Fontes/Documentos/Personagens e Herois.md"
+    ],
+    "BASE INICIAL/Resumo detalhado.docx": [
+      "conteudo/Fontes/Documentos/Resumo detalhado.md"
+    ],
+    "BASE INICIAL/RPG - Handoff do cenario para o mestre.md": [
+      "conteudo/Fontes/Documentos/Handoff do cenario.md"
+    ]
+  },
+  "notas_alcancaveis": 563,
+  "notas_orfas": [],
+  "erros": [],
+  "escopo_yaml": "Subconjunto YAML de escalares e listas produzido pelos conversores; não é um parser YAML genérico.",
+  "limpeza_registrada": {
+    "estado": "concluida",
+    "data": "2026-10-29T19:04:00.0591245-03:00",
+    "registro": "docs/limpeza/execucao.json",
+    "scripts_atualizados": [
+      {
+        "caminho": "tools/converter_docx.py",
+        "sha256_antes": "db46a733b6de5a9cbd650ff904be50bedd2041db99f24175db36840adb6db116",
+        "sha256_depois": "d3eef19d502c62c9af12786de4d50c028faf4ed3939cc8590e5739c859f96e16",
+        "motivo": "Resolvedor estrito de fontes arquivadas após a limpeza autorizada e trava contra regeneração acidental de fontes curadas; manifesto histórico preservado."
+      }
+    ]
+  },
+  "observacoes": [
+    "Hashes conferem as cópias arquivadas e os originais ainda presentes; ausências exigem os mesmos caminhos e hashes no manifesto, na auditoria e no registro de limpeza concluída.",
+    "A validação não transforma interpretações narrativas em fatos confirmados.",
+    "Esta verificação não exclui arquivos nem publica o site."
+  ]
+}

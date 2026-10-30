@@ -1,0 +1,5638 @@
+{
+  "fonte": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+  "sha256_fonte": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+  "aba": "MAIN",
+  "ordem": 1,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet1.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "18",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "8",
+      "valor": "BUILD",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G2",
+      "atributos": {
+        "r": "G2",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": "SKILL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H2",
+      "atributos": {
+        "r": "H2",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "13",
+      "valor": "GRAD",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I2",
+      "atributos": {
+        "r": "I2",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "16",
+      "valor": "SPENT",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J2",
+      "atributos": {
+        "r": "J2",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "18",
+      "valor": "ATRIB",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K2",
+      "atributos": {
+        "r": "K2",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "19",
+      "valor": "MISC",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L2",
+      "atributos": {
+        "r": "L2",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "21",
+      "valor": "TOTAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G3",
+      "atributos": {
+        "r": "G3",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "43",
+      "valor": "Bluff",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H3",
+      "atributos": {
+        "r": "H3",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I3",
+      "atributos": {
+        "r": "I3",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8",
+      "valor": 8,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H3*2",
+        "atributos": {},
+        "expandida": "=H3*2"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "8",
+        "valor": 8
+      }
+    },
+    {
+      "celula": "J3",
+      "atributos": {
+        "r": "J3",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L3",
+      "atributos": {
+        "r": "L3",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(H3,J3,K3)",
+        "atributos": {
+          "t": "shared",
+          "ref": "L3:L20",
+          "si": "1"
+        },
+        "expandida": "=SUM(H3,J3,K3)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "77",
+      "valor": "Forest Gnome",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C4",
+      "atributos": {
+        "r": "C4",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "86",
+      "valor": "Wizard",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D4",
+      "atributos": {
+        "r": "D4",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "94",
+      "valor": "Shadowcrafter",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E4",
+      "atributos": {
+        "r": "E4",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "99",
+      "valor": "Shadow Adept",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G4",
+      "atributos": {
+        "r": "G4",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "104",
+      "valor": "Concentration",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H4",
+      "atributos": {
+        "r": "H4",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "10.0",
+      "valor": 10.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I4",
+      "atributos": {
+        "r": "I4",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "10",
+      "valor": 10,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H4",
+        "atributos": {
+          "t": "shared",
+          "ref": "I4:I7",
+          "si": "2"
+        },
+        "expandida": "=H4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "10",
+        "valor": 10
+      }
+    },
+    {
+      "celula": "J4",
+      "atributos": {
+        "r": "J4",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L4",
+      "atributos": {
+        "r": "L4",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "14",
+      "valor": 14,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H4,J4,K4)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "14",
+        "valor": 14
+      }
+    },
+    {
+      "celula": "B5",
+      "atributos": {
+        "r": "B5",
+        "s": "42",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "109",
+      "valor": "Incantatrix",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C5",
+      "atributos": {
+        "r": "C5",
+        "s": "42",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "112",
+      "valor": "Shadowcraft Mage",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D5",
+      "atributos": {
+        "r": "D5",
+        "s": "42",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "114",
+      "valor": "Master Specialist",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E5",
+      "atributos": {
+        "r": "E5",
+        "s": "42",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "116",
+      "valor": "Mindbender",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G5",
+      "atributos": {
+        "r": "G5",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "119",
+      "valor": "Craft(Alchemy)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H5",
+      "atributos": {
+        "r": "H5",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I5",
+      "atributos": {
+        "r": "I5",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=H5",
+        "ancora_compartilhada": "I4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J5",
+      "atributos": {
+        "r": "J5",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K5",
+      "atributos": {
+        "r": "K5",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L5",
+      "atributos": {
+        "r": "L5",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7",
+      "valor": 7,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H5,J5,K5)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "7",
+        "valor": 7
+      }
+    },
+    {
+      "celula": "G6",
+      "atributos": {
+        "r": "G6",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "121",
+      "valor": "Craft(Drawing)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H6",
+      "atributos": {
+        "r": "H6",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I6",
+      "atributos": {
+        "r": "I6",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=H6",
+        "ancora_compartilhada": "I4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "J6",
+      "atributos": {
+        "r": "J6",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L6",
+      "atributos": {
+        "r": "L6",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6",
+      "valor": 6,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H6,J6,K6)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "6",
+        "valor": 6
+      }
+    },
+    {
+      "celula": "A7",
+      "atributos": {
+        "r": "A7",
+        "s": "47"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B7",
+      "atributos": {
+        "r": "B7",
+        "s": "48",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "123",
+      "valor": "Wizard 1 - Gnome Ilusionist, Focused Specialist (Illusion), Imediate Magic (Brief Figment), Combat Wizard (Improved Initiative)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D7",
+      "atributos": {
+        "r": "D7",
+        "s": "51",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "125",
+      "valor": "Flaw: Vulnerable",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E7",
+      "atributos": {
+        "r": "E7",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "127",
+      "valor": "STR: 8 (10 - 2)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G7",
+      "atributos": {
+        "r": "G7",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "129",
+      "valor": "Decipher Script",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H7",
+      "atributos": {
+        "r": "H7",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I7",
+      "atributos": {
+        "r": "I7",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=H7",
+        "ancora_compartilhada": "I4"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J7",
+      "atributos": {
+        "r": "J7",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L7",
+      "atributos": {
+        "r": "L7",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H7,J7,K7)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "D8",
+      "atributos": {
+        "r": "D8",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "131",
+      "valor": "Flaw: Noncombatant",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E8",
+      "atributos": {
+        "r": "E8",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "132",
+      "valor": "DEX: 14",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G8",
+      "atributos": {
+        "r": "G8",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "133",
+      "valor": "Hide",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H8",
+      "atributos": {
+        "r": "H8",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I8",
+      "atributos": {
+        "r": "I8",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8",
+      "valor": 8,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H8*2",
+        "atributos": {},
+        "expandida": "=H8*2"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "8",
+        "valor": 8
+      }
+    },
+    {
+      "celula": "J8",
+      "atributos": {
+        "r": "J8",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K8",
+      "atributos": {
+        "r": "K8",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L8",
+      "atributos": {
+        "r": "L8",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "14",
+      "valor": 14,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H8,J8,K8)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "14",
+        "valor": 14
+      }
+    },
+    {
+      "celula": "D9",
+      "atributos": {
+        "r": "D9",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "135",
+      "valor": "Spell Focus (Illusion)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E9",
+      "atributos": {
+        "r": "E9",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "136",
+      "valor": "CON: 18 (16 + 2)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G9",
+      "atributos": {
+        "r": "G9",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "137",
+      "valor": "K(Arcana)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H9",
+      "atributos": {
+        "r": "H9",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7.0",
+      "valor": 7.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I9",
+      "atributos": {
+        "r": "I9",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7",
+      "valor": 7,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H9",
+        "atributos": {
+          "t": "shared",
+          "ref": "I9:I20",
+          "si": "3"
+        },
+        "expandida": "=H9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "7",
+        "valor": 7
+      }
+    },
+    {
+      "celula": "J9",
+      "atributos": {
+        "r": "J9",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L9",
+      "atributos": {
+        "r": "L9",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H9,J9,K9)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "D10",
+      "atributos": {
+        "r": "D10",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "139",
+      "valor": "Spellcasting Prodigy",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E10",
+      "atributos": {
+        "r": "E10",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "142",
+      "valor": "INT: 19 (18 + 1)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G10",
+      "atributos": {
+        "r": "G10",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "143",
+      "valor": "K(Arch./Engineering)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H10",
+      "atributos": {
+        "r": "H10",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I10",
+      "atributos": {
+        "r": "I10",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H10",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J10",
+      "atributos": {
+        "r": "J10",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L10",
+      "atributos": {
+        "r": "L10",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H10,J10,K10)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "D11",
+      "atributos": {
+        "r": "D11",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "144",
+      "valor": "Shadow Weave Magic",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E11",
+      "atributos": {
+        "r": "E11",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "146",
+      "valor": "WIS: 15",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G11",
+      "atributos": {
+        "r": "G11",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "147",
+      "valor": "K(Dungeoneering)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H11",
+      "atributos": {
+        "r": "H11",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I11",
+      "atributos": {
+        "r": "I11",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H11",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J11",
+      "atributos": {
+        "r": "J11",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L11",
+      "atributos": {
+        "r": "L11",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H11,J11,K11)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A12",
+      "atributos": {
+        "r": "A12",
+        "s": "56"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B12",
+      "atributos": {
+        "r": "B12",
+        "s": "57",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "150",
+      "valor": "Wizard 2 - ",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E12",
+      "atributos": {
+        "r": "E12",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "151",
+      "valor": "CHA: 10",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G12",
+      "atributos": {
+        "r": "G12",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "152",
+      "valor": "K(Geography)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H12",
+      "atributos": {
+        "r": "H12",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I12",
+      "atributos": {
+        "r": "I12",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H12",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J12",
+      "atributos": {
+        "r": "J12",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L12",
+      "atributos": {
+        "r": "L12",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H12,J12,K12)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A13",
+      "atributos": {
+        "r": "A13",
+        "s": "56"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B13",
+      "atributos": {
+        "r": "B13",
+        "s": "57",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "154",
+      "valor": "Wizard 3 - ",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D13",
+      "atributos": {
+        "r": "D13",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "155",
+      "valor": "Heighten Spell",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G13",
+      "atributos": {
+        "r": "G13",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "157",
+      "valor": "K(History)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H13",
+      "atributos": {
+        "r": "H13",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I13",
+      "atributos": {
+        "r": "I13",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H13",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J13",
+      "atributos": {
+        "r": "J13",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L13",
+      "atributos": {
+        "r": "L13",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H13,J13,K13)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A14",
+      "atributos": {
+        "r": "A14",
+        "s": "56"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B14",
+      "atributos": {
+        "r": "B14",
+        "s": "57",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "159",
+      "valor": "Master Specialist 1 - Skill Focus (Spellcraft)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E14",
+      "atributos": {
+        "r": "E14",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "160",
+      "valor": "PV: 48",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G14",
+      "atributos": {
+        "r": "G14",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "161",
+      "valor": "K(Local)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H14",
+      "atributos": {
+        "r": "H14",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I14",
+      "atributos": {
+        "r": "I14",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H14",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J14",
+      "atributos": {
+        "r": "J14",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L14",
+      "atributos": {
+        "r": "L14",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H14,J14,K14)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A15",
+      "atributos": {
+        "r": "A15",
+        "s": "56"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B15",
+      "atributos": {
+        "r": "B15",
+        "s": "57",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "162",
+      "valor": "Master Specialist 2 - Expanded spellbook",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E15",
+      "atributos": {
+        "r": "E15",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "163",
+      "valor": "FORT: 8 (1+1+4+2)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G15",
+      "atributos": {
+        "r": "G15",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "164",
+      "valor": "K(Nature)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H15",
+      "atributos": {
+        "r": "H15",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I15",
+      "atributos": {
+        "r": "I15",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H15",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J15",
+      "atributos": {
+        "r": "J15",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L15",
+      "atributos": {
+        "r": "L15",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H15,J15,K15)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A16",
+      "atributos": {
+        "r": "A16",
+        "s": "56"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6.0",
+      "valor": 6.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B16",
+      "atributos": {
+        "r": "B16",
+        "s": "57",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "166",
+      "valor": "Master Specialist 3 - Greater Spell Focus",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D16",
+      "atributos": {
+        "r": "D16",
+        "s": "61",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "167",
+      "valor": "Earth Sense",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E16",
+      "atributos": {
+        "r": "E16",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "170",
+      "valor": "REFL: 6 (1+1+2+2)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G16",
+      "atributos": {
+        "r": "G16",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "171",
+      "valor": "K(Psionics)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H16",
+      "atributos": {
+        "r": "H16",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I16",
+      "atributos": {
+        "r": "I16",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H16",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J16",
+      "atributos": {
+        "r": "J16",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L16",
+      "atributos": {
+        "r": "L16",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H16,J16,K16)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A17",
+      "atributos": {
+        "r": "A17",
+        "s": "56"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7.0",
+      "valor": 7.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B17",
+      "atributos": {
+        "r": "B17",
+        "s": "57",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "172",
+      "valor": "Master Specialist 4 - Minor school esoterica",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E17",
+      "atributos": {
+        "r": "E17",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "173",
+      "valor": "VONT: 11 (3+4+2+2)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G17",
+      "atributos": {
+        "r": "G17",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "174",
+      "valor": "K(Religion)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H17",
+      "atributos": {
+        "r": "H17",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I17",
+      "atributos": {
+        "r": "I17",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H17",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J17",
+      "atributos": {
+        "r": "J17",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L17",
+      "atributos": {
+        "r": "L17",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H17,J17,K17)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A18",
+      "atributos": {
+        "r": "A18",
+        "s": "66"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B18",
+      "atributos": {
+        "r": "B18",
+        "s": "67",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "176",
+      "valor": "Shadowcraft Mage 1 - Cloak of shadow",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E18",
+      "atributos": {
+        "r": "E18",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "177",
+      "valor": "CA: 12 (10 + 2 + 1 - 1)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G18",
+      "atributos": {
+        "r": "G18",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "178",
+      "valor": "K(Planes)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H18",
+      "atributos": {
+        "r": "H18",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I18",
+      "atributos": {
+        "r": "I18",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H18",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J18",
+      "atributos": {
+        "r": "J18",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L18",
+      "atributos": {
+        "r": "L18",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H18,J18,K18)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "A19",
+      "atributos": {
+        "r": "A19",
+        "s": "66"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "9.0",
+      "valor": 9.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B19",
+      "atributos": {
+        "r": "B19",
+        "s": "67",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "179",
+      "valor": "Shadowcraft Mage 2 - Silent illusion",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D19",
+      "atributos": {
+        "r": "D19",
+        "s": "68",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "180",
+      "valor": "Earth Spell",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G19",
+      "atributos": {
+        "r": "G19",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "182",
+      "valor": "Listen",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I19",
+      "atributos": {
+        "r": "I19",
+        "s": "29",
+        "t": "str"
+      },
+      "tipo_xml": "str",
+      "valor_xml_presente": true,
+      "valor_xml": null,
+      "valor": null,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H19",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "vazio_no_xml",
+        "tipo_xml": "str",
+        "valor_xml": null,
+        "valor": null
+      }
+    },
+    {
+      "celula": "J19",
+      "atributos": {
+        "r": "J19",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K19",
+      "atributos": {
+        "r": "K19",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L19",
+      "atributos": {
+        "r": "L19",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H19,J19,K19)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "A20",
+      "atributos": {
+        "r": "A20",
+        "s": "66"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "10.0",
+      "valor": 10.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B20",
+      "atributos": {
+        "r": "B20",
+        "s": "67",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "184",
+      "valor": "Shadowcraft Mage 3 - Shadow illusion",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G20",
+      "atributos": {
+        "r": "G20",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "185",
+      "valor": "Move Silent",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I20",
+      "atributos": {
+        "r": "I20",
+        "s": "29",
+        "t": "str"
+      },
+      "tipo_xml": "str",
+      "valor_xml_presente": true,
+      "valor_xml": null,
+      "valor": null,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H20",
+        "ancora_compartilhada": "I9"
+      },
+      "cache": {
+        "estado": "vazio_no_xml",
+        "tipo_xml": "str",
+        "valor_xml": null,
+        "valor": null
+      }
+    },
+    {
+      "celula": "J20",
+      "atributos": {
+        "r": "J20",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L20",
+      "atributos": {
+        "r": "L20",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=SUM(H20,J20,K20)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "G21",
+      "atributos": {
+        "r": "G21",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "186",
+      "valor": "Speak Language",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H21",
+      "atributos": {
+        "r": "H21",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I21",
+      "atributos": {
+        "r": "I21",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H21*2",
+        "atributos": {},
+        "expandida": "=H21*2"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "J21",
+      "atributos": {
+        "r": "J21",
+        "s": "69",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K21",
+      "atributos": {
+        "r": "K21",
+        "s": "69",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L21",
+      "atributos": {
+        "r": "L21",
+        "s": "69",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G22",
+      "atributos": {
+        "r": "G22",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "188",
+      "valor": "Spellcraft",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H22",
+      "atributos": {
+        "r": "H22",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "10.0",
+      "valor": 10.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I22",
+      "atributos": {
+        "r": "I22",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "10",
+      "valor": 10,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H22",
+        "atributos": {
+          "t": "shared",
+          "ref": "I22:I24",
+          "si": "4"
+        },
+        "expandida": "=H22"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "10",
+        "valor": 10
+      }
+    },
+    {
+      "celula": "J22",
+      "atributos": {
+        "r": "J22",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K22",
+      "atributos": {
+        "r": "K22",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L22",
+      "atributos": {
+        "r": "L22",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "17",
+      "valor": 17,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(H22,J22,K22)",
+        "atributos": {
+          "t": "shared",
+          "ref": "L22:L23",
+          "si": "5"
+        },
+        "expandida": "=SUM(H22,J22,K22)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "17",
+        "valor": 17
+      }
+    },
+    {
+      "celula": "B23",
+      "atributos": {
+        "r": "B23",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "190",
+      "valor": "NOTES",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C23",
+      "atributos": {
+        "r": "C23",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "191",
+      "valor": "ILLUSION DC",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D23",
+      "atributos": {
+        "r": "D23",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "192",
+      "valor": "FEATS",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G23",
+      "atributos": {
+        "r": "G23",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "193",
+      "valor": "Spot",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I23",
+      "atributos": {
+        "r": "I23",
+        "s": "29",
+        "t": "str"
+      },
+      "tipo_xml": "str",
+      "valor_xml_presente": true,
+      "valor_xml": null,
+      "valor": null,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "4"
+        },
+        "expandida": "=H23",
+        "ancora_compartilhada": "I22"
+      },
+      "cache": {
+        "estado": "vazio_no_xml",
+        "tipo_xml": "str",
+        "valor_xml": null,
+        "valor": null
+      }
+    },
+    {
+      "celula": "J23",
+      "atributos": {
+        "r": "J23",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L23",
+      "atributos": {
+        "r": "L23",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "5"
+        },
+        "expandida": "=SUM(H23,J23,K23)",
+        "ancora_compartilhada": "L22"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "B24",
+      "atributos": {
+        "r": "B24",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "194",
+      "valor": "Prohibited School (Enchantment)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C24",
+      "atributos": {
+        "r": "C24",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "195",
+      "valor": "Gnome +1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D24",
+      "atributos": {
+        "r": "D24",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "196",
+      "valor": "Spell Focus",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G24",
+      "atributos": {
+        "r": "G24",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "197",
+      "valor": "Collector of Stories",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H24",
+      "atributos": {
+        "r": "H24",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I24",
+      "atributos": {
+        "r": "I24",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "4"
+        },
+        "expandida": "=H24",
+        "ancora_compartilhada": "I22"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "J24",
+      "atributos": {
+        "r": "J24",
+        "s": "69",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K24",
+      "atributos": {
+        "r": "K24",
+        "s": "69",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L24",
+      "atributos": {
+        "r": "L24",
+        "s": "69",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B25",
+      "atributos": {
+        "r": "B25",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "199",
+      "valor": "Prohibited School (Evocation)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C25",
+      "atributos": {
+        "r": "C25",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "200",
+      "valor": "Spell Focus +1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D25",
+      "atributos": {
+        "r": "D25",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "155",
+      "valor": "Heighten Spell",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B26",
+      "atributos": {
+        "r": "B26",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "201",
+      "valor": "Prohibited School (Necromancy)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C26",
+      "atributos": {
+        "r": "C26",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "202",
+      "valor": "Shadow Weave Magic +1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D26",
+      "atributos": {
+        "r": "D26",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "144",
+      "valor": "Shadow Weave Magic",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B27",
+      "atributos": {
+        "r": "B27",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "203",
+      "valor": "Gnome Illusionist CL(Conjuration) -1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C27",
+      "atributos": {
+        "r": "C27",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "204",
+      "valor": "Spellcasting Prodigy +1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D27",
+      "atributos": {
+        "r": "D27",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "167",
+      "valor": "Earth Sense",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B28",
+      "atributos": {
+        "r": "B28",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "206",
+      "valor": "Shadow Weave Magic CL(Evocation) -1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C28",
+      "atributos": {
+        "r": "C28",
+        "s": "72",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "207",
+      "valor": "Greater Spell Focus +1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D28",
+      "atributos": {
+        "r": "D28",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "180",
+      "valor": "Earth Spell",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B29",
+      "atributos": {
+        "r": "B29",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "208",
+      "valor": "Shadow Weave Magic CL(Transmutation) -1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C29",
+      "atributos": {
+        "r": "C29",
+        "s": "72",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "209",
+      "valor": "Minor School Esoterica +2",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D29",
+      "atributos": {
+        "r": "D29",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "210",
+      "valor": "Residual Magic",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G30",
+      "atributos": {
+        "r": "G30",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "211",
+      "valor": "TOTAL SPENT",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H30",
+      "atributos": {
+        "r": "H30",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "60",
+      "valor": 60,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(I3:I29)",
+        "atributos": {},
+        "expandida": "=SUM(I3:I29)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "60",
+        "valor": 60
+      }
+    },
+    {
+      "celula": "C31",
+      "atributos": {
+        "r": "C31",
+        "s": "74",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "212",
+      "valor": "CASTER LEVEL AGAINST SR",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D31",
+      "atributos": {
+        "r": "D31",
+        "s": "75",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "213",
+      "valor": "Greater Spell Focus",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G31",
+      "atributos": {
+        "r": "G31",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "21",
+      "valor": "TOTAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H31",
+      "atributos": {
+        "r": "H31",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "60.0",
+      "valor": 60.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C32",
+      "atributos": {
+        "r": "C32",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "202",
+      "valor": "Shadow Weave Magic +1",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D33",
+      "atributos": {
+        "r": "D33",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "216",
+      "valor": "Spell Mastery",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G33",
+      "atributos": {
+        "r": "G33",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "217",
+      "valor": "LANGUAGES",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D34",
+      "atributos": {
+        "r": "D34",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "218",
+      "valor": "Signature Spell",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G34",
+      "atributos": {
+        "r": "G34",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "219",
+      "valor": "Gnome",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D35",
+      "atributos": {
+        "r": "D35",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "220",
+      "valor": "Metamagic School Focus",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G35",
+      "atributos": {
+        "r": "G35",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "222",
+      "valor": "Elven",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D36",
+      "atributos": {
+        "r": "D36",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "223",
+      "valor": "Arcane Thesis",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G36",
+      "atributos": {
+        "r": "G36",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "225",
+      "valor": "Sylvan",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D37",
+      "atributos": {
+        "r": "D37",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "226",
+      "valor": "Tattoo Focus",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G37",
+      "atributos": {
+        "r": "G37",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "227",
+      "valor": "Animal",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D38",
+      "atributos": {
+        "r": "D38",
+        "s": "71",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "228",
+      "valor": "Spell Rehearsal",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G38",
+      "atributos": {
+        "r": "G38",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "230",
+      "valor": "Common",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G39",
+      "atributos": {
+        "r": "G39",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "231",
+      "valor": "Draconic",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D40",
+      "atributos": {
+        "r": "D40",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "139",
+      "valor": "Spellcasting Prodigy",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G40",
+      "atributos": {
+        "r": "G40",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "233",
+      "valor": "Dwarf",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G41",
+      "atributos": {
+        "r": "G41",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "234",
+      "valor": "Undercommon",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G42",
+      "atributos": {
+        "r": "G42",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "236",
+      "valor": "Celestial",
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [
+    {
+      "celula": "E14",
+      "autor": "",
+      "texto": "4/2/4/2/2(1)/3/3",
+      "atributos": {
+        "authorId": "0",
+        "ref": "E14"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "E14"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "4/2/4/2/2(1)/3/3",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "C5",
+      "autor": "",
+      "texto": "https://minmaxforum.com/index.php?topic=16433.0\n",
+      "atributos": {
+        "authorId": "0",
+        "ref": "C5"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "C5"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "https://minmaxforum.com/index.php?topic=16433.0\n",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "C4",
+      "autor": "",
+      "texto": "https://srd.dndtools.org/srd/classes/baseCore/wizard.html#focused-specialist\nGnome Ilusionist\nhttps://srd.dndtools.org/srd/classes/baseCore/wizard.html#gnome-illusionist\n\nScribe Scroll variants:\nhttps://srd.dndtools.org/srd/classes/baseCore/wizard.html#combat-wizard\n\nSummon Familiar variants:\nhttps://srd.dndtools.org/srd/classes/baseCore/wizard.html#immediate-magic",
+      "atributos": {
+        "authorId": "0",
+        "ref": "C4"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "C4"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "https://srd.dndtools.org/srd/classes/baseCore/wizard.html#focused-specialist\nGnome Ilusionist\nhttps://srd.dndtools.org/srd/classes/baseCore/wizard.html#gnome-illusionist\n\nScribe Scroll variants:\nhttps://srd.dndtools.org/srd/classes/baseCore/wizard.html#combat-wizard\n\nSummon Familiar variants:\nhttps://srd.dndtools.org/srd/classes/baseCore/wizard.html#immediate-magic",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "hyperlinks": [
+    {
+      "intervalo": "B4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+        "ref": "B4"
+      },
+      "relacionamento": {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://www.d20srd.org/srd/monsters/gnome.htm",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://www.d20srd.org/srd/monsters/gnome.htm"
+    },
+    {
+      "intervalo": "C4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+        "ref": "C4"
+      },
+      "relacionamento": {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/wizard/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/wizard/"
+    },
+    {
+      "intervalo": "D4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+        "ref": "D4"
+      },
+      "relacionamento": {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/shadowcrafter/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/shadowcrafter/"
+    },
+    {
+      "intervalo": "E4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+        "ref": "E4"
+      },
+      "relacionamento": {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/players-guide-to-faerun--22/shadow-adept/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/players-guide-to-faerun--22/shadow-adept/"
+    },
+    {
+      "intervalo": "B5",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+        "ref": "B5"
+      },
+      "relacionamento": {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/players-guide-to-faerun--22/incantatrix/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/players-guide-to-faerun--22/incantatrix/"
+    },
+    {
+      "intervalo": "C5",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+        "ref": "C5"
+      },
+      "relacionamento": {
+        "Id": "rId7",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/shadowcraft-mage/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/shadowcraft-mage/"
+    },
+    {
+      "intervalo": "D5",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+        "ref": "D5"
+      },
+      "relacionamento": {
+        "Id": "rId8",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/master-specialist/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/master-specialist/"
+    },
+    {
+      "intervalo": "E5",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+        "ref": "E5"
+      },
+      "relacionamento": {
+        "Id": "rId9",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/mindbender/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/mindbender/"
+    },
+    {
+      "intervalo": "D7",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10",
+        "ref": "D7"
+      },
+      "relacionamento": {
+        "Id": "rId10",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm"
+    },
+    {
+      "intervalo": "D8",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId11",
+        "ref": "D8"
+      },
+      "relacionamento": {
+        "Id": "rId11",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm"
+    },
+    {
+      "intervalo": "D9",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId12",
+        "ref": "D9"
+      },
+      "relacionamento": {
+        "Id": "rId12",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-v35--6/spell-focus--2699/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-v35--6/spell-focus--2699/"
+    },
+    {
+      "intervalo": "D10",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId13",
+        "ref": "D10"
+      },
+      "relacionamento": {
+        "Id": "rId13",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/spellcasting-prodigy--2718/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-guide-to-faerun--22/spellcasting-prodigy--2718/"
+    },
+    {
+      "intervalo": "D11",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId14",
+        "ref": "D11"
+      },
+      "relacionamento": {
+        "Id": "rId14",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/shadow-weave-magic--2569/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-guide-to-faerun--22/shadow-weave-magic--2569/"
+    },
+    {
+      "intervalo": "D13",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId15",
+        "ref": "D13"
+      },
+      "relacionamento": {
+        "Id": "rId15",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-v35--6/heighten-spell--1371/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-v35--6/heighten-spell--1371/"
+    },
+    {
+      "intervalo": "D16",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId16",
+        "ref": "D16"
+      },
+      "relacionamento": {
+        "Id": "rId16",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/races-of-stone--82/earth-sense--797/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/races-of-stone--82/earth-sense--797/"
+    },
+    {
+      "intervalo": "D19",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId17",
+        "ref": "D19"
+      },
+      "relacionamento": {
+        "Id": "rId17",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/races-of-stone--82/earth-spell--798/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/races-of-stone--82/earth-spell--798/"
+    },
+    {
+      "intervalo": "D24",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId18",
+        "ref": "D24"
+      },
+      "relacionamento": {
+        "Id": "rId18",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-v35--6/spell-focus--2699/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-v35--6/spell-focus--2699/"
+    },
+    {
+      "intervalo": "D25",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId19",
+        "ref": "D25"
+      },
+      "relacionamento": {
+        "Id": "rId19",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-v35--6/heighten-spell--1371/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-v35--6/heighten-spell--1371/"
+    },
+    {
+      "intervalo": "D26",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId20",
+        "ref": "D26"
+      },
+      "relacionamento": {
+        "Id": "rId20",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/shadow-weave-magic--2569/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-guide-to-faerun--22/shadow-weave-magic--2569/"
+    },
+    {
+      "intervalo": "D27",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId21",
+        "ref": "D27"
+      },
+      "relacionamento": {
+        "Id": "rId21",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/races-of-stone--82/earth-sense--797/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/races-of-stone--82/earth-sense--797/"
+    },
+    {
+      "intervalo": "D28",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId22",
+        "ref": "D28"
+      },
+      "relacionamento": {
+        "Id": "rId22",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/races-of-stone--82/earth-spell--798/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/races-of-stone--82/earth-spell--798/"
+    },
+    {
+      "intervalo": "D29",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId23",
+        "ref": "D29"
+      },
+      "relacionamento": {
+        "Id": "rId23",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/complete-mage--58/residual-magic--2434/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/complete-mage--58/residual-magic--2434/"
+    },
+    {
+      "intervalo": "D31",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId24",
+        "ref": "D31"
+      },
+      "relacionamento": {
+        "Id": "rId24",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-v35--6/greater-spell-focus--1302/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-v35--6/greater-spell-focus--1302/"
+    },
+    {
+      "intervalo": "D33",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId25",
+        "ref": "D33"
+      },
+      "relacionamento": {
+        "Id": "rId25",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-v35--6/spell-mastery--2704/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-v35--6/spell-mastery--2704/"
+    },
+    {
+      "intervalo": "D34",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId26",
+        "ref": "D34"
+      },
+      "relacionamento": {
+        "Id": "rId26",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/signature-spell--2623/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-guide-to-faerun--22/signature-spell--2623/"
+    },
+    {
+      "intervalo": "D35",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId27",
+        "ref": "D35"
+      },
+      "relacionamento": {
+        "Id": "rId27",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/complete-mage--58/metamagic-school-focus--1931/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/complete-mage--58/metamagic-school-focus--1931/"
+    },
+    {
+      "intervalo": "D36",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId28",
+        "ref": "D36"
+      },
+      "relacionamento": {
+        "Id": "rId28",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-ii--80/arcane-thesis--104/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-ii--80/arcane-thesis--104/"
+    },
+    {
+      "intervalo": "D37",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId29",
+        "ref": "D37"
+      },
+      "relacionamento": {
+        "Id": "rId29",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/dungeon-masters-guide-v35--4/tattoo-focus--2890/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/dungeon-masters-guide-v35--4/tattoo-focus--2890/"
+    },
+    {
+      "intervalo": "D38",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId30",
+        "ref": "D38"
+      },
+      "relacionamento": {
+        "Id": "rId30",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/races-of-the-dragon--83/spell-rehearsal--2708/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/races-of-the-dragon--83/spell-rehearsal--2708/"
+    },
+    {
+      "intervalo": "D40",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId31",
+        "ref": "D40"
+      },
+      "relacionamento": {
+        "Id": "rId31",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/spellcasting-prodigy--2718/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-guide-to-faerun--22/spellcasting-prodigy--2718/"
+    }
+  ],
+  "mesclagens": [
+    "B2:E2",
+    "B6:E6",
+    "B7:C7",
+    "B8:C8",
+    "B9:C9",
+    "B10:C10",
+    "B11:C11",
+    "B12:C12",
+    "B13:C13",
+    "B14:C14",
+    "B15:C15",
+    "B16:C16",
+    "B17:C17",
+    "B18:C18",
+    "B19:C19",
+    "B20:C20",
+    "B22:E22",
+    "D23:E23",
+    "D24:E24",
+    "D25:E25",
+    "D26:E26",
+    "D27:E27",
+    "D28:E28",
+    "D29:E29",
+    "D30:E30",
+    "D31:E31",
+    "D32:E32",
+    "D33:E33",
+    "D41:E41",
+    "D42:E42",
+    "D43:E43",
+    "D44:E44",
+    "D45:E45",
+    "D46:E46",
+    "D34:E34",
+    "D35:E35",
+    "D36:E36",
+    "D37:E37",
+    "D38:E38",
+    "D39:E39",
+    "D40:E40"
+  ],
+  "drawings": [],
+  "objetos_vml": [
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s1025",
+      "tipo": "Note",
+      "celula": "E14",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "5, 15, 14, 10, 9, 15, 16, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s1025",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "5, 15, 14, 10, 9, 15, 16, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "13",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "4",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s1026",
+      "tipo": "Note",
+      "celula": "C5",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "3, 15, 5, 10, 7, 15, 8, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s1026",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "3, 15, 5, 10, 7, 15, 8, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "2",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s1027",
+      "tipo": "Note",
+      "celula": "C4",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "3, 15, 4, 10, 7, 15, 14, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s1027",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "3, 15, 4, 10, 7, 15, 14, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "3",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "2",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "relacionamentos": {
+    "rId20": {
+      "Id": "rId20",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/shadow-weave-magic--2569/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId22": {
+      "Id": "rId22",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/races-of-stone--82/earth-spell--798/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId21": {
+      "Id": "rId21",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/races-of-stone--82/earth-sense--797/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId24": {
+      "Id": "rId24",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-v35--6/greater-spell-focus--1302/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId23": {
+      "Id": "rId23",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/complete-mage--58/residual-magic--2434/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments",
+      "Target": "../comments1.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels",
+      "parte_destino": "xl/comments1.xml"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://www.d20srd.org/srd/monsters/gnome.htm",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/wizard/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId4": {
+      "Id": "rId4",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/shadowcrafter/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId9": {
+      "Id": "rId9",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/mindbender/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId26": {
+      "Id": "rId26",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/signature-spell--2623/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId25": {
+      "Id": "rId25",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-v35--6/spell-mastery--2704/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId28": {
+      "Id": "rId28",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-ii--80/arcane-thesis--104/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId27": {
+      "Id": "rId27",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/complete-mage--58/metamagic-school-focus--1931/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId5": {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/players-guide-to-faerun--22/shadow-adept/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId6": {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/players-guide-to-faerun--22/incantatrix/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId29": {
+      "Id": "rId29",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/dungeon-masters-guide-v35--4/tattoo-focus--2890/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId7": {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/shadowcraft-mage/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId8": {
+      "Id": "rId8",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/master-specialist/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId31": {
+      "Id": "rId31",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/spellcasting-prodigy--2718/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId30": {
+      "Id": "rId30",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/races-of-the-dragon--83/spell-rehearsal--2708/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId11": {
+      "Id": "rId11",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId33": {
+      "Id": "rId33",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing",
+      "Target": "../drawings/vmlDrawing1.vml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels",
+      "parte_destino": "xl/drawings/vmlDrawing1.vml"
+    },
+    "rId10": {
+      "Id": "rId10",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId32": {
+      "Id": "rId32",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing1.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels",
+      "parte_destino": "xl/drawings/drawing1.xml"
+    },
+    "rId13": {
+      "Id": "rId13",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/spellcasting-prodigy--2718/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId12": {
+      "Id": "rId12",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-v35--6/spell-focus--2699/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId15": {
+      "Id": "rId15",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-v35--6/heighten-spell--1371/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId14": {
+      "Id": "rId14",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-guide-to-faerun--22/shadow-weave-magic--2569/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId17": {
+      "Id": "rId17",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/races-of-stone--82/earth-spell--798/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId16": {
+      "Id": "rId16",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/races-of-stone--82/earth-sense--797/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId19": {
+      "Id": "rId19",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-v35--6/heighten-spell--1371/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId18": {
+      "Id": "rId18",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-v35--6/spell-focus--2699/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}cols",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "1",
+            "max": "1",
+            "width": "3.13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "2",
+            "max": "3",
+            "width": "47.63"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "4",
+            "max": "5",
+            "width": "24.88"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "6",
+            "max": "6",
+            "width": "3.25"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "7",
+            "max": "7",
+            "width": "18.0"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "8",
+            "max": "12",
+            "width": "6.13"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCells",
+      "atributos": {
+        "count": "41"
+      },
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B2:E2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B6:E6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B7:C7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B8:C8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B9:C9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B10:C10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B11:C11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B12:C12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B13:C13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B14:C14"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B15:C15"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B16:C16"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B17:C17"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B18:C18"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B19:C19"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B20:C20"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B22:E22"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D23:E23"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D24:E24"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D25:E25"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D26:E26"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D27:E27"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D28:E28"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D29:E29"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D30:E30"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D31:E31"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D32:E32"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D33:E33"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D41:E41"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D42:E42"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D43:E43"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D44:E44"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D45:E45"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D46:E46"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D34:E34"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D35:E35"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D36:E36"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D37:E37"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D38:E38"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D39:E39"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D40:E40"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlinks",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+            "ref": "B4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+            "ref": "C4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+            "ref": "D4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+            "ref": "E4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+            "ref": "B5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+            "ref": "C5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+            "ref": "D5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+            "ref": "E5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10",
+            "ref": "D7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId11",
+            "ref": "D8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId12",
+            "ref": "D9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId13",
+            "ref": "D10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId14",
+            "ref": "D11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId15",
+            "ref": "D13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId16",
+            "ref": "D16"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId17",
+            "ref": "D19"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId18",
+            "ref": "D24"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId19",
+            "ref": "D25"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId20",
+            "ref": "D26"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId21",
+            "ref": "D27"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId22",
+            "ref": "D28"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId23",
+            "ref": "D29"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId24",
+            "ref": "D31"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId25",
+            "ref": "D33"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId26",
+            "ref": "D34"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId27",
+            "ref": "D35"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId28",
+            "ref": "D36"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId29",
+            "ref": "D37"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId30",
+            "ref": "D38"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId31",
+            "ref": "D40"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId32"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}legacyDrawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId33"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    },
+    {
+      "r": "34"
+    },
+    {
+      "r": "35"
+    },
+    {
+      "r": "36"
+    },
+    {
+      "r": "37"
+    },
+    {
+      "r": "38"
+    },
+    {
+      "r": "39"
+    },
+    {
+      "r": "40"
+    },
+    {
+      "r": "41"
+    },
+    {
+      "r": "42"
+    },
+    {
+      "r": "43"
+    },
+    {
+      "r": "44"
+    },
+    {
+      "r": "45"
+    },
+    {
+      "r": "46"
+    },
+    {
+      "r": "47"
+    },
+    {
+      "r": "48"
+    },
+    {
+      "r": "49"
+    },
+    {
+      "r": "50"
+    },
+    {
+      "r": "51"
+    },
+    {
+      "r": "52"
+    },
+    {
+      "r": "53"
+    },
+    {
+      "r": "54"
+    },
+    {
+      "r": "55"
+    },
+    {
+      "r": "56"
+    },
+    {
+      "r": "57"
+    },
+    {
+      "r": "58"
+    },
+    {
+      "r": "59"
+    },
+    {
+      "r": "60"
+    },
+    {
+      "r": "61"
+    },
+    {
+      "r": "62"
+    },
+    {
+      "r": "63"
+    },
+    {
+      "r": "64"
+    },
+    {
+      "r": "65"
+    },
+    {
+      "r": "66"
+    },
+    {
+      "r": "67"
+    },
+    {
+      "r": "68"
+    },
+    {
+      "r": "69"
+    },
+    {
+      "r": "70"
+    },
+    {
+      "r": "71"
+    },
+    {
+      "r": "72"
+    },
+    {
+      "r": "73"
+    },
+    {
+      "r": "74"
+    },
+    {
+      "r": "75"
+    },
+    {
+      "r": "76"
+    },
+    {
+      "r": "77"
+    },
+    {
+      "r": "78"
+    },
+    {
+      "r": "79"
+    },
+    {
+      "r": "80"
+    },
+    {
+      "r": "81"
+    },
+    {
+      "r": "82"
+    },
+    {
+      "r": "83"
+    },
+    {
+      "r": "84"
+    },
+    {
+      "r": "85"
+    },
+    {
+      "r": "86"
+    },
+    {
+      "r": "87"
+    },
+    {
+      "r": "88"
+    },
+    {
+      "r": "89"
+    },
+    {
+      "r": "90"
+    }
+  ],
+  "celulas_xml_total": 1909,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 212,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

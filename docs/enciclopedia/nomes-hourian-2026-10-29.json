@@ -1,0 +1,16 @@
+{
+  "fonte": "Fontes/Confirmacoes/2026-10-29 - Grafia confirmada de Hourian",
+  "caminhos_preservados": true,
+  "cadastro_atualizado": [
+    {
+      "destino": "Personagens/Hourian Haurim",
+      "nome_anterior": "Hourian / Haurim",
+      "nome_confirmado": "Hourian"
+    },
+    {
+      "destino": "Lugares/Covis de Hourian Haurim",
+      "nome_anterior": "Covis de Hourian / Haurim",
+      "nome_confirmado": "Covis de Hourian"
+    }
+  ]
+}

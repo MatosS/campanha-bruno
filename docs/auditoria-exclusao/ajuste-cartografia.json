@@ -1,0 +1,103 @@
+{
+  "data": "2026-10-29",
+  "dominio": "lugares",
+  "motivo": "Auditoria identificou rasura no estilo da planilha original que a conversão Markdown inicial não mostrava.",
+  "fonte_verificada": {
+    "caminho": "arquivo/originais/BASE INICIAL/FASH PALESKIN.xlsx",
+    "aba": "INTERESSES",
+    "membros_lidos": [
+      "xl/worksheets/sheet3.xml",
+      "xl/styles.xml",
+      "xl/sharedStrings.xml"
+    ],
+    "sha256_antes": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+    "sha256_depois": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+    "original_modificado": false
+  },
+  "estilos_confirmados": [
+    {
+      "celula": "C48",
+      "texto": "Portal: Abismo",
+      "style_id": 4,
+      "font_id": 4,
+      "font_strike": false
+    },
+    {
+      "celula": "C49",
+      "texto": "Portal: Mundo Espelhado",
+      "style_id": 4,
+      "font_id": 4,
+      "font_strike": false
+    },
+    {
+      "celula": "C50",
+      "texto": "Portal: Ilha dos Elfos da Noite",
+      "style_id": 4,
+      "font_id": 4,
+      "font_strike": false
+    },
+    {
+      "celula": "C51",
+      "texto": "Portal: Cabeça de Gigante",
+      "style_id": 30,
+      "font_id": 16,
+      "font_strike": true
+    },
+    {
+      "celula": "C52",
+      "texto": "Portal: 4 Costelas Grandes",
+      "style_id": 30,
+      "font_id": 16,
+      "font_strike": true
+    }
+  ],
+  "alteracoes_derivadas": [
+    {
+      "caminho": "conteudo/Lugares/Cidade drow.md",
+      "sha256_antes": "6727ffe141fabde548491c18fd5609bf33d3c604019753407c5968d48ae1271a",
+      "sha256_depois": "34651275a3e7482ee002492dffe7d5932f5e58058a57677865ca60509b44bdaa"
+    },
+    {
+      "caminho": "conteudo/Lugares/Cartografia regional de Fash.md",
+      "sha256_antes": "b902fcb6e2dbf197539fb5b9016d79cf147b62438ffb686b170aca97cf2ccf18",
+      "sha256_depois": "b3c90d8b1c78226c4d884153898ff03314d5bbeb366cde483f844ef30685bc13"
+    },
+    {
+      "caminho": "conteudo/Pendencias/Lugares/LG-005 - Cartografia e destinos antigos da cidade drow.md",
+      "sha256_antes": "69d82452b57ef4c047269837a330cc8b998b847faf4cd7b40496dd4620bc2bc1",
+      "sha256_depois": "53fce816d7b51b011112772acdbc10aaefcd0305f3b7f3073998483dc1f07343"
+    },
+    {
+      "caminho": "tools/consolidar_lugares.py",
+      "sha256_antes": "54d9317a1760a03f28bbc71b45acf7970259a9b633bd3d066be1aed1e1dd8e40",
+      "sha256_depois": "a1877ae5d9c2a24e5094fd4b48dc60f932213b943ff9d8855ddd5e5a62da8197"
+    },
+    {
+      "caminho": "docs/enciclopedia/lugares.json",
+      "sha256_antes": "3260129fe5a897722872e64df7aadb87d4c4d26ade9ed62bc71ea7397bc4df0f",
+      "sha256_depois": "7e8416d8dd5c9828019592ddc5f6cdd0263dbaf574e875a8829d6266736b11e4"
+    }
+  ],
+  "efeito_editorial": [
+    "Cidade drow e Cartografia distinguem cinco rótulos totais, três sem rasura e dois riscados.",
+    "A antiga formulação de cinco versus três como divergência automática foi substituída pela dúvida de significado, data e correspondência.",
+    "LG-005 mantém o mesmo identificador, caminho, prioridade e entidades; sua pergunta foi refinada sem criar ID.",
+    "A rasura não foi interpretada como eliminação física de portais.",
+    "W23 como floresta/ruína e K28/L28 permanecem abertos.",
+    "Manifesto e gerador receberam a consulta de estilo e o registro deste ajuste; o gerador integral não foi reexecutado."
+  ],
+  "preservacao": {
+    "snapshot_historico": "docs/auditoria-exclusao/antes-correcao",
+    "snapshot_modificado": false,
+    "fontes_anexos_sessoes_originais_modificados_por_este_ajuste": false,
+    "correcao_markdown_fonte": "A cargo do agente conversor e do registro de correções de fontes pelo integrador."
+  },
+  "cobertura": {
+    "previstos": 34,
+    "cobertos": 34,
+    "faltantes": [],
+    "extras": 13
+  },
+  "pendencias": 16,
+  "status": "congelado_aguardando_integracao"
+}

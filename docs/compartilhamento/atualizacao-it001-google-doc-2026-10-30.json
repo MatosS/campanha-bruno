@@ -1,0 +1,25 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Tudo incerto, o GLim não sabe se tem algo no grimório, ou se a própria deusa fala com ele, não há certezas sobre isso. Item aguardando revelação."
+    },
+    {
+      "antes": "A completar: Qual a função do selo, há presença consciente no livro e como funciona o vínculo com Shar? Registrar apenas revelações; não exigir um teste novo de separação do grimório.",
+      "depois": "Aguardando revelação: Função do selo, presença consciente e funcionamento do vínculo com Shar continuam sem certeza. Registrar apenas novas revelações; não insistir em resposta imediata nem exigir teste de separação do grimório."
+    },
+    {
+      "antes": "Já registrado: O grimório é divino e ligado a Shar; causou as mortes de Lilo e Piche. Glim percebe a ligação, mas evita encará-la. Nunca se separa do livro e não testou magia sem ele.",
+      "depois": "Já registrado: O grimório é divino e ligado a Shar; causou as mortes de Lilo e Piche. Glim percebe essa ligação, mas evita encará-la, nunca se separa do livro e não testou magia sem ele. A função do selo e a origem da voz seguem incertas: ele não sabe se há algo no livro ou se a própria deusa fala."
+    },
+    {
+      "antes": "IT-001 — Entidade e selo do grimório",
+      "depois": "IT-001 — Entidade e selo do grimório — EM ESPERA"
+    }
+  ],
+  "estado": "aguardando_revelacao",
+  "pendencias_restantes": 100,
+  "demais_textos_preservados": true
+}

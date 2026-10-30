@@ -1,0 +1,381 @@
+{
+  "fonte": "BASE INICIAL/FASH PALESKIN.xlsx",
+  "sha256_fonte": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+  "aba": "PLANEJAMENTO",
+  "ordem": 6,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet6.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "213",
+      "valor": "Livro da Bruxa",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C3",
+      "atributos": {
+        "r": "C3",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "214",
+      "valor": "Enterrar",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B11",
+      "atributos": {
+        "r": "B11",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "215",
+      "valor": "Esqueleto",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C12",
+      "atributos": {
+        "r": "C12",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "216",
+      "valor": "Enterrar com items do Firael",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B22",
+      "atributos": {
+        "r": "B22",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "218",
+      "valor": "Fash",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C23",
+      "atributos": {
+        "r": "C23",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "219",
+      "valor": "Necrópole?",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C24",
+      "atributos": {
+        "r": "C24",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "221",
+      "valor": "Anel de Disfarce",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C27",
+      "atributos": {
+        "r": "C27",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "223",
+      "valor": "Falo pro Kael pegar o dinheiro que está nos aposentos do grupo se ele quiser.",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C28",
+      "atributos": {
+        "r": "C28",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "225",
+      "valor": "Passa no esconderijo e pega o dinheiro restante.",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C29",
+      "atributos": {
+        "r": "C29",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "226",
+      "valor": "Tenta encontrar Timo, fala pra ele \"Cometi um erro, não na intenção, mas na execução, se for ficar na cidade Drow tome cuidado, melhor que vá para seu conclave\".",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C30",
+      "atributos": {
+        "r": "C30",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "228",
+      "valor": "Pega o esqueleto e uma pá",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C31",
+      "atributos": {
+        "r": "C31",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "229",
+      "valor": "Vai em direção a Q22 ou P23",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C32",
+      "atributos": {
+        "r": "C32",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "230",
+      "valor": "Esconde o livro da bruxa no melhor lugar possível",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C33",
+      "atributos": {
+        "r": "C33",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "232",
+      "valor": "Vai para Q23",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C34",
+      "atributos": {
+        "r": "C34",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "233",
+      "valor": "Esconde os items do Firael e o esqueleto no melhor lugar possível.",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C35",
+      "atributos": {
+        "r": "C35",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "234",
+      "valor": "Usa o anel do drow para virar um meio-dragão e vai tentar passar desapercebido em Throden.",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C36",
+      "atributos": {
+        "r": "C36",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "236",
+      "valor": "Aguarda notícias da cidade Drow e do Firael.",
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [],
+  "hyperlinks": [],
+  "mesclagens": [],
+  "drawings": [],
+  "objetos_vml": [],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing6.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet6.xml.rels",
+      "parte_destino": "xl/drawings/drawing6.xml"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    },
+    {
+      "r": "34"
+    },
+    {
+      "r": "35"
+    },
+    {
+      "r": "36"
+    }
+  ],
+  "celulas_xml_total": 17,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 17,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

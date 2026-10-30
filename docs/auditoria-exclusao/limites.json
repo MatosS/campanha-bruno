@@ -1,0 +1,26 @@
+{
+  "data": "2026-10-29",
+  "zip_derivado": "Os15membros do ZIP de transcricoes estao preservados com igualdade apos normalizar LF/CRLF.",
+  "txt_portatil_handoff": "O TXT do vault contem o mesmo corpo do handoff arquivado, salvo a secao final de navegacao Relacoes no vault, presente no Markdown.",
+  "midias_somente_referenciadas": [
+    {
+      "nome": "Fash Paleskin.png",
+      "fonte": "Fontes/Vault/Vault - Fash Paleskin - Old Archive"
+    },
+    {
+      "nome": "GLIM O MAGINIFICO.png",
+      "fonte": "Fontes/Vault/Vault - Glim Sombrasselva - Assets"
+    },
+    {
+      "nome": "CAIXA DO GLIM.png",
+      "fonte": "Fontes/Vault/Vault - Glim Sombrasselva - Assets"
+    },
+    {
+      "nome": "GLIM SOMBRASSELVA.png",
+      "fonte": "Fontes/Vault/Vault - Glim Sombrasselva - Assets"
+    }
+  ],
+  "midias_remotas_limite": "Nao foram baixadas por seus IDs do Drive nem verificadas equivalencias de bytes com imagens em planilhas; nao autorizar exclusao das midias remotas com base nesta auditoria.",
+  "audios": "Nenhum pacote de audio foi migrado; as transcricoes nao substituem o som original.",
+  "manutencao": "Importadores e verificar_migracao.py ainda esperam BASE INICIAL e vault-42 presentes. Antes de executar a limpeza deve-se adaptar essa verificacao para operar apenas sobre as copias arquivadas. A consulta das notas nao depende dessas pastas."
+}

@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-30",
+  "aprovado": true,
+  "documentos": [
+    {
+      "saida": "conteudo/Fontes/Documentos/Diario de Firael - versao completa.md",
+      "paragrafos": 555,
+      "hash_original": "ad85976a5da91b1e6051a01f2ca454e3b662f1290ec79e1580f1c29a27a648e9"
+    },
+    {
+      "saida": "conteudo/Fontes/Documentos/Diario de Firael - variante 1.md",
+      "paragrafos": 510,
+      "hash_original": "e796c7622d73819ce29177bd546cb98b2cdd1ec0b3eab121440b059d88db6d0d"
+    },
+    {
+      "saida": "conteudo/Fontes/Documentos/Diario de Firael - variante 2.md",
+      "paragrafos": 283,
+      "hash_original": "7e144e155874dcad4a03d7db4fc99848f83bc253c1c1d9c743719cb845ef821d"
+    },
+    {
+      "saida": "conteudo/Fontes/Documentos/Preludio de Ryld.md",
+      "paragrafos": 1556,
+      "hash_original": "de5c18c49447d5dd3977e8d776c19690e65aab1864de52f535a1899f76479373"
+    }
+  ],
+  "paragrafos_verificados": 2904,
+  "originais_intactos": true,
+  "erros": [],
+  "limites": [
+    "Verificação textual e estrutural; não declara equivalência visual de paginação DOCX e Markdown.",
+    "A perspectiva narrativa não comprova todas as alegações feitas por personagens."
+  ]
+}

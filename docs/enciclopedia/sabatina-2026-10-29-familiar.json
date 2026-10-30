@@ -1,0 +1,45 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Identidade do familiar de Lilo.md",
+  "fonte_nova_sha256": "5b4e4382f310091e089f3046bdeefe8934a55577a436b0b90c91a540002a78a0",
+  "resposta_literal": "Ainda não foi confirmado se é a alma do Lilo ou se tem as memórias dele. Por enquanto sabemos apenas que tem a aparência dele e funciona como familiar do Glim.",
+  "PC-010": {
+    "status": "parcialmente_respondida",
+    "retomar_na_sabatina": false,
+    "aguarda": "revelacao_em_jogo_ou_confirmacao_do_mestre",
+    "confirmado": [
+      "Aparência de Lilo",
+      "Função de familiar de Glim"
+    ],
+    "sem_confirmacao": [
+      "Alma de Lilo",
+      "Memórias de Lilo"
+    ],
+    "outros_limites": [
+      "Autonomia e confiabilidade das visões anteriores não esclarecidas."
+    ]
+  },
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 387,
+    "arquivos_identicos": 386,
+    "alteracoes_autorizadas": [
+      "conteudo/Fontes/Indice.md"
+    ],
+    "fontes_integrais_sessoes_anexos_originais_alterados": 0
+  },
+  "indices": {
+    "comando": "tools/indexar_enciclopedia.py --somente-indices",
+    "pendencias_ativas": 103,
+    "estados": {
+      "aberta": 98,
+      "parcialmente_respondida": 5,
+      "respondida": 2
+    },
+    "PC-010_fora_da_fila_de_perguntas": true
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "teste_indexacao_aprovado": true
+  }
+}

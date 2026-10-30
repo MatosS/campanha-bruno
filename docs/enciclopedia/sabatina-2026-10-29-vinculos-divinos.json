@@ -1,0 +1,43 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Vinculos divinos e Mystra.md",
+  "fonte_nova_sha256": "3c9e4bc3aab173d4e650a99c0a72592403612840228b0d9abf7f006f92c0c081",
+  "resposta_literal": "Todos os personagens possuem alguma ligação com divindades especificas, Okay tem ligação com Mystra e por isso conseguiu essa habilidade, mas não está claro para ninguém o porque dos poderes se manifestarem quanto e como se manifestam.",
+  "confirmacoes": {
+    "IT-006": "parcialmente_respondida",
+    "PC-046": "parcialmente_respondida"
+  },
+  "escopo": [
+    "Personagens do grupo possuem vínculos com divindades específicas.",
+    "Okay tem ligação com Mystra e obteve o Fogo Primordial por isso.",
+    "Causas e condições das manifestações ainda não estão claras para ninguém."
+  ],
+  "limites": [
+    "Pelor/Ryld não confirmado por esta resposta.",
+    "Não se cria correspondência nova para todos os demais personagens.",
+    "Mecanismos das manifestações aguardam revelação; IT-006 fora da fila da sabatina."
+  ],
+  "nota_nova": "conteudo/Personagens/Mystra.md",
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 390,
+    "arquivos_identicos": 389,
+    "alteracoes_autorizadas": [
+      "conteudo/Fontes/Indice.md"
+    ],
+    "fontes_integrais_sessoes_anexos_originais_alterados": 0
+  },
+  "indices": {
+    "IT-006_fora_da_fila": true,
+    "pendencias_ativas": 102,
+    "estados": {
+      "aberta": 95,
+      "parcialmente_respondida": 7,
+      "respondida": 3
+    }
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "teste_indexacao_aprovado": true
+  }
+}

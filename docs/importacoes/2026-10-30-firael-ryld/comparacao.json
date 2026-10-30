@@ -1,0 +1,68 @@
+{
+  "completa_vs_variante_1_texto_integral_compartilhado_identico": true,
+  "completa_paragrafos_adicionais": 45,
+  "variantes_1_2_normalizacao": "Remove apenas rótulo CONTABILIZADO PELO MESTRE e normaliza espaços para comparar narrativa. Fontes integrais preservam esses rótulos.",
+  "diferencas_narrativas": [
+    {
+      "tipo": "replace",
+      "variante_1": [
+        {
+          "paragrafo": 363,
+          "texto": "Uma criatura serpentiforme emergiu das águas. Inteligente. Conjuradora. Antes que pudesse lançar seus feitiços, Fash reagiu com precisão, invocando o silêncio. Aquilo me atingiu também — fiquei privado de minhas próprias palavras sagradas — mas funcionou. Lutamos no corpo a corpo e a criatura tombou."
+        }
+      ],
+      "variante_2": [
+        {
+          "paragrafo": 136,
+          "texto": "Uma criatura serpentiforme emergiu das águas. Inteligente. Conjuradora. Antes que pudesse lançar seus feitiços, Timo reagiu com precisão, invocando o silêncio. Aquilo me atingiu também — fiquei privado de minhas próprias palavras sagradas — mas funcionou. Lutamos no corpo a corpo e a criatura tombou."
+        }
+      ]
+    },
+    {
+      "tipo": "replace",
+      "variante_1": [
+        {
+          "paragrafo": 502,
+          "texto": "Partimos para as áreas indicadas pelos parentes de Cogu. No início, as pistas eram vagas. Seguimos rastros, observamos pegadas e sinais de luta. Quando Fash subiu às copas para varredura, foi ele quem primeiro avistou algo anômalo — aquilo escondido entre nuvens de folhas e sombras. O que vimos foi pior do que qualquer predador comum: criaturas aladas, mas de natureza torta e fora do curso natural."
+        }
+      ],
+      "variante_2": [
+        {
+          "paragrafo": 275,
+          "texto": "Partimos para as áreas indicadas pelos parentes de Cogu. No início, as pistas eram vagas. Seguimos rastros, observamos pegadas e sinais de luta. Quando Timo subiu às copas para varredura, foi ele quem primeiro avistou algo anômalo — aquilo escondido entre nuvens de folhas e sombras. O que vimos foi pior do que qualquer predador comum: criaturas aladas, mas de natureza torta e fora do curso natural."
+        }
+      ]
+    },
+    {
+      "tipo": "replace",
+      "variante_1": [
+        {
+          "paragrafo": 506,
+          "texto": "Procedi com método: localizei a raiz matriz — a árvore que absorvia e propagava a corrupção — e conjurei os procedimentos descritos no livro, adaptando-os à luz e à ordem. Ao atingir o ponto certo, desferi um golpe, mas o ataque final foi feito por Fash, atacando óleo e ateando fogo, assim destruindo a raiz que era o coração do feitiço. A árvore colapsou, e com ela a maldição vacilou; os sinais murchos refluíram e a mata começou, lentamente, a respirar de novo."
+        }
+      ],
+      "variante_2": [
+        {
+          "paragrafo": 279,
+          "texto": "Procedi com método: localizei a raiz matriz — a árvore que absorvia e propagava a corrupção — e conjurei os procedimentos descritos no livro, adaptando-os à luz e à ordem. Ao atingir o ponto certo, desferi o golpe final: destrui a raiz que era o coração do feitiço. A árvore colapsou, e com ela a maldição vacilou; os sinais murchos refluíram e a mata começou, lentamente, a respirar de novo."
+        }
+      ]
+    }
+  ],
+  "ryld_capitulo_6_repetido_identico": true,
+  "ryld_ocorrencias_paragrafos": [
+    [
+      616,
+      773
+    ],
+    [
+      774,
+      931
+    ]
+  ],
+  "ryld_idade_primeira_jornada": {
+    "capitulo_5": 85,
+    "capitulo_6": 86
+  },
+  "decisao": "Nenhuma variante apagada ou escolhida como verdade única; datas dos cabeçalhos não viram anos do cenário."
+}

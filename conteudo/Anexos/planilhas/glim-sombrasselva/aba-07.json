@@ -1,0 +1,2046 @@
+{
+  "fonte": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+  "sha256_fonte": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+  "aba": "ALTERSELF & POLYMORPH",
+  "ordem": 7,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet7.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "288",
+      "valor": "HANDBOOK",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "98",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "297",
+      "valor": "SKULK",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D4",
+      "atributos": {
+        "r": "D4",
+        "s": "98",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "302",
+      "valor": "TREN",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F4",
+      "atributos": {
+        "r": "F4",
+        "s": "98",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "305",
+      "valor": "LOCATHAH",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H4",
+      "atributos": {
+        "r": "H4",
+        "s": "98",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "308",
+      "valor": "AVARIAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J4",
+      "atributos": {
+        "r": "J4",
+        "s": "98",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "316",
+      "valor": "Leskylor ",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A5",
+      "atributos": {
+        "r": "A5",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "321",
+      "valor": "Size",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B5",
+      "atributos": {
+        "r": "B5",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "322",
+      "valor": "M",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D5",
+      "atributos": {
+        "r": "D5",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "322",
+      "valor": "M",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F5",
+      "atributos": {
+        "r": "F5",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "322",
+      "valor": "M",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H5",
+      "atributos": {
+        "r": "H5",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "322",
+      "valor": "M",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A6",
+      "atributos": {
+        "r": "A6",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "325",
+      "valor": "Natural Armor",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B6",
+      "atributos": {
+        "r": "B6",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D6",
+      "atributos": {
+        "r": "D6",
+        "s": "93"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F6",
+      "atributos": {
+        "r": "F6",
+        "s": "93"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H6",
+      "atributos": {
+        "r": "H6",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A7",
+      "atributos": {
+        "r": "A7",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "329",
+      "valor": "Movement",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B7",
+      "atributos": {
+        "r": "B7",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "330",
+      "valor": "30ft",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D7",
+      "atributos": {
+        "r": "D7",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "331",
+      "valor": "30ft, 40ft swim",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F7",
+      "atributos": {
+        "r": "F7",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "332",
+      "valor": "10ft, 60ft swim",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H7",
+      "atributos": {
+        "r": "H7",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "333",
+      "valor": "30ft, 50ft fly",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A8",
+      "atributos": {
+        "r": "A8",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "334",
+      "valor": "Skills",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B8",
+      "atributos": {
+        "r": "B8",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "335",
+      "valor": " +8 Mov.S., +15 to Hide",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D8",
+      "atributos": {
+        "r": "D8",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "338",
+      "valor": " +4 Hide (+8 in rocky/subterranean)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F8",
+      "atributos": {
+        "r": "F8",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "340",
+      "valor": " +8 Swim (take 10)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H8",
+      "atributos": {
+        "r": "H8",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "341",
+      "valor": " +4 Spot/Jump, +2 Listen/Search",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A9",
+      "atributos": {
+        "r": "A9",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "342",
+      "valor": "Attacks",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B9",
+      "atributos": {
+        "r": "B9",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D9",
+      "atributos": {
+        "r": "D9",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "343",
+      "valor": "2x claw(1d4), bite(1d4)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F9",
+      "atributos": {
+        "r": "F9",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H9",
+      "atributos": {
+        "r": "H9",
+        "s": "93",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "A10",
+      "atributos": {
+        "r": "A10",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "345",
+      "valor": "Feats",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B10",
+      "atributos": {
+        "r": "B10",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D10",
+      "atributos": {
+        "r": "D10",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "346",
+      "valor": "Multiattack",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F10",
+      "atributos": {
+        "r": "F10",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H10",
+      "atributos": {
+        "r": "H10",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "-",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H28",
+      "atributos": {
+        "r": "H28",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "349",
+      "valor": "s",
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [],
+  "hyperlinks": [
+    {
+      "intervalo": "B2",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1",
+        "ref": "B2"
+      },
+      "relacionamento": {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://minmaxforum.com/index.php?topic=2811.0",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+      },
+      "destino": "https://minmaxforum.com/index.php?topic=2811.0"
+    },
+    {
+      "intervalo": "B4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+        "ref": "B4"
+      },
+      "relacionamento": {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dnd.arkalseif.info/races/races-of-destiny--81/skulk--42/index.html",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+      },
+      "destino": "https://dnd.arkalseif.info/races/races-of-destiny--81/skulk--42/index.html"
+    },
+    {
+      "intervalo": "D4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+        "ref": "D4"
+      },
+      "relacionamento": {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://www.realmshelps.net/monsters/block/Tren",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+      },
+      "destino": "https://www.realmshelps.net/monsters/block/Tren"
+    },
+    {
+      "intervalo": "F4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+        "ref": "F4"
+      },
+      "relacionamento": {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://www.d20srd.org/srd/monsters/locathah.htm",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+      },
+      "destino": "https://www.d20srd.org/srd/monsters/locathah.htm"
+    },
+    {
+      "intervalo": "H4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+        "ref": "H4"
+      },
+      "relacionamento": {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dnd.arkalseif.info/races/races-of-faerun--23/avariel--95/index.html",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+      },
+      "destino": "https://dnd.arkalseif.info/races/races-of-faerun--23/avariel--95/index.html"
+    },
+    {
+      "intervalo": "J4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+        "ref": "J4"
+      },
+      "relacionamento": {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://www.realmshelps.net/monsters/block/Leskylor",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+      },
+      "destino": "https://www.realmshelps.net/monsters/block/Leskylor"
+    }
+  ],
+  "mesclagens": [
+    "B5:C5",
+    "F5:G5",
+    "H5:I5",
+    "B6:C6",
+    "D6:E6",
+    "F6:G6",
+    "H6:I6",
+    "B8:C8",
+    "B9:C9",
+    "D9:E9",
+    "F9:G9",
+    "H9:I9",
+    "B10:C10",
+    "F10:G10",
+    "H10:I10",
+    "B7:C7",
+    "D7:E7",
+    "F7:G7",
+    "H7:I7",
+    "D8:E8",
+    "F8:G8",
+    "H8:I8"
+  ],
+  "drawings": [
+    {
+      "parte": "xl/drawings/drawing7.xml",
+      "ordem": 1,
+      "tipo_ancora": "oneCellAnchor",
+      "celula": "A11",
+      "nome": "image5.png",
+      "titulo": "Imagem",
+      "descricao": null,
+      "textos": [],
+      "midias": [
+        {
+          "relacao": "rId1",
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image5.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image5.png"
+        }
+      ],
+      "relacionamentos": {
+        "rId1": {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image5.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image5.png"
+        },
+        "rId2": {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        },
+        "rId3": {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        },
+        "rId4": {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image4.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image4.png"
+        },
+        "rId5": {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image3.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image3.png"
+        }
+      },
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}oneCellAnchor",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}from",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}col",
+                "atributos": {},
+                "texto": "0",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}colOff",
+                "atributos": {},
+                "texto": "952500",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}row",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}rowOff",
+                "atributos": {},
+                "texto": "180975",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}ext",
+            "atributos": {
+              "cx": "1924050",
+              "cy": "2476500"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}pic",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}nvPicPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPr",
+                    "atributos": {
+                      "id": "0",
+                      "name": "image5.png",
+                      "title": "Imagem"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPicPr",
+                    "atributos": {
+                      "preferRelativeResize": "0"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}blipFill",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                    "atributos": {
+                      "cstate": "print",
+                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId1"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}spPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "atributos": {
+                      "prst": "rect"
+                    },
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}noFill",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}clientData",
+            "atributos": {
+              "fLocksWithSheet": "0"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/drawing7.xml",
+      "ordem": 2,
+      "tipo_ancora": "oneCellAnchor",
+      "celula": "E11",
+      "nome": "image2.png",
+      "titulo": "Imagem",
+      "descricao": null,
+      "textos": [],
+      "midias": [
+        {
+          "relacao": "rId2",
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        }
+      ],
+      "relacionamentos": {
+        "rId1": {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image5.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image5.png"
+        },
+        "rId2": {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        },
+        "rId3": {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        },
+        "rId4": {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image4.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image4.png"
+        },
+        "rId5": {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image3.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image3.png"
+        }
+      },
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}oneCellAnchor",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}from",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}col",
+                "atributos": {},
+                "texto": "4",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}colOff",
+                "atributos": {},
+                "texto": "962025",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}row",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}rowOff",
+                "atributos": {},
+                "texto": "190500",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}ext",
+            "atributos": {
+              "cx": "1924050",
+              "cy": "2409825"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}pic",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}nvPicPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPr",
+                    "atributos": {
+                      "id": "0",
+                      "name": "image2.png",
+                      "title": "Imagem"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPicPr",
+                    "atributos": {
+                      "preferRelativeResize": "0"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}blipFill",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                    "atributos": {
+                      "cstate": "print",
+                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId2"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}spPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "atributos": {
+                      "prst": "rect"
+                    },
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}noFill",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}clientData",
+            "atributos": {
+              "fLocksWithSheet": "0"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/drawing7.xml",
+      "ordem": 3,
+      "tipo_ancora": "oneCellAnchor",
+      "celula": "C11",
+      "nome": "image1.png",
+      "titulo": "Imagem",
+      "descricao": null,
+      "textos": [],
+      "midias": [
+        {
+          "relacao": "rId3",
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        }
+      ],
+      "relacionamentos": {
+        "rId1": {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image5.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image5.png"
+        },
+        "rId2": {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        },
+        "rId3": {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        },
+        "rId4": {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image4.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image4.png"
+        },
+        "rId5": {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image3.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image3.png"
+        }
+      },
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}oneCellAnchor",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}from",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}col",
+                "atributos": {},
+                "texto": "2",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}colOff",
+                "atributos": {},
+                "texto": "962025",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}row",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}rowOff",
+                "atributos": {},
+                "texto": "190500",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}ext",
+            "atributos": {
+              "cx": "1924050",
+              "cy": "2409825"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}pic",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}nvPicPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPr",
+                    "atributos": {
+                      "id": "0",
+                      "name": "image1.png",
+                      "title": "Imagem"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPicPr",
+                    "atributos": {
+                      "preferRelativeResize": "0"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}blipFill",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                    "atributos": {
+                      "cstate": "print",
+                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId3"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}spPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "atributos": {
+                      "prst": "rect"
+                    },
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}noFill",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}clientData",
+            "atributos": {
+              "fLocksWithSheet": "0"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/drawing7.xml",
+      "ordem": 4,
+      "tipo_ancora": "oneCellAnchor",
+      "celula": "G11",
+      "nome": "image4.png",
+      "titulo": "Imagem",
+      "descricao": null,
+      "textos": [],
+      "midias": [
+        {
+          "relacao": "rId4",
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image4.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image4.png"
+        }
+      ],
+      "relacionamentos": {
+        "rId1": {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image5.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image5.png"
+        },
+        "rId2": {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        },
+        "rId3": {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        },
+        "rId4": {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image4.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image4.png"
+        },
+        "rId5": {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image3.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image3.png"
+        }
+      },
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}oneCellAnchor",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}from",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}col",
+                "atributos": {},
+                "texto": "6",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}colOff",
+                "atributos": {},
+                "texto": "962025",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}row",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}rowOff",
+                "atributos": {},
+                "texto": "200025",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}ext",
+            "atributos": {
+              "cx": "1924050",
+              "cy": "2028825"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}pic",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}nvPicPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPr",
+                    "atributos": {
+                      "id": "0",
+                      "name": "image4.png",
+                      "title": "Imagem"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPicPr",
+                    "atributos": {
+                      "preferRelativeResize": "0"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}blipFill",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                    "atributos": {
+                      "cstate": "print",
+                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId4"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}spPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "atributos": {
+                      "prst": "rect"
+                    },
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}noFill",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}clientData",
+            "atributos": {
+              "fLocksWithSheet": "0"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/drawing7.xml",
+      "ordem": 5,
+      "tipo_ancora": "oneCellAnchor",
+      "celula": "I11",
+      "nome": "image3.png",
+      "titulo": "Image",
+      "descricao": null,
+      "textos": [],
+      "midias": [
+        {
+          "relacao": "rId5",
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image3.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image3.png"
+        }
+      ],
+      "relacionamentos": {
+        "rId1": {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image5.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image5.png"
+        },
+        "rId2": {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        },
+        "rId3": {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        },
+        "rId4": {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image4.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image4.png"
+        },
+        "rId5": {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image3.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing7.xml.rels",
+          "parte_destino": "xl/media/image3.png"
+        }
+      },
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}oneCellAnchor",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}from",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}col",
+                "atributos": {},
+                "texto": "8",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}colOff",
+                "atributos": {},
+                "texto": "962025",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}row",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}rowOff",
+                "atributos": {},
+                "texto": "200025",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}ext",
+            "atributos": {
+              "cx": "1924050",
+              "cy": "1895475"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}pic",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}nvPicPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPr",
+                    "atributos": {
+                      "id": "0",
+                      "name": "image3.png",
+                      "title": "Image"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPicPr",
+                    "atributos": {
+                      "preferRelativeResize": "0"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}blipFill",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                    "atributos": {
+                      "cstate": "print",
+                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId5"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}spPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "atributos": {
+                      "prst": "rect"
+                    },
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}noFill",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}clientData",
+            "atributos": {
+              "fLocksWithSheet": "0"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      }
+    }
+  ],
+  "objetos_vml": [],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://minmaxforum.com/index.php?topic=2811.0",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dnd.arkalseif.info/races/races-of-destiny--81/skulk--42/index.html",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://www.realmshelps.net/monsters/block/Tren",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+    },
+    "rId4": {
+      "Id": "rId4",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://www.d20srd.org/srd/monsters/locathah.htm",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+    },
+    "rId5": {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dnd.arkalseif.info/races/races-of-faerun--23/avariel--95/index.html",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+    },
+    "rId6": {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://www.realmshelps.net/monsters/block/Leskylor",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels"
+    },
+    "rId7": {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing7.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet7.xml.rels",
+      "parte_destino": "xl/drawings/drawing7.xml"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCells",
+      "atributos": {
+        "count": "22"
+      },
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B5:C5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F5:G5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H5:I5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B6:C6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D6:E6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F6:G6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H6:I6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B8:C8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B9:C9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D9:E9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F9:G9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H9:I9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B10:C10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F10:G10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H10:I10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B7:C7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D7:E7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F7:G7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H7:I7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D8:E8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "F8:G8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "H8:I8"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlinks",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1",
+            "ref": "B2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+            "ref": "B4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+            "ref": "D4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+            "ref": "F4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+            "ref": "H4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+            "ref": "J4"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "28"
+    }
+  ],
+  "celulas_xml_total": 147,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 37,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

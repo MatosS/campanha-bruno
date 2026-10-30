@@ -1,0 +1,1126 @@
+{
+  "data": "2026-10-29",
+  "originais": [
+    {
+      "origem": "BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "sha256": "2bee000af32830f22b079ba8af4e51c1f2cde35b41e676d6314785988e8991bf",
+      "bytes": 60608
+    },
+    {
+      "origem": "BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "arquivo": "arquivo/originais/BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "sha256": "2597614929c99d199d6a4b9e7c31a5807734dddf2d973a6ec0544e5ed256dded",
+      "bytes": 117718
+    },
+    {
+      "origem": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "sha256": "ec630a69c611d0d652a343f165aa0a6b97a730f7f71226f9a67beeb053a3391d",
+      "bytes": 246518
+    },
+    {
+      "origem": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "arquivo": "arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "sha256": "6813a22f8dab0c50a20d7c64623e42807260e81a6bad679ca70d0d5779510e25",
+      "bytes": 246275
+    },
+    {
+      "origem": "BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "arquivo": "arquivo/originais/BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "sha256": "8e2fb8c1a33fe5b2cc23cdfdb73f57aa9d28dc247337ed9118c5ca07f35e9c47",
+      "bytes": 41324
+    },
+    {
+      "origem": "BASE INICIAL/FASH PALESKIN.xlsx",
+      "arquivo": "arquivo/originais/BASE INICIAL/FASH PALESKIN.xlsx",
+      "sha256": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+      "bytes": 3865756
+    },
+    {
+      "origem": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+      "arquivo": "arquivo/originais/BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+      "sha256": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+      "bytes": 1800127
+    },
+    {
+      "origem": "BASE INICIAL/Nota1.pdf",
+      "arquivo": "arquivo/originais/BASE INICIAL/Nota1.pdf",
+      "sha256": "7f1ec942aa1b1716661295eb04ea6e383de12f5a46294532c8a9c1602d5e9884",
+      "bytes": 6119049
+    },
+    {
+      "origem": "BASE INICIAL/Nota2.pdf",
+      "arquivo": "arquivo/originais/BASE INICIAL/Nota2.pdf",
+      "sha256": "b92a57304804baad64a9493f4958580ae92f87fb1ad5a551b958499a7e603555",
+      "bytes": 2329817
+    },
+    {
+      "origem": "BASE INICIAL/Personagens e Herois.txt",
+      "arquivo": "arquivo/originais/BASE INICIAL/Personagens e Herois.txt",
+      "sha256": "480e21a7c7c3d79bf21339eb56bb6f9213ce9ba86152de3b9e0fd9e708eb69ea",
+      "bytes": 5660
+    },
+    {
+      "origem": "BASE INICIAL/Resumo detalhado.docx",
+      "arquivo": "arquivo/originais/BASE INICIAL/Resumo detalhado.docx",
+      "sha256": "2078a8f535cb171168297a34f2ca6e2afba9857b407eea71e458ff39225b77f3",
+      "bytes": 36573
+    },
+    {
+      "origem": "BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "arquivo": "arquivo/originais/BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "sha256": "183a3bf14c92819a5399c6e17ed2df75a21888bf0d8393ee24ac890994b38fea",
+      "bytes": 90357
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "sha256": "978d4698b9a04a6dcadd0aa2226c7ac596943449068559696b786fd1de4b794b",
+      "bytes": 2446
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "sha256": "2e5153affd4fbf1f6ebf44a044a71f5d3ceafb898b201b844cc42bc42245197b",
+      "bytes": 916
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "sha256": "16cb3d2fe5d5230de41fd4b937fec5eab76f72aec0bcd892919d4cb4f2254aa8",
+      "bytes": 63073
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "sha256": "9f0a4ef11a85dd735956a457bc85163d77aff83208c7e01812855cef12f517d5",
+      "bytes": 1549
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "sha256": "12e8b8c3d7ddbe0d118f2b80e31a2f5fb87912f46adbff8b5f4e473f6b0a99f7",
+      "bytes": 14386
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "sha256": "80d8bd7b0ea3f3df0ea3e1f117bcb5409c3a5aac7e949f575dc26ee263b967d8",
+      "bytes": 251525
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "sha256": "0461ac677b625e2fd65364fc42daf5f595ca5827afd371328d4f30b01b8523f6",
+      "bytes": 5958
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "sha256": "1facb00efbb0028bba77614405cf95a4bf854cefefad7347de3734c7598de485",
+      "bytes": 20832
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "sha256": "741d4730c911da060230fb34e82c54533137af3598dbafd2d67deb2e2e5eccbe",
+      "bytes": 27266
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "sha256": "8cfcfcd327509fa2d675fc3c8d7105a2137a04b5c55a8cde66cad9ac760c6759",
+      "bytes": 13951
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "sha256": "9204d49c6d58af0309edc3e19f4c4e9270c4a3bd7f087649fcf1b7391bf4e261",
+      "bytes": 25784
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "sha256": "a891c6d7d014c357d950c443a2d1903bc70eb8e33aa058fcd42dc6d5f8e4f121",
+      "bytes": 20256
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "sha256": "0b38c3b077e9b8a0b60e579254e3cda5a67cb5637cb9f3aa688e950d712a4884",
+      "bytes": 14930
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "sha256": "41d357a384179dd438f0dfe600af0b6f98f0cff197e81143006d7e0eea24aca3",
+      "bytes": 15172
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "sha256": "b4e7e24e5207131c1c8aaf28facbb84e5245dc9226c274ec38e21ad50e79d5cc",
+      "bytes": 13739
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "sha256": "d035e4d61f186f7921fd97a5f55f260375c6d91b6a49e34cd18ae8c53d325a45",
+      "bytes": 7982
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "sha256": "fec2c7717cd20891c4556727175a50e5ab25172107416ba5981f96595eacf2b0",
+      "bytes": 5976
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "sha256": "d3b89b9da36d48f20c9ffbd5df8c5eecb4f6462c3af23365806cbc69bb011454",
+      "bytes": 9196
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "sha256": "2a6ffff3241cb62617baac715ea7ffb86c2414ad59bb17dd9e28a4c16a2c0b61",
+      "bytes": 16572
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "sha256": "32121f016135daa14a1e2c4a1c05935aaedbe3ab11a6614c0d1d23a08e445a69",
+      "bytes": 21029
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "sha256": "c139fc6a3d92a7f44afae9f3cceb456c500a9d95b162d73fc62932057aa6c028",
+      "bytes": 22345
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "sha256": "129aa754c4bbb3c0f00c5103cfad0419b8f30deb8b3d42e7a36dd942a2c7e6ff",
+      "bytes": 13605
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "sha256": "85f44c554fa362dd035d5a19b09c97ef982dc0982d9224130bbee479e55e4653",
+      "bytes": 2946
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "sha256": "3f2aa7856ab4cfea0a3b3f6d81fe19c6f48015d1636223c8a543051efeec33dd",
+      "bytes": 1327
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "sha256": "28acf01df7a8a2836f245712c7823a415f2028fa59f05dd5dca8960b0f54a1d6",
+      "bytes": 1573
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Piche.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Piche.md",
+      "sha256": "bf4642d47aa59814f0612220a8661540d13cc9af6de48c296f7fd79a2c65953b",
+      "bytes": 800
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "sha256": "757b3546f3a1577312e5f982e63b70e6d9ae262f09deff8f372bb443a1d6123d",
+      "bytes": 747
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Ryld.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ryld.md",
+      "sha256": "886f02a2fffe12d7102343dae5ac43721021a1bec52dc22a32bcd8ef3b8ab92b",
+      "bytes": 985
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Ébano.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ébano.md",
+      "sha256": "eeadc8fdfdc5b67fbf82333477c4f0f1f8830901b727bbe10a0bfb9d0575050d",
+      "bytes": 984
+    },
+    {
+      "origem": "vault-42/70 Research/RPG - Handoff do cenario para o mestre.md",
+      "arquivo": "arquivo/originais/vault-42/70 Research/RPG - Handoff do cenario para o mestre.md",
+      "sha256": "183a3bf14c92819a5399c6e17ed2df75a21888bf0d8393ee24ac890994b38fea",
+      "bytes": 90357
+    },
+    {
+      "origem": "vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "sha256": "8a36c19cfa113aa378fd01f59de3104258b8fd625cd23862a7d7612727d0bb8b",
+      "bytes": 6364
+    },
+    {
+      "origem": "vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "arquivo": "arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "sha256": "1d9cbc6c7bbedf06f2ad848898468455a6c0cf3ef8fd3ec25f22d39005cdc60b",
+      "bytes": 3630
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "sha256": "e192f00a0b60678d071b5aea90629e17932636e9a083a7029ccc675424c36f64",
+      "bytes": 2122
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "sha256": "d352fbbbd36faee151b30fa86a1c6bc02525960bf9d4b14b26936bdfd2cf0a55",
+      "bytes": 3408
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "sha256": "23b0306dcb48ba23ef20e024c5e96bb422d217355cc5af995c3e495d6415d943",
+      "bytes": 1847
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "sha256": "72211362582af38beda28380f68f39da2a6bb3dd468ebcf0c4687b7b4f657462",
+      "bytes": 1663
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "sha256": "742e0b4b18e09e0e2c8b334f9f53ff6f2a23e5c93abfedded26d8b2a63c3c7e0",
+      "bytes": 70826
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "sha256": "4eb0a0c7df214d77af426497f6c6de202a679bdc5278b23ba3a662377a375b05",
+      "bytes": 137996
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "sha256": "f9e002f5ca955d4dee836695e8bb992932f59ef95daf5493a6efe5fba25de0be",
+      "bytes": 84224
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "sha256": "b50ce48394bf9cbc959a6f2417c074b3db3e89a04118ab9d9749db4ea321b0b5",
+      "bytes": 98726
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "sha256": "ca755212a077b895d7b64d78202777305b8853ad5ab89f90c33a7cde6adc42f9",
+      "bytes": 162663
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "sha256": "e1b06300e074fdf3dec6681a7ba9c738f3d1404dd8b48a1855f23a290f71ea5c",
+      "bytes": 80657
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "sha256": "fd4d38aca0b7843db50b512819cb07c21aa5fe95e5d58b3759ab2437e920035a",
+      "bytes": 145006
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "sha256": "f580351d0b61f6623516b0c72fe3cfb32001825ea76eee06ec3ca81abdb72171",
+      "bytes": 58951
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "sha256": "79bcd945e90593ddcb1aed30a99d610968e999c4ef1ace3cde9b86bdcec33af7",
+      "bytes": 147636
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "sha256": "9308709de60bef681678f7296c213edab0af30dfd471da7775412660f9361642",
+      "bytes": 55776
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "sha256": "d602645ef2b2e31f701eab0004edfe478549cdf9fe0bb349fc1120b0e58b861c",
+      "bytes": 234940
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "sha256": "74edb5e3ce08f051b7d8500f95ff5b02e5fe5f82b565fcc9b4b07622afe2b7ea",
+      "bytes": 202071
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "sha256": "776d1619dcfb4125af9485c5e8e9d230e3dd4e30f15fcf3c473c822225f4d957",
+      "bytes": 131498
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "sha256": "07dc5dbaaaad4857eaeb20b9dbacc67354fdbf33af0898e4a8abf02fafcacb06",
+      "bytes": 162025
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "sha256": "158ab35f67c02f3880c2d212035f8836295de85f5a239d721d27940b633d2432",
+      "bytes": 11295
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "sha256": "4620afe00e952148cf8ca7fad3d8a8d788bd84bb3a36011c382cdc80db392c33",
+      "bytes": 3493
+    },
+    {
+      "origem": "vault-42/90 Archive/RPG/Fash Paleskin.md",
+      "arquivo": "arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin.md",
+      "sha256": "e28619310e67fb2aa09204eb0cf4f2f2b0624c446f4a964b7abe7e695ec49d34",
+      "bytes": 1774
+    }
+  ],
+  "conversoes": [
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Arkhavel.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "dd6ef04e3fd236376e0846bcfba00a5acc9ef9b97204f7b1f088a5f4a6c78622",
+      "corpo_convertido_sha256": "ab3e2baee8800dd5505da68564a80dbb38ba37b9f16b0fc6cd6c0009dbb44852"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Assets.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "6bba43913fa9528f336c8d7866c689835984cfbf716f114b71d38e32daecda24",
+      "corpo_convertido_sha256": "6f17c897dfe5b1ced16a0ba507bfe4eb21322994b5ec8287229f88e3f922303d"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Background Full.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "e3ad618f026dedf5c0a646e7d57bb66e463768df0f9f3970337aa49947c57bc9",
+      "corpo_convertido_sha256": "0d2f7167670380e4bb5e29171c7ccbcf1c5eb1a0a70415349090603d150fa098"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Character Sheet.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "bf661177090edb1166734b7bdfbf0df3fe13ddf8c9f3ec9dc10af829e380286c",
+      "corpo_convertido_sha256": "a4dd11b6ea93fd6d4b3f5d898e63f178e1fd3862d216f7908dc6dd0a6ce51af1"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Cronologia da Campanha.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "2e0fed421aa18a05f8392dd9d356e2173315897b973ceb337522a1e41dca3cdf",
+      "corpo_convertido_sha256": "f6776fba7e65fef587c8a2e23864848f7b2154647912c1b750c75cd691387004"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Diary Full.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "53bd537964871c224a4458002ef9ae352d10eced64959ae307ab8d6b2dc0a858",
+      "corpo_convertido_sha256": "75cb03577ea5f98021045b2e716e8f3b351e29ed7913cc56da19f3c5616ea601"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Diary.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "e6fa11a2072124fdb6e650eb1349fd1c040fa15fd8e8871a6fc128f45f6813e4",
+      "corpo_convertido_sha256": "bd52387feaf034aae89fda90e759e7bfe415e40c387c2b6d2c1059aa2d1a96a5"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 13 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "cad8e5101166c04631e8039f4ef45549eefb7b05cc49be0010591b1121ac1655",
+      "corpo_convertido_sha256": "d90281a2ef7782e86d9b124c5d700e4a04c98658de16fad368ea8a3cb4f93c7a"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 14 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "dddfdfdcb23642fa2ccee4d3a73fcd453ed2312e049b599f7eddbe62df480dc5",
+      "corpo_convertido_sha256": "835a9ae4d46a849ef5f53af19cca922114fad49c462848b752c3fec0ecc42598"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 15 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "f9badca91c047066ea4b845ca2de1e364581a427f91eea32b3f4835763194c7b",
+      "corpo_convertido_sha256": "d00274d36fbac66d7f4df03824cf0e799e70c1c279e9caa3922a42bedb4a9349"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 16 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "e5fb25b4e7ade9d827126db4bc5941eba9776dd82962fd03efbded4134a2f2e3",
+      "corpo_convertido_sha256": "4bea547a429a4b09cbee4e43bbfcd5d6b7d3ed80fd9e7c42343d3a7c745e11e8"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 17 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "672bd4be61592a8f1a0e9f5d6f55c4a9beb01da1b5503c480476f8d3dd673b7c",
+      "corpo_convertido_sha256": "ac8628f8a54d8c1861708eb286e8bd2bd980cacdcfcd8d5afa2d2e016418aba9"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 18 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "fd62d96f1e5c0ea6848e7460fe8a047e437230b4485d581b2d50e4c175433052",
+      "corpo_convertido_sha256": "822d143a49e21ef06864c9f42c0e7bfa82c49b849d285414803d11b8fac708ff"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 19 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "d6e65c5982a7c23722da81533db98ce881b093c3b4778069c27e549d4ee98831",
+      "corpo_convertido_sha256": "ddbba71e6261b3da49132d238b522427785d26052e8f6de68f8458db70ea6324"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 20 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "768742912ef79d014843830d56a700c2632a2e7d0a1eace3899629232fab0127",
+      "corpo_convertido_sha256": "3305d1f0362fe34d703e26fd095ddbd9c3317029a4af0c8564470a473ca3cb27"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 21 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "d09182b9e14583b37cde486f3969382fc6c6c615dc065682970e16811e0a423f",
+      "corpo_convertido_sha256": "560c036940c0265eba46bb1655acd2fac25dbcce771b5c8975264a83c94ebe94"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 22 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "e7a1cf72e177b0fe9516dd7e33c3bef7d9a0a1248088dc22e00cb6489be40e9d",
+      "corpo_convertido_sha256": "d9699f0e48b4c2f7e26472dc702b78e10c0bc10b1c4798e668a55afe9c1c0003"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 23 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "1c148f446a1d134580ad60edbf1a86ce5c9e193f0e01a8607dbf896e1503d4c3",
+      "corpo_convertido_sha256": "b6431708d7d9bbbdf4124be448ac9bce5c0dac238148fbcc9409338c587c261d"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 24 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "88899a8080d436d58ba3e946d0614c374758195d8e89f567167380fc4c443757",
+      "corpo_convertido_sha256": "b0f3d82a98578ad4474688566db352e7b5b16ea08a0baa554bdd409d0ade81b4"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 25 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "f3f04e5d2fedfb96cb990ca513ea62800195b80fecbad855ff412d7e2b7b0ce3",
+      "corpo_convertido_sha256": "2009df712c60558ee341fc906bdff8cc31060b63cd32829c5780bf1b4285e1d3"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 26 Diary Draft.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "cd06dabd6e1ea0e3b84104c51b11105fbbefa22ea8a2348d7ab4a9dfc2f9e6e5",
+      "corpo_convertido_sha256": "c8ffd389ea61480dc6a59d890ef0637d7fb303c4567fba894d532c159dbd83af"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Threads.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "a84a17fb5bc3d046249accdd546ba3aaec59ba2812b7d06a9b8fd86a1c8ee5ee",
+      "corpo_convertido_sha256": "5b980c5ba11b9aa0544225b7b63bb27f6a1c2882cb993ad54f9e4cb9e45c5fd4"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "3c21d81c5a88b613a60aaa78ecf1ee7c3d313a79f0a40fd81117a5ec7f74a053",
+      "corpo_convertido_sha256": "123f1cada926c79da13f327700c63c145fd142535d082c0a50d31040e0f06592"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Grimório de Glim.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "13fc02157995aa473ea8fef3bce01568debe0977fd26ed41d0435ca1079ddb42",
+      "corpo_convertido_sha256": "7d96964db084960bd5fe732484db727ac013a2b784c64a372782fcd62c045ea8"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Lilo Sombrasselva.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "8d0b0e3e39db842753a53ff5f70343047884ef2b0b9e241adb8ba887a627fb5b",
+      "corpo_convertido_sha256": "8ab4796a22da8f9a035ab969fbc68ef3ab4324de88dd92b6d9d4d1b33a8d29a1"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Piche.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Piche.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "632478546aa2f5c12f84a3248f390b8091597a09b6853e57faa8e421aa4fc8b6",
+      "corpo_convertido_sha256": "45808744de32cda9cdaabfd8e431efbc235bb75e8f54eb7b7679d9688aa72287"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Roda de Estopa.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "109db526cc094560fdee8f4530bf7570d342a3aabcd87bf8622151836daad038",
+      "corpo_convertido_sha256": "ea8b9709541d74e2d07394b622b6e35da3097fa78c1508fd86ca7dfe54a423c5"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Ryld.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Ryld.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "9c3357bc54c0e1d9110d1d895c770baef7c674e7eb727d9ba4b1fe0f7d8e258c",
+      "corpo_convertido_sha256": "807803135b87ea0ec8b9526900566c8971686ef263a9a29929e17db39be79e84"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Ébano.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Ébano.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "2025ffc2e13d15415f9daf141a8169d625ac6ac0565bccc4db07174d48545b06",
+      "corpo_convertido_sha256": "63a9080598edb1fa16f2f2dc198640ad3372ebede4e6ccb47812555b82d397fc"
+    },
+    {
+      "origem": "vault-42/70 Research/RPG - Handoff do cenario para o mestre.md",
+      "destino": "conteudo/Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "183a3bf14c92819a5399c6e17ed2df75a21888bf0d8393ee24ac890994b38fea",
+      "corpo_convertido_sha256": "52429524e9b1d7890e0abb4d612f6571c7bbddba3b0f9a88436ca823f8a1484f"
+    },
+    {
+      "origem": "vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "destino": "conteudo/Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "8a36c19cfa113aa378fd01f59de3104258b8fd625cd23862a7d7612727d0bb8b",
+      "corpo_convertido_sha256": "2b86d39fc8b7f6f712e4f92197ac525151c17f02acb0cc020bb9692720397463"
+    },
+    {
+      "origem": "vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Fash Paleskin - Old Archive.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "a9e279f57342fd38fbdddfeb666f275500a1615ccdb6440d518a1c0005b02757",
+      "corpo_convertido_sha256": "2ee9fbb334951ac471cae294de5ad843e044567073f716f3d422aa5f93a694dd"
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Drive - GLIM SOMBRASSELVA.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "3ec15a90a7ef92a8b8c8f5826e307a2333635b38115ad5e4d36a626e595bf023",
+      "corpo_convertido_sha256": "c8fc26476abcfe2f49e809b8c4874784ebff70ad2025d91bab0bf1d91469ea22"
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "477fa4b95eb2b9f74e4d0675fac4200fb9df9c4e99dc6ae7954055dd01319335",
+      "corpo_convertido_sha256": "0776bb98b622adf75ad6b98ad522ab0ac8e85290e75afd4d7747c8501b34d5a3"
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "f12b2507b5c27596091e10b42b1fc1dd0276cd3fd522d014426b548c8db7c6ea",
+      "corpo_convertido_sha256": "c868932cff29775728f6c98792b3a165db40ed62ab2e460caa48b89ba6057fab"
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Drive - TREASURE GLIM PARTY.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "620887be13efc5b2e2847c900823d21238dbd89a980c4a316026638e0009fa2e",
+      "corpo_convertido_sha256": "2d484df0f17c066c1d3ab34cc0db7e1209a20616bb4b8d47cd9ff9bb65a00c6b"
+    },
+    {
+      "origem": "vault-42/90 Archive/RPG/Fash Paleskin.md",
+      "destino": "conteudo/Fontes/Vault/Vault - Fash Paleskin.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "83e57a358e6b98e968a7358cb13efecf899997cb7110582802d32844d74f4836",
+      "corpo_convertido_sha256": "890761542525691f449c150371dc4d14dae113e1a44b467977d9a259b6ceb969"
+    },
+    {
+      "origem": "BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "destino": "conteudo/Fontes/Documentos/Background - Glim Sombrasselva.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "2bee000af32830f22b079ba8af4e51c1f2cde35b41e676d6314785988e8991bf",
+      "corpo_convertido_sha256": "e74be9a53ecbd8a2533056960c78e1dc7a369120d92d1d5c874cfd4cb0900ffb"
+    },
+    {
+      "origem": "BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "destino": "conteudo/Fontes/Documentos/Diario - Fash Paleskin.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "2597614929c99d199d6a4b9e7c31a5807734dddf2d973a6ec0544e5ed256dded",
+      "corpo_convertido_sha256": "8dd98a5cd197f3d9e2fb783d8e32a424277af81949b16db9bc90bbcdffaa13b6"
+    },
+    {
+      "origem": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "destino": "conteudo/Fontes/Documentos/Diario - Glim Sombrasselva.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "ec630a69c611d0d652a343f165aa0a6b97a730f7f71226f9a67beeb053a3391d",
+      "corpo_convertido_sha256": "14d269a210455543526cbe9fb47f9a5dbd2d21b9b2df6d4e712c643a7ddf2782"
+    },
+    {
+      "origem": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "destino": "conteudo/Fontes/Documentos/Diario - Glim Sombrasselva - Texto.md",
+      "metodo": "texto-integral",
+      "texto_origem_sha256": "fe2d7c625fd97cc21c52f9835f8ed1fcf696ea47654d60dd8fda5682ad9beeba",
+      "corpo_convertido_sha256": "4e7e4b7a5c8bfb4fc1911c57ad75b52b6553708ee0f3fcc81210d3de724a4532"
+    },
+    {
+      "origem": "BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "destino": "conteudo/Fontes/Documentos/Dossie de personagem - Okay dBoa.md",
+      "metodo": "texto-integral",
+      "texto_origem_sha256": "e0597dba8e8158522aa67d4d46f056236b9d92c718da9f8312aa8754eb6bb7d7",
+      "corpo_convertido_sha256": "3d87fa991df160cacc3966c55cabcdb97811177e7889819cf170a3d05bb51e5f"
+    },
+    {
+      "origem": "BASE INICIAL/Personagens e Herois.txt",
+      "destino": "conteudo/Fontes/Documentos/Personagens e Herois.md",
+      "metodo": "texto-integral",
+      "texto_origem_sha256": "e9e2b4a82a71bc55134719d825e83b67757f90d10cba42c0edcbd6315c95eda3",
+      "corpo_convertido_sha256": "e9e2b4a82a71bc55134719d825e83b67757f90d10cba42c0edcbd6315c95eda3"
+    },
+    {
+      "origem": "BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "destino": "conteudo/Fontes/Documentos/Handoff do cenario.md",
+      "metodo": "markdown",
+      "texto_origem_sha256": "183a3bf14c92819a5399c6e17ed2df75a21888bf0d8393ee24ac890994b38fea",
+      "corpo_convertido_sha256": "52429524e9b1d7890e0abb4d612f6571c7bbddba3b0f9a88436ca823f8a1484f"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "bf562a33b605e7404ab122d7b0cf765bce0872805ea6171e9dd870a61a4ab16c",
+      "corpo_convertido_sha256": "b1793b70eb58d6d41559df3fb32fe1d9e8aee75c007688ceaf3bfcb96c276829"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "598797579b69ede9748748e801f8eea88a13b020f822bd37c05b212c5917ef87",
+      "corpo_convertido_sha256": "d4efcb3ef38ae0b7eecb62a23575276b56d2f238c54ebb7fcf5707e19f8872e7"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 15 - 2026-06-29.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "64adf8952ddc5416c097d0686345a028460d128fa93fd824a16bb6bb158ab944",
+      "corpo_convertido_sha256": "09778ae5b77037264095f3f1617783164e367e8f93fd2071863e9b9de1224217"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "d6748a529a5a2b25a1efbe5c29e75a1da877d76e5a35916fd65026b3903d86b0",
+      "corpo_convertido_sha256": "e3c1034160121050b54aa78d9cdb567a0b4a305fe139d203fc7a78730513ae35"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 17 - 2026-08-17.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "25786305259580f1e6fa14e2ec7e94e8196dd680880368e724ebe42a41cdf200",
+      "corpo_convertido_sha256": "05e92b1911d439dcde55d70cca40d21d4cfa78c2b0eee80d0565338936f0c05b"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "6dc3fdbde8ac1a5855d13a56443276e67dabfdb66b482a6b50814052a00bf843",
+      "corpo_convertido_sha256": "f65804b1b2953f4c78760b6506f1996b06567a357247b7a4f3cb9fd9fe469155"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "34fc469efd1f5a4607c2cae0987aa9a9ca4c780c855164a6382134ebcf254f9b",
+      "corpo_convertido_sha256": "1fd596abdcd624e2701975fa16a979750dc4c537171cf1ada0d40d2b42a7a0f2"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "88d450d4d26d6e1437b235286c160de253134f43b02615dba436842bac491ca3",
+      "corpo_convertido_sha256": "c14b680714b8baf9ed80899db192445636fb9262a38db45f4f733e7e4ac63131"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 21 - 2026-09-13.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "ada954faf847fd7b686b6146c8193d06918bb4ed7b4cee2ec5fb57884b29b709",
+      "corpo_convertido_sha256": "8a389a735398143d5b76c3243049fc990cec6bf79963706cf92022f2ade2ce91"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 22 - 2026-09-16.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "946fc669b299c086173837b342e5de1c85b7c9dc3e8005ad4c744f723ad1893c",
+      "corpo_convertido_sha256": "8471e28a6560bdbdfb55b84f4e551d59f4674a173a81212ad8e2f2f62edb6d11"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "f42c98320ebf8f823c007e699935b1c690e3f2a0f009c8d691d42509fc8e5260",
+      "corpo_convertido_sha256": "b41bac5f41ff1decef295f9c551c77cf324b7908e889eaebe28eb6a672a23372"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "7189ea193c84fd470b074cc3bb5d561128597c47d1ebfc44426ad4aefa4bd4bd",
+      "corpo_convertido_sha256": "7586a16160bdab607472c62eae3fccad97809252c8a600315334d8a6575326a9"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "d1a8b8c1f7e7bf85d33dac628bed4565bf5e1a3d19526c733a182de61bb2e097",
+      "corpo_convertido_sha256": "ddaa7938306d04f3ed209360323de9153bf4013334ad3e8435e64a04e36a734c"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20.md",
+      "metodo": "transcricao-integral",
+      "texto_origem_sha256": "fa31010f1745229774479bc3a554165d3921991bfdf6d11b2ac281d950578919",
+      "corpo_convertido_sha256": "5de2f59f106573ec225eb1f149e1f9b7a121719d64262f3c0fe136243577dbe2"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "destino": "conteudo/Fontes/Transcricoes/Proveniencia - Sessoes 13 a 25.md",
+      "metodo": "json-integral",
+      "texto_origem_sha256": "a1c4349113d8358ff5a139d338ea7bdbefb31ea0584efc06710a0af1cf41f830",
+      "corpo_convertido_sha256": "a58232d02ae9d9f24c4b36ae34ee424b5bc75dd9c59f26a722111854fe972a4c"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "destino": "conteudo/Fontes/Transcricoes/Acervo - Sessoes 13 a 25.md",
+      "metodo": "texto-integral",
+      "texto_origem_sha256": "32185d9e013c6eba1f392b68d7ef2824b5226311f269cccc15f164c0c1c30184",
+      "corpo_convertido_sha256": "463462ecd39727e32f4eb2a88b9bb770248d01e053e1342f6f48320c2da43504"
+    }
+  ],
+  "sessoes": [
+    {
+      "sessao": "1",
+      "data_mesa": "2026-03-15",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 01 - 2026-03-15.md",
+      "corpo_sha256": "4b5f2ce3199a61b170f4546d573b150c8eebe6fcc2a7137f0bce892cbc79ed09"
+    },
+    {
+      "sessao": "2",
+      "data_mesa": "2026-03-18",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 02 - 2026-03-18.md",
+      "corpo_sha256": "53b3ef57303016dc5ae8c4e8fec7480c7837cad9cb9662fe7920e37c30026a4e"
+    },
+    {
+      "sessao": "3",
+      "data_mesa": "2026-03-24",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 03 - 2026-03-24.md",
+      "corpo_sha256": "8f9d34118fb9890dcaa66560e177708d8509dd15cac42b138f62811272f3aac1"
+    },
+    {
+      "sessao": "4",
+      "data_mesa": "2026-03-30",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 04 - 2026-03-30.md",
+      "corpo_sha256": "69c7fba5e899e9d6f6edaef2cdf47704c04ffffe4ac24fff1a1613d4bb4d79e6"
+    },
+    {
+      "sessao": "5",
+      "data_mesa": "2026-04-01",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 05 - 2026-04-01.md",
+      "corpo_sha256": "3002f8b08340e04367a87ddf72476a167fbbebc8baf678f914146d94ee670ebc"
+    },
+    {
+      "sessao": "6",
+      "data_mesa": "2026-04-06",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 06 - 2026-04-06.md",
+      "corpo_sha256": "0b41f03a4ca6573566d105efcd8a8094306f3eba585685fcb00742e6fe1d7f12"
+    },
+    {
+      "sessao": "7",
+      "data_mesa": "2026-04-15",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 07 - 2026-04-15.md",
+      "corpo_sha256": "4b1f38dbf25f7563632aa5dad8815575c788e5b32f929ecd951f9e89649c7354"
+    },
+    {
+      "sessao": "solo",
+      "data_mesa": "2026-04-22",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao Solo - 2026-04-22.md",
+      "corpo_sha256": "d5c01b68fc17cb0305369b6989dbcc9d10f4cd769a37541685b259c4f04505e0"
+    },
+    {
+      "sessao": "8",
+      "data_mesa": "2026-04-26",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 08 - 2026-04-26.md",
+      "corpo_sha256": "d9f3555f4be8e7dc1370cdc31fe1b833fca94fbe591e4fc0fc58bc7aaea61e5d"
+    },
+    {
+      "sessao": "9",
+      "data_mesa": "2026-04-27",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 09 - 2026-04-27.md",
+      "corpo_sha256": "275b5cc2983f1521eacd2fa2c0c31dd2c2e7739dc13628acc322b2969163c4d2"
+    },
+    {
+      "sessao": "10",
+      "data_mesa": "2026-05-06",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 10 - 2026-05-06.md",
+      "corpo_sha256": "ef17615a54b5d8010949779934c21ee61a8def42f0a1a4cf328ed34707772684"
+    },
+    {
+      "sessao": "11",
+      "data_mesa": "2026-05-13",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 11 - 2026-05-13.md",
+      "corpo_sha256": "aed263b580f337d526c8b66aa5979549903e41b90096e4dbaadb5386b08ddafa"
+    },
+    {
+      "sessao": "12",
+      "data_mesa": "2026-05-20",
+      "data_mesa_ano_status": "inferido",
+      "destino": "conteudo/Sessoes/Glim - Sessao 12 - 2026-05-20.md",
+      "corpo_sha256": "e4419c767953e1af453f829f3fa28551da425f1b538e1c2c8a408cc66b87308f"
+    },
+    {
+      "sessao": "13",
+      "data_mesa": "2026-05-27",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 13 - 2026-05-27.md",
+      "corpo_sha256": "766fa1f4e3c3d84d0ff246a4b3aebf0de0517ea6c238511b84f18fa0361242b7"
+    },
+    {
+      "sessao": "14",
+      "data_mesa": "2026-06-17",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 14 - 2026-06-17.md",
+      "corpo_sha256": "4ca259ab1161cc2e08a54a776141f3010943b1fe534b64f09888c02b43d02ce6"
+    },
+    {
+      "sessao": "15",
+      "data_mesa": "2026-06-29",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 15 - 2026-06-29.md",
+      "corpo_sha256": "37221297d50449caba5221e3058856f5bcb35b3b8858e3a59bfcfd78fc849411"
+    },
+    {
+      "sessao": "16",
+      "data_mesa": "2026-08-05",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 16 - 2026-08-05.md",
+      "corpo_sha256": "6efad9e6b430f35b74c558a1d1a4fe8cfedf6c1ccaf66191dccc37f196283456"
+    },
+    {
+      "sessao": "17",
+      "data_mesa": "2026-08-17",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 17 - 2026-08-17.md",
+      "corpo_sha256": "74ced34bdd8ba2c4bbbf6f8acf0917aa6beb6aca9505a3357b0cfa4b0eae7f44"
+    },
+    {
+      "sessao": "18",
+      "data_mesa": "2026-08-25",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 18 - 2026-08-25.md",
+      "corpo_sha256": "9652f62cc724c39cfe459a3b5d9a05f68da0ccfa5b66a80378f006b1c46b7805"
+    },
+    {
+      "sessao": "19",
+      "data_mesa": "2026-09-01",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 19 - 2026-09-01.md",
+      "corpo_sha256": "c4a3b00abd3b10b38688287ee3ee3e2c95d2e4f37dcec22ce7e1d887ef28aa08"
+    },
+    {
+      "sessao": "20",
+      "data_mesa": "2026-09-02",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 20 - 2026-09-02.md",
+      "corpo_sha256": "8bdffb9a6fc958f46a107b60d1e99812464b2869b4ab39d00177597929147bc1"
+    },
+    {
+      "sessao": "21",
+      "data_mesa": "2026-09-13",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 21 - 2026-09-13.md",
+      "corpo_sha256": "aa361d988cc41d5ed14f653e5d88fdf25f13974ee3896692923c84d009a8d2da"
+    },
+    {
+      "sessao": "22",
+      "data_mesa": "2026-09-16",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 22 - 2026-09-16.md",
+      "corpo_sha256": "63c0eb4a9f5654ac191a26984079471dab245d89935fed74b7f9679b8ea71f42"
+    },
+    {
+      "sessao": "23",
+      "data_mesa": "2026-09-27",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 23 - 2026-09-27.md",
+      "corpo_sha256": "b006ea7231e389aff51385ce87804cf90fc6a768872811104769fe6baeaeced5"
+    },
+    {
+      "sessao": "24",
+      "data_mesa": "2026-09-30",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 24 - 2026-09-30.md",
+      "corpo_sha256": "a275e43ead79009d86905d883ba5d6ca633809bb9d4020607bd686a6c28c0a93"
+    },
+    {
+      "sessao": "25",
+      "data_mesa": "2026-10-05",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 25 - 2026-10-05.md",
+      "corpo_sha256": "4212ccde75acf5a23cc8ae6773ea1efde0c247201fb6458d49e00191deb51fd1"
+    },
+    {
+      "sessao": "26",
+      "data_mesa": "2026-10-20",
+      "data_mesa_ano_status": "documentado",
+      "destino": "conteudo/Sessoes/Glim - Sessao 26 - 2026-10-20.md",
+      "corpo_sha256": "9d3f62c552fcfff02b6cb3ddfec751744bdbc34704e03d2fb4a748ffc9d1a750"
+    }
+  ],
+  "arquivos_gerados": [
+    "conteudo/Fontes/Vault/Vault - Arkhavel.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Assets.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Background Full.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Character Sheet.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Cronologia da Campanha.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Diary Full.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Diary.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 13 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 14 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 15 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 16 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 17 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 18 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 19 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 20 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 21 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 22 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 23 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 24 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 25 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 26 Diary Draft.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Threads.md",
+    "conteudo/Fontes/Vault/Vault - Glim Sombrasselva.md",
+    "conteudo/Fontes/Vault/Vault - Grimório de Glim.md",
+    "conteudo/Fontes/Vault/Vault - Lilo Sombrasselva.md",
+    "conteudo/Fontes/Vault/Vault - Piche.md",
+    "conteudo/Fontes/Vault/Vault - Roda de Estopa.md",
+    "conteudo/Fontes/Vault/Vault - Ryld.md",
+    "conteudo/Fontes/Vault/Vault - Ébano.md",
+    "conteudo/Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre.md",
+    "conteudo/Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+    "conteudo/Fontes/Vault/Vault - Fash Paleskin - Old Archive.md",
+    "conteudo/Fontes/Vault/Vault - Drive - GLIM SOMBRASSELVA.md",
+    "conteudo/Fontes/Vault/Vault - Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+    "conteudo/Fontes/Vault/Vault - Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+    "conteudo/Fontes/Vault/Vault - Drive - TREASURE GLIM PARTY.md",
+    "conteudo/Fontes/Vault/Vault - Fash Paleskin.md",
+    "conteudo/Fontes/Documentos/Background - Glim Sombrasselva.md",
+    "conteudo/Fontes/Documentos/Diario - Fash Paleskin.md",
+    "conteudo/Fontes/Documentos/Diario - Glim Sombrasselva.md",
+    "conteudo/Fontes/Documentos/Diario - Glim Sombrasselva - Texto.md",
+    "conteudo/Fontes/Documentos/Dossie de personagem - Okay dBoa.md",
+    "conteudo/Fontes/Documentos/Personagens e Herois.md",
+    "conteudo/Fontes/Documentos/Handoff do cenario.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 15 - 2026-06-29.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 17 - 2026-08-17.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 21 - 2026-09-13.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 22 - 2026-09-16.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05.md",
+    "conteudo/Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20.md",
+    "conteudo/Fontes/Transcricoes/Proveniencia - Sessoes 13 a 25.md",
+    "conteudo/Fontes/Transcricoes/Acervo - Sessoes 13 a 25.md",
+    "conteudo/Sessoes/Glim - Sessao 01 - 2026-03-15.md",
+    "conteudo/Sessoes/Glim - Sessao 02 - 2026-03-18.md",
+    "conteudo/Sessoes/Glim - Sessao 03 - 2026-03-24.md",
+    "conteudo/Sessoes/Glim - Sessao 04 - 2026-03-30.md",
+    "conteudo/Sessoes/Glim - Sessao 05 - 2026-04-01.md",
+    "conteudo/Sessoes/Glim - Sessao 06 - 2026-04-06.md",
+    "conteudo/Sessoes/Glim - Sessao 07 - 2026-04-15.md",
+    "conteudo/Sessoes/Glim - Sessao Solo - 2026-04-22.md",
+    "conteudo/Sessoes/Glim - Sessao 08 - 2026-04-26.md",
+    "conteudo/Sessoes/Glim - Sessao 09 - 2026-04-27.md",
+    "conteudo/Sessoes/Glim - Sessao 10 - 2026-05-06.md",
+    "conteudo/Sessoes/Glim - Sessao 11 - 2026-05-13.md",
+    "conteudo/Sessoes/Glim - Sessao 12 - 2026-05-20.md",
+    "conteudo/Sessoes/Glim - Sessao 13 - 2026-05-27.md",
+    "conteudo/Sessoes/Glim - Sessao 14 - 2026-06-17.md",
+    "conteudo/Sessoes/Glim - Sessao 15 - 2026-06-29.md",
+    "conteudo/Sessoes/Glim - Sessao 16 - 2026-08-05.md",
+    "conteudo/Sessoes/Glim - Sessao 17 - 2026-08-17.md",
+    "conteudo/Sessoes/Glim - Sessao 18 - 2026-08-25.md",
+    "conteudo/Sessoes/Glim - Sessao 19 - 2026-09-01.md",
+    "conteudo/Sessoes/Glim - Sessao 20 - 2026-09-02.md",
+    "conteudo/Sessoes/Glim - Sessao 21 - 2026-09-13.md",
+    "conteudo/Sessoes/Glim - Sessao 22 - 2026-09-16.md",
+    "conteudo/Sessoes/Glim - Sessao 23 - 2026-09-27.md",
+    "conteudo/Sessoes/Glim - Sessao 24 - 2026-09-30.md",
+    "conteudo/Sessoes/Glim - Sessao 25 - 2026-10-05.md",
+    "conteudo/Sessoes/Glim - Sessao 26 - 2026-10-20.md",
+    "conteudo/Personagens/Glim Sombrasselva.md",
+    "conteudo/Personagens/Fash Paleskin.md",
+    "conteudo/Personagens/Okay dBoa.md",
+    "conteudo/Personagens/Kael.md",
+    "conteudo/Faccoes/Ebano.md",
+    "conteudo/Personagens/Arkhavel.md",
+    "conteudo/Personagens/Ryld.md",
+    "conteudo/Personagens/Lilo Sombrasselva.md",
+    "conteudo/Personagens/Piche.md",
+    "conteudo/Itens/Grimorio de Glim.md",
+    "conteudo/Faccoes/Roda de Estopa.md",
+    "conteudo/Personagens/Tork.md",
+    "conteudo/Personagens/Folha-Seca.md",
+    "conteudo/Faccoes/Kenku de Eral.md",
+    "conteudo/Lugares/Carruan.md",
+    "conteudo/Lugares/Lazathar.md",
+    "conteudo/Eventos/Noite Eterna.md",
+    "conteudo/Sessoes/Indice.md",
+    "conteudo/Fontes/Transcricoes/Indice.md",
+    "conteudo/Campanhas/Fash.md",
+    "conteudo/Campanhas/Glim.md",
+    "conteudo/Cronologia/Fash e Glim.md",
+    "conteudo/Cronologia/Glim Sombrasselva.md",
+    "conteudo/Fontes/Referencias do vault.md",
+    "conteudo/Inicio.md"
+  ],
+  "origens_preservadas": 65,
+  "vault_alterado": false,
+  "base_inicial_alterada": false,
+  "fontes_excluidas": false
+}

@@ -1,0 +1,37 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-010, FC-001 e FC-016 tiveram as consultas encerradas com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os nove registros permanecem identificados neste documento, deixando 92 registros pendentes, sem nova solicitação de resposta nos itens encerrados.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-001, PC-010, FC-001 e FC-016 tiveram as consultas encerradas com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os dez registros permanecem identificados neste documento, deixando 91 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Desconhecido"
+    },
+    {
+      "antes": "Referências: Esclarecimentos do jogador (23/10/2026); Transcrição S25 (05/10/2026).",
+      "depois": "Referências: Esclarecimentos do jogador (23/10/2026); Transcrição S25 (05/10/2026). Resposta do jogador (30/10/2026)."
+    },
+    {
+      "antes": "A completar: Fash está vivo na época da sessão 26? Onde está, em que condição e ainda exerce pessoalmente a liderança do Ébano?",
+      "depois": "Consulta encerrada: A situação de Fash no presente da campanha de Glim é desconhecida. Não há nova pergunta aos jogadores neste item nem fundamento para presumir sobrevivência, morte, localização ou comando atual."
+    },
+    {
+      "antes": "Já registrado: A fundação do Ébano por Fash é confirmação do jogador que atribui a informação ao mestre. Sua sobrevivência atual é crença sem certeza; as especulações em off de S25 não estabelecem localização ou comando.",
+      "depois": "Já registrado: A fundação do Ébano por Fash e sua condição de NPC estão confirmadas. Sua sobrevivência, localização, condição e liderança pessoal atuais são desconhecidas. A antiga crença em sua sobrevivência e as especulações em off de S25 não constituem confirmação."
+    },
+    {
+      "antes": "PC-001 — Fash no presente",
+      "depois": "PC-001 — Fash no presente — CONSULTA ENCERRADA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-010, PC-024, PC-040, FC-001 e FC-016 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 92 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-001, PC-010, PC-024, PC-040, FC-001 e FC-016 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 91 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "consulta_encerrada_com_incertezas",
+  "pendencias_restantes": 91,
+  "demais_textos_preservados": true
+}

@@ -1,0 +1,432 @@
+{
+  "fonte": "BASE INICIAL/FASH PALESKIN.xlsx",
+  "sha256_fonte": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+  "aba": "ADMINISTRAÇÃO CIDADE DROW",
+  "ordem": 4,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet4.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": "Mina de Mithral = 2.000 PO Mês",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": "Mina de Ouro = 1.200 PO Mês",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B6",
+      "atributos": {
+        "r": "B6",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "3",
+      "valor": "Equipamentos Drow",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C7",
+      "atributos": {
+        "r": "C7",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": "2500 armas",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C8",
+      "atributos": {
+        "r": "C8",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": "6500 armaduras",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C9",
+      "atributos": {
+        "r": "C9",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "8",
+      "valor": "Drows aceitam comprar 400k PO",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B11",
+      "atributos": {
+        "r": "B11",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "9",
+      "valor": "Anões",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C12",
+      "atributos": {
+        "r": "C12",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": "15 indivíduos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B16",
+      "atributos": {
+        "r": "B16",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "13",
+      "valor": "Humanos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C17",
+      "atributos": {
+        "r": "C17",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "14",
+      "valor": "80 indivíduos",
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [
+    {
+      "celula": "C9",
+      "autor": "",
+      "texto": "Melhores equipamentos, full plates, etc.",
+      "atributos": {
+        "authorId": "0",
+        "ref": "C9"
+      },
+      "parte": "xl/comments2.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "C9"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "Melhores equipamentos, full plates, etc.",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "hyperlinks": [],
+  "mesclagens": [],
+  "drawings": [],
+  "objetos_vml": [
+    {
+      "parte": "xl/drawings/vmlDrawing2.vml",
+      "id": "_x0000_s1025",
+      "tipo": "Note",
+      "celula": "C9",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "3, 15, 9, 10, 7, 15, 11, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s1025",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "3, 15, 9, 10, 7, 15, 11, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "8",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "2",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments",
+      "Target": "../comments2.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels",
+      "parte_destino": "xl/comments2.xml"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing4.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels",
+      "parte_destino": "xl/drawings/drawing4.xml"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing",
+      "Target": "../drawings/vmlDrawing2.vml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels",
+      "parte_destino": "xl/drawings/vmlDrawing2.vml"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}legacyDrawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    }
+  ],
+  "celulas_xml_total": 17,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 10,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

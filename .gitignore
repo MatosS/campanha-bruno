@@ -1,0 +1,14 @@
+site/node_modules/
+site/public/
+site/content/
+site/.quartz-cache/
+site/.quartz/
+site/.campanha-stage.json
+site/tsconfig.tsbuildinfo
+site/.preview.json
+site/preview.log
+site/preview-error.log
+tools/__pycache__/
+/.quartz-upstream.git/
+site/.github/
+*.tsbuildinfo

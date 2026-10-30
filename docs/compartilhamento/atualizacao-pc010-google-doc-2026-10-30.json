@@ -1,0 +1,33 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017 e PC-009 foram posteriormente respondidas e permanecem identificadas neste documento, deixando 99 registros pendentes. As partes resolvidas ficam preservadas sem nova solicitação de resposta.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017 e PC-009 foram posteriormente respondidas; PC-010 foi encerrada a pedido do jogador, com as incertezas preservadas. Os três registros permanecem identificados neste documento, deixando 98 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Não mantenha nas pendencias. Está tudo incerto ainda."
+    },
+    {
+      "antes": "A completar: Somente com informação nova: o que foi revelado sobre identidade espiritual, memórias, autonomia e visões do familiar? Caso contrário, manter aguardando revelação.",
+      "depois": "Item encerrado: Identidade espiritual, alma, memórias, autonomia e confiabilidade das visões continuam incertas. O jogador pediu retirar o tema das pendências; não há nova pergunta a responder neste item."
+    },
+    {
+      "antes": "Em espera — complementar apenas com informação nova ou outra fonte.",
+      "depois": "Item encerrado pelo jogador em 30/10/2026 e retirado das pendências. As incertezas permanecem."
+    },
+    {
+      "antes": "PC-010 — Identidade da sombra de Lilo",
+      "depois": "PC-010 — Identidade da sombra de Lilo — ENCERRADA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017 e PC-009 já foram respondidas neste documento; restam 99 registros com informação pendente. As partes resolvidas aparecem como contexto ou resposta identificada. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017 e PC-009 já foram respondidas, e PC-010 foi encerrada com as incertezas preservadas; restam 98 registros com informação pendente. As partes resolvidas ou encerradas aparecem identificadas. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "encerrada_com_incertezas",
+  "pendencias_restantes": 98,
+  "demais_textos_preservados": true
+}

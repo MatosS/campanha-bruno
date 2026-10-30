@@ -1,0 +1,3130 @@
+---
+tipo: "fonte"
+titulo: "Preludio de Ryld"
+campanhas: ["glim"]
+publico: true
+status: "importado_com_perspectiva"
+origens: ["C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Préludio Ryld.docx"]
+aliases: []
+atualizado: "2026-10-30"
+---
+
+# Preludio de Ryld
+
+[Original DOCX preservado](../../../arquivo/originais/importacoes-2026-10-30/Pr%C3%A9ludio%20Ryld.docx). Importado em 30/10/2026. A fonte conserva a perspectiva do narrador, grafias, datas, repetições e anotações editoriais; datas dos cabeçalhos não são tratadas como anos do cenário.
+
+<!-- inicio-conteudo-fonte -->
+
+## Capítulo 1 — A Casa Velkyn
+
+
+
+Quando eu tinha dez anos, acreditava que o mundo cabia inteiro dentro de nossa caverna.
+
+
+
+Naquela época, a Casa Velkyn era tudo o que eu conhecia. Não éramos uma casa de guerreiros temidos nem de conspiradores das grandes cidades subterrâneas. Nossa força vinha de algo mais silencioso.
+
+
+
+Nós guardávamos memória.
+
+
+
+A caverna onde vivíamos ficava próxima da costa oriental do continente. A pedra antiga era marcada por fendas naturais que deixavam entrar uma luz pálida vinda da superfície. Não era luz suficiente para iluminar completamente os túneis, mas bastava para que sombras suaves se espalhassem pelas paredes de rocha.
+
+
+
+Era ali que nossa biblioteca existia.
+
+
+
+Meu pai, Zaerith Velkyn, era o principal guardião daquele lugar.
+
+
+
+Ele não governava nossa comunidade, não comandava soldados nem decidia disputas entre casas. Ainda assim, muitos vinham procurá-lo quando precisavam compreender algo antigo. Manuscritos esquecidos, mapas de cavernas que ninguém explorava havia séculos, relatos de viajantes que atravessaram regiões que hoje sequer existiam.
+
+
+
+Meu pai conhecia todos aqueles registros como se fossem velhos amigos.
+
+
+
+Lembro-me de quando ele me encontrou pela primeira vez escondido entre as estantes. Eu devia ter dez anos e acreditava estar sendo extremamente silencioso.
+
+
+
+Ele apenas observou os livros espalhados ao meu redor e depois olhou para mim.
+
+
+
+— Se vai tocar os livros — disse com calma — aprenda primeiro a respeitar o silêncio deles.
+
+
+
+Não era uma repreensão.
+
+
+
+Era um convite.
+
+
+
+Passei a voltar ali todos os dias.
+
+
+
+Enquanto outros jovens corriam pelos túneis da caverna, eu caminhava entre prateleiras antigas tentando entender histórias escritas muito antes de meu nascimento. Criaturas das profundezas, rotas comerciais da superfície, povos que surgiram e desapareceram com o passar dos séculos.
+
+
+
+Quanto mais eu lia, mais o mundo parecia crescer.
+
+
+
+Minha mãe era muito diferente de meu pai.
+
+
+
+Lythrana Velkyn servia a deusa que guiava muitos de nosso povo para longe da escuridão absoluta das profundezas. Ela conduzia os rituais realizados nas noites em que a luz da lua conseguia atravessar as aberturas da caverna e tocar o chão de pedra.
+
+
+
+Eu a vi realizar esses rituais muitas vezes.
+
+
+
+Os participantes caminhavam em silêncio até a parte mais aberta da caverna, onde a luz prateada da superfície caía como um véu sobre o chão. Ali cantavam, dançavam e ofereciam preces discretas, agradecendo pela chance de existir longe das cidades cruéis das profundezas.
+
+
+
+Minha mãe dizia que conhecimento era importante.
+
+
+
+Mas também dizia que conhecimento sem propósito podia se tornar algo perigoso.
+
+
+
+— A mente precisa de direção, Ryldan — ela costumava dizer. — Caso contrário, ela encontra caminhos que deveriam permanecer fechados.
+
+
+
+Eu nem sempre entendia o que ela queria dizer.
+
+
+
+Meu irmão mais velho, Vaerion Velkyn, também não parecia muito interessado nessas discussões.
+
+
+
+Quando eu tinha dez anos, ele já possuía noventa. Entre nosso povo isso ainda significava juventude, mas ele já caminhava por um caminho completamente diferente do meu.
+
+
+
+Vaerion treinava com os guerreiros da comunidade.
+
+
+
+Espadas, lanças e escudos ecoavam pelas cavernas externas enquanto ele passava horas repetindo os mesmos movimentos. Seu corpo era forte, sua postura firme e seu olhar sempre atento aos perigos que poderiam surgir das profundezas.
+
+
+
+Eu costumava observá-lo em silêncio.
+
+
+
+Ele sempre percebia.
+
+
+
+— Você devia tentar isso também — dizia ele, girando a lâmina nas mãos.
+
+
+
+— Prefiro livros.
+
+
+
+Ele ria.
+
+
+
+— Alguém precisa saber por que estamos lutando, então.
+
+
+
+Apesar de nossas diferenças, nunca houve desprezo entre nós.
+
+
+
+Ele protegia a comunidade.
+
+
+
+Eu tentava compreendê-la.
+
+
+
+Os anos passaram assim.
+
+
+
+Quando eu tinha vinte anos, algo mudou dentro de nossa casa.
+
+
+
+Minha mãe estava grávida.
+
+
+
+A notícia se espalhou rapidamente entre nossa pequena comunidade. Crianças não eram raras entre nosso povo, mas cada nascimento ainda era celebrado como algo precioso.
+
+
+
+No ano seguinte, minha irmã nasceu.
+
+
+
+Sylra Velkyn.
+
+
+
+Eu tinha vinte e um anos quando a segurei pela primeira vez. Ela parecia impossivelmente pequena para alguém que um dia caminharia pelos mesmos túneis que eu.
+
+
+
+Meu pai colocou a mão sobre meu ombro naquele dia.
+
+
+
+— Agora você também é responsável por proteger algo neste mundo.
+
+
+
+Na época eu não compreendi completamente aquelas palavras.
+
+
+
+Mas elas permaneceram comigo.
+
+
+
+Sylra cresceu entre os corredores da biblioteca e as histórias que eu lia para ela quando ainda era pequena demais para compreender as palavras. Enquanto eu envelhecia lentamente entre pergaminhos e mapas, ela aprendia a caminhar entre estantes que pareciam gigantescas.
+
+
+
+A vida na Casa Velkyn continuou tranquila por muitos anos.
+
+
+
+Entre meus trinta e quarenta anos, comecei a ajudar meu pai de verdade na organização da biblioteca. Não apenas lendo, mas catalogando registros, restaurando pergaminhos danificados e comparando relatos antigos de viajantes.
+
+
+
+Foi também nessa época que meu irmão decidiu que eu precisava aprender mais do que apenas estudar.
+
+
+
+Apesar de eu não gostar de combate corpo a corpo, havia algo que me despertava interesse: as bestas, especialmente as menores.
+
+
+
+Vaerion percebeu isso imediatamente.
+
+
+
+Ele começou a me ensinar.
+
+
+
+Primeiro vieram os fundamentos do arco e da besta. Posição, respiração, controle. Depois vieram as armas de lâmina, não porque eu desejasse usá-las, mas porque ele insistia que compreender uma arma era diferente de gostar dela.
+
+
+
+— Se você quer ser o mestre do conhecimento — dizia ele — precisa entender como tudo funciona.
+
+
+
+Eu nunca me tornei um grande guerreiro.
+
+
+
+Mas aprendi o suficiente para sobreviver fora das estantes da biblioteca.
+
+
+
+Foi também nessa época que comecei a perceber algo curioso.
+
+
+
+Entre os registros antigos apareciam histórias estranhas vindas de regiões muito distantes. Relatos confusos, rumores incompletos, acontecimentos difíceis de verificar. Nada parecia conectado, e muitas dessas histórias eram antigas demais para serem confirmadas.
+
+
+
+Na época, pareciam apenas ecos de um mundo grande demais para ser compreendido.
+
+
+
+Talvez fossem apenas histórias.
+
+
+
+Talvez não.
+
+
+
+Comecei a deixar a caverna com mais frequência, muitas das vezes acompanha meu irmão que nessa época já tinha se tornado adulto.
+
+
+
+Primeiro foram pequenas viagens pelas cavernas próximas. Depois excursões até regiões da superfície acompanhando mercadores ou viajantes que cruzavam a costa.
+
+
+
+Eu dizia a mim mesmo que fazia isso apenas para encontrar novos registros para a biblioteca.
+
+
+
+Mas a verdade era outra.
+
+
+
+Eu queria ver o mundo com meus próprios olhos.
+
+
+
+Quanto mais eu aprendia, mais percebia que o conhecimento guardado em nossas estantes era apenas uma pequena parte de algo muito maior.
+
+
+
+E naquele tempo, apesar de todas as perguntas que começavam a surgir, eu ainda acreditava que a Casa Velkyn existiria para sempre.
+
+
+
+Eu ainda não sabia o quão frágil aquela certeza realmente era.
+
+
+
+## Capítulo 2 — O Guardião das Fronteiras
+
+
+
+Entre nosso povo, o tempo não corre da mesma forma que entre os humanos.
+
+
+
+Décadas podem passar como estações silenciosas, marcadas por pequenas mudanças que só percebemos quando olhamos para trás.
+
+
+
+Quando eu me aproximava de meus quarenta anos, meu irmão já havia alcançado aquilo que nossa cultura reconhecia como maturidade completa. Vaerion Velkyn sempre caminhou por um caminho diferente do meu, e naquele momento esse caminho finalmente o levou para longe da Casa Velkyn.
+
+
+
+Não foi uma decisão repentina.
+
+
+
+Desde jovem ele treinava com os guerreiros da comunidade, aperfeiçoando técnicas e estudando as rotas que conectavam nossa caverna às regiões mais profundas do Subterrâneo. A posição da nossa casa — próxima à costa e parcialmente aberta à luz da superfície — era vista com desconfiança por muitas cidades drow.
+
+
+
+Para alguns, nossa existência era quase uma afronta.
+
+
+
+Seguíamos ensinamentos que pregavam equilíbrio, não dominação. Mantínhamos contato com viajantes da superfície. Preservávamos conhecimento que outras casas preferiam destruir ou esconder.
+
+
+
+Aquilo inevitavelmente criava inimigos.
+
+
+
+Por essa razão, existiam postos de vigilância espalhados pelas rotas que levavam às cavernas mais profundas. Pequenos grupos de guardiões patrulhavam aqueles caminhos, observando movimentações estranhas e impedindo que ameaças chegassem até nossa comunidade.
+
+
+
+Quando Vaerion recebeu a responsabilidade de liderar uma dessas patrulhas, ninguém se surpreendeu.
+
+
+
+Ele sempre teve o olhar de alguém preparado para enfrentar perigos.
+
+
+
+Lembro-me da noite em que ele veio se despedir antes de partir.
+
+
+
+Estávamos sentados próximos a uma das aberturas da caverna onde a luz fraca da superfície ainda conseguia atravessar a rocha. Eu tinha alguns mapas espalhados diante de mim, analisando rotas antigas que haviam sido mencionadas em registros esquecidos.
+
+
+
+Vaerion observou os pergaminhos por alguns instantes.
+
+
+
+— Você ainda tenta entender o mundo inteiro através desses pedaços de papel?
+
+
+
+— Alguém precisa tentar — respondi.
+
+
+
+Ele sorriu de leve.
+
+
+
+— Então continue tentando. Alguém precisa saber por que estamos lutando.
+
+
+
+Ele sempre dizia isso.
+
+
+
+Para ele, conhecimento e proteção eram duas partes do mesmo propósito.
+
+
+
+Antes de partir, colocou a mão em meu ombro.
+
+
+
+— Cuide da biblioteca.
+
+
+
+Naquele momento achei estranho.
+
+
+
+Eu já ajudava meu pai havia anos. Aquilo parecia apenas uma frase comum.
+
+
+
+Hoje sei que havia mais peso naquela despedida do que percebi.
+
+
+
+Vaerion partiu com um pequeno grupo de guerreiros poucos dias depois. A missão era simples, pelo menos no papel: patrulhar as rotas mais profundas que conectavam territórios dominados por outras cidades drow e impedir que incursões se aproximassem de nossa região.
+
+
+
+Durante os primeiros meses recebemos notícias regulares.
+
+
+
+Mensageiros chegavam trazendo relatos de movimentações estranhas, pequenos confrontos e rotas que haviam sido bloqueadas. Nada que nosso povo não estivesse acostumado a enfrentar.
+
+
+
+Mas então as mensagens começaram a diminuir.
+
+
+
+Primeiro passaram semanas sem notícias.
+
+
+
+Depois meses.
+
+
+
+Meu pai tentou manter a calma. Conflitos nas profundezas muitas vezes dificultavam o envio de mensageiros. Rotas inteiras podiam se tornar intransitáveis por longos períodos.
+
+
+
+Ainda assim, algo parecia errado.
+
+
+
+Os poucos relatórios que finalmente chegaram traziam descrições confusas. Patrulhas que haviam desaparecido. Trilhas que terminavam abruptamente. Marcas de combate em cavernas abandonadas.
+
+
+
+Uma das últimas mensagens mencionava um confronto próximo a uma passagem antiga que conectava territórios dominados por casas drow hostis à nossa comunidade.
+
+
+
+Depois disso, silêncio.
+
+
+
+Nenhum mensageiro voltou.
+
+
+
+Nenhum sobrevivente retornou para contar o que aconteceu.
+
+
+
+Ainda assim, algo curioso ocorreu nos meses seguintes.
+
+
+
+Movimentações hostis nas rotas próximas à nossa caverna simplesmente cessaram.
+
+
+
+Nenhuma incursão inimiga tentou avançar.
+
+
+
+Nenhuma patrulha estranha foi avistada.
+
+
+
+Era como se alguém tivesse erguido uma barreira invisível nas fronteiras de nossa região.
+
+
+
+A comunidade começou a acreditar que Vaerion e seus guerreiros haviam conseguido impedir alguma ameaça maior antes que ela alcançasse nossa casa.
+
+
+
+Mas ninguém sabia exatamente como.
+
+
+
+Ou a que custo.
+
+
+
+Meu pai nunca declarou meu irmão morto.
+
+
+
+Ele apenas guardou silêncio sempre que alguém perguntava.
+
+
+
+Eu também.
+
+
+
+Durante muito tempo continuei analisando mapas antigos e registros de viagens tentando encontrar qualquer pista que explicasse o que havia acontecido nas profundezas.
+
+
+
+Nenhuma resposta apareceu.
+
+
+
+Vaerion Velkyn desapareceu defendendo as fronteiras de nossa casa.
+
+
+
+E embora sua ausência fosse sentida em cada corredor da caverna, sua última missão aparentemente havia cumprido seu propósito.
+
+
+
+Nossa comunidade permaneceu segura.
+
+
+
+Pelo menos por enquanto.
+
+
+
+## Capítulo 3 — Caminhos da Superfície
+
+
+
+O desaparecimento de Vaerion Velkyn deixou um vazio difícil de ignorar.
+
+
+
+Durante muito tempo ninguém falou sobre isso diretamente. Em nossa casa, o silêncio muitas vezes era uma forma de respeito. Meu pai continuou trabalhando na biblioteca como sempre havia feito. Minha mãe manteve os rituais nas noites em que a luz da superfície tocava o chão da caverna.
+
+
+
+A vida continuou.
+
+
+
+Mas algumas responsabilidades precisavam ser assumidas.
+
+
+
+Entre as tarefas que Vaerion realizava havia algo que poucos guerreiros da comunidade apreciavam: manter contato com os povoados da superfície próximos à costa. Não se tratava de política ou alianças formais, mas de algo mais simples e igualmente importante.
+
+
+
+Rotas de passagem.
+
+
+
+Troca de informações.
+
+
+
+Pequenos acordos com pescadores, viajantes e comerciantes que cruzavam a região.
+
+
+
+Muitos drow evitavam a superfície sempre que possível. A luz direta era incômoda, e a desconfiança entre povos diferentes raramente desaparecia completamente.
+
+
+
+Para mim, no entanto, o mundo acima sempre exerceu uma curiosidade difícil de ignorar.
+
+
+
+Talvez fosse consequência de tantos mapas estudados na biblioteca. Talvez das histórias de viajantes que descreviam florestas abertas, céus infinitos e cidades que cresciam sob a luz do sol.
+
+
+
+Quando a necessidade de alguém assumir aquelas viagens surgiu, ofereci-me.
+
+
+
+Meu pai não demonstrou surpresa.
+
+
+
+— Conhecimento não vive apenas dentro de livros — ele disse apenas isso.
+
+
+
+Passei a subir até a superfície com certa frequência.
+
+
+
+No início eram viagens curtas. Caminhava pelas trilhas próximas à costa, observava rotas usadas por mercadores e tentava entender como os povos da região se organizavam.
+
+
+
+Foi assim que encontrei o vilarejo.
+
+
+
+Era pequeno.
+
+
+
+Algumas dezenas de casas de madeira próximas ao mar, barcos simples ancorados na praia e campos cultivados que se estendiam até onde a floresta começava. Nada ali lembrava as grandes cidades descritas em muitos registros da biblioteca.
+
+
+
+E talvez por isso mesmo o lugar parecesse tão tranquilo.
+
+
+
+No começo fui observado com cautela.
+
+
+
+A presença de um drow caminhando entre casas humanas raramente passa despercebida. Alguns moradores me olhavam com curiosidade, outros com clara desconfiança.
+
+
+
+Ainda assim, aos poucos, aquela tensão começou a desaparecer.
+
+
+
+Os primeiros a se aproximarem foram os mais jovens.
+
+
+
+Um grupo de adolescentes que passava boa parte do tempo explorando os arredores do vilarejo. Tinham algo em comum com o que eu havia sido décadas antes: curiosidade demais para ignorar o desconhecido.
+
+
+
+Tinham quinze, talvez dezesseis anos.
+
+
+
+Para mim pareciam crianças.
+
+
+
+Para eles, eu devia parecer algo completamente diferente.
+
+
+
+Mesmo assim, começaram a fazer perguntas.
+
+
+
+Sobre as cavernas. Sobre o Subterrâneo. Sobre as criaturas estranhas que apareciam nas histórias contadas por viajantes.
+
+
+
+Em troca, eu fazia minhas próprias perguntas.
+
+
+
+Aprendi sobre as rotinas do vilarejo, sobre as dificuldades das colheitas, sobre as rotas que pescadores utilizavam para navegar pela costa. Em algumas ocasiões consegui ajudá-los com pequenos problemas — reparar ferramentas, identificar plantas perigosas da região ou orientar caminhos mais seguros por trilhas que eu já havia explorado.
+
+
+
+A desconfiança inicial lentamente deu lugar a algo inesperado.
+
+
+
+Amizade.
+
+
+
+Com o tempo comecei a levar Sylra Velkyn comigo em algumas dessas visitas.
+
+
+
+Minha irmã era muito mais jovem que eu e cresceu ouvindo histórias da superfície antes mesmo de ver o céu aberto pela primeira vez. Quando finalmente caminhou entre as casas daquele vilarejo, parecia observar tudo com uma mistura de curiosidade e encantamento.
+
+
+
+Os jovens humanos a receberam com naturalidade surpreendente.
+
+
+
+Para eles, talvez fosse apenas mais uma história estranha para contar.
+
+
+
+Para nós, era algo mais importante.
+
+
+
+Era a prova de que mundos diferentes podiam coexistir sem medo.
+
+
+
+Durante anos aquelas visitas se tornaram parte de minha rotina. Eu ainda ajudava meu pai na biblioteca, ainda estudava mapas e registros antigos, mas agora também carregava comigo histórias vividas, não apenas lidas.
+
+
+
+De certa forma, sem perceber, eu havia começado a ocupar parte do espaço que Vaerion deixara.
+
+
+
+Não como guerreiro.
+
+
+
+Mas como alguém que mantinha nossas portas abertas para o mundo além das cavernas.
+
+
+
+Naquela época, aquelas viagens pareciam simples.
+
+
+
+Apenas encontros ocasionais entre povos diferentes.
+
+
+
+Mas olhando para trás, percebo que foi ali que algo começou a mudar dentro de mim.
+
+
+
+Quanto mais tempo eu passava na superfície, mais difícil se tornava acreditar que o mundo poderia ser compreendido apenas através de registros antigos.
+
+
+
+Algumas verdades só podiam ser encontradas caminhando.
+
+
+
+E eu ainda tinha muitos caminhos pela frente.
+
+
+
+## Capítulo 4 — O Passar dos Anos
+
+
+
+Cinco anos se passaram desde o desaparecimento de Vaerion Velkyn.
+
+
+
+No início eu ainda esperava notícias. Algum mensageiro perdido retornando das profundezas, algum viajante trazendo relatos inesperados sobre guerreiros que resistiram além das fronteiras conhecidas.
+
+
+
+Mas o tempo possui uma forma silenciosa de transformar esperança em aceitação.
+
+
+
+Eventualmente, a vida apenas continua.
+
+
+
+Durante aqueles anos eu mantive as rotas que meu irmão costumava percorrer. As passagens subterrâneas próximas à nossa casa continuavam sendo observadas, e as viagens até a superfície tornaram-se parte constante da minha rotina.
+
+
+
+Foi assim que minha ligação com o pequeno vilarejo humano se fortaleceu.
+
+
+
+Quando o encontrei pela primeira vez, os jovens que se aproximaram de mim eram pouco mais do que curiosos inquietos. Tinham quinze ou dezesseis anos, idades que para os humanos pareciam marcar o início de uma vida cheia de possibilidades.
+
+
+
+Para mim, era apenas o começo de uma história muito curta.
+
+
+
+Cinco anos passaram.
+
+
+
+Quando voltei ao vilarejo depois desse tempo, aqueles mesmos jovens já haviam mudado. Alguns haviam assumido responsabilidades nas embarcações de pesca. Outros ajudavam suas famílias nos campos próximos à floresta.
+
+
+
+Alguns, porém, tinham sonhos maiores.
+
+
+
+Sonhavam em ver cidades distantes, cruzar estradas que desapareciam no horizonte e descobrir terras que existiam apenas nas histórias contadas por viajantes.
+
+
+
+E um a um, eles partiram.
+
+
+
+Eu me despedi deles na mesma praia onde seus barcos costumavam ancorar. Prometeram voltar um dia, contar histórias, trazer notícias de terras que eu nunca havia visto.
+
+
+
+Alguns voltaram.
+
+
+
+Outros nunca mais apareceram.
+
+
+
+O tempo continuou avançando.
+
+
+
+Dez anos se passaram.
+
+
+
+Depois quinze.
+
+
+
+E então vinte.
+
+
+
+Entre meus quarenta e cinco e sessenta anos de vida, observei algo que para meu povo sempre pareceu estranho: a velocidade com que os humanos mudam.
+
+
+
+Vi crianças nascerem no vilarejo.
+
+
+
+Vi essas mesmas crianças aprenderem a caminhar entre as casas de madeira, correrem pela praia e fazerem perguntas sobre as cavernas de onde eu vinha.
+
+
+
+Alguns anos depois, essas mesmas crianças se tornavam jovens curiosos — exatamente como aqueles que eu havia conhecido quando visitei o vilarejo pela primeira vez.
+
+
+
+E então, novamente, chegava o momento em que eles olhavam para o horizonte.
+
+
+
+E partiam.
+
+
+
+Esse ciclo se repetiu mais de uma vez.
+
+
+
+Três.
+
+
+
+Talvez quatro gerações de jovens humanos surgiram diante de meus olhos enquanto eu permanecia praticamente o mesmo.
+
+
+
+Para eles, eu era uma figura constante.
+
+
+
+Para mim, eles eram estações passageiras.
+
+
+
+No começo aquilo me intrigava.
+
+
+
+Depois passou a me inquietar.
+
+
+
+Enquanto os humanos cresciam, mudavam e seguiam seus próprios caminhos pelo mundo, eu permanecia sempre próximo da mesma caverna, das mesmas rotas, das mesmas estantes repletas de histórias escritas por outras pessoas.
+
+
+
+E pouco a pouco comecei a perceber algo que antes ignorava.
+
+
+
+Todos aqueles jovens humanos partiam em busca de algo.
+
+
+
+Experiências.
+
+
+
+Histórias próprias.
+
+
+
+Um lugar no mundo.
+
+
+
+Eu lia sobre essas coisas todos os dias.
+
+
+
+Mas raramente as vivia.
+
+
+
+Essa percepção ficou comigo por muitos anos.
+
+
+
+Até que finalmente chegou o momento em que não consegui mais ignorá-la.
+
+
+
+Quando alcancei aproximadamente oitenta anos de idade, percebi que grande parte da minha vida havia sido dedicada a compreender histórias escritas por outros.
+
+
+
+Talvez tivesse chegado a hora de começar a viver algumas das minhas.
+
+
+
+Foi então que procurei meus pais.
+
+
+
+Meu pai estava na biblioteca quando o encontrei, cercado por pergaminhos e registros antigos como sempre estivera.
+
+
+
+Minha mãe estava próxima, preparando um dos rituais que realizaria naquela noite.
+
+
+
+Esperei até que ambos estivessem presentes.
+
+
+
+Então falei.
+
+
+
+Disse a eles que queria fazer algo diferente.
+
+
+
+Não apenas pequenas viagens até a superfície ou excursões pelas cavernas próximas.
+
+
+
+Eu queria explorar regiões mais distantes.
+
+
+
+Cidades humanas maiores.
+
+
+
+Rotas comerciais desconhecidas.
+
+
+
+Talvez até territórios que apareciam apenas em mapas antigos da biblioteca.
+
+
+
+Meu pai permaneceu em silêncio por alguns instantes.
+
+
+
+Minha mãe me observava com aquele olhar calmo que sempre parecia enxergar além das palavras.
+
+
+
+Por fim, meu pai falou.
+
+
+
+— Livros podem mostrar caminhos — ele disse — mas chega um momento em que precisamos caminhar por eles.
+
+
+
+Minha mãe apenas colocou a mão sobre meu ombro.
+
+
+
+— O mundo sempre chama aqueles que sabem ouvir.
+
+
+
+Naquele momento eu ainda não sabia exatamente para onde iria.
+
+
+
+Mas pela primeira vez em muitos anos, senti algo diferente do conforto silencioso da biblioteca.
+
+
+
+Senti o chamado da estrada.
+
+
+
+## Capítulo 5 — O Caminho do Patrulheiro
+
+
+
+Quando tomei a decisão de partir para terras mais distantes, eu imaginava que a resposta de meus pais seria simples.
+
+
+
+Talvez aprovação.
+
+Talvez preocupação.
+
+
+
+Além da compreensão recebi outra coisa.
+
+
+
+Meu pai ouviu todas as minhas vontades em silêncio. Quando terminei de falar, ele apenas fechou o livro que estava lendo e me observou por alguns instantes.
+
+
+
+— Conhecimento não é apenas algo que se encontra — disse ele. — É algo que se sobrevive para carregar.
+
+
+
+Naquele momento eu não compreendi completamente o peso daquelas palavras.
+
+
+
+Minha mãe foi ainda mais direta.
+
+
+
+— O mundo além dessas cavernas não é feito apenas de caminhos e histórias interessantes, Ryldan. Existem perigos que os livros não conseguem explicar.
+
+
+
+Ela não estava errada.
+
+
+
+Durante décadas eu havia caminhado entre registros antigos, mapas e relatos de viajantes. Eu conhecia o mundo através das palavras de outras pessoas.
+
+
+
+Mas conhecer algo e sobreviver a ele eram coisas muito diferentes.
+
+
+
+Foi então que meus pais tomaram uma decisão.
+
+
+
+Se eu realmente pretendia viajar para regiões distantes, primeiro precisaria aprender a sobreviver fora da segurança de nossa caverna.
+
+
+
+E para isso, eu teria que treinar.
+
+
+
+Não apenas como estudioso.
+
+
+
+Mas como patrulheiro.
+
+
+
+Durante anos eu já havia recebido ensinamentos ocasionais de meu irmão antes de seu desaparecimento. Vaerion havia insistido que compreender armas e combate era tão importante quanto compreender livros.
+
+
+
+Na época eu aprendi o suficiente para não ser completamente inútil fora da biblioteca.
+
+
+
+Agora, porém, o treinamento seria diferente.
+
+
+
+Seria completo.
+
+
+
+Os guerreiros da comunidade passaram a me incluir em suas patrulhas. Não como líder, nem como combatente principal, mas como alguém que precisava aprender o que realmente significava caminhar pelas profundezas.
+
+
+
+Os primeiros meses foram dedicados às bases.
+
+
+
+Controle do corpo.
+
+Respiração.
+
+Equilíbrio em terrenos irregulares.
+
+
+
+Aprendi a lutar de forma mais eficiente com lâminas curtas — armas leves o suficiente para não atrapalhar movimentos rápidos em túneis estreitos. Continuei aprimorando o uso de bestas, especialmente as menores, que podiam ser disparadas com precisão mesmo em espaços confinados.
+
+
+
+Mas combate direto era apenas uma parte do treinamento.
+
+
+
+Patrulheiros sobreviviam principalmente evitando confrontos desnecessários.
+
+
+
+Aprendi a mover-me em silêncio pelas cavernas, utilizando sombras naturais e formações rochosas para desaparecer mesmo quando alguém estava observando.
+
+
+
+Aprendi a identificar trilhas quase invisíveis deixadas por criaturas subterrâneas.
+
+
+
+Aprendi a reconhecer armadilhas — e também a criá-las.
+
+
+
+Algumas eram simples: fios tensionados, placas ocultas, pequenas quedas preparadas em corredores estreitos.
+
+
+
+Outras exigiam paciência e planejamento.
+
+
+
+Também fui treinado a abrir fechaduras antigas, atravessar passagens bloqueadas e encontrar caminhos alternativos quando rotas principais se tornavam perigosas.
+
+
+
+Os patrulheiros chamavam isso de sobrevivência nas profundezas.
+
+
+
+Eu passei a chamá-lo de algo mais simples.
+
+
+
+Preparação.
+
+
+
+Durante cinco anos participei de pequenas incursões com os grupos de vigilância da Casa Velkyn. Não eram missões grandiosas, mas eram suficientes para me mostrar o que realmente existia além das rotas seguras.
+
+
+
+Criaturas que se moviam silenciosamente entre cavernas esquecidas.
+
+
+
+Ruínas antigas que ninguém mais conseguia identificar.
+
+
+
+Passagens subterrâneas que conectavam territórios controlados por cidades drow hostis.
+
+
+
+Em algumas dessas patrulhas encontramos sinais de movimentações estranhas.
+
+
+
+Trilhas interrompidas.
+
+
+
+Corpos de criaturas que pareciam ter sido abatidas por algo desconhecido.
+
+
+
+Histórias sussurradas entre viajantes sobre acontecimentos incomuns em regiões distantes.
+
+
+
+Nada que pudesse ser confirmado.
+
+
+
+Nada que parecesse conectado.
+
+
+
+Ainda assim, aquelas histórias começaram a aparecer com frequência cada vez maior.
+
+
+
+Na época eu ainda não compreendia o significado disso.
+
+
+
+Hoje sei que o mundo já estava mudando.
+
+
+
+Quando aqueles cinco anos terminaram, eu já não era o jovem que passava dias inteiros escondido entre as estantes da biblioteca.
+
+
+
+Ainda era um estudioso.
+
+
+
+Mas agora também sabia me mover nas sombras das cavernas, sobreviver em territórios hostis e proteger a mim mesmo quando necessário.
+
+
+
+Meu pai percebeu a mudança antes mesmo de eu dizer qualquer coisa.
+
+
+
+— Agora você pode caminhar — ele disse.
+
+
+
+Minha mãe apenas me entregou um pequeno símbolo de prata de Eilistraee para carregar comigo.
+
+
+
+— Mesmo nas noites mais escuras — ela disse — ainda existe luz em algum lugar.
+
+
+
+Eu tinha oitenta e cinco anos quando deixei a Casa Velkyn para minha primeira jornada verdadeira.
+
+
+
+Naquele momento eu acreditava estar partindo apenas para explorar o mundo.
+
+
+
+Eu ainda não sabia que as respostas que procurava estavam ligadas a algo muito maior.
+
+
+
+Algo que, anos depois, mergulharia o mundo inteiro em noites tingidas de vermelho.
+
+
+
+## Capítulo 6 — O Eco de Vaerion
+
+
+
+Quando deixei a Casa Velkyn pela primeira vez após meu treinamento, eu tinha oitenta e seis anos. Não havia outros patrulheiros, não havia os guardiões da Casa Velkyn me acompanhando, eu estava sozinho e pronto.
+
+
+
+Entre os drow, isso ainda estava longe daquilo que chamaríamos de maturidade completa. Ainda assim, dentro de nossa pequena comunidade, poucos haviam seguido o caminho que eu havia percorrido até então.
+
+
+
+Eu havia crescido entre os livros da biblioteca.
+
+
+
+Depois havia sido treinado entre os patrulheiros das profundezas.
+
+
+
+Por isso, muitos me olhavam com uma mistura de curiosidade e expectativa.
+
+
+
+Alguns até usavam uma palavra que eu nunca soube muito bem como aceitar.
+
+
+
+Prodígio.
+
+
+
+Eu não me sentia assim.
+
+
+
+Sentia apenas que ainda havia muitas perguntas sem resposta.
+
+
+
+E uma delas sempre voltava à minha mente.
+
+
+
+Meu irmão.
+
+
+
+Durante anos ninguém havia conseguido explicar o que realmente aconteceu com Vaerion Velkyn nas rotas profundas que protegiam nossa região. A ausência de ataques e incursões inimigas sugeria que algo importante havia acontecido.
+
+
+
+Mas o quê?
+
+
+
+Essa pergunta me acompanhou nas primeiras incursões que fiz como patrulheiro completo.
+
+
+
+Nos anos seguintes, entre meus oitenta e seis e noventa anos de vida, viajei por passagens subterrâneas muito além das rotas que eu conhecia durante o treinamento. Algumas dessas cavernas estavam abandonadas havia décadas. Outras eram conhecidas por estarem próximas de territórios controlados por cidades drow hostis à nossa.
+
+
+
+Eu não buscava confronto.
+
+
+
+Buscava respostas.
+
+
+
+Foi em uma dessas regiões que encontrei o primeiro sinal real do que havia acontecido.
+
+
+
+A passagem era antiga, estreita e marcada por cicatrizes profundas na rocha. Não eram marcas naturais. Eram sinais de combate — lâminas, explosões arcanas e algo mais pesado, como se criaturas enormes tivessem atravessado aquele corredor à força.
+
+
+
+Mais adiante encontrei algo ainda mais revelador.
+
+
+
+Uma barricada.
+
+
+
+Não uma construção improvisada, mas uma verdadeira linha de defesa construída com precisão. Fragmentos de escudos, lanças quebradas e armadilhas destruídas ainda estavam espalhados pelo chão.
+
+
+
+Ali havia ocorrido uma batalha.
+
+
+
+Uma grande batalha.
+
+
+
+Continuei explorando aquela região por vários dias.
+
+
+
+Foi então que encontrei o que restava do outro lado da passagem.
+
+
+
+Uma caverna colossal, larga o suficiente para que um exército inteiro marchasse através dela. Pelos mapas antigos da biblioteca, aquele caminho conectava diretamente territórios dominados por várias casas drow hostis — além de rotas ainda mais profundas que levavam a regiões onde criaturas antigas habitavam.
+
+
+
+Se aquela passagem estivesse aberta…
+
+
+
+Nossa comunidade teria sido completamente exposta.
+
+
+
+Mas ela não estava aberta.
+
+
+
+O túnel havia desmoronado.
+
+
+
+Não por causas naturais.
+
+
+
+Runas arcanas queimadas na rocha indicavam que magia havia sido usada para provocar o colapso. E espalhados entre as pedras quebradas havia sinais claros de combate prolongado.
+
+
+
+Ali eu finalmente compreendi o que provavelmente havia acontecido.
+
+
+
+Vaerion e seus guerreiros haviam descoberto que algo se movia pelas profundezas.
+
+
+
+Algo grande o suficiente para atravessar aquela passagem.
+
+
+
+Eles não tinham soldados suficientes para defender a caverna indefinidamente. Também não tinham tempo para enviar mensageiros.
+
+
+
+Então fizeram a única coisa possível.
+
+
+
+Seguraram a passagem.
+
+
+
+Tempo suficiente para preparar o colapso.
+
+
+
+A batalha deve ter sido brutal.
+
+
+
+Armadilhas ativadas.
+
+
+
+Combate corpo a corpo.
+
+
+
+Magia liberada em espaços confinados.
+
+
+
+E no momento final, quando a pressão das forças inimigas se tornou impossível de conter…
+
+
+
+Eles destruíram o túnel.
+
+
+
+Selando aquela rota para sempre.
+
+
+
+Eu nunca encontrei o corpo de meu irmão.
+
+
+
+Nem de seus companheiros.
+
+
+
+Apenas fragmentos de armaduras, armas quebradas e marcas profundas nas paredes de pedra.
+
+
+
+Mas uma coisa ficou clara.
+
+
+
+Eles não desapareceram.
+
+
+
+Eles lutaram.
+
+
+
+E provavelmente permaneceram ali até o último momento para garantir que nada atravessasse aquela passagem.
+
+
+
+Quando retornei à Casa Velkyn com meus relatos, meu pai ouviu tudo em silêncio.
+
+
+
+Ele não demonstrou surpresa.
+
+
+
+Apenas assentiu lentamente.
+
+
+
+— Era exatamente o tipo de decisão que Vaerion tomaria.
+
+
+
+E de certa forma, aquilo explicava algo que por anos parecia um mistério.
+
+
+
+Por quase duas décadas nenhuma incursão hostil havia ameaçado nossa comunidade.
+
+
+
+Nenhuma criatura estranha havia surgido nas rotas próximas.
+
+
+
+Vaerion Velkyn havia transformado uma batalha impossível em uma barreira permanente.
+
+
+
+Mesmo ausente, ele ainda protegia nossa casa.
+
+
+
+Ainda assim, uma pergunta permaneceu.
+
+
+
+Se ele realmente estava entre os mortos soterrados naquela passagem…
+
+
+
+Por que nunca encontramos seus restos?
+
+
+
+Eu não tinha resposta para isso.
+
+
+
+E talvez nunca tivesse.
+
+
+
+Nos anos seguintes, continuei explorando rotas distantes das profundezas. E enquanto minhas viagens se tornavam cada vez mais longas, algo curioso começou a aparecer entre os registros e relatos que eu reunia.
+
+
+
+Rumores.
+
+
+
+Histórias fragmentadas.
+
+
+
+Sussurros vindos de regiões muito distantes.
+
+
+
+Alguns falavam sobre fenômenos estranhos.
+
+
+
+Outros mencionavam figuras poderosas surgindo nas sombras da política arcana.
+
+
+
+Na época, parecia apenas mais um dos inúmeros mistérios que preenchiam os registros da biblioteca.
+
+
+
+Mas hoje sei que aqueles eram os primeiros ecos de algo muito maior.
+
+
+
+Algo que começava a se mover silenciosamente pelo mundo.
+
+
+
+Algo que, anos depois, mudaria o destino de muitas cidades — e marcaria o início de eventos que nenhum estudioso poderia ignorar.
+
+
+
+## Capítulo 6 — O Eco de Vaerion
+
+
+
+Quando deixei a Casa Velkyn pela primeira vez após meu treinamento, eu tinha oitenta e seis anos. Não havia outros patrulheiros, não havia os guardiões da Casa Velkyn me acompanhando, eu estava sozinho e pronto.
+
+
+
+Entre os drow, isso ainda estava longe daquilo que chamaríamos de maturidade completa. Ainda assim, dentro de nossa pequena comunidade, poucos haviam seguido o caminho que eu havia percorrido até então.
+
+
+
+Eu havia crescido entre os livros da biblioteca.
+
+
+
+Depois havia sido treinado entre os patrulheiros das profundezas.
+
+
+
+Por isso, muitos me olhavam com uma mistura de curiosidade e expectativa.
+
+
+
+Alguns até usavam uma palavra que eu nunca soube muito bem como aceitar.
+
+
+
+Prodígio.
+
+
+
+Eu não me sentia assim.
+
+
+
+Sentia apenas que ainda havia muitas perguntas sem resposta.
+
+
+
+E uma delas sempre voltava à minha mente.
+
+
+
+Meu irmão.
+
+
+
+Durante anos ninguém havia conseguido explicar o que realmente aconteceu com Vaerion Velkyn nas rotas profundas que protegiam nossa região. A ausência de ataques e incursões inimigas sugeria que algo importante havia acontecido.
+
+
+
+Mas o quê?
+
+
+
+Essa pergunta me acompanhou nas primeiras incursões que fiz como patrulheiro completo.
+
+
+
+Nos anos seguintes, entre meus oitenta e seis e noventa anos de vida, viajei por passagens subterrâneas muito além das rotas que eu conhecia durante o treinamento. Algumas dessas cavernas estavam abandonadas havia décadas. Outras eram conhecidas por estarem próximas de territórios controlados por cidades drow hostis à nossa.
+
+
+
+Eu não buscava confronto.
+
+
+
+Buscava respostas.
+
+
+
+Foi em uma dessas regiões que encontrei o primeiro sinal real do que havia acontecido.
+
+
+
+A passagem era antiga, estreita e marcada por cicatrizes profundas na rocha. Não eram marcas naturais. Eram sinais de combate — lâminas, explosões arcanas e algo mais pesado, como se criaturas enormes tivessem atravessado aquele corredor à força.
+
+
+
+Mais adiante encontrei algo ainda mais revelador.
+
+
+
+Uma barricada.
+
+
+
+Não uma construção improvisada, mas uma verdadeira linha de defesa construída com precisão. Fragmentos de escudos, lanças quebradas e armadilhas destruídas ainda estavam espalhados pelo chão.
+
+
+
+Ali havia ocorrido uma batalha.
+
+
+
+Uma grande batalha.
+
+
+
+Continuei explorando aquela região por vários dias.
+
+
+
+Foi então que encontrei o que restava do outro lado da passagem.
+
+
+
+Uma caverna colossal, larga o suficiente para que um exército inteiro marchasse através dela. Pelos mapas antigos da biblioteca, aquele caminho conectava diretamente territórios dominados por várias casas drow hostis — além de rotas ainda mais profundas que levavam a regiões onde criaturas antigas habitavam.
+
+
+
+Se aquela passagem estivesse aberta…
+
+
+
+Nossa comunidade teria sido completamente exposta.
+
+
+
+Mas ela não estava aberta.
+
+
+
+O túnel havia desmoronado.
+
+
+
+Não por causas naturais.
+
+
+
+Runas arcanas queimadas na rocha indicavam que magia havia sido usada para provocar o colapso. E espalhados entre as pedras quebradas havia sinais claros de combate prolongado.
+
+
+
+Ali eu finalmente compreendi o que provavelmente havia acontecido.
+
+
+
+Vaerion e seus guerreiros haviam descoberto que algo se movia pelas profundezas.
+
+
+
+Algo grande o suficiente para atravessar aquela passagem.
+
+
+
+Eles não tinham soldados suficientes para defender a caverna indefinidamente. Também não tinham tempo para enviar mensageiros.
+
+
+
+Então fizeram a única coisa possível.
+
+
+
+Seguraram a passagem.
+
+
+
+Tempo suficiente para preparar o colapso.
+
+
+
+A batalha deve ter sido brutal.
+
+
+
+Armadilhas ativadas.
+
+
+
+Combate corpo a corpo.
+
+
+
+Magia liberada em espaços confinados.
+
+
+
+E no momento final, quando a pressão das forças inimigas se tornou impossível de conter…
+
+
+
+Eles destruíram o túnel.
+
+
+
+Selando aquela rota para sempre.
+
+
+
+Eu nunca encontrei o corpo de meu irmão.
+
+
+
+Nem de seus companheiros.
+
+
+
+Apenas fragmentos de armaduras, armas quebradas e marcas profundas nas paredes de pedra.
+
+
+
+Mas uma coisa ficou clara.
+
+
+
+Eles não desapareceram.
+
+
+
+Eles lutaram.
+
+
+
+E provavelmente permaneceram ali até o último momento para garantir que nada atravessasse aquela passagem.
+
+
+
+Quando retornei à Casa Velkyn com meus relatos, meu pai ouviu tudo em silêncio.
+
+
+
+Ele não demonstrou surpresa.
+
+
+
+Apenas assentiu lentamente.
+
+
+
+— Era exatamente o tipo de decisão que Vaerion tomaria.
+
+
+
+E de certa forma, aquilo explicava algo que por anos parecia um mistério.
+
+
+
+Por quase duas décadas nenhuma incursão hostil havia ameaçado nossa comunidade.
+
+
+
+Nenhuma criatura estranha havia surgido nas rotas próximas.
+
+
+
+Vaerion Velkyn havia transformado uma batalha impossível em uma barreira permanente.
+
+
+
+Mesmo ausente, ele ainda protegia nossa casa.
+
+
+
+Ainda assim, uma pergunta permaneceu.
+
+
+
+Se ele realmente estava entre os mortos soterrados naquela passagem…
+
+
+
+Por que nunca encontramos seus restos?
+
+
+
+Eu não tinha resposta para isso.
+
+
+
+E talvez nunca tivesse.
+
+
+
+Nos anos seguintes, continuei explorando rotas distantes das profundezas. E enquanto minhas viagens se tornavam cada vez mais longas, algo curioso começou a aparecer entre os registros e relatos que eu reunia.
+
+
+
+Rumores.
+
+
+
+Histórias fragmentadas.
+
+
+
+Sussurros vindos de regiões muito distantes.
+
+
+
+Alguns falavam sobre fenômenos estranhos.
+
+
+
+Outros mencionavam figuras poderosas surgindo nas sombras da política arcana.
+
+
+
+Na época, parecia apenas mais um dos inúmeros mistérios que preenchiam os registros da biblioteca.
+
+
+
+Mas hoje sei que aqueles eram os primeiros ecos de algo muito maior.
+
+
+
+Algo que começava a se mover silenciosamente pelo mundo.
+
+
+
+Algo que, anos depois, mudaria o destino de muitas cidades — e marcaria o início de eventos que nenhum estudioso poderia ignorar.
+
+
+
+## Capítulo 8 — Minha Irmã e o Mundo da Superfície
+
+
+
+(Seis meses antes das Doze Noites Rubras)
+
+
+
+Minha irmã sempre enxergou o mundo de uma maneira diferente da minha.
+
+
+
+Enquanto eu buscava respostas nas profundezas e nas memórias proibidas que encontrei ao longo dos anos, ela buscava algo mais simples — algo que, por muito tempo, considerei fraco.
+
+
+
+Esperança.
+
+
+
+Talvez por isso ela tenha seguido com tanta devoção os ensinamentos de Eilistraee, a deusa que nossa mãe sempre venerou.
+
+
+
+Durante meses, ela insistiu em me acompanhar nas viagens que eu fazia até a superfície. Normalmente eu subia sozinho até o pequeno vilarejo humano próximo às entradas das cavernas. Era um lugar discreto, distante das grandes cidades e praticamente ignorado pelos mapas.
+
+
+
+No início eu recusei sua companhia.
+
+
+
+Drows não são bem-vindos entre humanos.
+
+E dois Drows caminhando juntos chamariam ainda mais atenção.
+
+
+
+Mas minha irmã era persistente.
+
+
+
+Eventualmente, aceitei.
+
+
+
+⸻
+
+
+
+Foi nesse vilarejo que ela conheceu uma família humana.
+
+
+
+Um casal simples, que vivia do cultivo da terra e da criação de alguns animais. Eles tinham duas crianças — um menino e uma menina — ambos curiosos demais para manter distância por muito tempo.
+
+
+
+Nos primeiros encontros, o medo era evidente.
+
+
+
+Os adultos mantinham certa distância.
+
+Observavam cada movimento.
+
+
+
+Isso era esperado.
+
+
+
+Nossa espécie carrega uma reputação que raramente é questionada na superfície.
+
+
+
+Mas minha irmã tinha algo que eu nunca tive muita paciência para cultivar.
+
+
+
+Calma.
+
+
+
+Ela não tentou impressioná-los.
+
+Não tentou justificar quem éramos.
+
+
+
+Ela apenas se comportou com respeito.
+
+
+
+Observou seus costumes.
+
+
+
+Aprendeu a forma como organizavam suas refeições, como dividiam o trabalho do dia e até mesmo pequenos hábitos que para eles pareciam insignificantes.
+
+
+
+Com o tempo, a desconfiança diminuiu.
+
+
+
+As crianças foram as primeiras a atravessar essa barreira.
+
+
+
+Elas faziam perguntas sem parar.
+
+
+
+Perguntavam sobre as cavernas, sobre as cidades subterrâneas, sobre criaturas que nunca haviam visto. Minha irmã respondia sempre com paciência.
+
+
+
+E quando percebi, ela já estava ensinando algo em troca.
+
+
+
+Histórias antigas de nosso povo.
+
+
+
+Canções suaves que eram cantadas nas noites de celebração sob a lua.
+
+
+
+E até algumas pequenas danças rituais que nossa mãe havia ensinado quando ainda éramos jovens.
+
+
+
+Ela também falou sobre Eilistraee.
+
+
+
+Não como uma deusa distante ou temida.
+
+
+
+Mas como uma guia.
+
+
+
+Uma divindade que ensinava que mesmo aqueles que nasceram nas profundezas poderiam caminhar sob a luz da lua.
+
+
+
+Os humanos ouviram com atenção.
+
+
+
+Não houve conversões, nem promessas.
+
+
+
+Apenas respeito.
+
+
+
+⸻
+
+
+
+Com o passar das semanas, aquela família passou a esperar nossas visitas.
+
+
+
+A mulher da casa começou a preparar refeições maiores quando sabiam que subiríamos até o vilarejo.
+
+
+
+O homem, embora sempre cauteloso, começou a conversar comigo sobre colheitas, estações e rotas comerciais da região.
+
+
+
+Mas era minha irmã quem realmente pertencia àquele lugar.
+
+
+
+As crianças corriam até ela assim que a viam chegar.
+
+
+
+Chamavam seu nome.
+
+
+
+Puxavam-na pela mão para mostrar coisas simples — um novo filhote, uma planta que havia florescido, uma pequena cabana improvisada que haviam construído.
+
+
+
+E pela primeira vez em muito tempo, eu vi algo raro em seu rosto.
+
+
+
+Tranquilidade.
+
+
+
+Ela ria.
+
+
+
+Algo incomum para alguém de nosso povo.
+
+
+
+Algo ainda mais incomum para alguém que cresceu nas cidades Drows.
+
+
+
+⸻
+
+
+
+Hoje, enquanto escrevo estas linhas, percebo que aqueles dias eram mais importantes do que imaginei na época.
+
+
+
+Pareciam momentos pequenos.
+
+
+
+Sem relevância.
+
+
+
+Apenas visitas ocasionais entre dois mundos que raramente se encontram.
+
+
+
+Mas agora compreendo que ali existia algo raro.
+
+
+
+Uma pequena ponte entre a superfície e as profundezas.
+
+
+
+Entre humanos e Drows.
+
+
+
+Entre medo e confiança.
+
+
+
+⸻
+
+
+
+Minha irmã jamais soube, mas muitas vezes eu a observei em silêncio enquanto ela conversava com aquela família.
+
+
+
+Perguntava a mim mesmo se talvez ela estivesse certa.
+
+
+
+Se talvez ainda existisse espaço neste mundo para algo além de conflito e ambição.
+
+
+
+Talvez redenção.
+
+
+
+Talvez mudança.
+
+
+
+⸻
+
+
+
+Infelizmente, o mundo raramente preserva aquilo que é frágil.
+
+
+
+E naquele momento, algo já se movia no céu.
+
+
+
+Algo que nenhum deles compreendia.
+
+
+
+Algo que se aproximava lentamente.
+
+
+
+Algo que logo transformaria aquelas noites tranquilas em memórias impossíveis de recuperar.
+
+
+
+⸻
+
+
+
+As Doze Noites Rubras estavam próximas.
+
+
+
+E ninguém naquele vilarejo sabia disso.
+
+
+
+Nem mesmo minha irmã.
+
+
+
+## Capítulo 9 — O Livro de Meu Pai
+
+
+
+(Três meses antes das Doze Noites Rubras)
+
+
+
+Nos meses que antecederam os acontecimentos que mudariam o destino do mundo, passei a levar ao meu pai praticamente tudo o que eu observava.
+
+
+
+Relatos da superfície.
+
+Rumores vindos das profundezas.
+
+Movimentações estranhas entre cultos e ordens antigas.
+
+
+
+Ele escutava tudo em silêncio.
+
+
+
+Meu pai sempre foi um homem paciente. Onde eu via sinais imediatos de perigo, ele enxergava apenas fragmentos de um quadro maior que ainda estava sendo revelado.
+
+
+
+Naquela noite, depois de ouvir meu relato completo, ele permaneceu em silêncio por alguns instantes.
+
+
+
+Então levantou-se.
+
+
+
+Caminhou até uma parede de pedra em seu aposento e removeu uma pequena placa escondida entre as rochas trabalhadas. Atrás dela havia um compartimento oculto.
+
+
+
+De lá ele retirou um livro.
+
+
+
+Era um volume antigo, encadernado em couro escurecido pelo tempo e protegido por discretos selos arcanos.
+
+
+
+Ele colocou o livro sobre a mesa.
+
+
+
+— Existem histórias que o mundo esqueceu — disse ele.
+
+— E outras que alguns preferiram enterrar.
+
+
+
+Então abriu o volume.
+
+
+
+⸻
+
+
+
+As páginas continham registros muito antigos.
+
+
+
+Crônicas escritas por estudiosos Drows que acompanharam acontecimentos da superfície muito antes da formação dos atuais reinos humanos.
+
+
+
+Naquela época, os humanos já cultivavam a terra e criavam rebanhos em diversas regiões. Pequenas comunidades agrícolas estavam espalhadas por planícies férteis e vales abertos.
+
+
+
+Essas terras já haviam sido escolhidas e ocupadas pelos próprios humanos, muito antes de qualquer acordo com os povos subterrâneos.
+
+
+
+Os elfos, por sua vez, habitavam principalmente grandes florestas antigas e regiões naturais que protegiam com extremo cuidado. Eles não dominavam todo o continente, mas sua influência era significativa nas áreas próximas às florestas.
+
+
+
+Foi nesse cenário que surgiu o primeiro acordo entre líderes humanos e algumas casas Drows.
+
+
+
+O livro mencionava algo curioso sobre o líder humano que conduziu essa negociação.
+
+
+
+Ele não era um rei.
+
+
+
+Nem um nobre.
+
+
+
+Era um chefe tribal.
+
+
+
+Um guerreiro conhecido por sua força e por sua capacidade de liderança em combate.
+
+
+
+Os registros descreviam-no como um homem brutal em batalha — um verdadeiro bárbaro, forjado em conflitos entre tribos humanas.
+
+
+
+Mas havia um detalhe importante.
+
+
+
+Seu povo não era como ele.
+
+
+
+A maior parte de sua tribo era formada por agricultores, criadores de animais e artesãos simples.
+
+
+
+Eles cultivavam a terra.
+
+
+
+Criavam rebanhos.
+
+
+
+Construíam pequenas comunidades estáveis.
+
+
+
+O chefe tribal era a força que os protegia.
+
+
+
+Seu povo era aquilo que ele buscava preservar.
+
+
+
+⸻
+
+
+
+Foi esse homem que aceitou negociar com os emissários Drows.
+
+
+
+Não por submissão.
+
+
+
+Mas por pragmatismo.
+
+
+
+Os assentamentos humanos prosperavam, mas eram vulneráveis a ataques constantes — saqueadores, monstros errantes e conflitos entre tribos rivais.
+
+
+
+Foi então que surgiu o acordo.
+
+
+
+Os Drows ofereceriam proteção militar indireta para aquelas regiões humanas.
+
+
+
+Mas não enviariam seu próprio povo para a superfície.
+
+
+
+Em vez disso, mobilizariam tropas compostas por espécies que estavam sob domínio Drow nas profundezas.
+
+
+
+Entre elas:
+
+
+
+Hobgoblins.
+
+Orcs.
+
+Trolls.
+
+Kobolds.
+
+Goblins.
+
+
+
+Essas criaturas eram posicionadas em regiões próximas aos assentamentos humanos e utilizadas como forças de contenção contra ameaças externas.
+
+
+
+Na prática, funcionavam como um escudo militar invisível protegendo aquelas comunidades agrícolas.
+
+
+
+Em troca, os humanos aceitariam uma condição clara.
+
+
+
+Metade de toda a produção agrícola e pecuária dessas regiões seria destinada aos Drows.
+
+
+
+Cinquenta por cento das colheitas.
+
+
+
+Cinquenta por cento dos rebanhos.
+
+
+
+Esse fluxo constante de recursos era transportado por rotas comerciais discretas que ligavam a superfície às cidades subterrâneas.
+
+
+
+Para os humanos, aquilo significava estabilidade e segurança.
+
+
+
+Para os Drows, garantia um fornecimento contínuo de recursos da superfície sem exposição direta.
+
+
+
+⸻
+
+
+
+Com o passar das décadas, os assentamentos humanos começaram a prosperar.
+
+
+
+Campos foram ampliados.
+
+
+
+Rebanhos cresceram.
+
+
+
+Vilarejos se tornaram cidades.
+
+
+
+Mas esse crescimento chamou a atenção dos povos élficos que habitavam florestas próximas.
+
+
+
+Os elfos passaram a observar com preocupação a expansão humana em certas regiões.
+
+
+
+Não houve guerra imediata.
+
+
+
+Mas surgiram questionamentos.
+
+
+
+A presença crescente de estradas, plantações e rebanhos começava a alterar o equilíbrio de áreas próximas às florestas antigas.
+
+
+
+Foi então que os próprios líderes humanos tomaram uma decisão política.
+
+
+
+Eles passaram a afastar diplomaticamente os elfos dessas regiões.
+
+
+
+Não por hostilidade aberta.
+
+
+
+Mas por receio.
+
+
+
+Uma aproximação maior poderia revelar o acordo que sustentava a segurança e prosperidade daqueles assentamentos.
+
+
+
+E os humanos não estavam dispostos a arriscar perder essa proteção.
+
+
+
+Assim, pouco a pouco, os elfos foram sendo mantidos à distância das regiões humanas em expansão.
+
+
+
+Com o tempo, essas comunidades cresceram.
+
+
+
+Algumas se tornaram cidades.
+
+
+
+Outras se tornaram centros comerciais importantes.
+
+
+
+E muitos séculos depois, esses mesmos territórios dariam origem a parte dos reinos humanos que hoje existem na superfície.
+
+
+
+⸻
+
+
+
+Fechei o livro lentamente.
+
+
+
+— Então parte do crescimento humano começou com esse acordo… — murmurei.
+
+
+
+Meu pai assentiu.
+
+
+
+— Sim.
+
+
+
+Ele passou a mão sobre a capa antiga do volume.
+
+
+
+— Mas é uma história que poucos têm interesse em preservar.
+
+
+
+Os humanos preferem lembrar apenas de suas conquistas.
+
+
+
+Os elfos não desejam reconhecer o papel indireto dos Drows na estabilidade dessas regiões.
+
+
+
+E muitas casas Drows preferem que essa participação permaneça nas sombras.
+
+
+
+⸻
+
+
+
+Alguns dias depois, durante uma de minhas explorações próximas às regiões montanhosas da superfície, encontrei algo que despertou minha curiosidade.
+
+
+
+Símbolos gravados em pedras antigas.
+
+
+
+Runas cuidadosamente esculpidas.
+
+
+
+Não eram marcas naturais.
+
+
+
+E tampouco eram antigas.
+
+
+
+Após observar os desenhos com atenção, reconheci o que representavam.
+
+
+
+Eram símbolos ligados aos devotos de Bahamut.
+
+
+
+O dragão divino venerado por muitos povos da superfície como símbolo de justiça e proteção.
+
+
+
+Durante muito tempo, os seguidores de Bahamut naquela região eram poucos.
+
+
+
+Templos isolados.
+
+
+
+Cavaleiros errantes.
+
+
+
+Nada que indicasse uma organização relevante.
+
+
+
+Mas aqueles símbolos estavam espalhados por diversos pontos das montanhas.
+
+
+
+Altares improvisados.
+
+
+
+Marcas recentes.
+
+
+
+Trilhas que indicavam movimentação frequente.
+
+
+
+Não pareciam obras de viajantes ocasionais.
+
+
+
+Pareciam sinais de algo maior.
+
+
+
+Algo organizado.
+
+
+
+Passei algum tempo analisando o padrão das marcas.
+
+
+
+Elas não estavam espalhadas ao acaso.
+
+
+
+Pareciam seguir uma direção.
+
+
+
+Como se diversos grupos estivessem sendo reunidos gradualmente.
+
+
+
+Aquilo despertou minha curiosidade.
+
+
+
+Se os seguidores de Bahamut estavam se organizando daquela forma, alguém certamente estava conduzindo esse movimento.
+
+
+
+E ninguém mobiliza devotos do dragão da justiça sem acreditar que tempos difíceis estão se aproximando.
+
+
+
+⸻
+
+
+
+Naquela noite voltei a olhar para o livro de meu pai.
+
+
+
+Reinos humanos sustentados por acordos esquecidos.
+
+
+
+Ordens religiosas começando a se mover.
+
+
+
+Forças antigas despertando em diferentes regiões.
+
+
+
+Cada nova peça reforçava a mesma sensação.
+
+
+
+O mundo inteiro estava se movendo.
+
+
+
+Mesmo que poucos percebessem.
+
+
+
+⸻
+
+
+
+Naquele momento ainda faltavam três meses para as Doze Noites Rubras.
+
+
+
+Mas agora sei que os sinais já estavam espalhados por toda parte.
+
+
+
+E que o destino do mundo já havia começado a mudar muito antes de o céu se tornar vermelho.
+
+
+
+## Capítulo 10 — O Dia Antes do Sangue
+
+
+
+\_(Um dia antes das Doze Noites Rubras)\_
+
+
+
+Houve um dia, pouco antes das noites que mudariam o mundo, em que tudo parecia estranhamente silencioso.
+
+
+
+Não era paz.
+
+
+
+Era algo diferente.
+
+
+
+Um tipo de quietude que faz o ar parecer mais pesado.
+
+
+
+Na superfície, os animais começaram a agir de forma incomum. Alguns abandonavam seus territórios sem motivo aparente. Outros permaneciam inquietos, como se percebessem algo que nós ainda não conseguíamos compreender.
+
+
+
+Nas cavernas profundas, o eco dos túneis parecia carregar sons distantes que ninguém sabia explicar.
+
+
+
+E em muitos lugares, a própria magia parecia… instável.
+
+
+
+Passei grande parte daquele dia refletindo sobre tudo que havia acontecido nos últimos anos.
+
+
+
+Os cultos surgindo nas sombras.
+
+O crescimento do Conclave da Bruxa.
+
+Os seguidores de Bahamut começando a se organizar nas montanhas.
+
+Os relatos de forças estranhas despertando na superfície.
+
+
+
+E, acima de tudo, o livro de meu pai.
+
+
+
+Aquele registro antigo que mostrava que o mundo sempre foi moldado por decisões ocultas, acordos silenciosos e forças que raramente aparecem nos registros oficiais da história.
+
+
+
+Quanto mais eu pensava, mais uma sensação se tornava impossível de ignorar.
+
+
+
+Tudo parecia convergir para um único ponto.
+
+
+
+Como se o mundo estivesse respirando fundo… antes de algo inevitável.
+
+
+
+⸻
+
+
+
+Naquela noite procurei meu pai.
+
+
+
+Ele estava sentado em silêncio, observando um mapa antigo esculpido em pedra. Pequenas marcações indicavam cidades subterrâneas, rotas comerciais e algumas regiões da superfície.
+
+
+
+— Você também sente? — perguntei.
+
+
+
+Ele não respondeu imediatamente.
+
+
+
+Apenas continuou observando o mapa.
+
+
+
+Então disse:
+
+
+
+— Quando muitas forças diferentes começam a se mover ao mesmo tempo… não estamos mais falando de política.
+
+
+
+Ele levantou os olhos.
+
+
+
+— Estamos falando de destino.
+
+
+
+Meu pai não era um homem que falava em presságios ou superstições.
+
+
+
+Mas naquela noite havia algo diferente em sua voz.
+
+
+
+Ele também sabia.
+
+
+
+Algo estava prestes a acontecer.
+
+
+
+⸻
+
+
+
+Minha mãe entrou no aposento pouco depois.
+
+
+
+Diferente de nós dois, ela carregava consigo uma serenidade incomum.
+
+
+
+Desde que me lembro, ela sempre foi uma devota fiel de Eilistraee.
+
+
+
+Sua fé nunca foi algo agressivo ou impositivo.
+
+
+
+Era silenciosa.
+
+
+
+Profunda.
+
+
+
+Mas naquela noite havia algo diferente em seu olhar.
+
+
+
+Algo que eu raramente via.
+
+
+
+Preocupação.
+
+
+
+Ela se aproximou da mesa e colocou as mãos sobre a pedra fria.
+
+
+
+— Hoje à tarde eu rezei — disse ela.
+
+
+
+Meu pai levantou o olhar.
+
+
+
+— E?
+
+
+
+Ela demorou alguns instantes antes de responder.
+
+
+
+— A deusa respondeu.
+
+
+
+O silêncio que se seguiu pareceu preencher todo o aposento.
+
+
+
+Eu conhecia minha mãe o suficiente para saber que ela não dizia algo assim levianamente.
+
+
+
+Ela continuou:
+
+
+
+— Não foi uma visão clara… mas foi suficiente.
+
+
+
+Ela respirou fundo.
+
+
+
+— Eilistraee me disse para preparar o povo.
+
+
+
+Meu pai franziu levemente a testa.
+
+
+
+— Preparar para quê?
+
+
+
+Minha mãe balançou a cabeça lentamente.
+
+
+
+— Ela não disse.
+
+
+
+— Apenas disse que a escuridão que está vindo não será como as outras.
+
+
+
+⸻
+
+
+
+Naquela mesma noite, minha mãe começou a agir.
+
+
+
+Como clériga de Eilistraee, sua palavra tinha peso entre nossa comunidade.
+
+
+
+Ela reuniu famílias.
+
+
+
+Conversou com guardas.
+
+
+
+Organizou mantimentos.
+
+
+
+Pediu que algumas passagens das cavernas fossem reforçadas.
+
+
+
+Ordenou que locais sagrados fossem preparados para possíveis rituais de proteção.
+
+
+
+Não houve pânico.
+
+
+
+Apenas preparação.
+
+
+
+Nosso povo está acostumado a sobreviver em ambientes hostis.
+
+
+
+Mas mesmo assim, era possível sentir uma tensão crescente entre todos.
+
+
+
+Como se algo invisível estivesse se aproximando lentamente.
+
+
+
+⸻
+
+
+
+Durante a madrugada, saí sozinho para caminhar pelos túneis próximos à entrada das cavernas.
+
+
+
+De lá era possível ver o céu da superfície.
+
+
+
+Algo que sempre me causou uma estranha mistura de fascínio e inquietação.
+
+
+
+A lua já estava alta.
+
+
+
+Mas havia algo errado.
+
+
+
+Sua luz parecia… diferente.
+
+
+
+Mais escura.
+
+
+
+Mais pesada.
+
+
+
+Observei o céu por um longo tempo.
+
+
+
+E pela primeira vez em muitos anos senti algo que raramente permito que me domine.
+
+
+
+Incerteza.
+
+
+
+⸻
+
+
+
+Enquanto voltava para as cavernas, pensei em minha irmã.
+
+
+
+No vilarejo humano.
+
+
+
+Na família que ela havia conhecido.
+
+
+
+Nas crianças que corriam ao vê-la chegar.
+
+
+
+Por um instante considerei subir até lá novamente.
+
+
+
+Apenas para avisá-los.
+
+
+
+Apenas para garantir que estavam seguros.
+
+
+
+Mas naquela noite permaneci onde estava.
+
+
+
+Uma decisão que, muito tempo depois, eu ainda lembraria.
+
+
+
+⸻
+
+
+
+Quando finalmente retornei aos aposentos de minha família, meu pai ainda estava acordado.
+
+
+
+Ele também havia sentido.
+
+
+
+Eu podia ver isso em seu olhar.
+
+
+
+Nenhum de nós disse uma palavra.
+
+
+
+Não era necessário.
+
+
+
+⸻
+
+
+
+Naquela noite, o mundo parecia prender a respiração.
+
+
+
+E nós não sabíamos ainda…
+
+
+
+que aquela seria a última noite normal que veríamos por muito tempo.
+
+
+
+Porque no dia seguinte começariam as Doze Noites Rubras.
+
+
+
+E nada — absolutamente nada — voltaria a ser como antes.
+
+
+
+<!-- fim-conteudo-fonte -->

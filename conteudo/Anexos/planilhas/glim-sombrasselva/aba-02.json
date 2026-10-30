@@ -1,0 +1,1004 @@
+{
+  "fonte": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+  "sha256_fonte": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+  "aba": "LILO",
+  "ordem": 2,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet2.xml",
+  "celulas": [
+    {
+      "celula": "C2",
+      "atributos": {
+        "r": "C2",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": "LILO SHADOW",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "7",
+      "valor": "Size/Type:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D4",
+      "atributos": {
+        "r": "D4",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "10",
+      "valor": "Medium Undead",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "I4",
+      "atributos": {
+        "r": "I4",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "20",
+      "valor": " +4 CA shadow",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B5",
+      "atributos": {
+        "r": "B5",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "30",
+      "valor": "Hit Dice:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D5",
+      "atributos": {
+        "r": "D5",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "39",
+      "valor": "7d12 (46 hp)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "I5",
+      "atributos": {
+        "r": "I5",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "48",
+      "valor": " +2 Hide shadow",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B6",
+      "atributos": {
+        "r": "B6",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "52",
+      "valor": "Initiative:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D6",
+      "atributos": {
+        "r": "D6",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "58",
+      "valor": "6",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "I6",
+      "atributos": {
+        "r": "I6",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "64",
+      "valor": " -4 Hide light",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B7",
+      "atributos": {
+        "r": "B7",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "67",
+      "valor": "Speed:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D7",
+      "atributos": {
+        "r": "D7",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "71",
+      "valor": "fly 40 ft. (10 squares) good",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B8",
+      "atributos": {
+        "r": "B8",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "73",
+      "valor": "Armor Class:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D8",
+      "atributos": {
+        "r": "D8",
+        "s": "31",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "74",
+      "valor": "18 (+6 Dex, +2 deflection), touch 18, flat-footed 12",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B9",
+      "atributos": {
+        "r": "B9",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "75",
+      "valor": "Base Attack/Grapple:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D9",
+      "atributos": {
+        "r": "D9",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "76",
+      "valor": "3/-",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B10",
+      "atributos": {
+        "r": "B10",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "78",
+      "valor": "Attack:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D10",
+      "atributos": {
+        "r": "D10",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "81",
+      "valor": "Incorporeal touch +9 melee (1d6 str)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B11",
+      "atributos": {
+        "r": "B11",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "82",
+      "valor": "Full Attack:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D11",
+      "atributos": {
+        "r": "D11",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "81",
+      "valor": "Incorporeal touch +9 melee (1d6 str)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B12",
+      "atributos": {
+        "r": "B12",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "87",
+      "valor": "Space/Reach:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D12",
+      "atributos": {
+        "r": "D12",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "88",
+      "valor": "5 ft./5 ft.",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B13",
+      "atributos": {
+        "r": "B13",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "92",
+      "valor": "Special Attacks:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D13",
+      "atributos": {
+        "r": "D13",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "93",
+      "valor": "strength damage",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B14",
+      "atributos": {
+        "r": "B14",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "95",
+      "valor": "Special Qualities:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D14",
+      "atributos": {
+        "r": "D14",
+        "s": "31",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "96",
+      "valor": "Darkvision 60 ft., incorporeal traits, undead traits,  improved evasion, share spells, empathic link, deliver touch spells",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B15",
+      "atributos": {
+        "r": "B15",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "98",
+      "valor": "Saves:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D15",
+      "atributos": {
+        "r": "D15",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "100",
+      "valor": "Fort +2, Ref +8, Will +9",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B16",
+      "atributos": {
+        "r": "B16",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "101",
+      "valor": "Abilities:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D16",
+      "atributos": {
+        "r": "D16",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "102",
+      "valor": "Str -, Dex 22, Con -, Int 12, Wis 15, Cha 15",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B17",
+      "atributos": {
+        "r": "B17",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "105",
+      "valor": "Skills:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D17",
+      "atributos": {
+        "r": "D17",
+        "s": "20",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "106",
+      "valor": "Same as GLIM",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B18",
+      "atributos": {
+        "r": "B18",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "108",
+      "valor": "Feats:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D18",
+      "atributos": {
+        "r": "D18",
+        "s": "31",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "110",
+      "valor": "Alertness, Dodge, Ghostly Grasp",
+      "formato_numero": "@",
+      "formula": null
+    }
+  ],
+  "comentarios": [],
+  "hyperlinks": [],
+  "mesclagens": [
+    "B4:C4",
+    "D4:G4",
+    "B5:C5",
+    "D5:G5",
+    "B6:C6",
+    "D6:G6",
+    "D7:G7",
+    "B14:C14",
+    "B15:C15",
+    "B16:C16",
+    "B17:C17",
+    "B18:C18",
+    "B19:C19",
+    "B7:C7",
+    "B8:C8",
+    "B9:C9",
+    "B10:C10",
+    "B11:C11",
+    "B12:C12",
+    "B13:C13",
+    "D15:G15",
+    "D16:G16",
+    "D17:G17",
+    "D18:G18",
+    "D19:G19",
+    "D8:G8",
+    "D9:G9",
+    "D10:G10",
+    "D11:G11",
+    "D12:G12",
+    "D13:G13",
+    "D14:G14"
+  ],
+  "drawings": [],
+  "objetos_vml": [],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing2.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels",
+      "parte_destino": "xl/drawings/drawing2.xml"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}cols",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "1",
+            "max": "1",
+            "width": "7.5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "8",
+            "max": "8",
+            "width": "6.88"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "9",
+            "max": "9",
+            "width": "24.75"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCells",
+      "atributos": {
+        "count": "32"
+      },
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B4:C4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D4:G4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B5:C5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D5:G5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B6:C6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D6:G6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D7:G7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B14:C14"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B15:C15"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B16:C16"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B17:C17"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B18:C18"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B19:C19"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B7:C7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B8:C8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B9:C9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B10:C10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B11:C11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B12:C12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B13:C13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D15:G15"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D16:G16"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D17:G17"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D18:G18"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D19:G19"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D8:G8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D9:G9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D10:G10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D11:G11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D12:G12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D13:G13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D14:G14"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14",
+      "ht": "30.75",
+      "customHeight": "1"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    }
+  ],
+  "celulas_xml_total": 238,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 34,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

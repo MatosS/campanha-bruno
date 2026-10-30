@@ -1,0 +1,1881 @@
+[
+  {
+    "page": 1,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-01.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 119823,
+      "sha256": "dbe7c642c23a6b07a43ff7f46173c3502e2fa37784d073100b999f010fb8ac7f",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Personagens e Heróis\nA Família Velkyn: Ryldan (patrulheiro e \nestudioso narrador), Zaerith (pai e guardião \nda biblioteca), Lythrana (mãe clériga), \nVaerion (irmão guerreiro desaparecido) e \nSylra (irmã caçula).\nFirael: Autor dos diários da nova era, \npaladino/algoz, guerreiro calculista e \nfundador oculto do culto da Mente-Registro.\nTimo: O escolhido e rei abençoado por \nSilvanus, líder do povo da floresta; \ntransformou-se permanentemente após os \neventos das bruxas, adquirindo asas e \ntraços animais.\n",
+    "text_pdfplumber": "Personagens e Heróis\nA Família Velkyn: Ryldan (patrulheiro e\nestudioso narrador), Zaerith (pai e guardião\nda biblioteca), Lythrana (mãe clériga),\nVaerion (irmão guerreiro desaparecido) e\nSylra (irmã caçula).\nFirael: Autor dos diários da nova era,\npaladino/algoz, guerreiro calculista e\nfundador oculto do culto da Mente-Registro.\nTimo: O escolhido e rei abençoado por\nSilvanus, líder do povo da floresta;\ntransformou-se permanentemente após os\neventos das bruxas, adquirindo asas e\ntraços animais.",
+    "characters_native": 508,
+    "characters_reading_order": 497,
+    "non_whitespace_characters": 428,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Personagens e Heróis",
+        "x0": 26.666668,
+        "top": 60.861642323999945,
+        "x1": 336.176681032,
+        "bottom": 92.52831032400002
+      },
+      {
+        "text": "A Família Velkyn: Ryldan (patrulheiro e",
+        "x0": 70.0,
+        "top": 181.57499848600003,
+        "x1": 493.6596588,
+        "bottom": 206.57500048600002
+      },
+      {
+        "text": "estudioso narrador), Zaerith (pai e guardião",
+        "x0": 70.0,
+        "top": 221.57499848600003,
+        "x1": 550.4000384319999,
+        "bottom": 246.57500048600002
+      },
+      {
+        "text": "da biblioteca), Lythrana (mãe clériga),",
+        "x0": 70.0,
+        "top": 261.574998486,
+        "x1": 486.65003333199985,
+        "bottom": 286.575000486
+      },
+      {
+        "text": "Vaerion (irmão guerreiro desaparecido) e",
+        "x0": 70.0,
+        "top": 301.574998486,
+        "x1": 525.4000364319999,
+        "bottom": 326.575000486
+      },
+      {
+        "text": "Sylra (irmã caçula).",
+        "x0": 70.0,
+        "top": 341.575028486,
+        "x1": 284.12501713,
+        "bottom": 366.575030486
+      },
+      {
+        "text": "Firael: Autor dos diários da nova era,",
+        "x0": 70.0,
+        "top": 381.575028486,
+        "x1": 473.1951439059999,
+        "bottom": 406.575030486
+      },
+      {
+        "text": "paladino/algoz, guerreiro calculista e",
+        "x0": 70.0,
+        "top": 421.575028486,
+        "x1": 479.17503273399984,
+        "bottom": 446.575030486
+      },
+      {
+        "text": "fundador oculto do culto da Mente-Registro.",
+        "x0": 70.0,
+        "top": 461.575028486,
+        "x1": 558.900039112,
+        "bottom": 486.575030486
+      },
+      {
+        "text": "Timo: O escolhido e rei abençoado por",
+        "x0": 70.0,
+        "top": 621.9916884859999,
+        "x1": 496.93245109599997,
+        "bottom": 646.9916904859999
+      },
+      {
+        "text": "Silvanus, líder do povo da floresta;",
+        "x0": 70.0,
+        "top": 661.991685486,
+        "x1": 448.27503026199986,
+        "bottom": 686.991687486
+      },
+      {
+        "text": "transformou-se permanentemente após os",
+        "x0": 70.0,
+        "top": 701.991685486,
+        "x1": 545.6000380479996,
+        "bottom": 726.991687486
+      },
+      {
+        "text": "eventos das bruxas, adquirindo asas e",
+        "x0": 70.0,
+        "top": 741.991685486,
+        "x1": 493.8500339079999,
+        "bottom": 766.991687486
+      },
+      {
+        "text": "traços animais.",
+        "x0": 70.0,
+        "top": 781.991746486,
+        "x1": 241.100013688,
+        "bottom": 806.991748486
+      }
+    ],
+    "text_block_count": 4,
+    "bullet_markers_restored_from_images": 3,
+    "images": [
+      {
+        "page": 1,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 1,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 1,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 1,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 2,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-02.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 71883,
+      "sha256": "8f739f65c567ff68502e44b9aad338d07651393caa91021ba52bf8d3474580c5",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Fash: Integrante furtivo, analítico e letal do \ngrupo de sobreviventes.\nKael: Mago de origens nebulosas; possui \nmúltiplas vidas, sendo possivelmente ligado \nà cúpula da organização Zodíaco.\nRake: Companheiro do grupo cuja morte em \ncombate com o Drow fraturou as relações \ninternas, especialmente entre Firael e Timo.\n",
+    "text_pdfplumber": "Fash: Integrante furtivo, analítico e letal do\ngrupo de sobreviventes.\nKael: Mago de origens nebulosas; possui\nmúltiplas vidas, sendo possivelmente ligado\nà cúpula da organização Zodíaco.\nRake: Companheiro do grupo cuja morte em\ncombate com o Drow fraturou as relações\ninternas, especialmente entre Firael e Timo.",
+    "characters_native": 319,
+    "characters_reading_order": 313,
+    "non_whitespace_characters": 268,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Fash: Integrante furtivo, analítico e letal do",
+        "x0": 70.0,
+        "top": 132.74168848600004,
+        "x1": 540.1040368299999,
+        "bottom": 157.74169048600004
+      },
+      {
+        "text": "grupo de sobreviventes.",
+        "x0": 70.0,
+        "top": 172.74168848600004,
+        "x1": 335.3500212279999,
+        "bottom": 197.74169048600004
+      },
+      {
+        "text": "Kael: Mago de origens nebulosas; possui",
+        "x0": 70.0,
+        "top": 333.15833848600005,
+        "x1": 523.1753248799998,
+        "bottom": 358.15834048600004
+      },
+      {
+        "text": "múltiplas vidas, sendo possivelmente ligado",
+        "x0": 70.0,
+        "top": 373.15833848600005,
+        "x1": 559.3000391439999,
+        "bottom": 398.15834048600004
+      },
+      {
+        "text": "à cúpula da organização Zodíaco.",
+        "x0": 70.0,
+        "top": 413.15833848600005,
+        "x1": 444.3250299459999,
+        "bottom": 438.15834048600004
+      },
+      {
+        "text": "Rake: Companheiro do grupo cuja morte em",
+        "x0": 70.0,
+        "top": 573.574998486,
+        "x1": 557.9422221759999,
+        "bottom": 598.575000486
+      },
+      {
+        "text": "combate com o Drow fraturou as relações",
+        "x0": 70.0,
+        "top": 613.574998486,
+        "x1": 537.2250373779998,
+        "bottom": 638.575000486
+      },
+      {
+        "text": "internas, especialmente entre Firael e Timo.",
+        "x0": 70.0,
+        "top": 653.575058486,
+        "x1": 553.6250386899999,
+        "bottom": 678.575060486
+      }
+    ],
+    "text_block_count": 3,
+    "bullet_markers_restored_from_images": 3,
+    "images": [
+      {
+        "page": 2,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 2,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 2,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 2,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 3,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-03.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 94840,
+      "sha256": "e7c494ef36eddeee6578e4160f741a87b907dd966b2375d9721a51a38ace5941",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Elena (Serethyn): Vítima sequestrada e \naprisionada em um artefato pelas bruxas, \nindicada nos antigos grimórios não como \numa mortal, mas como uma possível \nentidade cósmica de ordem superior.\nO Líder e o Clérigo: Regentes da cidade \nhumana que ficaram catatônicos/\niluminados permanentemente após a \nexplosão e destruição do artefato arcano.\nFurion: Profeta e emissário da floresta, um \nhumanoide com traços arbóreos.\n",
+    "text_pdfplumber": "Elena (Serethyn): Vítima sequestrada e\naprisionada em um artefato pelas bruxas,\nindicada nos antigos grimórios não como\numa mortal, mas como uma possível\nentidade cósmica de ordem superior.\nO Líder e o Clérigo: Regentes da cidade\nhumana que ficaram catatônicos/\niluminados permanentemente após a\nexplosão e destruição do artefato arcano.\nFurion: Profeta e emissário da floresta, um\nhumanoide com traços arbóreos.",
+    "characters_native": 420,
+    "characters_reading_order": 412,
+    "non_whitespace_characters": 352,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Elena (Serethyn): Vítima sequestrada e",
+        "x0": 70.0,
+        "top": 45.65830848600001,
+        "x1": 499.4214393419999,
+        "bottom": 70.658310486
+      },
+      {
+        "text": "aprisionada em um artefato pelas bruxas,",
+        "x0": 70.0,
+        "top": 85.65830848600001,
+        "x1": 530.1750368139999,
+        "bottom": 110.658310486
+      },
+      {
+        "text": "indicada nos antigos grimórios não como",
+        "x0": 70.0,
+        "top": 125.65836848599997,
+        "x1": 530.5500368439998,
+        "bottom": 150.65837048599997
+      },
+      {
+        "text": "uma mortal, mas como uma possível",
+        "x0": 70.0,
+        "top": 165.65836848599997,
+        "x1": 480.35003282799994,
+        "bottom": 190.65837048599997
+      },
+      {
+        "text": "entidade cósmica de ordem superior.",
+        "x0": 70.0,
+        "top": 205.65836848599997,
+        "x1": 482.9250330339999,
+        "bottom": 230.65837048599997
+      },
+      {
+        "text": "O Líder e o Clérigo: Regentes da cidade",
+        "x0": 70.0,
+        "top": 366.075028486,
+        "x1": 503.93426795399995,
+        "bottom": 391.075030486
+      },
+      {
+        "text": "humana que ficaram catatônicos/",
+        "x0": 70.0,
+        "top": 406.075028486,
+        "x1": 446.7500301399999,
+        "bottom": 431.075030486
+      },
+      {
+        "text": "iluminados permanentemente após a",
+        "x0": 70.0,
+        "top": 446.075028486,
+        "x1": 483.27503306199975,
+        "bottom": 471.075030486
+      },
+      {
+        "text": "explosão e destruição do artefato arcano.",
+        "x0": 70.0,
+        "top": 486.075028486,
+        "x1": 532.3250369859999,
+        "bottom": 511.075030486
+      },
+      {
+        "text": "Furion: Profeta e emissário da floresta, um",
+        "x0": 70.0,
+        "top": 646.4916884859999,
+        "x1": 541.5259926419998,
+        "bottom": 671.4916904859999
+      },
+      {
+        "text": "humanoide com traços arbóreos.",
+        "x0": 70.0,
+        "top": 686.491685486,
+        "x1": 438.4250294739999,
+        "bottom": 711.491687486
+      }
+    ],
+    "text_block_count": 3,
+    "bullet_markers_restored_from_images": 3,
+    "images": [
+      {
+        "page": 3,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 3,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 3,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 3,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 4,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-04.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 90686,
+      "sha256": "d56203b269e7ca7f3e32fde4da20052992596845f750250936fe9a6ad331dd7a",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Cogu: Lobo aliado leal de Timo, com \nfamiliares territoriais na mata.\nAnão Ferreiro: Especialista no manuseio de \nmithral que reforçou as defesas da cidade \nhumana.\nVilões e Antagonistas\nO Drow Druida Sangrento (Sanguinário): O \ncarcereiro e último sobrevivente de uma \nantiga guerra drow, amaldiçoado por Lolth \npara vigiar o Cérebro Ancião e dominar \n",
+    "text_pdfplumber": "Cogu: Lobo aliado leal de Timo, com\nfamiliares territoriais na mata.\nAnão Ferreiro: Especialista no manuseio de\nmithral que reforçou as defesas da cidade\nhumana.\nVilões e Antagonistas\nO Drow Druida Sangrento (Sanguinário): O\ncarcereiro e último sobrevivente de uma\nantiga guerra drow, amaldiçoado por Lolth\npara vigiar o Cérebro Ancião e dominar",
+    "characters_native": 353,
+    "characters_reading_order": 345,
+    "non_whitespace_characters": 293,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Cogu: Lobo aliado leal de Timo, com",
+        "x0": 70.0,
+        "top": 45.65830848600001,
+        "x1": 472.7543090679999,
+        "bottom": 70.658310486
+      },
+      {
+        "text": "familiares territoriais na mata.",
+        "x0": 70.0,
+        "top": 85.65830848600001,
+        "x1": 404.2250267379999,
+        "bottom": 110.658310486
+      },
+      {
+        "text": "Anão Ferreiro: Especialista no manuseio de",
+        "x0": 70.0,
+        "top": 246.07499848600003,
+        "x1": 549.178605888,
+        "bottom": 271.075000486
+      },
+      {
+        "text": "mithral que reforçou as defesas da cidade",
+        "x0": 70.0,
+        "top": 286.074998486,
+        "x1": 537.4750373979999,
+        "bottom": 311.075000486
+      },
+      {
+        "text": "humana.",
+        "x0": 70.0,
+        "top": 326.07502848599995,
+        "x1": 166.950007756,
+        "bottom": 351.075030486
+      },
+      {
+        "text": "Vilões e Antagonistas",
+        "x0": 26.666668,
+        "top": 535.4450223240001,
+        "x1": 332.756680888,
+        "bottom": 567.1116903239999
+      },
+      {
+        "text": "O Drow Druida Sangrento (Sanguinário): O",
+        "x0": 70.0,
+        "top": 656.158368486,
+        "x1": 534.9521218699999,
+        "bottom": 681.158370486
+      },
+      {
+        "text": "carcereiro e último sobrevivente de uma",
+        "x0": 70.0,
+        "top": 696.158372486,
+        "x1": 514.6000355679998,
+        "bottom": 721.158374486
+      },
+      {
+        "text": "antiga guerra drow, amaldiçoado por Lolth",
+        "x0": 70.0,
+        "top": 736.158372486,
+        "x1": 539.12503753,
+        "bottom": 761.158374486
+      },
+      {
+        "text": "para vigiar o Cérebro Ancião e dominar",
+        "x0": 70.0,
+        "top": 776.158372486,
+        "x1": 501.75003453999994,
+        "bottom": 801.158374486
+      }
+    ],
+    "text_block_count": 4,
+    "bullet_markers_restored_from_images": 3,
+    "images": [
+      {
+        "page": 4,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 4,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 4,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 4,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 5,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-05.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 103044,
+      "sha256": "ddf895d1361fd1df6f32710eea3b4a6baabe672430f3dd9e9fae8f0a75bbdd96",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "anões através de magia necromântica.\nA Líder da Convenção: Bruxa suprema que \nextrai poder direto do \"Nó\", atualmente \nfragilizada pela perda de sua esfera de visão.\nMorvessh, Selara e Lyvessa: Bruxas \nfundadoras do Círculo Vetrilus que \ncanalizam, respectivamente, as forças \nconceituais de Lua, Mar e Grama.\nLíder do Zodíaco: Figura venerada como \ndeus, dita ser imortal e capaz de renascer \nrepetidas vezes.\n",
+    "text_pdfplumber": "anões através de magia necromântica.\nA Líder da Convenção: Bruxa suprema que\nextrai poder direto do \"Nó\", atualmente\nfragilizada pela perda de sua esfera de visão.\nMorvessh, Selara e Lyvessa: Bruxas\nfundadoras do Círculo Vetrilus que\ncanalizam, respectivamente, as forças\nconceituais de Lua, Mar e Grama.\nLíder do Zodíaco: Figura venerada como\ndeus, dita ser imortal e capaz de renascer\nrepetidas vezes.",
+    "characters_native": 411,
+    "characters_reading_order": 403,
+    "non_whitespace_characters": 342,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "anões através de magia necromântica.",
+        "x0": 70.0,
+        "top": 28.991688486000044,
+        "x1": 500.6500344519999,
+        "bottom": 53.99169048600004
+      },
+      {
+        "text": "A Líder da Convenção: Bruxa suprema que",
+        "x0": 70.0,
+        "top": 189.40836848599997,
+        "x1": 539.9123977180001,
+        "bottom": 214.40837048599997
+      },
+      {
+        "text": "extrai poder direto do \"Nó\", atualmente",
+        "x0": 70.0,
+        "top": 229.40836848599997,
+        "x1": 498.10003424799976,
+        "bottom": 254.40837048599997
+      },
+      {
+        "text": "fragilizada pela perda de sua esfera de visão.",
+        "x0": 70.0,
+        "top": 269.408368486,
+        "x1": 570.7500400599998,
+        "bottom": 294.40837048599997
+      },
+      {
+        "text": "Morvessh, Selara e Lyvessa: Bruxas",
+        "x0": 70.0,
+        "top": 429.825028486,
+        "x1": 462.90909662999996,
+        "bottom": 454.825030486
+      },
+      {
+        "text": "fundadoras do Círculo Vetrilus que",
+        "x0": 70.0,
+        "top": 469.825028486,
+        "x1": 454.15003073199995,
+        "bottom": 494.825030486
+      },
+      {
+        "text": "canalizam, respectivamente, as forças",
+        "x0": 70.0,
+        "top": 509.824998486,
+        "x1": 495.10003400799974,
+        "bottom": 534.825000486
+      },
+      {
+        "text": "conceituais de Lua, Mar e Grama.",
+        "x0": 70.0,
+        "top": 549.824998486,
+        "x1": 440.25002961999985,
+        "bottom": 574.825000486
+      },
+      {
+        "text": "Líder do Zodíaco: Figura venerada como",
+        "x0": 70.0,
+        "top": 710.241685486,
+        "x1": 516.354840308,
+        "bottom": 735.241687486
+      },
+      {
+        "text": "deus, dita ser imortal e capaz de renascer",
+        "x0": 70.0,
+        "top": 750.241685486,
+        "x1": 531.2750369019998,
+        "bottom": 775.241687486
+      },
+      {
+        "text": "repetidas vezes.",
+        "x0": 70.0,
+        "top": 790.241685486,
+        "x1": 250.450014436,
+        "bottom": 815.241687486
+      }
+    ],
+    "text_block_count": 4,
+    "bullet_markers_restored_from_images": 3,
+    "images": [
+      {
+        "page": 5,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 5,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 5,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 5,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 6,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-06.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 78683,
+      "sha256": "36acadcd7d602ddd6728908f6fb4d4e331119cb06e99bd65e614c7f127008326",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Dragão Negro da Montanha: Entidade \nsoberana intocável do subterrâneo que exige \num rígido sistema mensal de tributos.\nLíder do Clã da Carne Negra: O brutal \ncomandante das hostes de trolls que \nintermediam e extorquem ouro para o \ndragão.\nDivindades e Dragões Históricos\n",
+    "text_pdfplumber": "Dragão Negro da Montanha: Entidade\nsoberana intocável do subterrâneo que exige\num rígido sistema mensal de tributos.\nLíder do Clã da Carne Negra: O brutal\ncomandante das hostes de trolls que\nintermediam e extorquem ouro para o\ndragão.\nDivindades e Dragões Históricos",
+    "characters_native": 272,
+    "characters_reading_order": 266,
+    "non_whitespace_characters": 225,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Dragão Negro da Montanha: Entidade",
+        "x0": 70.0,
+        "top": 132.74168848600004,
+        "x1": 486.120288274,
+        "bottom": 157.74169048600004
+      },
+      {
+        "text": "soberana intocável do subterrâneo que exige",
+        "x0": 70.0,
+        "top": 172.74168848600004,
+        "x1": 567.6500398119998,
+        "bottom": 197.74169048600004
+      },
+      {
+        "text": "um rígido sistema mensal de tributos.",
+        "x0": 70.0,
+        "top": 212.74168848600004,
+        "x1": 489.72503357799985,
+        "bottom": 237.74169048600004
+      },
+      {
+        "text": "Líder do Clã da Carne Negra: O brutal",
+        "x0": 70.0,
+        "top": 373.15833848600005,
+        "x1": 480.31251749200004,
+        "bottom": 398.15834048600004
+      },
+      {
+        "text": "comandante das hostes de trolls que",
+        "x0": 70.0,
+        "top": 413.15833848600005,
+        "x1": 480.7250328579999,
+        "bottom": 438.15834048600004
+      },
+      {
+        "text": "intermediam e extorquem ouro para o",
+        "x0": 70.0,
+        "top": 453.15833848600005,
+        "x1": 489.02503352199983,
+        "bottom": 478.15834048600004
+      },
+      {
+        "text": "dragão.",
+        "x0": 70.0,
+        "top": 493.15836848600003,
+        "x1": 154.52500676199998,
+        "bottom": 518.158370486
+      },
+      {
+        "text": "Divindades e Dragões Históricos",
+        "x0": 26.666668,
+        "top": 702.528393324,
+        "x1": 483.9333539199999,
+        "bottom": 734.195061324
+      }
+    ],
+    "text_block_count": 3,
+    "bullet_markers_restored_from_images": 2,
+    "images": [
+      {
+        "page": 6,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 6,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 6,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 7,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-07.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 107742,
+      "sha256": "27a0263599e989782f6e8ab78694617b2f3a48dad6c5d0bd95da61c7dc054ea9",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Bahamut: O Dragão de Platina da justiça, \ncujos cultistas começaram a mobilizar \nforças nos picos antes dos cataclismos.\nEilistraee: Deusa drow da luz do luar e \nredenção, padroeira de Lythrana Velkyn e \nSylra.\nLolth: A Rainha Aranha, responsável pela \naniquilação e maldição da cidade do \nSanguinário.\nSilvanus: O deus da natureza selvagem que \ntomou Timo como seu escolhido.\nPyrotharxaziondrakulmorthvyrion (Haurim): \nDragão vermelho milenar com covis \n",
+    "text_pdfplumber": "Bahamut: O Dragão de Platina da justiça,\ncujos cultistas começaram a mobilizar\nforças nos picos antes dos cataclismos.\nEilistraee: Deusa drow da luz do luar e\nredenção, padroeira de Lythrana Velkyn e\nSylra.\nLolth: A Rainha Aranha, responsável pela\naniquilação e maldição da cidade do\nSanguinário.\nSilvanus: O deus da natureza selvagem que\ntomou Timo como seu escolhido.\nPyrotharxaziondrakulmorthvyrion (Haurim):\nDragão vermelho milenar com covis",
+    "characters_native": 455,
+    "characters_reading_order": 445,
+    "non_whitespace_characters": 381,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Bahamut: O Dragão de Platina da justiça,",
+        "x0": 70.0,
+        "top": 45.65830848600001,
+        "x1": 521.5819476079998,
+        "bottom": 70.658310486
+      },
+      {
+        "text": "cujos cultistas começaram a mobilizar",
+        "x0": 70.0,
+        "top": 85.65830848600001,
+        "x1": 498.95003431599997,
+        "bottom": 110.658310486
+      },
+      {
+        "text": "forças nos picos antes dos cataclismos.",
+        "x0": 70.0,
+        "top": 125.65836848599997,
+        "x1": 518.2750358619999,
+        "bottom": 150.65837048599997
+      },
+      {
+        "text": "Eilistraee: Deusa drow da luz do luar e",
+        "x0": 70.0,
+        "top": 165.65836848599997,
+        "x1": 489.8782649759999,
+        "bottom": 190.65837048599997
+      },
+      {
+        "text": "redenção, padroeira de Lythrana Velkyn e",
+        "x0": 70.0,
+        "top": 205.65836848599997,
+        "x1": 526.0250364819998,
+        "bottom": 230.65837048599997
+      },
+      {
+        "text": "Sylra.",
+        "x0": 70.0,
+        "top": 245.65836848599997,
+        "x1": 131.325004906,
+        "bottom": 270.65837048599997
+      },
+      {
+        "text": "Lolth: A Rainha Aranha, responsável pela",
+        "x0": 70.0,
+        "top": 285.658368486,
+        "x1": 521.129230146,
+        "bottom": 310.65837048599997
+      },
+      {
+        "text": "aniquilação e maldição da cidade do",
+        "x0": 70.0,
+        "top": 325.65833848600005,
+        "x1": 475.00003239999995,
+        "bottom": 350.65834048600004
+      },
+      {
+        "text": "Sanguinário.",
+        "x0": 70.0,
+        "top": 365.65833848600005,
+        "x1": 208.800011104,
+        "bottom": 390.65834048600004
+      },
+      {
+        "text": "Silvanus: O deus da natureza selvagem que",
+        "x0": 70.0,
+        "top": 526.074998486,
+        "x1": 550.397250506,
+        "bottom": 551.075000486
+      },
+      {
+        "text": "tomou Timo como seu escolhido.",
+        "x0": 70.0,
+        "top": 566.074998486,
+        "x1": 441.95002975600005,
+        "bottom": 591.075000486
+      },
+      {
+        "text": "Pyrotharxaziondrakulmorthvyrion (Haurim):",
+        "x0": 70.0,
+        "top": 726.491685486,
+        "x1": 549.4500383559999,
+        "bottom": 751.491687486
+      },
+      {
+        "text": "Dragão vermelho milenar com covis",
+        "x0": 70.0,
+        "top": 766.491685486,
+        "x1": 468.8500319079999,
+        "bottom": 791.491687486
+      }
+    ],
+    "text_block_count": 5,
+    "bullet_markers_restored_from_images": 5,
+    "images": [
+      {
+        "page": 7,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 7,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 7,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 7,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 7,
+        "resource": "FXX5.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 7,
+        "resource": "FXX6.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 8,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-08.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 102226,
+      "sha256": "19e8126dbcafaf83ab4fd9bfb35aea5859a2d4236ebf436c43621b6b81e20035",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "secretos espalhados pelo continente. \nDragão vermelho heróico do passado, \nlembrado por ter rompido as castas de \ntirania dracônica para permitir que as raças \nmenores civilizassem a superfície.\nDeuses-Dragões (Dragões Antigos): \nEntidades ancestrais mencionadas como \nfontes de força nas preces de Firael.\nCriaturas e Ameaças\nKharzûn, a Mente-Registro (Cérebro Ancião): \nUm ilitídeo gigante e aprisionado; \n",
+    "text_pdfplumber": "secretos espalhados pelo continente.\nDragão vermelho heróico do passado,\nlembrado por ter rompido as castas de\ntirania dracônica para permitir que as raças\nmenores civilizassem a superfície.\nDeuses-Dragões (Dragões Antigos):\nEntidades ancestrais mencionadas como\nfontes de força nas preces de Firael.\nCriaturas e Ameaças\nKharzûn, a Mente-Registro (Cérebro Ancião):\nUm ilitídeo gigante e aprisionado;",
+    "characters_native": 408,
+    "characters_reading_order": 399,
+    "non_whitespace_characters": 346,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "secretos espalhados pelo continente.",
+        "x0": 70.0,
+        "top": 28.991688486000044,
+        "x1": 485.0500332039999,
+        "bottom": 53.99169048600004
+      },
+      {
+        "text": "Dragão vermelho heróico do passado,",
+        "x0": 70.0,
+        "top": 68.99168848600004,
+        "x1": 489.7250335779998,
+        "bottom": 93.99169048600004
+      },
+      {
+        "text": "lembrado por ter rompido as castas de",
+        "x0": 70.0,
+        "top": 108.99168848600004,
+        "x1": 500.42503443399977,
+        "bottom": 133.99169048600004
+      },
+      {
+        "text": "tirania dracônica para permitir que as raças",
+        "x0": 70.0,
+        "top": 148.99168848600004,
+        "x1": 552.1750385739998,
+        "bottom": 173.99169048600004
+      },
+      {
+        "text": "menores civilizassem a superfície.",
+        "x0": 70.0,
+        "top": 188.99168848600004,
+        "x1": 452.60003060799994,
+        "bottom": 213.99169048600004
+      },
+      {
+        "text": "Deuses-Dragões (Dragões Antigos):",
+        "x0": 70.0,
+        "top": 349.40833848600005,
+        "x1": 466.3000317039999,
+        "bottom": 374.40834048600004
+      },
+      {
+        "text": "Entidades ancestrais mencionadas como",
+        "x0": 70.0,
+        "top": 389.40833848600005,
+        "x1": 528.25003666,
+        "bottom": 414.40834048600004
+      },
+      {
+        "text": "fontes de força nas preces de Firael.",
+        "x0": 70.0,
+        "top": 429.40833848600005,
+        "x1": 473.950032316,
+        "bottom": 454.40834048600004
+      },
+      {
+        "text": "Criaturas e Ameaças",
+        "x0": 26.666668,
+        "top": 638.778332324,
+        "x1": 319.836680344,
+        "bottom": 670.445000324
+      },
+      {
+        "text": "Kharzûn, a Mente-Registro (Cérebro Ancião):",
+        "x0": 70.0,
+        "top": 759.491624486,
+        "x1": 562.7250394179997,
+        "bottom": 784.491626486
+      },
+      {
+        "text": "Um ilitídeo gigante e aprisionado;",
+        "x0": 70.0,
+        "top": 799.491624486,
+        "x1": 439.550029564,
+        "bottom": 824.491626486
+      }
+    ],
+    "text_block_count": 4,
+    "bullet_markers_restored_from_images": 2,
+    "images": [
+      {
+        "page": 8,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 8,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 8,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 9,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-09.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 96249,
+      "sha256": "3839423e27b9bf154ac4212b07eb63dce2b9e080071558e7b1d909c04a85482b",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "estabeleceu um pacto neural com Firael e \ntornou-se a \"divindade\" de um novo culto \nbaseado em acumular conhecimento prático.\nLumis: Animais, bestas e humanoides \nconsumidos pela \"doença da luz\" — seres \nirradiantes predatórios desprovidos de \nmente.\nCaçadores de Dragões: Vigilantes \nextraplanares absolutos que chegaram \npelos portais com o único foco de caçar e \naniquilar dragões plenos, ignorando meio-\ndragões e outras raças.\n",
+    "text_pdfplumber": "estabeleceu um pacto neural com Firael e\ntornou-se a \"divindade\" de um novo culto\nbaseado em acumular conhecimento prático.\nLumis: Animais, bestas e humanoides\nconsumidos pela \"doença da luz\" — seres\nirradiantes predatórios desprovidos de\nmente.\nCaçadores de Dragões: Vigilantes\nextraplanares absolutos que chegaram\npelos portais com o único foco de caçar e\naniquilar dragões plenos, ignorando meio-\ndragões e outras raças.",
+    "characters_native": 432,
+    "characters_reading_order": 423,
+    "non_whitespace_characters": 362,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "estabeleceu um pacto neural com Firael e",
+        "x0": 70.0,
+        "top": 28.991688486000044,
+        "x1": 533.2000370559999,
+        "bottom": 53.99169048600004
+      },
+      {
+        "text": "tornou-se a \"divindade\" de um novo culto",
+        "x0": 70.0,
+        "top": 68.99168848600004,
+        "x1": 522.3750361899998,
+        "bottom": 93.99169048600004
+      },
+      {
+        "text": "baseado em acumular conhecimento prático.",
+        "x0": 70.0,
+        "top": 108.99168848600004,
+        "x1": 572.6500402119999,
+        "bottom": 133.99169048600004
+      },
+      {
+        "text": "Lumis: Animais, bestas e humanoides",
+        "x0": 70.0,
+        "top": 269.408368486,
+        "x1": 489.41943065999993,
+        "bottom": 294.40837048599997
+      },
+      {
+        "text": "consumidos pela \"doença da luz\" — seres",
+        "x0": 70.0,
+        "top": 309.408368486,
+        "x1": 529.3000367439997,
+        "bottom": 334.40837048599997
+      },
+      {
+        "text": "irradiantes predatórios desprovidos de",
+        "x0": 70.0,
+        "top": 349.40833848600005,
+        "x1": 498.15003425199995,
+        "bottom": 374.40834048600004
+      },
+      {
+        "text": "mente.",
+        "x0": 70.0,
+        "top": 389.40833848600005,
+        "x1": 146.950006156,
+        "bottom": 414.40834048600004
+      },
+      {
+        "text": "Caçadores de Dragões: Vigilantes",
+        "x0": 70.0,
+        "top": 549.824998486,
+        "x1": 443.618309284,
+        "bottom": 574.825000486
+      },
+      {
+        "text": "extraplanares absolutos que chegaram",
+        "x0": 70.0,
+        "top": 589.824998486,
+        "x1": 502.8500346279999,
+        "bottom": 614.825000486
+      },
+      {
+        "text": "pelos portais com o único foco de caçar e",
+        "x0": 70.0,
+        "top": 629.825058486,
+        "x1": 534.575037166,
+        "bottom": 654.825060486
+      },
+      {
+        "text": "aniquilar dragões plenos, ignorando meio-",
+        "x0": 70.0,
+        "top": 669.825059486,
+        "x1": 534.800037184,
+        "bottom": 694.825061486
+      },
+      {
+        "text": "dragões e outras raças.",
+        "x0": 70.0,
+        "top": 709.825059486,
+        "x1": 331.650020932,
+        "bottom": 734.825061486
+      }
+    ],
+    "text_block_count": 3,
+    "bullet_markers_restored_from_images": 2,
+    "images": [
+      {
+        "page": 9,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 9,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 9,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 10,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-10.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 87566,
+      "sha256": "9e0b033ca3d93770c011022ac25d92b8a4da562325b648e48c54d48ae0cbdb1b",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Marrash: Seres extraplanares alados \ninvocados por rituais de bruxaria para \nenraizar corrupção nas florestas.\nAnkheg: Besta escavadora capturada no \nsubterrâneo e usada como transporte de \ninfiltração tática.\nFacções e Organizações\nA Casa Velkyn: Linhagem drow pacifista \nbaseada perto da superfície oriental, \n",
+    "text_pdfplumber": "Marrash: Seres extraplanares alados\ninvocados por rituais de bruxaria para\nenraizar corrupção nas florestas.\nAnkheg: Besta escavadora capturada no\nsubterrâneo e usada como transporte de\ninfiltração tática.\nFacções e Organizações\nA Casa Velkyn: Linhagem drow pacifista\nbaseada perto da superfície oriental,",
+    "characters_native": 312,
+    "characters_reading_order": 305,
+    "non_whitespace_characters": 265,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Marrash: Seres extraplanares alados",
+        "x0": 70.0,
+        "top": 98.99168848600004,
+        "x1": 475.4305745779999,
+        "bottom": 123.99169048600004
+      },
+      {
+        "text": "invocados por rituais de bruxaria para",
+        "x0": 70.0,
+        "top": 138.99168848600004,
+        "x1": 488.1250334499999,
+        "bottom": 163.99169048600004
+      },
+      {
+        "text": "enraizar corrupção nas florestas.",
+        "x0": 70.0,
+        "top": 178.99168848600004,
+        "x1": 436.2000292959999,
+        "bottom": 203.99169048600004
+      },
+      {
+        "text": "Ankheg: Besta escavadora capturada no",
+        "x0": 70.0,
+        "top": 339.40833848600005,
+        "x1": 517.354813596,
+        "bottom": 364.40834048600004
+      },
+      {
+        "text": "subterrâneo e usada como transporte de",
+        "x0": 70.0,
+        "top": 379.40833848600005,
+        "x1": 521.9000361519999,
+        "bottom": 404.40834048600004
+      },
+      {
+        "text": "infiltração tática.",
+        "x0": 70.0,
+        "top": 419.40833848600005,
+        "x1": 257.225014978,
+        "bottom": 444.40834048600004
+      },
+      {
+        "text": "Facções e Organizações",
+        "x0": 26.666668,
+        "top": 628.7783923239999,
+        "x1": 371.35834918,
+        "bottom": 660.445060324
+      },
+      {
+        "text": "A Casa Velkyn: Linhagem drow pacifista",
+        "x0": 70.0,
+        "top": 749.491685486,
+        "x1": 514.28513241,
+        "bottom": 774.491687486
+      },
+      {
+        "text": "baseada perto da superfície oriental,",
+        "x0": 70.0,
+        "top": 789.491746486,
+        "x1": 473.77503230199994,
+        "bottom": 814.491748486
+      }
+    ],
+    "text_block_count": 4,
+    "bullet_markers_restored_from_images": 3,
+    "images": [
+      {
+        "page": 10,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 10,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 10,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 10,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 11,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-11.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 112859,
+      "sha256": "4ae232dfc3e46b8ba828cbcbce6cafa43b583f082dbe2ba518d28a9901dc18fd",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "responsável por catalogar e proteger o \nconhecimento do passado.\nSéquito de Kharzûn (O Conclave): Religião \nsecreta e pragmática arquitetada por Firael \npara proteger informações em dois \nsantuários (bons e maus) sob a tutela \ntelepática do ilitídeo.\nCírculo Vetrilus (A Convenção): Triunvirato \ndas bruxas alimentado pelo Nó.\nO Zodíaco: Sociedade arcaica e tirânica que \ndepende de 12 artefatos perdidos para \nrecuperar seu antigo poder de obliterar \ncidades.\n",
+    "text_pdfplumber": "responsável por catalogar e proteger o\nconhecimento do passado.\nSéquito de Kharzûn (O Conclave): Religião\nsecreta e pragmática arquitetada por Firael\npara proteger informações em dois\nsantuários (bons e maus) sob a tutela\ntelepática do ilitídeo.\nCírculo Vetrilus (A Convenção): Triunvirato\ndas bruxas alimentado pelo Nó.\nO Zodíaco: Sociedade arcaica e tirânica que\ndepende de 12 artefatos perdidos para\nrecuperar seu antigo poder de obliterar\ncidades.",
+    "characters_native": 461,
+    "characters_reading_order": 451,
+    "non_whitespace_characters": 386,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "responsável por catalogar e proteger o",
+        "x0": 70.0,
+        "top": 28.991688486000044,
+        "x1": 498.4500342759998,
+        "bottom": 53.99169048600004
+      },
+      {
+        "text": "conhecimento do passado.",
+        "x0": 70.0,
+        "top": 68.99168848600004,
+        "x1": 371.25002409999996,
+        "bottom": 93.99169048600004
+      },
+      {
+        "text": "Séquito de Kharzûn (O Conclave): Religião",
+        "x0": 70.0,
+        "top": 108.99168848600004,
+        "x1": 535.603657594,
+        "bottom": 133.99169048600004
+      },
+      {
+        "text": "secreta e pragmática arquitetada por Firael",
+        "x0": 70.0,
+        "top": 148.99168848600004,
+        "x1": 548.2250382579999,
+        "bottom": 173.99169048600004
+      },
+      {
+        "text": "para proteger informações em dois",
+        "x0": 70.0,
+        "top": 188.99168848600004,
+        "x1": 460.9500312759999,
+        "bottom": 213.99169048600004
+      },
+      {
+        "text": "santuários (bons e maus) sob a tutela",
+        "x0": 70.0,
+        "top": 228.99168848600004,
+        "x1": 490.07503360599975,
+        "bottom": 253.99169048600004
+      },
+      {
+        "text": "telepática do ilitídeo.",
+        "x0": 70.0,
+        "top": 268.99168848600004,
+        "x1": 300.7000184559999,
+        "bottom": 293.99169048600004
+      },
+      {
+        "text": "Círculo Vetrilus (A Convenção): Triunvirato",
+        "x0": 70.0,
+        "top": 429.40833848600005,
+        "x1": 540.380580066,
+        "bottom": 454.40834048600004
+      },
+      {
+        "text": "das bruxas alimentado pelo Nó.",
+        "x0": 70.0,
+        "top": 469.40833848600005,
+        "x1": 421.4750281179999,
+        "bottom": 494.40834048600004
+      },
+      {
+        "text": "O Zodíaco: Sociedade arcaica e tirânica que",
+        "x0": 70.0,
+        "top": 629.825058486,
+        "x1": 555.79050929,
+        "bottom": 654.825060486
+      },
+      {
+        "text": "depende de 12 artefatos perdidos para",
+        "x0": 70.0,
+        "top": 669.825059486,
+        "x1": 499.90003439199995,
+        "bottom": 694.825061486
+      },
+      {
+        "text": "recuperar seu antigo poder de obliterar",
+        "x0": 70.0,
+        "top": 709.825059486,
+        "x1": 500.8250344659999,
+        "bottom": 734.825061486
+      },
+      {
+        "text": "cidades.",
+        "x0": 70.0,
+        "top": 749.825059486,
+        "x1": 163.600007488,
+        "bottom": 774.825061486
+      }
+    ],
+    "text_block_count": 4,
+    "bullet_markers_restored_from_images": 3,
+    "images": [
+      {
+        "page": 11,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 11,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 11,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 11,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 12,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-12.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 85232,
+      "sha256": "dc393465d644268bd01dfcb06a5ca72245908405c3e4979bbbd486a444781fd6",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Povo da Floresta (Seguidores de Silvanus): \nAliança silvestre militarizada de fadas, ents \ne ninfas sob a liderança coroada de Timo.\nGuarnição Miscigenada: Batalhão de \nsoldados exilados (meio-elfos, orcs e \nproscritos) estabelecido para proteger a \ncidade humana do sul.\nEventos, Locais e Artefatos Relevantes\n",
+    "text_pdfplumber": "Povo da Floresta (Seguidores de Silvanus):\nAliança silvestre militarizada de fadas, ents\ne ninfas sob a liderança coroada de Timo.\nGuarnição Miscigenada: Batalhão de\nsoldados exilados (meio-elfos, orcs e\nproscritos) estabelecido para proteger a\ncidade humana do sul.\nEventos, Locais e Artefatos Relevantes",
+    "characters_native": 311,
+    "characters_reading_order": 305,
+    "non_whitespace_characters": 263,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Povo da Floresta (Seguidores de Silvanus):",
+        "x0": 70.0,
+        "top": 132.74168848600004,
+        "x1": 544.1000379279999,
+        "bottom": 157.74169048600004
+      },
+      {
+        "text": "Aliança silvestre militarizada de fadas, ents",
+        "x0": 70.0,
+        "top": 172.74168848600004,
+        "x1": 549.8250383859998,
+        "bottom": 197.74169048600004
+      },
+      {
+        "text": "e ninfas sob a liderança coroada de Timo.",
+        "x0": 70.0,
+        "top": 212.74168848600004,
+        "x1": 534.4500371559999,
+        "bottom": 237.74169048600004
+      },
+      {
+        "text": "Guarnição Miscigenada: Batalhão de",
+        "x0": 70.0,
+        "top": 373.15833848600005,
+        "x1": 476.609911062,
+        "bottom": 398.15834048600004
+      },
+      {
+        "text": "soldados exilados (meio-elfos, orcs e",
+        "x0": 70.0,
+        "top": 413.15833848600005,
+        "x1": 482.40003299199986,
+        "bottom": 438.15834048600004
+      },
+      {
+        "text": "proscritos) estabelecido para proteger a",
+        "x0": 70.0,
+        "top": 453.15833848600005,
+        "x1": 515.1000356079999,
+        "bottom": 478.15834048600004
+      },
+      {
+        "text": "cidade humana do sul.",
+        "x0": 70.0,
+        "top": 493.15836848600003,
+        "x1": 320.75002006,
+        "bottom": 518.158370486
+      },
+      {
+        "text": "Eventos, Locais e Artefatos Relevantes",
+        "x0": 26.666668,
+        "top": 702.528393324,
+        "x1": 571.935024292,
+        "bottom": 734.195061324
+      }
+    ],
+    "text_block_count": 3,
+    "bullet_markers_restored_from_images": 2,
+    "images": [
+      {
+        "page": 12,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 12,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 12,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 13,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-13.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 114289,
+      "sha256": "64903eb1c058230d29b74dffc12f3ae477423c3f3ff0b1f140c21e179bb0ce7b",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "As Doze Noites Rubras: O fenômeno \nsangrento que marcou a transformação \napocalíptica da realidade.\nA Revoada Planar: O evento cosmológico \nem que incontáveis portais lançaram \ndragões extraplanares e caçadores de volta \nao mundo.\nO Nó: A anomalia arcana de poder \nimensurável que abastece o Círculo Vetrilus \ncom força maligna ilimitada.\nO Livro de Morvessh: Grimório saqueado de \numa bruxa contendo diagramas, histórias e \nrituais corruptores detalhados.\n",
+    "text_pdfplumber": "As Doze Noites Rubras: O fenômeno\nsangrento que marcou a transformação\napocalíptica da realidade.\nA Revoada Planar: O evento cosmológico\nem que incontáveis portais lançaram\ndragões extraplanares e caçadores de volta\nao mundo.\nO Nó: A anomalia arcana de poder\nimensurável que abastece o Círculo Vetrilus\ncom força maligna ilimitada.\nO Livro de Morvessh: Grimório saqueado de\numa bruxa contendo diagramas, histórias e\nrituais corruptores detalhados.",
+    "characters_native": 457,
+    "characters_reading_order": 447,
+    "non_whitespace_characters": 382,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "As Doze Noites Rubras: O fenômeno",
+        "x0": 70.0,
+        "top": 45.65830848600001,
+        "x1": 472.77192142,
+        "bottom": 70.658310486
+      },
+      {
+        "text": "sangrento que marcou a transformação",
+        "x0": 70.0,
+        "top": 85.65830848600001,
+        "x1": 511.5000353199999,
+        "bottom": 110.658310486
+      },
+      {
+        "text": "apocalíptica da realidade.",
+        "x0": 70.0,
+        "top": 125.65836848599997,
+        "x1": 354.70002277599997,
+        "bottom": 150.65837048599997
+      },
+      {
+        "text": "A Revoada Planar: O evento cosmológico",
+        "x0": 70.0,
+        "top": 165.65836848599997,
+        "x1": 526.8001803779999,
+        "bottom": 190.65837048599997
+      },
+      {
+        "text": "em que incontáveis portais lançaram",
+        "x0": 70.0,
+        "top": 205.65836848599997,
+        "x1": 479.72503277799984,
+        "bottom": 230.65837048599997
+      },
+      {
+        "text": "dragões extraplanares e caçadores de volta",
+        "x0": 70.0,
+        "top": 245.65836848599997,
+        "x1": 554.0000387199999,
+        "bottom": 270.65837048599997
+      },
+      {
+        "text": "ao mundo.",
+        "x0": 70.0,
+        "top": 285.658368486,
+        "x1": 188.40000947200002,
+        "bottom": 310.65837048599997
+      },
+      {
+        "text": "O Nó: A anomalia arcana de poder",
+        "x0": 70.0,
+        "top": 446.075028486,
+        "x1": 449.09786140399996,
+        "bottom": 471.075030486
+      },
+      {
+        "text": "imensurável que abastece o Círculo Vetrilus",
+        "x0": 70.0,
+        "top": 486.075028486,
+        "x1": 556.1000388879999,
+        "bottom": 511.075030486
+      },
+      {
+        "text": "com força maligna ilimitada.",
+        "x0": 70.0,
+        "top": 526.074998486,
+        "x1": 387.0500253639999,
+        "bottom": 551.075000486
+      },
+      {
+        "text": "O Livro de Morvessh: Grimório saqueado de",
+        "x0": 70.0,
+        "top": 686.491685486,
+        "x1": 554.91012016,
+        "bottom": 711.491687486
+      },
+      {
+        "text": "uma bruxa contendo diagramas, histórias e",
+        "x0": 70.0,
+        "top": 726.491685486,
+        "x1": 549.6000383679999,
+        "bottom": 751.491687486
+      },
+      {
+        "text": "rituais corruptores detalhados.",
+        "x0": 70.0,
+        "top": 766.491685486,
+        "x1": 410.75002725999997,
+        "bottom": 791.491687486
+      }
+    ],
+    "text_block_count": 4,
+    "bullet_markers_restored_from_images": 4,
+    "images": [
+      {
+        "page": 13,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 13,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 13,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 13,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 13,
+        "resource": "FXX5.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 14,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-14.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 79270,
+      "sha256": "7a62975b2e1eccc807a0bc01582418e48d022c5fafb2565f40ebe2d97cd285e9",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "Os Portais dos Drow:\nO Portal do Espelho: Acesso à realidade \ninvertida e corrompida das bruxas.\nO Portal do Abismo: Passagem inativa \ndependente de conjuradores extremos para \nbarganhas demoníacas.\nO Portal da Noite: Rota sociopolítica até a \nIlha dos Elfos da Noite.\n",
+    "text_pdfplumber": "Os Portais dos Drow:\nO Portal do Espelho: Acesso à realidade\ninvertida e corrompida das bruxas.\nO Portal do Abismo: Passagem inativa\ndependente de conjuradores extremos para\nbarganhas demoníacas.\nO Portal da Noite: Rota sociopolítica até a\nIlha dos Elfos da Noite.",
+    "characters_native": 269,
+    "characters_reading_order": 264,
+    "non_whitespace_characters": 223,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [
+      {
+        "text": "Os Portais dos Drow:",
+        "x0": 70.0,
+        "top": 132.74168848600004,
+        "x1": 303.00001864,
+        "bottom": 157.74169048600004
+      },
+      {
+        "text": "O Portal do Espelho: Acesso à realidade",
+        "x0": 68.4812498785,
+        "top": 172.74168848600004,
+        "x1": 512.78706738,
+        "bottom": 197.74169048600004
+      },
+      {
+        "text": "invertida e corrompida das bruxas.",
+        "x0": 70.0,
+        "top": 212.74168848600004,
+        "x1": 454.00003071999987,
+        "bottom": 237.74169048600004
+      },
+      {
+        "text": "O Portal do Abismo: Passagem inativa",
+        "x0": 68.4812498785,
+        "top": 373.15833848600005,
+        "x1": 496.1841362919999,
+        "bottom": 398.15834048600004
+      },
+      {
+        "text": "dependente de conjuradores extremos para",
+        "x0": 70.0,
+        "top": 413.15833848600005,
+        "x1": 553.1000386479999,
+        "bottom": 438.15834048600004
+      },
+      {
+        "text": "barganhas demoníacas.",
+        "x0": 70.0,
+        "top": 453.15833848600005,
+        "x1": 337.02502136199996,
+        "bottom": 478.15834048600004
+      },
+      {
+        "text": "O Portal da Noite: Rota sociopolítica até a",
+        "x0": 68.4812498785,
+        "top": 613.574998486,
+        "x1": 532.72167134,
+        "bottom": 638.575000486
+      },
+      {
+        "text": "Ilha dos Elfos da Noite.",
+        "x0": 70.0,
+        "top": 653.575058486,
+        "x1": 326.100020488,
+        "bottom": 678.575060486
+      }
+    ],
+    "text_block_count": 4,
+    "bullet_markers_restored_from_images": 4,
+    "images": [
+      {
+        "page": 14,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      },
+      {
+        "page": 14,
+        "resource": "FXX2.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 14,
+        "resource": "FXX3.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 14,
+        "resource": "FXX4.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      },
+      {
+        "page": 14,
+        "resource": "FXX5.png",
+        "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": false
+  },
+  {
+    "page": 15,
+    "pdf_points": [
+      600.0,
+      848.0
+    ],
+    "render": {
+      "path": "conteudo/Anexos/pdfs/Nota2/pagina-15.png",
+      "role": "pagina_completa_renderizada",
+      "bytes": 6182,
+      "sha256": "e85819e11a8ac667c4f3bef98ad33acb41c2758971f982cdf1637f3f42bde213",
+      "dpi": 120,
+      "pixels": [
+        1000,
+        1414
+      ]
+    },
+    "text_pypdf": "",
+    "text_pdfplumber": "",
+    "characters_native": 0,
+    "characters_reading_order": 0,
+    "non_whitespace_characters": 0,
+    "text_extractors_same_characters": true,
+    "replacement_characters": 0,
+    "lines": [],
+    "text_block_count": 0,
+    "bullet_markers_restored_from_images": 0,
+    "images": [
+      {
+        "page": 15,
+        "resource": "FXX1.jpg",
+        "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+        "path": "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+      }
+    ],
+    "annotations_count": 0,
+    "blank_text": true
+  }
+]

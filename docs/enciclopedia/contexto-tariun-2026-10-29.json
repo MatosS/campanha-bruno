@@ -1,0 +1,20 @@
+{
+  "data": "2026-10-29",
+  "motivo": "Ao pedir contexto para PC-030, o usuário motivou a conferência direta da despedida de Tariun. Não é uma nova confirmação narrativa do jogador.",
+  "fonte_primaria": "conteudo/Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05.md",
+  "trecho": "00:19:17–00:37:09; despedida em 00:37:09",
+  "correcao": "Distinguir fala literal da interpretação resumida como tarefa na montanha; objetivo e destino não explícitos na despedida.",
+  "arquivos": [
+    {
+      "caminho": "conteudo/Personagens/Tariun.md",
+      "antes_sha256": "1c1876164c64a2baeb71d969c786a1e06eca6074b7a927333540c12f1486f357",
+      "depois_sha256": "eff137586b3b4c3a48556adcb7f3c86e8b6ad0715417e95b2f21a0f47263eed7"
+    },
+    {
+      "caminho": "conteudo/Pendencias/Personagens/PC-030 - Tariun e a tarefa da montanha.md",
+      "antes_sha256": "6389cdbf75c0c079e6f48f09af48d26ea3b341eaa5fe11b157905d5fcca887ec",
+      "depois_sha256": "2d6713cbddde7f00e4beba6302c7e400647d12bf546e52ff94e5566a45540547"
+    }
+  ],
+  "fontes_importadas_alteradas": false
+}

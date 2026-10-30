@@ -1,0 +1,34 @@
+{
+  "data": "2026-10-30",
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "url": "https://docs.google.com/document/d/1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "resposta_literal": "Carlos morreu no ataque, um demonio possuiu o corpo dele morto.",
+  "fonte_local": "conteudo/Fontes/Confirmacoes/2026-10-30 - Morte de Carlos no ataque e possessao do cadaver.md",
+  "registro_respondido": "PC-021",
+  "registro_complementado": "PC-023",
+  "alteracao": "PC-021 retirada das dúvidas; introdução ajustada para um tópico prioritário; possessão demoníaca confirmada no contexto de PC-023. Demais conteúdos preservados.",
+  "secao_pc021_anterior": "PC-021 — Carlos vivo e o cadáver da S26 — conferir fontes\nJá registrado: Carlos carpinteiro aparece vivo trabalhando e depois seu corpo é identificado na S26, usado por Vesperal. A passagem intermediária não está recuperada na wiki.\nConferir fontes antes de perguntar: Existe alguma cena ou notícia já registrada entre Carlos trabalhando e seu cadáver na S26? Se não houver, registrar morte fora de cena, sem perguntar autor, método ou destino da família.\nReferências: Esclarecimentos do jogador (23/10/2026); Diario - Glim Sombrasselva.\n",
+  "secao_pc023_anterior": "PC-023 — Vesperal e a encomenda\nJá registrado: S26 confirma corpo de Carlos, sangue coagulado, drenagem e a encomenda posterior por mulher não vista. A associação ao demônio procurado é inferência do grupo apoiada pela lembrança de um sobrenome semelhante; lich não foi confirmado.\nEm aberto — sem necessidade de responder: Natureza de Vesperal, sobrevivência e nova encomenda são ganchos ainda não resolvidos, não erros de registro.\nReferências: Transcrição S26 (20/10/2026); Esclarecimentos do jogador (23/10/2026).\n",
+  "revision_anterior": "AHj4eMS8QAL4U1CxkiVSBKZQg7vOGTvNCy_eKRkqkW4oaJvZxzpH0uVI3bi2qmz3wHfwLrt3qG405-jhKB4HZkLH1RzfGqZT4eNnIQhgRgE",
+  "revision_verificada": "AHj4eMSc1nTqNTccPod-GrZNeKo8F72N84bPD8jI1KNW5xgk0y0GHC0OoA-xz0ccPM66NeYIRJbSwPHTEjdfANpWDJNcueetZdUas29vqcY",
+  "verificacao": {
+    "exactText": true,
+    "actualLength": 37555,
+    "expectedLength": 37555,
+    "totalIds": 72,
+    "uniqueIds": 72,
+    "pc021Removed": true,
+    "priorityIds": [
+      "EV-001"
+    ],
+    "styles": {
+      "TITLE": 1,
+      "SUBTITLE": 1,
+      "HEADING_1": 2,
+      "NORMAL_TEXT": 223,
+      "HEADING_2": 8,
+      "HEADING_3": 71
+    }
+  },
+  "permissoes_de_compartilhamento_alteradas": false
+}

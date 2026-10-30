@@ -1,0 +1,1557 @@
+{
+  "fonte": "BASE INICIAL/FASH PALESKIN.xlsx",
+  "sha256_fonte": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+  "aba": "UNDEAD COMPANION",
+  "ordem": 2,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet2.xml",
+  "celulas": [
+    {
+      "celula": "C2",
+      "atributos": {
+        "r": "C2",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": "SKELETON",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "6",
+      "valor": "Size/Type:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D4",
+      "atributos": {
+        "r": "D4",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "10",
+      "valor": "Medium Human Skeleton Fighter 8",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "K4",
+      "atributos": {
+        "r": "K4",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L4",
+      "atributos": {
+        "r": "L4",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "21",
+      "valor": "Combat Reflexes",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B5",
+      "atributos": {
+        "r": "B5",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "46",
+      "valor": "Hit Dice:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D5",
+      "atributos": {
+        "r": "D5",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "50",
+      "valor": "8d12 (58 hp)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "H5",
+      "atributos": {
+        "r": "H5",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "32.0",
+      "valor": 32.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L5",
+      "atributos": {
+        "r": "L5",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "58",
+      "valor": "Stand Still",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B6",
+      "atributos": {
+        "r": "B6",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "75",
+      "valor": "Initiative:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D6",
+      "atributos": {
+        "r": "D6",
+        "s": "32"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7",
+      "valor": 7,
+      "formato_numero": "@",
+      "formula": {
+        "texto_xml": "7",
+        "atributos": {},
+        "expandida": "=7"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "7",
+        "valor": 7
+      }
+    },
+    {
+      "celula": "L6",
+      "atributos": {
+        "r": "L6",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "94",
+      "valor": "Improved Buckler Defense",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B7",
+      "atributos": {
+        "r": "B7",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "109",
+      "valor": "Speed:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D7",
+      "atributos": {
+        "r": "D7",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "111",
+      "valor": "30 ft. (6 squares), 20ft. (4 squares)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "L7",
+      "atributos": {
+        "r": "L7",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "112",
+      "valor": "Exotic Weapon Proficiency",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B8",
+      "atributos": {
+        "r": "B8",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "115",
+      "valor": "Armor Class:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D8",
+      "atributos": {
+        "r": "D8",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "116",
+      "valor": "32 (+3 Dex, +2 natural, +12 armor, +5 shield), touch 13, flat-footed 29",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "L8",
+      "atributos": {
+        "r": "L8",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "118",
+      "valor": "Vexing Flanker",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B9",
+      "atributos": {
+        "r": "B9",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "127",
+      "valor": "Base Attack/Grapple:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D9",
+      "atributos": {
+        "r": "D9",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "128",
+      "valor": "8/12",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "K9",
+      "atributos": {
+        "r": "K9",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L9",
+      "atributos": {
+        "r": "L9",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "133",
+      "valor": "Hold the Line",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B10",
+      "atributos": {
+        "r": "B10",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "140",
+      "valor": "Attack:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D10",
+      "atributos": {
+        "r": "D10",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "141",
+      "valor": "Chain Spiked(+4) +17 melee (2d4+10)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "K10",
+      "atributos": {
+        "r": "K10",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L10",
+      "atributos": {
+        "r": "L10",
+        "s": "38",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "142",
+      "valor": "Power Attack",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B11",
+      "atributos": {
+        "r": "B11",
+        "s": "40",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "145",
+      "valor": "AoO:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D11",
+      "atributos": {
+        "r": "D11",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "148",
+      "valor": "Chain Spiked(+4) +21 melee (2d4+10)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "K11",
+      "atributos": {
+        "r": "K11",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L11",
+      "atributos": {
+        "r": "L11",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "149",
+      "valor": "Adaptable Flanker",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B12",
+      "atributos": {
+        "r": "B12",
+        "s": "40",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "166",
+      "valor": "Flanking:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D12",
+      "atributos": {
+        "r": "D12",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "148",
+      "valor": "Chain Spiked(+4) +21 melee (2d4+10)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "K12",
+      "atributos": {
+        "r": "K12",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B13",
+      "atributos": {
+        "r": "B13",
+        "s": "40",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "184",
+      "valor": "Flanking + AoO:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D13",
+      "atributos": {
+        "r": "D13",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "188",
+      "valor": "Chain Spiked(+4) +25 melee (2d4+10)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "K13",
+      "atributos": {
+        "r": "K13",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6.0",
+      "valor": 6.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L13",
+      "atributos": {
+        "r": "L13",
+        "s": "38",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "193",
+      "valor": "Weapon Focus",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B14",
+      "atributos": {
+        "r": "B14",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "196",
+      "valor": "Full Attack:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D14",
+      "atributos": {
+        "r": "D14",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "198",
+      "valor": "Chain Spiked(+4) +17/+12 melee (2d4+10)",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "L14",
+      "atributos": {
+        "r": "L14",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "199",
+      "valor": "Deft Opportunist",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B15",
+      "atributos": {
+        "r": "B15",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "200",
+      "valor": "Space/Reach:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D15",
+      "atributos": {
+        "r": "D15",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "201",
+      "valor": "5 ft./10 ft.",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "K15",
+      "atributos": {
+        "r": "K15",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7.0",
+      "valor": 7.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B16",
+      "atributos": {
+        "r": "B16",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "204",
+      "valor": "Special Attacks:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K16",
+      "atributos": {
+        "r": "K16",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L16",
+      "atributos": {
+        "r": "L16",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "206",
+      "valor": "Expert Tactician",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B17",
+      "atributos": {
+        "r": "B17",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "217",
+      "valor": "Special Qualities:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D17",
+      "atributos": {
+        "r": "D17",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "220",
+      "valor": "Immunity to Cold, DR 5/bludgeoning, Darkvision 60ft, Undead Traits",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B18",
+      "atributos": {
+        "r": "B18",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "227",
+      "valor": "Saves:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D18",
+      "atributos": {
+        "r": "D18",
+        "s": "43",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "231",
+      "valor": "Fort +6, Ref +5, Will +2",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B19",
+      "atributos": {
+        "r": "B19",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "237",
+      "valor": "Abilities:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D19",
+      "atributos": {
+        "r": "D19",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "238",
+      "valor": "Str 18, Dex 17, Con -, Int -, Wis 8, Cha 1",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B20",
+      "atributos": {
+        "r": "B20",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "239",
+      "valor": "Skills:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D20",
+      "atributos": {
+        "r": "D20",
+        "s": "13",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "241",
+      "valor": "Listen -1, Spot -1",
+      "formato_numero": "@",
+      "formula": null
+    },
+    {
+      "celula": "B21",
+      "atributos": {
+        "r": "B21",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "243",
+      "valor": "Feats:",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D21",
+      "atributos": {
+        "r": "D21",
+        "s": "35",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "244",
+      "valor": "Improved Initiative, Inattentive, Pathetic, Combat Reflexes, Exotic Weapon Proficiency (Spiked Chain), Deft Opportunist, Stand Still, Improved Buckler Defense, Vexing Flanker, Hold the Line, Adaptable Flanker, Expert Tactician, Power Attack, Weapon Focus (Spiked Chain)",
+      "formato_numero": "@",
+      "formula": null
+    }
+  ],
+  "comentarios": [],
+  "hyperlinks": [
+    {
+      "intervalo": "L4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1",
+        "ref": "L4"
+      },
+      "relacionamento": {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-v35--6/combat-reflexes--403/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-v35--6/combat-reflexes--403/"
+    },
+    {
+      "intervalo": "L5",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+        "ref": "L5"
+      },
+      "relacionamento": {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/expanded-psionics-handbook--65/stand-still--2759/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/expanded-psionics-handbook--65/stand-still--2759/"
+    },
+    {
+      "intervalo": "L6",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+        "ref": "L6"
+      },
+      "relacionamento": {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/complete-warrior--61/improved-buckler-defense--1449/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/complete-warrior--61/improved-buckler-defense--1449/"
+    },
+    {
+      "intervalo": "L7",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+        "ref": "L7"
+      },
+      "relacionamento": {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-v35--6/exotic-weapon-proficiency--985/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-v35--6/exotic-weapon-proficiency--985/"
+    },
+    {
+      "intervalo": "L8",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+        "ref": "L8"
+      },
+      "relacionamento": {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-ii--80/vexing-flanker--3062/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-ii--80/vexing-flanker--3062/"
+    },
+    {
+      "intervalo": "L9",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+        "ref": "L9"
+      },
+      "relacionamento": {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/complete-warrior--61/hold-the-line--1395/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/complete-warrior--61/hold-the-line--1395/"
+    },
+    {
+      "intervalo": "L11",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+        "ref": "L11"
+      },
+      "relacionamento": {
+        "Id": "rId7",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/players-handbook-ii--80/adaptable-flanker--35/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/players-handbook-ii--80/adaptable-flanker--35/"
+    },
+    {
+      "intervalo": "L14",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+        "ref": "L14"
+      },
+      "relacionamento": {
+        "Id": "rId8",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/complete-adventurer--54/deft-opportunist--572/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/complete-adventurer--54/deft-opportunist--572/"
+    },
+    {
+      "intervalo": "L16",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+        "ref": "L16"
+      },
+      "relacionamento": {
+        "Id": "rId9",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/complete-adventurer--54/expert-tactician--994/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/complete-adventurer--54/expert-tactician--994/"
+    }
+  ],
+  "mesclagens": [
+    "B4:C4",
+    "D4:G4",
+    "B5:C5",
+    "D5:G5",
+    "B6:C6",
+    "D6:G6",
+    "D7:G7",
+    "B14:C14",
+    "B15:C15",
+    "B16:C16",
+    "B17:C17",
+    "B18:C18",
+    "B19:C19",
+    "B20:C20",
+    "B21:C21",
+    "B7:C7",
+    "B8:C8",
+    "B9:C9",
+    "B10:C10",
+    "B11:C11",
+    "B12:C12",
+    "B13:C13",
+    "D15:G15",
+    "D16:G16",
+    "D17:G17",
+    "D18:G18",
+    "D19:G19",
+    "D20:G20",
+    "D21:G21",
+    "D8:G8",
+    "D9:G9",
+    "D10:G10",
+    "D11:G11",
+    "D12:G12",
+    "D13:G13",
+    "D14:G14"
+  ],
+  "drawings": [],
+  "objetos_vml": [],
+  "relacionamentos": {
+    "rId10": {
+      "Id": "rId10",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing2.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels",
+      "parte_destino": "xl/drawings/drawing2.xml"
+    },
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-v35--6/combat-reflexes--403/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/expanded-psionics-handbook--65/stand-still--2759/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/complete-warrior--61/improved-buckler-defense--1449/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    "rId4": {
+      "Id": "rId4",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-v35--6/exotic-weapon-proficiency--985/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    "rId9": {
+      "Id": "rId9",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/complete-adventurer--54/expert-tactician--994/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    "rId5": {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-ii--80/vexing-flanker--3062/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    "rId6": {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/complete-warrior--61/hold-the-line--1395/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    "rId7": {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/players-handbook-ii--80/adaptable-flanker--35/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    "rId8": {
+      "Id": "rId8",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/complete-adventurer--54/deft-opportunist--572/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet2.xml.rels"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCells",
+      "atributos": {
+        "count": "36"
+      },
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B4:C4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D4:G4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B5:C5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D5:G5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B6:C6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D6:G6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D7:G7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B14:C14"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B15:C15"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B16:C16"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B17:C17"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B18:C18"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B19:C19"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B20:C20"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B21:C21"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B7:C7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B8:C8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B9:C9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B10:C10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B11:C11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B12:C12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B13:C13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D15:G15"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D16:G16"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D17:G17"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D18:G18"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D19:G19"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D20:G20"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D21:G21"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D8:G8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D9:G9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D10:G10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D11:G11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D12:G12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D13:G13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "D14:G14"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlinks",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1",
+            "ref": "L4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+            "ref": "L5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+            "ref": "L6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+            "ref": "L7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+            "ref": "L8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+            "ref": "L9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+            "ref": "L11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+            "ref": "L14"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+            "ref": "L16"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    }
+  ],
+  "celulas_xml_total": 138,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 56,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

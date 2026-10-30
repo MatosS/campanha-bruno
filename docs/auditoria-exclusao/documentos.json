@@ -1,0 +1,4914 @@
+{
+  "schema": "auditoria-exclusao-documentos-v1",
+  "gerado_em": "2026-10-29T21:47:13.835296+00:00",
+  "escopo": {
+    "fontes": [
+      "BASE INICIAL/Nota1.pdf",
+      "BASE INICIAL/Nota2.pdf",
+      "BASE INICIAL/Resumo detalhado.docx"
+    ],
+    "operacao": "Somente leitura, sem exclusão, movimentação, alteração de arquivos existentes ou execução dos conversores.",
+    "exclui": "Demais fontes da BASE, planilhas, arquivos TXT e entidade/cronologia editorial são auditados em frentes separadas.",
+    "independencia": "Novas extrações pypdf/pdfplumber/python-docx e leitura direta do pacote OOXML, sem importar os conversores; manifestos antigos usados só para conferir integridade e apontar evidências.",
+    "normalizacao_pdf": "Somente espaços/quebras de linha e sintaxe Markdown gerada de lista são removidos; texto, pontuação e ordem por página comparados.",
+    "normalizacao_docx": "Somente marcadores Markdown de título/lista/tabela/ênfase e escapes; texto e espaços originais de cada parágrafo/célula comparados exatamente."
+  },
+  "pdfs": [
+    {
+      "original": {
+        "caminho": "BASE INICIAL/Nota1.pdf",
+        "bytes": 6119049,
+        "sha256": "7f1ec942aa1b1716661295eb04ea6e383de12f5a46294532c8a9c1602d5e9884"
+      },
+      "original_arquivado": {
+        "caminho": "arquivo/originais/BASE INICIAL/Nota1.pdf",
+        "bytes": 6119049,
+        "sha256": "7f1ec942aa1b1716661295eb04ea6e383de12f5a46294532c8a9c1602d5e9884"
+      },
+      "binarios_identicos": true,
+      "markdown": {
+        "caminho": "conteudo/Fontes/Documentos/Nota1.md",
+        "bytes": 56766,
+        "sha256": "2454307dfe727a6fc97a1b9d309d7e55d5903084cd42ec27ac14368ce091e385"
+      },
+      "paginas": 65,
+      "paginas_com_texto": 65,
+      "campos_formulario": 0,
+      "anotacoes": 0,
+      "links_interativos": 0,
+      "arquivos_embutidos": [],
+      "catalogo_chaves": [
+        "/Pages",
+        "/Type"
+      ],
+      "names_chaves": [],
+      "criptografado": false,
+      "outlines": 0,
+      "metadados": {
+        "/CreationDate": "",
+        "/Creator": "PDFium"
+      },
+      "acoes_ou_camadas_catalogo": {},
+      "imagens_unicas": [
+        {
+          "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+          "ocorrencias": [
+            {
+              "pagina": 1,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 2,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 3,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 4,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 5,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 6,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 7,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 8,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 9,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 10,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 11,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 12,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 13,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 14,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 15,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 16,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 17,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 18,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 19,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 20,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 21,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 22,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 23,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 24,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 25,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 26,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 27,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 28,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 29,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 30,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 31,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 32,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 33,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 34,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 35,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 36,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 37,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 38,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 39,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 40,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 41,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 42,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 43,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 44,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 45,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 46,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 47,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 48,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 49,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 50,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 51,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 52,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 54,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 55,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 56,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 57,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 58,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 59,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 60,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 61,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 62,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 63,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 64,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 65,
+              "recurso": "FXX1.jpg"
+            }
+          ],
+          "arquivos_extraidos": [
+            "conteudo/Anexos/pdfs/Nota1/imagens-extraidas/1605b37557cf5692.jpg"
+          ],
+          "pixels": [
+            1800,
+            2545
+          ],
+          "modo": "RGB",
+          "bytes_extraidos": 72947
+        },
+        {
+          "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+          "ocorrencias": [
+            {
+              "pagina": 2,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 3,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 3,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 9,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 10,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 10,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 12,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 12,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 19,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 19,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 19,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 19,
+              "recurso": "FXX5.png"
+            },
+            {
+              "pagina": 20,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 20,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 26,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 26,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 27,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 27,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 27,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 52,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX5.png"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX6.png"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX7.png"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX8.png"
+            },
+            {
+              "pagina": 53,
+              "recurso": "FXX9.png"
+            },
+            {
+              "pagina": 57,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 57,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 57,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 57,
+              "recurso": "FXX5.png"
+            },
+            {
+              "pagina": 61,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 61,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 61,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 61,
+              "recurso": "FXX5.png"
+            },
+            {
+              "pagina": 62,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 62,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 62,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 62,
+              "recurso": "FXX5.png"
+            }
+          ],
+          "arquivos_extraidos": [
+            "conteudo/Anexos/pdfs/Nota1/imagens-extraidas/0ee09187c34d75b4.png"
+          ],
+          "pixels": [
+            16,
+            16
+          ],
+          "modo": "RGBA",
+          "bytes_extraidos": 333
+        }
+      ],
+      "imagens_ocorrencias": 105,
+      "operadores_pdf": {
+        "q": 1359,
+        "RG": 1294,
+        "rg": 1294,
+        "w": 1180,
+        "J": 130,
+        "j": 130,
+        "gs": 130,
+        "Do": 170,
+        "Q": 1359,
+        "BMC": 65,
+        "cm": 105,
+        "EMC": 65,
+        "BT": 1050,
+        "Tm": 1050,
+        "Tf": 1050,
+        "Tr": 1050,
+        "Tj": 1050,
+        "ET": 1050,
+        "re": 9,
+        "f*": 9
+      },
+      "textos_integrais_iguais": {
+        "pypdf": true,
+        "pdfplumber": true
+      },
+      "saidas_manifesto_verificadas": 76,
+      "saidas_manifesto_hash_igual": true,
+      "comparacao_por_pagina": [
+        {
+          "pagina": 1,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-01.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 637,
+          "caracteres_pdfplumber": 624,
+          "caracteres_nao_brancos": 529,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 621
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 621
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 621,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 2,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-02.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 527,
+          "caracteres_pdfplumber": 516,
+          "caracteres_nao_brancos": 442,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 512
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 512
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 512,
+            "images": 2,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 3,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-03.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 658,
+          "caracteres_pdfplumber": 645,
+          "caracteres_nao_brancos": 549,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 642
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 642
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 642,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 4,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-04.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 455,
+          "caracteres_pdfplumber": 447,
+          "caracteres_nao_brancos": 376,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 441
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 441
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 441,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 5,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-05.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 599,
+          "caracteres_pdfplumber": 588,
+          "caracteres_nao_brancos": 503,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 585
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 585
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 585,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 6,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-06.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 635,
+          "caracteres_pdfplumber": 625,
+          "caracteres_nao_brancos": 529,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 621
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 621
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 621,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 7,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-07.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 502,
+          "caracteres_pdfplumber": 494,
+          "caracteres_nao_brancos": 414,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 489
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 489
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 489,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 8,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-08.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 643,
+          "caracteres_pdfplumber": 634,
+          "caracteres_nao_brancos": 524,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 629
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 629
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 629,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 9,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-09.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 559,
+          "caracteres_pdfplumber": 546,
+          "caracteres_nao_brancos": 458,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 544
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 544
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 544,
+            "images": 2,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 10,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-10.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 578,
+          "caracteres_pdfplumber": 567,
+          "caracteres_nao_brancos": 478,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 562
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 562
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 562,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 11,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-11.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 601,
+          "caracteres_pdfplumber": 590,
+          "caracteres_nao_brancos": 498,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 587
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 587
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 587,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 12,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-12.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 607,
+          "caracteres_pdfplumber": 595,
+          "caracteres_nao_brancos": 510,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 591
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 591
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 591,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 13,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-13.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 677,
+          "caracteres_pdfplumber": 664,
+          "caracteres_nao_brancos": 566,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 662
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 662
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 662,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 14,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-14.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 606,
+          "caracteres_pdfplumber": 596,
+          "caracteres_nao_brancos": 511,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 591
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 591
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 591,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 15,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-15.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 653,
+          "caracteres_pdfplumber": 641,
+          "caracteres_nao_brancos": 546,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 638
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 638
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 638,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 16,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-16.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 630,
+          "caracteres_pdfplumber": 618,
+          "caracteres_nao_brancos": 527,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 615
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 615
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 615,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 17,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-17.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 695,
+          "caracteres_pdfplumber": 681,
+          "caracteres_nao_brancos": 581,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 679
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 679
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 679,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 18,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-18.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 583,
+          "caracteres_pdfplumber": 573,
+          "caracteres_nao_brancos": 491,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 568
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 568
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 568,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 19,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-19.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 626,
+          "caracteres_pdfplumber": 615,
+          "caracteres_nao_brancos": 527,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 610
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 610
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 610,
+            "images": 5,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 20,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-20.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 679,
+          "caracteres_pdfplumber": 665,
+          "caracteres_nao_brancos": 566,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 662
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 662
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 662,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 21,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-21.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 515,
+          "caracteres_pdfplumber": 506,
+          "caracteres_nao_brancos": 428,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 501
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 501
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 501,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 22,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-22.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 705,
+          "caracteres_pdfplumber": 691,
+          "caracteres_nao_brancos": 589,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 689
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 689
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 689,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 23,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-23.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 557,
+          "caracteres_pdfplumber": 547,
+          "caracteres_nao_brancos": 465,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 543
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 543
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 543,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 24,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-24.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 642,
+          "caracteres_pdfplumber": 630,
+          "caracteres_nao_brancos": 541,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 627
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 627
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 627,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 25,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-25.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 645,
+          "caracteres_pdfplumber": 633,
+          "caracteres_nao_brancos": 540,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 630
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 630
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 630,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 26,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-26.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 438,
+          "caracteres_pdfplumber": 430,
+          "caracteres_nao_brancos": 368,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 424
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 424
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 424,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 27,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-27.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 629,
+          "caracteres_pdfplumber": 617,
+          "caracteres_nao_brancos": 523,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 613
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 613
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 613,
+            "images": 4,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 28,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-28.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 572,
+          "caracteres_pdfplumber": 561,
+          "caracteres_nao_brancos": 469,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 557
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 554,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 557,
+            "images": 1,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 29,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-29.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 686,
+          "caracteres_pdfplumber": 673,
+          "caracteres_nao_brancos": 564,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 670
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 670
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 670,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 30,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-30.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 648,
+          "caracteres_pdfplumber": 635,
+          "caracteres_nao_brancos": 537,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 633
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 633
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 633,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 31,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-31.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 652,
+          "caracteres_pdfplumber": 640,
+          "caracteres_nao_brancos": 540,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 637
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 634,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 637,
+            "images": 1,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 32,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-32.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 620,
+          "caracteres_pdfplumber": 608,
+          "caracteres_nao_brancos": 513,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 605
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 602,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 605,
+            "images": 1,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 33,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-33.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 646,
+          "caracteres_pdfplumber": 634,
+          "caracteres_nao_brancos": 536,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 631
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 631
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 631,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 34,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-34.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 644,
+          "caracteres_pdfplumber": 632,
+          "caracteres_nao_brancos": 536,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 629
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 626,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 629,
+            "images": 1,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 35,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-35.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 679,
+          "caracteres_pdfplumber": 667,
+          "caracteres_nao_brancos": 566,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 664
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 664
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 664,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 36,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-36.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 600,
+          "caracteres_pdfplumber": 591,
+          "caracteres_nao_brancos": 494,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 586
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 583,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 586,
+            "images": 1,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 37,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-37.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 684,
+          "caracteres_pdfplumber": 671,
+          "caracteres_nao_brancos": 563,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 669
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 669
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 669,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 38,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-38.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 633,
+          "caracteres_pdfplumber": 621,
+          "caracteres_nao_brancos": 530,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 618
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 615,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 618,
+            "images": 1,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 39,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-39.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 646,
+          "caracteres_pdfplumber": 634,
+          "caracteres_nao_brancos": 541,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 631
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 631
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 631,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 40,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-40.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 638,
+          "caracteres_pdfplumber": 626,
+          "caracteres_nao_brancos": 526,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 623
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 620,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 623,
+            "images": 1,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 41,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-41.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 688,
+          "caracteres_pdfplumber": 675,
+          "caracteres_nao_brancos": 560,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 672
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 672
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 672,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 42,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-42.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 630,
+          "caracteres_pdfplumber": 619,
+          "caracteres_nao_brancos": 526,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 616
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 613,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 616,
+            "images": 1,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 43,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-43.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 691,
+          "caracteres_pdfplumber": 679,
+          "caracteres_nao_brancos": 574,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 676
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 676
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 676,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 44,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-44.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 677,
+          "caracteres_pdfplumber": 664,
+          "caracteres_nao_brancos": 551,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 661
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 661
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 661,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 45,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-45.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 618,
+          "caracteres_pdfplumber": 608,
+          "caracteres_nao_brancos": 511,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 604
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 604
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 604,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 46,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-46.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 651,
+          "caracteres_pdfplumber": 638,
+          "caracteres_nao_brancos": 536,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 636
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 636
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 636,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 47,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-47.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 618,
+          "caracteres_pdfplumber": 607,
+          "caracteres_nao_brancos": 510,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 603
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 603
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 603,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 48,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-48.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 581,
+          "caracteres_pdfplumber": 570,
+          "caracteres_nao_brancos": 492,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 566
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 566
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 566,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 49,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-49.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 756,
+          "caracteres_pdfplumber": 743,
+          "caracteres_nao_brancos": 638,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 737
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 737
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 737,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 50,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-50.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 786,
+          "caracteres_pdfplumber": 773,
+          "caracteres_nao_brancos": 655,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 767
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 767
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 767,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 51,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-51.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 616,
+          "caracteres_pdfplumber": 604,
+          "caracteres_nao_brancos": 503,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 601
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 601
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 601,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 52,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-52.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 563,
+          "caracteres_pdfplumber": 552,
+          "caracteres_nao_brancos": 465,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 548
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 545,
+            "(0.0, 0.32941177, 1.0)": 3
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 548,
+            "images": 2,
+            "lines": 0,
+            "rects": 1,
+            "curves": 0
+          },
+          "operadores_vetoriais": {
+            "re": 1,
+            "f*": 1
+          }
+        },
+        {
+          "pagina": 53,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-53.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 551,
+          "caracteres_pdfplumber": 540,
+          "caracteres_nao_brancos": 459,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 533
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 533
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 533,
+            "images": 9,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 54,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-54.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 562,
+          "caracteres_pdfplumber": 553,
+          "caracteres_nao_brancos": 470,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 548
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 548
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 548,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 55,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-55.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 548,
+          "caracteres_pdfplumber": 537,
+          "caracteres_nao_brancos": 460,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 534
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 534
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 534,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 56,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-56.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 637,
+          "caracteres_pdfplumber": 625,
+          "caracteres_nao_brancos": 533,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 622
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 622
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 622,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 57,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-57.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 545,
+          "caracteres_pdfplumber": 534,
+          "caracteres_nao_brancos": 452,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 529
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 529
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 529,
+            "images": 5,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 58,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-58.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 631,
+          "caracteres_pdfplumber": 618,
+          "caracteres_nao_brancos": 521,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 615
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 615
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 615,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 59,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-59.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 574,
+          "caracteres_pdfplumber": 565,
+          "caracteres_nao_brancos": 485,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 559
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 559
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 559,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 60,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-60.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 553,
+          "caracteres_pdfplumber": 544,
+          "caracteres_nao_brancos": 466,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 539
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 539
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 539,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 61,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-61.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 573,
+          "caracteres_pdfplumber": 561,
+          "caracteres_nao_brancos": 473,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 556
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 556
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 556,
+            "images": 5,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 62,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-62.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 609,
+          "caracteres_pdfplumber": 595,
+          "caracteres_nao_brancos": 499,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 591
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 591
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 591,
+            "images": 5,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 63,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-63.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 658,
+          "caracteres_pdfplumber": 645,
+          "caracteres_nao_brancos": 548,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 642
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 642
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 642,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 64,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-64.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 695,
+          "caracteres_pdfplumber": 681,
+          "caracteres_nao_brancos": 572,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 679
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 679
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 679,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 65,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota1/pagina-65.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 545,
+          "caracteres_pdfplumber": 534,
+          "caracteres_nao_brancos": 452,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 534
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 534
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 534,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        }
+      ]
+    },
+    {
+      "original": {
+        "caminho": "BASE INICIAL/Nota2.pdf",
+        "bytes": 2329817,
+        "sha256": "b92a57304804baad64a9493f4958580ae92f87fb1ad5a551b958499a7e603555"
+      },
+      "original_arquivado": {
+        "caminho": "arquivo/originais/BASE INICIAL/Nota2.pdf",
+        "bytes": 2329817,
+        "sha256": "b92a57304804baad64a9493f4958580ae92f87fb1ad5a551b958499a7e603555"
+      },
+      "binarios_identicos": true,
+      "markdown": {
+        "caminho": "conteudo/Fontes/Documentos/Nota2.md",
+        "bytes": 10790,
+        "sha256": "e5a6446a8dcfd50c9059f70453180ea2b8143376a9366b57c176eb37a50b643e"
+      },
+      "paginas": 15,
+      "paginas_com_texto": 14,
+      "campos_formulario": 0,
+      "anotacoes": 0,
+      "links_interativos": 0,
+      "arquivos_embutidos": [],
+      "catalogo_chaves": [
+        "/Pages",
+        "/Type"
+      ],
+      "names_chaves": [],
+      "criptografado": false,
+      "outlines": 0,
+      "metadados": {
+        "/CreationDate": "",
+        "/Creator": "PDFium"
+      },
+      "acoes_ou_camadas_catalogo": {},
+      "imagens_unicas": [
+        {
+          "sha256": "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+          "ocorrencias": [
+            {
+              "pagina": 1,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 2,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 3,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 4,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 5,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 6,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 7,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 8,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 9,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 10,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 11,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 12,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 13,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 14,
+              "recurso": "FXX1.jpg"
+            },
+            {
+              "pagina": 15,
+              "recurso": "FXX1.jpg"
+            }
+          ],
+          "arquivos_extraidos": [
+            "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/1605b37557cf5692.jpg"
+          ],
+          "pixels": [
+            1800,
+            2545
+          ],
+          "modo": "RGB",
+          "bytes_extraidos": 72947
+        },
+        {
+          "sha256": "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+          "ocorrencias": [
+            {
+              "pagina": 1,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 1,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 1,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 2,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 2,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 2,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 3,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 3,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 3,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 4,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 4,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 4,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 5,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 5,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 5,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 6,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 6,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 7,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 7,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 7,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 7,
+              "recurso": "FXX5.png"
+            },
+            {
+              "pagina": 7,
+              "recurso": "FXX6.png"
+            },
+            {
+              "pagina": 8,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 8,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 9,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 9,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 10,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 10,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 10,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 11,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 11,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 11,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 12,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 12,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 13,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 13,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 13,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 13,
+              "recurso": "FXX5.png"
+            },
+            {
+              "pagina": 14,
+              "recurso": "FXX2.png"
+            },
+            {
+              "pagina": 14,
+              "recurso": "FXX3.png"
+            },
+            {
+              "pagina": 14,
+              "recurso": "FXX4.png"
+            },
+            {
+              "pagina": 14,
+              "recurso": "FXX5.png"
+            }
+          ],
+          "arquivos_extraidos": [
+            "conteudo/Anexos/pdfs/Nota2/imagens-extraidas/0ee09187c34d75b4.png"
+          ],
+          "pixels": [
+            16,
+            16
+          ],
+          "modo": "RGBA",
+          "bytes_extraidos": 333
+        }
+      ],
+      "imagens_ocorrencias": 57,
+      "operadores_pdf": {
+        "q": 292,
+        "RG": 277,
+        "rg": 277,
+        "w": 220,
+        "J": 30,
+        "j": 30,
+        "gs": 30,
+        "Do": 72,
+        "Q": 292,
+        "BMC": 15,
+        "cm": 57,
+        "EMC": 15,
+        "BT": 190,
+        "Tm": 190,
+        "Tf": 190,
+        "Tr": 190,
+        "Tj": 190,
+        "ET": 190
+      },
+      "textos_integrais_iguais": {
+        "pypdf": true,
+        "pdfplumber": true
+      },
+      "saidas_manifesto_verificadas": 22,
+      "saidas_manifesto_hash_igual": true,
+      "comparacao_por_pagina": [
+        {
+          "pagina": 1,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-01.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 508,
+          "caracteres_pdfplumber": 497,
+          "caracteres_nao_brancos": 428,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 494
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 494
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 494,
+            "images": 4,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 2,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-02.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 319,
+          "caracteres_pdfplumber": 313,
+          "caracteres_nao_brancos": 268,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 311
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 311
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 311,
+            "images": 4,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 3,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-03.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 420,
+          "caracteres_pdfplumber": 412,
+          "caracteres_nao_brancos": 352,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 409
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 409
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 409,
+            "images": 4,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 4,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-04.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 353,
+          "caracteres_pdfplumber": 345,
+          "caracteres_nao_brancos": 293,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 343
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 343
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 343,
+            "images": 4,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 5,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-05.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 411,
+          "caracteres_pdfplumber": 403,
+          "caracteres_nao_brancos": 342,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 400
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 400
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 400,
+            "images": 4,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 6,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-06.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 272,
+          "caracteres_pdfplumber": 266,
+          "caracteres_nao_brancos": 225,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 264
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 264
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 264,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 7,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-07.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 455,
+          "caracteres_pdfplumber": 445,
+          "caracteres_nao_brancos": 381,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 442
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 442
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 442,
+            "images": 6,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 8,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-08.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 408,
+          "caracteres_pdfplumber": 399,
+          "caracteres_nao_brancos": 346,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 397
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 397
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 397,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 9,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-09.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 432,
+          "caracteres_pdfplumber": 423,
+          "caracteres_nao_brancos": 362,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 420
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 420
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 420,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 10,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-10.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 312,
+          "caracteres_pdfplumber": 305,
+          "caracteres_nao_brancos": 265,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 303
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 303
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 303,
+            "images": 4,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 11,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-11.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 461,
+          "caracteres_pdfplumber": 451,
+          "caracteres_nao_brancos": 386,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 448
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 448
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 448,
+            "images": 4,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 12,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-12.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 311,
+          "caracteres_pdfplumber": 305,
+          "caracteres_nao_brancos": 263,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 303
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 303
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 303,
+            "images": 3,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 13,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-13.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 457,
+          "caracteres_pdfplumber": 447,
+          "caracteres_nao_brancos": 382,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 444
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 444
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 444,
+            "images": 5,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 14,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-14.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 269,
+          "caracteres_pdfplumber": 264,
+          "caracteres_nao_brancos": 223,
+          "texto_vazio": false,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {
+            "Roboto-Regular": 261
+          },
+          "cores_caracteres": {
+            "(0.149019614, 0.149019614, 0.149019614)": 261
+          },
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69",
+            "0ee09187c34d75b4f4fb583f2d46427850ad6f84a99d61b104fdff0e66488e69"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 261,
+            "images": 5,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        },
+        {
+          "pagina": 15,
+          "pontos_pdf": [
+            600.0,
+            848.0
+          ],
+          "rotacao": 0,
+          "png": "conteudo/Anexos/pdfs/Nota2/pagina-15.png",
+          "pixels_png": [
+            1000,
+            1414
+          ],
+          "dpi_inferido": 120,
+          "caracteres_pypdf": 0,
+          "caracteres_pdfplumber": 0,
+          "caracteres_nao_brancos": 0,
+          "texto_vazio": true,
+          "texto_fresco_igual_extracao_pypdf": true,
+          "texto_fresco_igual_extracao_pdfplumber": true,
+          "extratores_mesmos_caracteres": true,
+          "markdown_texto_igual_em_ordem": true,
+          "caracteres_substituicao": 0,
+          "fontes_caracteres": {},
+          "cores_caracteres": {},
+          "anotacoes": {},
+          "links": 0,
+          "imagens": [
+            "1605b37557cf5692d48f625c0b1cb859d6c3e0b37ba968a9f2d25e9ef229b70c"
+          ],
+          "objetos_pdfplumber": {
+            "chars": 0,
+            "images": 1,
+            "lines": 0,
+            "rects": 0,
+            "curves": 0
+          },
+          "operadores_vetoriais": {}
+        }
+      ]
+    }
+  ],
+  "docx": {
+    "original": {
+      "caminho": "BASE INICIAL/Resumo detalhado.docx",
+      "bytes": 36573,
+      "sha256": "2078a8f535cb171168297a34f2ca6e2afba9857b407eea71e458ff39225b77f3"
+    },
+    "original_arquivado": {
+      "caminho": "arquivo/originais/BASE INICIAL/Resumo detalhado.docx",
+      "bytes": 36573,
+      "sha256": "2078a8f535cb171168297a34f2ca6e2afba9857b407eea71e458ff39225b77f3"
+    },
+    "binarios_identicos": true,
+    "markdown": {
+      "caminho": "conteudo/Fontes/Documentos/Resumo detalhado.md",
+      "bytes": 42951,
+      "sha256": "e883d4b21ad1658704fcd4fa1560bf93ce0fb9a3f8ef245db614b1d32fbdf3f9"
+    },
+    "estrutura": {
+      "caminho": "conteudo/Anexos/documentos/resumo-detalhado/estrutura.json",
+      "bytes": 243123,
+      "sha256": "0ec9a17c34d257bae35caf43e92c3c37637bd96cc66e31011aa37ecc24edb7ff"
+    },
+    "paragrafos_totais": 337,
+    "paragrafos_diretos": 305,
+    "caracteres_texto": 39320,
+    "runs": 362,
+    "nos_texto": 362,
+    "runs_conferidos_no_json": 362,
+    "tabelas": 1,
+    "linhas_tabela": 16,
+    "celulas": 32,
+    "paragrafos_negrito_fonte": 46,
+    "paragrafos_com_enfase_md": 46,
+    "linhas_tabela_md": 16,
+    "itens_lista": {
+      "bullet": 52,
+      "decimal": 12
+    },
+    "texto_ooxml_igual_python_docx": true,
+    "texto_ooxml_igual_markdown_exato": true,
+    "texto_ooxml_igual_estrutura_exato": true,
+    "sha256_paragrafos_frescos_separados_nul": "926c58029eea556af85697489a730f4eb77fc18f1934e12e002fc619cc18e070",
+    "sha256_paragrafos_md_separados_nul": "926c58029eea556af85697489a730f4eb77fc18f1934e12e002fc619cc18e070",
+    "diferencas_textuais": [],
+    "recursos_especiais": {
+      "hyperlink": 0,
+      "drawing": 0,
+      "pict": 0,
+      "object": 0,
+      "footnoteReference": 0,
+      "endnoteReference": 0,
+      "commentReference": 0,
+      "commentRangeStart": 0,
+      "commentRangeEnd": 0,
+      "ins": 0,
+      "del": 0,
+      "moveFrom": 0,
+      "moveTo": 0,
+      "delText": 0,
+      "txbxContent": 0,
+      "altChunk": 0,
+      "fldSimple": 0,
+      "instrText": 0,
+      "fldChar": 0,
+      "sdt": 0,
+      "sym": 0,
+      "oMath": 0,
+      "oMathPara": 0,
+      "tab": 0,
+      "br": 0,
+      "gridSpan": 0,
+      "vMerge": 0
+    },
+    "partes_de_conteudo_adicionais": [],
+    "relacionamentos_externos": [],
+    "partes_pacote": [
+      {
+        "nome": "[Content_Types].xml",
+        "bytes": 1445,
+        "sha256": "72e1a7e789e238175e21a964870a263fd2426d6877bd868693e211a4eb23e587"
+      },
+      {
+        "nome": "_rels/.rels",
+        "bytes": 590,
+        "sha256": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df"
+      },
+      {
+        "nome": "word/document.xml",
+        "bytes": 123861,
+        "sha256": "ac69bbb2b64cfe81d894fa1f962fdab5ac403abdeac12255cfd08b2069569ab3"
+      },
+      {
+        "nome": "word/_rels/document.xml.rels",
+        "bytes": 950,
+        "sha256": "88f80560ab13c082cc73a423a90131d6040dbb0ef7e655d797a214a2f481cf8f"
+      },
+      {
+        "nome": "word/theme/theme1.xml",
+        "bytes": 8401,
+        "sha256": "d35cb0efb1e8e7a503e9475c139dd570cddd55bbf3871ff4874d94d208d570d1"
+      },
+      {
+        "nome": "word/settings.xml",
+        "bytes": 3716,
+        "sha256": "e3fff1991659590a9a5ed7f5ede9ee505af79449fb333b15112c7aa5e7f83412"
+      },
+      {
+        "nome": "word/numbering.xml",
+        "bytes": 40320,
+        "sha256": "bc4427f319de82c76b5c740e6c9328a354e3c5b59f8bc64ed7efc1d2545fd1f3"
+      },
+      {
+        "nome": "word/styles.xml",
+        "bytes": 42591,
+        "sha256": "e6b6be8d2d402413e638e508aa52f502c21ce00c87851127f9f86c9b18de6382"
+      },
+      {
+        "nome": "word/webSettings.xml",
+        "bytes": 1069,
+        "sha256": "f2f6fe7679634963bf49bae65f941f41934de42ceeb3a806afac4bab92274853"
+      },
+      {
+        "nome": "word/fontTable.xml",
+        "bytes": 2906,
+        "sha256": "ba4af678395772327fff9a1cb79d03ce7d8406c80d1604455cae6398cb38eb58"
+      },
+      {
+        "nome": "docProps/core.xml",
+        "bytes": 781,
+        "sha256": "248625b611781b7696936b77885f6591f985a3bd2a0e6ad627b34711c70ca54e"
+      },
+      {
+        "nome": "docProps/app.xml",
+        "bytes": 719,
+        "sha256": "759fd36d89824dffad73066cf3ae9846f94762ddf1d2ff1fcf898720f4066c09"
+      }
+    ],
+    "partes_hashes_manifesto_iguais": true,
+    "saidas_hashes_manifesto_iguais": true,
+    "metadados_frescos": {
+      "docProps/core.xml": {
+        "title": null,
+        "subject": null,
+        "creator": "Cesar Augusto Matos Ladeira",
+        "keywords": null,
+        "description": null,
+        "lastModifiedBy": "Cesar Augusto Matos Ladeira",
+        "revision": "1",
+        "created": "2026-10-26T19:18:00Z",
+        "modified": "2026-10-26T19:19:00Z"
+      },
+      "docProps/app.xml": {
+        "Template": "Normal",
+        "TotalTime": "1",
+        "Pages": "17",
+        "Words": "6202",
+        "Characters": "33494",
+        "Application": "Microsoft Office Word",
+        "DocSecurity": "0",
+        "Lines": "279",
+        "Paragraphs": "79",
+        "ScaleCrop": "false",
+        "Company": null,
+        "LinksUpToDate": "false",
+        "CharactersWithSpaces": "39617",
+        "SharedDoc": "false",
+        "HyperlinksChanged": "false",
+        "AppVersion": "16.0000"
+      }
+    },
+    "estilos_pacote": [
+      {
+        "id": "Normal",
+        "tipo": "paragraph",
+        "nome": "Normal"
+      },
+      {
+        "id": "Ttulo1",
+        "tipo": "paragraph",
+        "nome": "heading 1"
+      },
+      {
+        "id": "Ttulo2",
+        "tipo": "paragraph",
+        "nome": "heading 2"
+      },
+      {
+        "id": "Ttulo3",
+        "tipo": "paragraph",
+        "nome": "heading 3"
+      },
+      {
+        "id": "Ttulo4",
+        "tipo": "paragraph",
+        "nome": "heading 4"
+      },
+      {
+        "id": "Ttulo5",
+        "tipo": "paragraph",
+        "nome": "heading 5"
+      },
+      {
+        "id": "Ttulo6",
+        "tipo": "paragraph",
+        "nome": "heading 6"
+      },
+      {
+        "id": "Ttulo7",
+        "tipo": "paragraph",
+        "nome": "heading 7"
+      },
+      {
+        "id": "Ttulo8",
+        "tipo": "paragraph",
+        "nome": "heading 8"
+      },
+      {
+        "id": "Ttulo9",
+        "tipo": "paragraph",
+        "nome": "heading 9"
+      },
+      {
+        "id": "Fontepargpadro",
+        "tipo": "character",
+        "nome": "Default Paragraph Font"
+      },
+      {
+        "id": "Tabelanormal",
+        "tipo": "table",
+        "nome": "Normal Table"
+      },
+      {
+        "id": "Semlista",
+        "tipo": "numbering",
+        "nome": "No List"
+      },
+      {
+        "id": "Ttulo1Char",
+        "tipo": "character",
+        "nome": "Título 1 Char"
+      },
+      {
+        "id": "Ttulo2Char",
+        "tipo": "character",
+        "nome": "Título 2 Char"
+      },
+      {
+        "id": "Ttulo3Char",
+        "tipo": "character",
+        "nome": "Título 3 Char"
+      },
+      {
+        "id": "Ttulo4Char",
+        "tipo": "character",
+        "nome": "Título 4 Char"
+      },
+      {
+        "id": "Ttulo5Char",
+        "tipo": "character",
+        "nome": "Título 5 Char"
+      },
+      {
+        "id": "Ttulo6Char",
+        "tipo": "character",
+        "nome": "Título 6 Char"
+      },
+      {
+        "id": "Ttulo7Char",
+        "tipo": "character",
+        "nome": "Título 7 Char"
+      },
+      {
+        "id": "Ttulo8Char",
+        "tipo": "character",
+        "nome": "Título 8 Char"
+      },
+      {
+        "id": "Ttulo9Char",
+        "tipo": "character",
+        "nome": "Título 9 Char"
+      },
+      {
+        "id": "Ttulo",
+        "tipo": "paragraph",
+        "nome": "Title"
+      },
+      {
+        "id": "TtuloChar",
+        "tipo": "character",
+        "nome": "Título Char"
+      },
+      {
+        "id": "Subttulo",
+        "tipo": "paragraph",
+        "nome": "Subtitle"
+      },
+      {
+        "id": "SubttuloChar",
+        "tipo": "character",
+        "nome": "Subtítulo Char"
+      },
+      {
+        "id": "Citao",
+        "tipo": "paragraph",
+        "nome": "Quote"
+      },
+      {
+        "id": "CitaoChar",
+        "tipo": "character",
+        "nome": "Citação Char"
+      },
+      {
+        "id": "PargrafodaLista",
+        "tipo": "paragraph",
+        "nome": "List Paragraph"
+      },
+      {
+        "id": "nfaseIntensa",
+        "tipo": "character",
+        "nome": "Intense Emphasis"
+      },
+      {
+        "id": "CitaoIntensa",
+        "tipo": "paragraph",
+        "nome": "Intense Quote"
+      },
+      {
+        "id": "CitaoIntensaChar",
+        "tipo": "character",
+        "nome": "Citação Intensa Char"
+      },
+      {
+        "id": "RefernciaIntensa",
+        "tipo": "character",
+        "nome": "Intense Reference"
+      }
+    ],
+    "apresentacao_word": {
+      "tamanho_pagina": {
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838",
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}code": "9"
+      },
+      "margens": {
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1418",
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1701",
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1418",
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1701",
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "709",
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "709",
+        "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+      },
+      "fontes_em_runs": [
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        },
+        {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi": "Segoe UI Emoji",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs": "Segoe UI Emoji"
+        }
+      ],
+      "propriedades_runs": {
+        "b": 46,
+        "bCs": 46,
+        "rFonts": 23
+      },
+      "propriedades_paragrafos": {
+        "rPr": 46,
+        "numPr": 64
+      }
+    },
+    "quebras_pagina_em_cache": 16,
+    "renderizacao_word_nesta_auditoria": {
+      "executada": false,
+      "motivo": "Auditoria somente leitura; renderizador bundled indisponível conforme inventário anterior. Não foi usado LibreOffice desktop nem alegada equivalência visual do Word."
+    },
+    "continuidade": {
+      "grafias_Timo_e_Fesh_preservadas": true,
+      "status_markdown": "revisar_continuidade",
+      "limite": "A auditoria preserva o resumo tal como recebido; não equipara Fesh a Fash nem recupera o diário externo apenas citado."
+    }
+  },
+  "totais": {
+    "pdfs": 2,
+    "paginas_pdf": 80,
+    "paginas_pdf_com_texto": 79,
+    "paragrafos_docx": 337,
+    "arquivos_existentes_verificados_inalterados": 114
+  },
+  "erros": [],
+  "conteudo_relevante_omitido_detectado": false,
+  "limites_da_comparacao": [
+    "As 80 páginas PNG existentes foram abertas e decodificadas, conferidas em dimensões de 120 dpi e hashes; os PDFs não foram novamente renderizados. A equivalência visual fonte/render não é uma nova comparação pixel a pixel.",
+    "A leitura de objetos dos PDFs e do pacote Word cobre texto, imagens, anotações, campos, anexos e recursos estruturais declarados; não prova reversibilidade binária da conversão.",
+    "Não foi feita renderização Word; paginação 17 e 16 quebras em cache são metadados da fonte, não nova medição visual.",
+    "Ausência de divergências textuais não resolve a continuidade Timo/Fesh/Fash/Glim nem valida a veracidade narrativa das fontes."
+  ],
+  "perdas_por_cenario": [
+    {
+      "cenario": 1,
+      "acao_hipotetica": "Remover apenas BASE INICIAL, manter arquivo/originais e conteudo.",
+      "documentos_pdf_docx": "Sem perda documental para estas três fontes: cópias arquivadas são idênticas byte a byte; permite restituição exata desses binários.",
+      "perdas_reais": [],
+      "condicao": "As três cópias de arquivo/originais devem permanecer íntegras; esta conclusão não autoriza excluir a pasta inteira sem auditoria das demais fontes."
+    },
+    {
+      "cenario": 2,
+      "acao_hipotetica": "Remover também os PDF/DOCX de arquivo/originais, manter Markdown, Anexos e manifestos.",
+      "conteudo_narrativo": "Nenhuma omissão de texto narrativo foi detectada na comparação fresca das 80 páginas PDF e dos 337 parágrafos/células DOCX.",
+      "perdas_reais": [
+        "Perda dos três arquivos originais e impossibilidade de reconstrução exata dos binários pelos hashes.",
+        "PDF: texto vetorial, fontes, streams de desenho e demais objetos PDF não são preservados como PDF pelos PNGs de 120 dpi; alta ampliação/impressão e editabilidade nativa deixam de ser equivalentes.",
+        "PDF: itálico, cores, sublinhados e espaçamento não foram transcritos como estilos de texto Markdown; continuam visíveis nos PNGs. Exemplo observado: os nomes dos portais em Nota2 página 14.",
+        "DOCX: estilos, tema, fontes, margens, geometria de tabela, propriedades de seção e demais partes Word não estão serializados integralmente no Markdown/estrutura.json. O JSON conserva texto/runs/ênfase/listas, não um pacote Word restituível.",
+        "Links dos Markdown para os originais arquivados passam a apontar para arquivos ausentes."
+      ],
+      "preservado": "Texto integral, tabela 16x2, listas, ênfase, imagens extraídas e representação raster das páginas PDF permanecem nos convertidos; metadados selecionados permanecem nos manifestos.",
+      "sem_perda_ausente": "Não há campos, links PDF, anotações PDF, anexos embutidos PDF, imagens DOCX, comentários, notas ou revisões DOCX nesta fonte que precisem ser recuperados.",
+      "recomendacao": "Pode atender leitura/consulta do enredo com os anexos, mas não equivale a preservação documental sem perdas. Manter os binários para arquivo e reversibilidade."
+    },
+    {
+      "cenario": 3,
+      "acao_hipotetica": "Manter somente Markdown, excluindo originais e todos os Anexos.",
+      "conteudo_narrativo": "O texto narrativo, a tabela e as listas já estão no Markdown; não foi detectado texto narrativo exclusivo das imagens.",
+      "perdas_reais": [
+        "Todas as perdas do cenário 2.",
+        "Perda das 80 imagens completas de página e dos recursos raster extraídos: fundo claro e marcadores originais dos PDFs.",
+        "Perda dos textos de extração na ordem nativa/espacial e dos dados por página; deixa de ser possível revisar independentemente a transcrição contra essas representações.",
+        "Perda de estrutura.json, seus 362 runs e limites de runs, mapas de blocos/linhas, campos de lista e quebras em cache; a ênfase legível permanece no Markdown, mas o registro estrutural de origem é descartado.",
+        "Links e imagens Markdown de anexos tornam-se quebrados; a apresentação visual original deixa de estar disponível."
+      ],
+      "recomendacao": "Não recomendado como arquivo completo. Serve apenas como versão textual de consulta, aceitando as perdas explícitas."
+    }
+  ],
+  "recomendacao_tecnica": "Para estes PDFs/DOCX, apenas remover a duplicata BASE mantendo os binários arquivados oferece preservação exata. Markdown+Anexos preservam o conteúdo consultável verificado, mas não substituem os originais para restituição documental.",
+  "arquivos_existentes_inalterados": true,
+  "revisao_visual_independente": {
+    "executada": true,
+    "data": "2026-10-29",
+    "tipo": "Inspeção visual pelo agente com visualizador de imagens no contexto da criação desta auditoria; não é refeita pela execução do script.",
+    "fontes_sha256_observadas": {
+      "Nota1.pdf": "7f1ec942aa1b1716661295eb04ea6e383de12f5a46294532c8a9c1602d5e9884",
+      "Nota2.pdf": "b92a57304804baad64a9493f4958580ae92f87fb1ad5a551b958499a7e603555"
+    },
+    "folhas_contato": [
+      "conteudo/Anexos/pdfs/Nota1/revisao/contato-01-16.jpg",
+      "conteudo/Anexos/pdfs/Nota1/revisao/contato-17-32.jpg",
+      "conteudo/Anexos/pdfs/Nota1/revisao/contato-33-48.jpg",
+      "conteudo/Anexos/pdfs/Nota1/revisao/contato-49-64.jpg",
+      "conteudo/Anexos/pdfs/Nota1/revisao/contato-65-65.jpg",
+      "conteudo/Anexos/pdfs/Nota2/revisao/contato-01-15.jpg"
+    ],
+    "paginas_em_folhas_contato": 80,
+    "paginas_ampliadas": [
+      "Nota1:48",
+      "Nota1:49",
+      "Nota1:50",
+      "Nota2:14",
+      "Nota2:15"
+    ],
+    "imagens_extraidas_inspecionadas": [
+      "conteudo/Anexos/pdfs/Nota1/imagens-extraidas/1605b37557cf5692.jpg",
+      "conteudo/Anexos/pdfs/Nota1/imagens-extraidas/0ee09187c34d75b4.png"
+    ],
+    "achados": [
+      "Texto legível nos PNGs observados, sem conteúdo narrativo manuscrito ou ilustrado ausente do texto nativo.",
+      "Os dois recursos raster únicos compartilhados pelos PDFs são um fundo quase branco e um marcador circular de lista; não contêm texto narrativo exclusivo.",
+      "Nota2 página 15 está visualmente vazia, com o fundo preservado.",
+      "Nota1 páginas 48 a 50 já mostram Personagem/Papel em fluxo linear na apresentação de origem capturada; o Markdown mantém essa ordem sem descartar os papéis.",
+      "A fonte contém apresentação que Markdown não conserva como estilos: por exemplo, nomes de portais em itálico em Nota2 página 14; os PNGs mantêm a aparência. Isso não foi tratado como perda de enredo.",
+      "Os nove retângulos preenchidos vetoriais de Nota1 acompanham sublinhados de números azuis observados nas folhas; não são diagramas narrativos. Há zero anotações de link interativo no PDF."
+    ],
+    "limite": "Revisão de PNGs e folhas existentes, sem nova renderização do PDF ou comparação fonte/render pixel a pixel; Word não foi renderizado."
+  }
+}

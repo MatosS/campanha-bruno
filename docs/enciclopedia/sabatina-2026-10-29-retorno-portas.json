@@ -1,0 +1,42 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Porta mantida aberta para retorno.md",
+  "fonte_nova_sha256": "03f563e9baa603c52133bebc58effeaf871f710272b4d168d99bcad773e4bad7",
+  "resposta_literal": "Ela se mantém aberta",
+  "IT-005": {
+    "status": "respondida",
+    "regra_confirmada": "Porta invisível do lado do destino e mantida aberta para permitir retorno.",
+    "retomar_na_sabatina": false,
+    "limite": "Não detalha procedimentos para passagem desativada nem visibilidade dentro da torre.",
+    "correcao_editorial": "O complemento supera o recorte anterior da invisibilidade apenas no contexto de porta fechada; fontes anteriores preservadas."
+  },
+  "cartografia": {
+    "proximo_confronto": "C34 Furion K28 versus legenda Vila dos Furion / Loraeth L28.",
+    "W23": "C79 está sob Ruínas em B78; não apresentar floresta versus Ruína 2 como contradição automática."
+  },
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 397,
+    "arquivos_identicos": 396,
+    "alteracoes_autorizadas": [
+      "conteudo/Fontes/Indice.md"
+    ],
+    "fontes_integrais_sessoes_anexos_originais_alterados": 0
+  },
+  "indices": {
+    "fila": [
+      "LG-005",
+      "LG-003",
+      "PC-037"
+    ],
+    "estados": {
+      "aberta": 89,
+      "parcialmente_respondida": 13,
+      "respondida": 4
+    }
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "teste_foco_e_preservacao_da_indexacao_aprovado": true
+  }
+}

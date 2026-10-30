@@ -1,0 +1,625 @@
+{
+  "fonte": "BASE INICIAL/FASH PALESKIN.xlsx",
+  "sha256_fonte": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+  "aba": "CONTROLE DE XP",
+  "ordem": 5,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet5.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "153",
+      "valor": "XP PENDENTE: NADA",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "155",
+      "valor": "INICIAL: 1000",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B5",
+      "atributos": {
+        "r": "B5",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "156",
+      "valor": "08/08 - XP 200 + 100",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B6",
+      "atributos": {
+        "r": "B6",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "157",
+      "valor": "16/08 - XP 200 + 100",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B7",
+      "atributos": {
+        "r": "B7",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "158",
+      "valor": "18/08 - XP 400 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B8",
+      "atributos": {
+        "r": "B8",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "159",
+      "valor": "23/08 - XP 250 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B9",
+      "atributos": {
+        "r": "B9",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "160",
+      "valor": "11/09 - XP 250 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B10",
+      "atributos": {
+        "r": "B10",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "162",
+      "valor": "20/09 - XP 300 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B11",
+      "atributos": {
+        "r": "B11",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "164",
+      "valor": "24/09 - XP 300 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B12",
+      "atributos": {
+        "r": "B12",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "165",
+      "valor": "01/10 - XP 300 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B13",
+      "atributos": {
+        "r": "B13",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "167",
+      "valor": "06/10 - XP 950 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B14",
+      "atributos": {
+        "r": "B14",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "168",
+      "valor": "13/10 - XP 300 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B15",
+      "atributos": {
+        "r": "B15",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "169",
+      "valor": "17/10 - XP 300 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B16",
+      "atributos": {
+        "r": "B16",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "170",
+      "valor": "25/10 - XP 300 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B17",
+      "atributos": {
+        "r": "B17",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "171",
+      "valor": "30/10 - XP 300 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B18",
+      "atributos": {
+        "r": "B18",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "173",
+      "valor": "31/10 - XP 500 + 200",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B19",
+      "atributos": {
+        "r": "B19",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "175",
+      "valor": "07/11 - XP 500 + 250 + 2500",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B20",
+      "atributos": {
+        "r": "B20",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "176",
+      "valor": "24/11 - XP 400 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B21",
+      "atributos": {
+        "r": "B21",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "179",
+      "valor": "28/11 - XP 500 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B22",
+      "atributos": {
+        "r": "B22",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "180",
+      "valor": "01/12 - XP 2000 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B23",
+      "atributos": {
+        "r": "B23",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "181",
+      "valor": "07/12 - XP 500 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B24",
+      "atributos": {
+        "r": "B24",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "182",
+      "valor": "15/12 - XP 500 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B25",
+      "atributos": {
+        "r": "B25",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "183",
+      "valor": "04/01 - XP 3000 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B26",
+      "atributos": {
+        "r": "B26",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "185",
+      "valor": "10/01 - XP 1000 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B27",
+      "atributos": {
+        "r": "B27",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "186",
+      "valor": "15/01 - XP 1000 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B28",
+      "atributos": {
+        "r": "B28",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "187",
+      "valor": "18/01 - XP 1000 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B29",
+      "atributos": {
+        "r": "B29",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "189",
+      "valor": "22/01 - XP 600 + 3000 + 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B30",
+      "atributos": {
+        "r": "B30",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "190",
+      "valor": "25/01 - XP 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B31",
+      "atributos": {
+        "r": "B31",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "191",
+      "valor": "29/01 - XP 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B32",
+      "atributos": {
+        "r": "B32",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "192",
+      "valor": "08/02 - XP 250",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B33",
+      "atributos": {
+        "r": "B33",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "195",
+      "valor": "TOTAL: 28.600 XP (36.000)",
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [],
+  "hyperlinks": [],
+  "mesclagens": [],
+  "drawings": [],
+  "objetos_vml": [],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing5.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet5.xml.rels",
+      "parte_destino": "xl/drawings/drawing5.xml"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    }
+  ],
+  "celulas_xml_total": 33,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 31,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

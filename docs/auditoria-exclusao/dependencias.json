@@ -1,0 +1,2672 @@
+{
+  "data": "2026-10-29",
+  "copias": [
+    {
+      "origem": "BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 60608
+    },
+    {
+      "origem": "BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "arquivo": "arquivo/originais/BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 117718
+    },
+    {
+      "origem": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 246518
+    },
+    {
+      "origem": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "arquivo": "arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 246275
+    },
+    {
+      "origem": "BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "arquivo": "arquivo/originais/BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 41324
+    },
+    {
+      "origem": "BASE INICIAL/FASH PALESKIN.xlsx",
+      "arquivo": "arquivo/originais/BASE INICIAL/FASH PALESKIN.xlsx",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 3865756
+    },
+    {
+      "origem": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+      "arquivo": "arquivo/originais/BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 1800127
+    },
+    {
+      "origem": "BASE INICIAL/Nota1.pdf",
+      "arquivo": "arquivo/originais/BASE INICIAL/Nota1.pdf",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 6119049
+    },
+    {
+      "origem": "BASE INICIAL/Nota2.pdf",
+      "arquivo": "arquivo/originais/BASE INICIAL/Nota2.pdf",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 2329817
+    },
+    {
+      "origem": "BASE INICIAL/Personagens e Herois.txt",
+      "arquivo": "arquivo/originais/BASE INICIAL/Personagens e Herois.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 5660
+    },
+    {
+      "origem": "BASE INICIAL/Resumo detalhado.docx",
+      "arquivo": "arquivo/originais/BASE INICIAL/Resumo detalhado.docx",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 36573
+    },
+    {
+      "origem": "BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "arquivo": "arquivo/originais/BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 90357
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 2446
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 916
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 63073
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 1549
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 14386
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 251525
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 5958
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 20832
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 27266
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 13951
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 25784
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 20256
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 14930
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 15172
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 13739
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 7982
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 5976
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 9196
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 16572
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 21029
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 22345
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 13605
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 2946
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 1327
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 1573
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Piche.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Piche.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 800
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 747
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Ryld.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ryld.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 985
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Ébano.md",
+      "arquivo": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ébano.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 984
+    },
+    {
+      "origem": "vault-42/70 Research/RPG - Handoff do cenario para o mestre.md",
+      "arquivo": "arquivo/originais/vault-42/70 Research/RPG - Handoff do cenario para o mestre.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 90357
+    },
+    {
+      "origem": "vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 6364
+    },
+    {
+      "origem": "vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "arquivo": "arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 3630
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 2122
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 3408
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 1847
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "arquivo": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 1663
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 70826
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 137996
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 84224
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 98726
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 162663
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 80657
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 145006
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 58951
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 147636
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 55776
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 234940
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 202071
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 131498
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 162025
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 11295
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "arquivo": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 3493
+    },
+    {
+      "origem": "vault-42/90 Archive/RPG/Fash Paleskin.md",
+      "arquivo": "arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin.md",
+      "fonte_existe": true,
+      "copia_existe": true,
+      "sha_arquivo_ok": true,
+      "igual_a_fonte_agora": true,
+      "bytes": 1774
+    }
+  ],
+  "resumo_copias": {
+    "total": 65,
+    "base_inicial": 12,
+    "vault": 53,
+    "identicas": 65,
+    "bytes": 17456580
+  },
+  "links_locais": 354,
+  "links_ausentes": [],
+  "simulacoes": {
+    "remover_base_inicial": {
+      "links_afetados": []
+    },
+    "remover_origens_copiadas_do_vault": {
+      "links_afetados": []
+    },
+    "remover_tambem_arquivo_originais": {
+      "links_afetados": [
+        {
+          "de": "conteudo/Fontes/Documentos/Background - Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\BACKGROUND - GLIM SOMBRASSELVA.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Diario - Fash Paleskin.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\DIARIO DE RPG (Fash).md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Diario - Glim Sombrasselva - Texto.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\DIÁRIOS - GLIM SOMBRASSELVA.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Diario - Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\DIÁRIOS - GLIM SOMBRASSELVA.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Dossie de personagem - Okay dBoa.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\Dossiê de personagem - Okay dBoa.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Handoff do cenario.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\RPG - Handoff do cenario para o mestre.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\Nota1.pdf",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\Dossiê de personagem - Okay dBoa.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\Nota2.pdf",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\Personagens e Herois.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Personagens e Herois.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\Personagens e Herois.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Resumo detalhado.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\Resumo detalhado.docx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\FASH PALESKIN.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - XP.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - XP.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\BASE INICIAL\\GLIM SOMBRASSELVA.xlsx",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Acervo - Sessoes 13 a 25.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\LEIA-ME.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 13 - 2026-05-27.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 14 - 2026-06-17.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 15 - 2026-06-29.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 15 - 2026-06-29.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 16 - 2026-08-05.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 17 - 2026-08-17.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 17 - 2026-08-17.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 18 - 2026-08-25.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 19 - 2026-09-01.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 20 - 2026-09-02.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 21 - 2026-09-13.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 21 - 2026-09-13.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 22 - 2026-09-16.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 22 - 2026-09-16.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 23 - 2026-09-27.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 24 - 2026-09-30.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\GLIM - Sessao 25 - 2026-10-05.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Transcricoes/Proveniencia - Sessoes 13 a 25.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\98 Attachments\\GLIM - Transcricoes por Sessao - 2026-10-20\\proveniencia.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\40 Sources\\RPG\\2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Arkhavel.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Arkhavel.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\40 Sources\\Google Drive\\RPG\\Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\40 Sources\\Google Drive\\RPG\\Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Drive - GLIM SOMBRASSELVA.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\40 Sources\\Google Drive\\RPG\\Drive - GLIM SOMBRASSELVA.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Drive - TREASURE GLIM PARTY.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\40 Sources\\Google Drive\\RPG\\Drive - TREASURE GLIM PARTY.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Fash Paleskin - Old Archive.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\90 Archive\\RPG\\Fash Paleskin - Old Archive.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Fash Paleskin.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\90 Archive\\RPG\\Fash Paleskin.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Assets.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Assets.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Background Full.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Background Full.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Character Sheet.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Character Sheet.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Cronologia da Campanha.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Cronologia da Campanha.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Diary Full.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Diary Full.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Diary.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Diary.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 13 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 13 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 14 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 14 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 15 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 15 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 16 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 16 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 17 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 17 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 18 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 18 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 19 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 19 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 20 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 20 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 21 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 21 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 22 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 22 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 23 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 23 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 24 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 24 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 25 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 25 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Session 26 Diary Draft.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Session 26 Diary Draft.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva - Threads.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva - Threads.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Glim Sombrasselva.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Grimório de Glim.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Grimório de Glim.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Lilo Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Lilo Sombrasselva.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Piche.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Piche.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Roda de Estopa.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Roda de Estopa.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\70 Research\\RPG - Handoff do cenario para o mestre.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Ryld.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Ryld.md",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Vault/Vault - Ébano.md",
+          "para": "C:\\sources\\campanha-bruno\\arquivo\\originais\\vault-42\\20 Projects\\Glim Sombrasselva\\Ébano.md",
+          "existe": true
+        }
+      ]
+    },
+    "remover_anexos": {
+      "links_afetados": [
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\texto-integral-pypdf.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\texto-integral-pdfplumber.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-01.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-01.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-02.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-02.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-03.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-03.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-04.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-04.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-05.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-05.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-06.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-06.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-07.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-07.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-08.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-08.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-09.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-09.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-10.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-10.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-11.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-11.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-12.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-12.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-13.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-13.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-14.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-14.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-15.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-15.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-16.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-16.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-17.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-17.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-18.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-18.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-19.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-19.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-20.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-20.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-21.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-21.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-22.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-22.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-23.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-23.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-24.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-24.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-25.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-25.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-26.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-26.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-27.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-27.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-28.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-28.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-29.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-29.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-30.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-30.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-31.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-31.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-32.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-32.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-33.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-33.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-34.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-34.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-35.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-35.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-36.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-36.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-37.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-37.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-38.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-38.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-39.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-39.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-40.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-40.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-41.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-41.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-42.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-42.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-43.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-43.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-44.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-44.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-45.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-45.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-46.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-46.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-47.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-47.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-48.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-48.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-49.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-49.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-50.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-50.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-51.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-51.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-52.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-52.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-53.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-53.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-54.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-54.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-55.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-55.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-56.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-56.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-57.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-57.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-58.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-58.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-59.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-59.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-60.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-60.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-61.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-61.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-62.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-62.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-63.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-63.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-64.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-64.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-65.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\pagina-65.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\imagens-extraidas\\1605b37557cf5692.jpg",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota1.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota1\\imagens-extraidas\\0ee09187c34d75b4.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\texto-integral-pypdf.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\texto-integral-pdfplumber.txt",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-01.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-01.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-02.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-02.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-03.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-03.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-04.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-04.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-05.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-05.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-06.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-06.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-07.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-07.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-08.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-08.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-09.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-09.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-10.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-10.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-11.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-11.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-12.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-12.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-13.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-13.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-14.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-14.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-15.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\pagina-15.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\imagens-extraidas\\1605b37557cf5692.jpg",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Documentos/Nota2.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\pdfs\\Nota2\\imagens-extraidas\\0ee09187c34d75b4.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-04.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet4.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-04.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet4.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-05.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet5.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-05.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet5.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-03.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet3.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\media\\image1.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\media\\image2.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-03.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet3.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-01.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet1.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-01.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet1.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-06.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet6.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-06.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet6.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-02.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet2.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\aba-02.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\worksheets\\sheet2.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\pacote.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\media\\image2.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Fash Paleskin.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\fash-paleskin\\ooxml\\xl\\media\\image1.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-07.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet7.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image5.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image2.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image1.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image4.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image3.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-07.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet7.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-11.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet11.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-11.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet11.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-06.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet6.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-06.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet6.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-02.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet2.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-02.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet2.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-01.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet1.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-01.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet1.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-09.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet9.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-09.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet9.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-04.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet4.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-04.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet4.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-10.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet10.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-10.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet10.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-03.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet3.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-03.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet3.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-05.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet5.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-05.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet5.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - XP.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-08.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - XP.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet8.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - XP.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\aba-08.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva - XP.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\worksheets\\sheet8.xml",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\pacote.json",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image2.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image5.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image1.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image3.png",
+          "existe": true
+        },
+        {
+          "de": "conteudo/Fontes/Planilhas/Glim Sombrasselva.md",
+          "para": "C:\\sources\\campanha-bruno\\conteudo\\Anexos\\planilhas\\glim-sombrasselva\\ooxml\\xl\\media\\image4.png",
+          "existe": true
+        }
+      ]
+    }
+  },
+  "inventario_focado_vault": [
+    {
+      "source": "20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Piche.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Ryld.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "20 Projects/Glim Sombrasselva/Ébano.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "90 Archive/RPG/Fash Paleskin.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "70 Research/RPG - Handoff do cenario para o mestre.md",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20.zip",
+      "copiado_exato": false
+    },
+    {
+      "source": "98 Attachments/RPG - Handoff do cenario para o mestre - 2026-10-23.txt",
+      "copiado_exato": false
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "copiado_exato": true
+    },
+    {
+      "source": "98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "copiado_exato": true
+    }
+  ],
+  "zip_derivado_nao_arquivado": [
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "arquivado": true,
+      "igual_LF": true
+    },
+    {
+      "entry": "GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "arquivado": true,
+      "igual_LF": true
+    }
+  ],
+  "limite": "Simulacao de destinos locais por caminho; nenhuma exclusao ou renomeacao realizada. Metadados de proveniencia e instrucoes de scripts nao sao tratados como links de consulta."
+}

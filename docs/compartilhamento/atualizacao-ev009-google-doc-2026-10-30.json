@@ -1,0 +1,33 @@
+{
+  "data": "2026-10-30",
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "url": "https://docs.google.com/document/d/1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "resposta_literal": "Mantem as versoes do Fash",
+  "fonte_local": "conteudo/Fontes/Confirmacoes/2026-10-30 - Precedencia de Fash nas divergencias do diario de Firael.md",
+  "registro_respondido": "EV-009",
+  "alteracao": "EV-009 retirada das dúvidas; introdução ajustada para dois tópicos prioritários. Demais conteúdos e estilos preservados.",
+  "secao_anterior": "EV-009 — Versões divergentes do diário de Firael\nConflito documentado: A versão mais abrangente e a variante 1 concordam entre si; a variante 2 atribui três ações de outra forma.\n15/12 — silêncio contra a serpente: Fash na versão mais abrangente e na variante 1; Timo na variante 2.\n30/10 — avistamento nas copas: Fash na versão mais abrangente e na variante 1; Timo na variante 2.\n30/10 — árvore corrompida: Firael intervém e Fash conclui com óleo e fogo nas versões mais abrangentes; Firael dá o golpe final na variante 2.\nPergunta focada: A variante 2 foi substituída pelas versões mais abrangentes? Qual versão deve orientar a autoria das ações nas três passagens divergentes, mantendo todas como fontes?\nReferências: Diário de Firael.docx — parágrafos 408, 547 e 551; Diário de Firael (1).docx — 363, 502 e 506; Diário de Firael (2).docx — 136, 275 e 279. Todas as versões estão preservadas na base.\nResposta / grau de certeza / fonte: ________________________________________\n",
+  "revision_anterior": "AHj4eMSfeTWvpUsjd2b3W-sJXOJgKJmDyGHZyrKyOwtBhAjBNH8jWOxsLKJzoQPN1eUVcJH-E1ZFH9pIPbtqyF2NG6PmwOiTKWqKstmuM-U",
+  "revision_verificada": "AHj4eMS8QAL4U1CxkiVSBKZQg7vOGTvNCy_eKRkqkW4oaJvZxzpH0uVI3bi2qmz3wHfwLrt3qG405-jhKB4HZkLH1RzfGqZT4eNnIQhgRgE",
+  "verificacao": {
+    "exactText": true,
+    "expectedLength": 37922,
+    "actualLength": 37922,
+    "totalIds": 73,
+    "uniqueIds": 73,
+    "priorityIds": [
+      "EV-001",
+      "PC-021"
+    ],
+    "ev009Removed": true,
+    "styles": {
+      "TITLE": 1,
+      "SUBTITLE": 1,
+      "HEADING_1": 2,
+      "NORMAL_TEXT": 226,
+      "HEADING_2": 9,
+      "HEADING_3": 71
+    }
+  },
+  "permissoes_de_compartilhamento_alteradas": false
+}

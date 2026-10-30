@@ -1,0 +1,1811 @@
+{
+  "fonte": "BASE INICIAL/FASH PALESKIN.xlsx",
+  "sha256_fonte": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+  "aba": "INTERESSES",
+  "ordem": 3,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet3.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "18",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "17",
+      "valor": "O Forte - Throden (Q23)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C3",
+      "atributos": {
+        "r": "C3",
+        "s": "19",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "22",
+      "valor": "Nyth (P25)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D4",
+      "atributos": {
+        "r": "D4",
+        "s": "19",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "24",
+      "valor": "Não causa grandes problemas porém os mestiços não conseguem eliminar",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C5",
+      "atributos": {
+        "r": "C5",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "25",
+      "valor": "Equicep (H19)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D6",
+      "atributos": {
+        "r": "D6",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "26",
+      "valor": "Estão comprando escravos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D7",
+      "atributos": {
+        "r": "D7",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "27",
+      "valor": "Existe alguns escravos do povo lagarto",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C8",
+      "atributos": {
+        "r": "C8",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "28",
+      "valor": "Lagartos Negros (Q31)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D9",
+      "atributos": {
+        "r": "D9",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "29",
+      "valor": "Precisam de ajuda contra Ogros e Equiceps",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C10",
+      "atributos": {
+        "r": "C10",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "30",
+      "valor": "Periton (R27)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D11",
+      "atributos": {
+        "r": "D11",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "31",
+      "valor": "Águia com cabeça de cervo",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C12",
+      "atributos": {
+        "r": "C12",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "32",
+      "valor": "Bocarra (Y31)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C14",
+      "atributos": {
+        "r": "C14",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "33",
+      "valor": "Árvore Negra (AC34)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C16",
+      "atributos": {
+        "r": "C16",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "34",
+      "valor": "Gorila/Aranha (AD17)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D17",
+      "atributos": {
+        "r": "D17",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "35",
+      "valor": "40 individuos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C18",
+      "atributos": {
+        "r": "C18",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "36",
+      "valor": "Pteropovo (AN10)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D19",
+      "atributos": {
+        "r": "D19",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "37",
+      "valor": "Não tem atuação na terra",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C20",
+      "atributos": {
+        "r": "C20",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "38",
+      "valor": "Criatura Peluda do Olho Verde (AP29)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D21",
+      "atributos": {
+        "r": "D21",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "39",
+      "valor": "Criatura inteligente, emboscou e roubou, não era o objetivo matar.",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D22",
+      "atributos": {
+        "r": "D22",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "40",
+      "valor": "50 indíviduos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B23",
+      "atributos": {
+        "r": "B23",
+        "s": "22",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "41",
+      "valor": "Necromante",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C24",
+      "atributos": {
+        "r": "C24",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "42",
+      "valor": "Fantasma me seguindo/espionando (Foi embora)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C25",
+      "atributos": {
+        "r": "C25",
+        "s": "21",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "43",
+      "valor": "Ossos de Dragão (Concluído)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C26",
+      "atributos": {
+        "r": "C26",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "44",
+      "valor": "Necrópole (H20)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C27",
+      "atributos": {
+        "r": "C27",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "45",
+      "valor": "Missão: Caminho Underground no Fosso de Ossos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C28",
+      "atributos": {
+        "r": "C28",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "47",
+      "valor": "Missão: Firael/Elder Brain",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B29",
+      "atributos": {
+        "r": "B29",
+        "s": "22",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "48",
+      "valor": "Conclave da Raiz Ancestral (T23)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C30",
+      "atributos": {
+        "r": "C30",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "49",
+      "valor": "Gnomos (K18)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C32",
+      "atributos": {
+        "r": "C32",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "51",
+      "valor": "Murgul (S18)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C34",
+      "atributos": {
+        "r": "C34",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "52",
+      "valor": "Furion (K28)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C36",
+      "atributos": {
+        "r": "C36",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "54",
+      "valor": "Fadas Espinho (M13)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C38",
+      "atributos": {
+        "r": "C38",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "56",
+      "valor": "Fadas Pixie (R20)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D39",
+      "atributos": {
+        "r": "D39",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "57",
+      "valor": "Cavaleiro da Morte Selado",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D40",
+      "atributos": {
+        "r": "D40",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "59",
+      "valor": "Selo enfraquecendo e corrompendo a terra.",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D41",
+      "atributos": {
+        "r": "D41",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "60",
+      "valor": "Trent Ancião Corrompido (ND11) pode ter informações",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C42",
+      "atributos": {
+        "r": "C42",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "61",
+      "valor": "Centauros (X12)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D43",
+      "atributos": {
+        "r": "D43",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "62",
+      "valor": "Dragonetes da Fúria",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D44",
+      "atributos": {
+        "r": "D44",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "64",
+      "valor": "Esmagador Encouraçado (ND 9-12)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C45",
+      "atributos": {
+        "r": "C45",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "65",
+      "valor": "Driades (AC10)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B47",
+      "atributos": {
+        "r": "B47",
+        "s": "22",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "66",
+      "valor": "Cidade Drow (P22)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C48",
+      "atributos": {
+        "r": "C48",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "67",
+      "valor": "Portal: Abismo",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C49",
+      "atributos": {
+        "r": "C49",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "68",
+      "valor": "Portal: Mundo Espelhado",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C50",
+      "atributos": {
+        "r": "C50",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "69",
+      "valor": "Portal: Ilha dos Elfos da Noite",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C51",
+      "atributos": {
+        "r": "C51",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "70",
+      "valor": "Portal: Cabeça de Gigante",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C52",
+      "atributos": {
+        "r": "C52",
+        "s": "30",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "71",
+      "valor": "Portal: 4 Costelas Grandes",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C53",
+      "atributos": {
+        "r": "C53",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "72",
+      "valor": "Caminhos Underground",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D54",
+      "atributos": {
+        "r": "D54",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "73",
+      "valor": "Caminho com três bifurcações",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E55",
+      "atributos": {
+        "r": "E55",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "74",
+      "valor": "Chitine",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E56",
+      "atributos": {
+        "r": "E56",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "76",
+      "valor": "?",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E57",
+      "atributos": {
+        "r": "E57",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "77",
+      "valor": "Beholder",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D58",
+      "atributos": {
+        "r": "D58",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "78",
+      "valor": "Caminho no Fosso de Ossos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D59",
+      "atributos": {
+        "r": "D59",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "79",
+      "valor": "Caminho para os Trolls",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C60",
+      "atributos": {
+        "r": "C60",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "80",
+      "valor": "Subterrêneo: Dragão Negro",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D61",
+      "atributos": {
+        "r": "D61",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "81",
+      "valor": "100 peças de ouro por mês",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C62",
+      "atributos": {
+        "r": "C62",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "82",
+      "valor": "Subterrâneo: Gnomos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C63",
+      "atributos": {
+        "r": "C63",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "83",
+      "valor": "Subterrâneo: Trolls",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D64",
+      "atributos": {
+        "r": "D64",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "84",
+      "valor": "Itens de Mitral Corrompido",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D65",
+      "atributos": {
+        "r": "D65",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "85",
+      "valor": "Arena",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D66",
+      "atributos": {
+        "r": "D66",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "86",
+      "valor": "Líder de 3 cabeças",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D67",
+      "atributos": {
+        "r": "D67",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "87",
+      "valor": "Firael vai lutar na arena",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C68",
+      "atributos": {
+        "r": "C68",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "88",
+      "valor": "Subterrâneo: Orcs",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C69",
+      "atributos": {
+        "r": "C69",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "89",
+      "valor": "Subterrâneo: Duergars",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C70",
+      "atributos": {
+        "r": "C70",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "90",
+      "valor": "Subterrâneo: Crias Dracônicas de Dragão das Profundezas (O20)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C71",
+      "atributos": {
+        "r": "C71",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "91",
+      "valor": "Subterrâneo: Quitiina (Knowledge 32)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D72",
+      "atributos": {
+        "r": "D72",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "92",
+      "valor": "Ladinos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D73",
+      "atributos": {
+        "r": "D73",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "93",
+      "valor": "Criados por Drows",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C74",
+      "atributos": {
+        "r": "C74",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "95",
+      "valor": "Subterrâneo: Aracnideo (Template) (Knowledge 46)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D75",
+      "atributos": {
+        "r": "D75",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "96",
+      "valor": "Vários tamanhos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D76",
+      "atributos": {
+        "r": "D76",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "98",
+      "valor": "Veneno varia pelo tamanho",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C77",
+      "atributos": {
+        "r": "C77",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "99",
+      "valor": "Subterrâneo: Beholder",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B78",
+      "atributos": {
+        "r": "B78",
+        "s": "22",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "100",
+      "valor": "Ruínas",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C79",
+      "atributos": {
+        "r": "C79",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "101",
+      "valor": "Floresta do Timo (W23)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C80",
+      "atributos": {
+        "r": "C80",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "102",
+      "valor": "Embaixo do Rio (J25)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C81",
+      "atributos": {
+        "r": "C81",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "103",
+      "valor": "? (Q27)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B82",
+      "atributos": {
+        "r": "B82",
+        "s": "22",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "104",
+      "valor": "Covis de Haurim",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C83",
+      "atributos": {
+        "r": "C83",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "105",
+      "valor": "Duas montanhas ao sul",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B84",
+      "atributos": {
+        "r": "B84",
+        "s": "22",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "106",
+      "valor": "Bruxas",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C85",
+      "atributos": {
+        "r": "C85",
+        "s": "22",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "107",
+      "valor": "Morvessh, Selara e Lyvessa",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C86",
+      "atributos": {
+        "r": "C86",
+        "s": "4",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "108",
+      "valor": "Nodo",
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [],
+  "hyperlinks": [],
+  "mesclagens": [],
+  "drawings": [
+    {
+      "parte": "xl/drawings/drawing3.xml",
+      "ordem": 1,
+      "tipo_ancora": "oneCellAnchor",
+      "celula": "I31",
+      "nome": "image1.png",
+      "titulo": "Imagem",
+      "descricao": null,
+      "textos": [],
+      "midias": [
+        {
+          "relacao": "rId1",
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing3.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        }
+      ],
+      "relacionamentos": {
+        "rId1": {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing3.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        },
+        "rId2": {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing3.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        }
+      },
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}oneCellAnchor",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}from",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}col",
+                "atributos": {},
+                "texto": "8",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}colOff",
+                "atributos": {},
+                "texto": "180975",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}row",
+                "atributos": {},
+                "texto": "30",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}rowOff",
+                "atributos": {},
+                "texto": "104775",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}ext",
+            "atributos": {
+              "cx": "9477375",
+              "cy": "6315075"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}pic",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}nvPicPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPr",
+                    "atributos": {
+                      "id": "0",
+                      "name": "image1.png",
+                      "title": "Imagem"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPicPr",
+                    "atributos": {
+                      "preferRelativeResize": "0"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}blipFill",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                    "atributos": {
+                      "cstate": "print",
+                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId1"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}spPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "atributos": {
+                      "prst": "rect"
+                    },
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}noFill",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}clientData",
+            "atributos": {
+              "fLocksWithSheet": "0"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/drawing3.xml",
+      "ordem": 2,
+      "tipo_ancora": "oneCellAnchor",
+      "celula": "I1",
+      "nome": "image2.png",
+      "titulo": "Imagem",
+      "descricao": null,
+      "textos": [],
+      "midias": [
+        {
+          "relacao": "rId2",
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing3.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        }
+      ],
+      "relacionamentos": {
+        "rId1": {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing3.xml.rels",
+          "parte_destino": "xl/media/image1.png"
+        },
+        "rId2": {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png",
+          "parte_relacionamento": "xl/drawings/_rels/drawing3.xml.rels",
+          "parte_destino": "xl/media/image2.png"
+        }
+      },
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}oneCellAnchor",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}from",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}col",
+                "atributos": {},
+                "texto": "8",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}colOff",
+                "atributos": {},
+                "texto": "180975",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}row",
+                "atributos": {},
+                "texto": "0",
+                "filhos": []
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}rowOff",
+                "atributos": {},
+                "texto": "104775",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}ext",
+            "atributos": {
+              "cx": "9477375",
+              "cy": "6315075"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}pic",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}nvPicPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPr",
+                    "atributos": {
+                      "id": "0",
+                      "name": "image2.png",
+                      "title": "Imagem"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}cNvPicPr",
+                    "atributos": {
+                      "preferRelativeResize": "0"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}blipFill",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}blip",
+                    "atributos": {
+                      "cstate": "print",
+                      "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed": "rId2"
+                    },
+                    "texto": null,
+                    "filhos": []
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}stretch",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}fillRect",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}spPr",
+                "atributos": {},
+                "texto": null,
+                "filhos": [
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}prstGeom",
+                    "atributos": {
+                      "prst": "rect"
+                    },
+                    "texto": null,
+                    "filhos": [
+                      {
+                        "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}avLst",
+                        "atributos": {},
+                        "texto": null,
+                        "filhos": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "{http://schemas.openxmlformats.org/drawingml/2006/main}noFill",
+                    "atributos": {},
+                    "texto": null,
+                    "filhos": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing}clientData",
+            "atributos": {
+              "fLocksWithSheet": "0"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      }
+    }
+  ],
+  "objetos_vml": [],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing3.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet3.xml.rels",
+      "parte_destino": "xl/drawings/drawing3.xml"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    },
+    {
+      "r": "34"
+    },
+    {
+      "r": "35"
+    },
+    {
+      "r": "36"
+    },
+    {
+      "r": "37"
+    },
+    {
+      "r": "38"
+    },
+    {
+      "r": "39"
+    },
+    {
+      "r": "40"
+    },
+    {
+      "r": "41"
+    },
+    {
+      "r": "42"
+    },
+    {
+      "r": "43"
+    },
+    {
+      "r": "44"
+    },
+    {
+      "r": "45"
+    },
+    {
+      "r": "46"
+    },
+    {
+      "r": "47"
+    },
+    {
+      "r": "48"
+    },
+    {
+      "r": "49"
+    },
+    {
+      "r": "50"
+    },
+    {
+      "r": "51"
+    },
+    {
+      "r": "52"
+    },
+    {
+      "r": "53"
+    },
+    {
+      "r": "54"
+    },
+    {
+      "r": "55"
+    },
+    {
+      "r": "56"
+    },
+    {
+      "r": "57"
+    },
+    {
+      "r": "58"
+    },
+    {
+      "r": "59"
+    },
+    {
+      "r": "60"
+    },
+    {
+      "r": "61"
+    },
+    {
+      "r": "62"
+    },
+    {
+      "r": "63"
+    },
+    {
+      "r": "64"
+    },
+    {
+      "r": "65"
+    },
+    {
+      "r": "66"
+    },
+    {
+      "r": "67"
+    },
+    {
+      "r": "68"
+    },
+    {
+      "r": "69"
+    },
+    {
+      "r": "70"
+    },
+    {
+      "r": "71"
+    },
+    {
+      "r": "72"
+    },
+    {
+      "r": "73"
+    },
+    {
+      "r": "74"
+    },
+    {
+      "r": "75"
+    },
+    {
+      "r": "76"
+    },
+    {
+      "r": "77"
+    },
+    {
+      "r": "78"
+    },
+    {
+      "r": "79"
+    },
+    {
+      "r": "80"
+    },
+    {
+      "r": "81"
+    },
+    {
+      "r": "82"
+    },
+    {
+      "r": "83"
+    },
+    {
+      "r": "84"
+    },
+    {
+      "r": "85"
+    },
+    {
+      "r": "86"
+    }
+  ],
+  "celulas_xml_total": 105,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 78,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  },
+  "transcricoes_visuais": [
+    {
+      "parte": "xl/media/image1.png",
+      "ancora": "I31",
+      "metodo": "transcrição manual após inspeção da imagem original",
+      "texto": "H19 - EQUICEP\nJ25 - RUÍNA 3\nK18 - VILA DOS GNOMOS - KRANKLEFANG LUNHOLLOW\nL28 - VILA DOS FURION - LORAETH\nM13 - VILA DAS FADAS ESPINHO - THORNAEVA\nM22 - EM DIREÇÃO AO P22 - CRIATURA COM SÍMBOLO DA BRUXA\nO20 - SAÍDA SUBTERRÂNEO - CRIAS DRACÔNICAS\nO24 - PANTERA ESPECTRAL\nP22 - CIDADE DROW\nP25 - NYTH (PARECIDO COM FOGO-FÁTUO)\nQ23 - O FORTE - VYTHARIX THRODENAAR\nQ27 - RUÍNA 1\nQ31 - POVO LAGARTO\nR20 - VILA DAS FADAS - THAEL`VOREN\nR27 - PERITON (ÁGUIA COM CABEÇA DE CERVO)\nS18 - VILA MURGUL\nT23 - CONCLAVE DA RAIZ ANCESTRAL\nU27 - VILA DOS MEIO-DRAGÕES - DARASTRIX VURIX\nY31 - BOCARRA\nX12 - VILA DOS CENTAUROS - VAEL`THARION\nW23 - RUÍNA 2\nAC10- VILA DAS DRÍADES - SYLTHA VAELOR\nAC34 - ÁRVORE NEGRA\nAD17 - CRIATURAS HÍBRIDAS GORILA/ARANHA\nAN10 - PTERAPOVO\nAN23 - FAROL\nAP29 - CRIATURA PELUDA/FORTE DO OLHO VERDE"
+    }
+  ]
+}

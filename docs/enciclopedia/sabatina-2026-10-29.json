@@ -1,0 +1,62 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Sabatina de continuidade - Fash e Timo.md",
+  "fonte_nova_sha256": "2c0812a00817046b5b934e4f4e4adaaa8390194df14b658ea62aeb451b6a5a0e",
+  "confirmacoes": {
+    "PC-002": "respondida",
+    "PC-006": "parcialmente_respondida",
+    "LG-014": "parcialmente_respondida",
+    "PC-003": "respondida"
+  },
+  "escopo": {
+    "PC-002": "Background real de Tinkar/Fash; sem validação automática dos desdobramentos do sonho.",
+    "PC-006": "Timo na campanha de Fash; Fesh é erro de grafia. Datas 530/536 desconhecidas do jogador e aguardando fontes ou mestre.",
+    "PC-003": "Meio-elfo, filho de humano e elfa cinzenta. A descrição antiga do diário permanece como percepção histórica retificada; sem validação automática do restante da biografia familiar do dossiê."
+  },
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 320,
+    "arquivos_anteriores_identicos_nesta_etapa": 319,
+    "unica_alteracao_anterior": "conteudo/Fontes/Indice.md",
+    "alteracao_indice_fontes": "Adição de um único link, conservando os demais bytes.",
+    "snapshot_protegido_verificado": 315,
+    "identicos_ao_snapshot_historico": 314,
+    "correcoes_anteriores_registradas": 1,
+    "sessoes_e_anexos_alterados": 0
+  },
+  "indices": {
+    "comando": "python tools/indexar_enciclopedia.py --somente-indices",
+    "gerados": 13,
+    "notas_curadas_fora_dos_indices_alteradas_na_geracao": 0,
+    "pendencias_total": 105,
+    "pendencias_ativas": 103,
+    "status": {
+      "aberta": 101,
+      "parcialmente_respondida": 2,
+      "respondida": 2
+    }
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "suite": "unittest discover -s tools -p test_*.py -v",
+    "testes_aprovados": 15,
+    "runtime": "C:/Users/guilh/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe"
+  },
+  "complementos": [
+    {
+      "pendencia": "PC-003",
+      "resposta_literal": "Meio-elfo, filho de humano e elfa cinzenta",
+      "fonte_antes_sha256": "34f98ea7cacada2e753a0e0c4fe3b6994bd9f8f0f4b7b103aec1f5548c075f03",
+      "fonte_depois_sha256": "2c0812a00817046b5b934e4f4e4adaaa8390194df14b658ea62aeb451b6a5a0e",
+      "arquivos_anteriores_conferidos": 321,
+      "arquivos_identicos_nesta_incorporacao": 319,
+      "alterados_autorizados": [
+        "conteudo/Fontes/Indice.md",
+        "conteudo/Fontes/Confirmacoes/2026-10-29 - Sabatina de continuidade - Fash e Timo.md"
+      ],
+      "fontes_protegidas_alteradas": 0,
+      "enciclopedia_aprovada": true,
+      "migracao_aprovada": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017 e PC-009 foram posteriormente respondidas; PC-010 foi encerrada com as incertezas preservadas e PC-024 por irrelevância. Os quatro registros permanecem identificados neste documento, deixando 97 registros pendentes, sem nova solicitação de resposta nos itens encerrados.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017 e PC-009 foram posteriormente respondidas; PC-010 foi encerrada com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os cinco registros permanecem identificados neste documento, deixando 96 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Não há registros."
+    },
+    {
+      "antes": "A completar: Há registro sobre os destinos dos quatro? Circunstâncias da morte de Brakka só devem ser acrescentadas se já definidas e se o autor quiser documentá-las, sem inventar a cena omitida.",
+      "depois": "Item encerrado: Não há registros adicionais para completar os destinos de Dornal, Harlom, Rumo e Miri ou as circunstâncias omitidas da morte de Brakka. Não inferir morte ou sobrevivência dos quatro nem inventar a cena de Brakka."
+    },
+    {
+      "antes": "Em espera — complementar apenas com informação nova ou outra fonte.",
+      "depois": "Consulta documental encerrada em 30/10/2026: o jogador informou que não há registros adicionais. Os destinos desconhecidos permanecem assim."
+    },
+    {
+      "antes": "PC-040 — Roda de Estopa — destinos ainda não conhecidos",
+      "depois": "PC-040 — Roda de Estopa — destinos ainda não conhecidos — ENCERRADA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017 e PC-009 já foram respondidas; PC-010 e PC-024 foram encerradas por orientação do jogador, preservando as incertezas e os fatos conhecidos. Restam 97 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017 e PC-009 já foram respondidas; PC-010, PC-024 e PC-040 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 96 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "encerrada_sem_registros_adicionais",
+  "pendencias_restantes": 96,
+  "demais_textos_preservados": true
+}

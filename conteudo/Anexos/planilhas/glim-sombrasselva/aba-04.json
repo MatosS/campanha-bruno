@@ -1,0 +1,1672 @@
+{
+  "fonte": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+  "sha256_fonte": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+  "aba": "SPELLBOOK SPELL LIST",
+  "ordem": 4,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet4.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "3",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": "Shadow path",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D2",
+      "atributos": {
+        "r": "D2",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": "Despair path",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F2",
+      "atributos": {
+        "r": "F2",
+        "s": "8",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "3",
+      "valor": "Secret path",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H2",
+      "atributos": {
+        "r": "H2",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": "Death & Survival path",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "19",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "9",
+      "valor": "Net of shadows",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D4",
+      "atributos": {
+        "r": "D4",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "12",
+      "valor": "Cause fear",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F4",
+      "atributos": {
+        "r": "F4",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "15",
+      "valor": "Disguise self",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H4",
+      "atributos": {
+        "r": "H4",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "22",
+      "valor": "Chill touch",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B5",
+      "atributos": {
+        "r": "B5",
+        "s": "3",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "24",
+      "valor": "Claws of darkness",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D5",
+      "atributos": {
+        "r": "D5",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "26",
+      "valor": "Ray of enfeeblement",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F5",
+      "atributos": {
+        "r": "F5",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "27",
+      "valor": "Silent image",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H5",
+      "atributos": {
+        "r": "H5",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "28",
+      "valor": "False life",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B6",
+      "atributos": {
+        "r": "B6",
+        "s": "19",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "31",
+      "valor": "Shadow mask",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D6",
+      "atributos": {
+        "r": "D6",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "33",
+      "valor": "Blindness/deafness",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F6",
+      "atributos": {
+        "r": "F6",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "34",
+      "valor": "Blur",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H6",
+      "atributos": {
+        "r": "H6",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "36",
+      "valor": "Ghoul touch",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B7",
+      "atributos": {
+        "r": "B7",
+        "s": "3",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "38",
+      "valor": "Darkness",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D7",
+      "atributos": {
+        "r": "D7",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "40",
+      "valor": "Touch of idiocy",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F7",
+      "atributos": {
+        "r": "F7",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "41",
+      "valor": "Misdirection",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H7",
+      "atributos": {
+        "r": "H7",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "42",
+      "valor": "Spectral hand",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B8",
+      "atributos": {
+        "r": "B8",
+        "s": "3",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "44",
+      "valor": "Deeper darkness",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D8",
+      "atributos": {
+        "r": "D8",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "45",
+      "valor": "Crushing despair",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F8",
+      "atributos": {
+        "r": "F8",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "47",
+      "valor": "Invisibility",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H8",
+      "atributos": {
+        "r": "H8",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "49",
+      "valor": "Vampiric touch",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B9",
+      "atributos": {
+        "r": "B9",
+        "s": "19",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "50",
+      "valor": "Shadow binding",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D9",
+      "atributos": {
+        "r": "D9",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "51",
+      "valor": "Bestow Curse",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F9",
+      "atributos": {
+        "r": "F9",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "53",
+      "valor": "Major image",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H9",
+      "atributos": {
+        "r": "H9",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "54",
+      "valor": "Ray of exhaustation",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B10",
+      "atributos": {
+        "r": "B10",
+        "s": "3",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "55",
+      "valor": "Shadow well",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D10",
+      "atributos": {
+        "r": "D10",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "56",
+      "valor": "Enervation",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F10",
+      "atributos": {
+        "r": "F10",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "57",
+      "valor": "Nondetection",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H10",
+      "atributos": {
+        "r": "H10",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "59",
+      "valor": "Contagion",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B11",
+      "atributos": {
+        "r": "B11",
+        "s": "19",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "60",
+      "valor": "Shadow conjuration",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D11",
+      "atributos": {
+        "r": "D11",
+        "s": "5",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "61",
+      "valor": "Fear",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F11",
+      "atributos": {
+        "r": "F11",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "62",
+      "valor": "Illusory wall",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H11",
+      "atributos": {
+        "r": "H11",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "63",
+      "valor": "Animate dead",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F12",
+      "atributos": {
+        "r": "F12",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "65",
+      "valor": "Invisibility, Greater",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H12",
+      "atributos": {
+        "r": "H12",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "66",
+      "valor": "Obscuring mist",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F13",
+      "atributos": {
+        "r": "F13",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "68",
+      "valor": "Phantasmal killer",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H13",
+      "atributos": {
+        "r": "H13",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "69",
+      "valor": "Spider climb",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H14",
+      "atributos": {
+        "r": "H14",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "70",
+      "valor": "Displacement",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H15",
+      "atributos": {
+        "r": "H15",
+        "s": "10",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "72",
+      "valor": "Dimension door",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B21",
+      "atributos": {
+        "r": "B21",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C21",
+      "atributos": {
+        "r": "C21",
+        "s": "34",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "27",
+      "valor": "Silent image",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D21",
+      "atributos": {
+        "r": "D21",
+        "s": "36",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "83",
+      "valor": "Net of Shadows",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B22",
+      "atributos": {
+        "r": "B22",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C22",
+      "atributos": {
+        "r": "C22",
+        "s": "38",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "89",
+      "valor": "Dead End",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D22",
+      "atributos": {
+        "r": "D22",
+        "s": "39",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "103",
+      "valor": "Disguise Self",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B23",
+      "atributos": {
+        "r": "B23",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C23",
+      "atributos": {
+        "r": "C23",
+        "s": "34",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "47",
+      "valor": "Invisibility",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D23",
+      "atributos": {
+        "r": "D23",
+        "s": "36",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "113",
+      "valor": "Shadow Mask",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B24",
+      "atributos": {
+        "r": "B24",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C24",
+      "atributos": {
+        "r": "C24",
+        "s": "38",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "117",
+      "valor": "Shadow Radiance",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D24",
+      "atributos": {
+        "r": "D24",
+        "s": "38",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "120",
+      "valor": "Wall of Gloom",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B25",
+      "atributos": {
+        "r": "B25",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C25",
+      "atributos": {
+        "r": "C25",
+        "s": "52",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "124",
+      "valor": "Legion of Sentinels",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D25",
+      "atributos": {
+        "r": "D25",
+        "s": "54",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "128",
+      "valor": "Shadow Binding",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B26",
+      "atributos": {
+        "r": "B26",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6.0",
+      "valor": 6.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C26",
+      "atributos": {
+        "r": "C26",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "34",
+      "valor": "Blur",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D26",
+      "atributos": {
+        "r": "D26",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "41",
+      "valor": "Misdirection",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E26",
+      "atributos": {
+        "r": "E26",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "140",
+      "valor": "Major Image",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F26",
+      "atributos": {
+        "r": "F26",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "57",
+      "valor": "Nondetection",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B27",
+      "atributos": {
+        "r": "B27",
+        "s": "30"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7.0",
+      "valor": 7.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C27",
+      "atributos": {
+        "r": "C27",
+        "s": "36",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "149",
+      "valor": "Shadow Conjuration",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D27",
+      "atributos": {
+        "r": "D27",
+        "s": "34",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "156",
+      "valor": "Phantasmal Killer",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E27",
+      "atributos": {
+        "r": "E27",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "65",
+      "valor": "Invisibility, Greater",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "F27",
+      "atributos": {
+        "r": "F27",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "169",
+      "valor": "Illusory Wall",
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [],
+  "hyperlinks": [
+    {
+      "intervalo": "C21",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1",
+        "location": "google_vignette",
+        "ref": "C21"
+      },
+      "relacionamento": {
+        "Id": "rId1",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/silent-image--2705/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/silent-image--2705/"
+    },
+    {
+      "intervalo": "D21",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+        "ref": "D21"
+      },
+      "relacionamento": {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/spell-compendium--86/net-shadows--4592/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/spell-compendium--86/net-shadows--4592/"
+    },
+    {
+      "intervalo": "C22",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+        "ref": "C22"
+      },
+      "relacionamento": {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/spell-compendium--86/dead-end--4342/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/spell-compendium--86/dead-end--4342/"
+    },
+    {
+      "intervalo": "D22",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+        "ref": "D22"
+      },
+      "relacionamento": {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/disguise-self--2666/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/disguise-self--2666/"
+    },
+    {
+      "intervalo": "C23",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+        "ref": "C23"
+      },
+      "relacionamento": {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/invisibility--2676/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/invisibility--2676/"
+    },
+    {
+      "intervalo": "D23",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+        "ref": "D23"
+      },
+      "relacionamento": {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/spell-compendium--86/shadow-mask--4147/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/spell-compendium--86/shadow-mask--4147/"
+    },
+    {
+      "intervalo": "C24",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+        "ref": "C24"
+      },
+      "relacionamento": {
+        "Id": "rId7",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/spell-compendium--86/shadow-radiance--4148/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/spell-compendium--86/shadow-radiance--4148/"
+    },
+    {
+      "intervalo": "D24",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+        "ref": "D24"
+      },
+      "relacionamento": {
+        "Id": "rId8",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/spell-compendium--86/wall-of-gloom--4739/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/spell-compendium--86/wall-of-gloom--4739/"
+    },
+    {
+      "intervalo": "C25",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+        "ref": "C25"
+      },
+      "relacionamento": {
+        "Id": "rId9",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-ii--80/legion-of-sentinels--2986/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-ii--80/legion-of-sentinels--2986/"
+    },
+    {
+      "intervalo": "D25",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10",
+        "ref": "D25"
+      },
+      "relacionamento": {
+        "Id": "rId10",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/spell-compendium--86/shadow-binding--4141/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/spell-compendium--86/shadow-binding--4141/"
+    },
+    {
+      "intervalo": "C26",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId11",
+        "ref": "C26"
+      },
+      "relacionamento": {
+        "Id": "rId11",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/blur--2664/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/blur--2664/"
+    },
+    {
+      "intervalo": "D26",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId12",
+        "ref": "D26"
+      },
+      "relacionamento": {
+        "Id": "rId12",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/misdirection--2685/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/misdirection--2685/"
+    },
+    {
+      "intervalo": "E26",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId13",
+        "ref": "E26"
+      },
+      "relacionamento": {
+        "Id": "rId13",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/major-image--2681/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/major-image--2681/"
+    },
+    {
+      "intervalo": "F26",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId14",
+        "ref": "F26"
+      },
+      "relacionamento": {
+        "Id": "rId14",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/nondetection--2341/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/nondetection--2341/"
+    },
+    {
+      "intervalo": "C27",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId15",
+        "ref": "C27"
+      },
+      "relacionamento": {
+        "Id": "rId15",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/shadow-conjuration--2699/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/shadow-conjuration--2699/"
+    },
+    {
+      "intervalo": "D27",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId16",
+        "ref": "D27"
+      },
+      "relacionamento": {
+        "Id": "rId16",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/phantasmal-killer--2691/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/phantasmal-killer--2691/"
+    },
+    {
+      "intervalo": "E27",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId17",
+        "ref": "E27"
+      },
+      "relacionamento": {
+        "Id": "rId17",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/invisibility-greater--2677/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/invisibility-greater--2677/"
+    },
+    {
+      "intervalo": "F27",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId18",
+        "ref": "F27"
+      },
+      "relacionamento": {
+        "Id": "rId18",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/illusory-wall--2674/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/illusory-wall--2674/"
+    }
+  ],
+  "mesclagens": [],
+  "drawings": [],
+  "objetos_vml": [],
+  "relacionamentos": {
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/silent-image--2705/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/spell-compendium--86/net-shadows--4592/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/spell-compendium--86/dead-end--4342/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId4": {
+      "Id": "rId4",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/disguise-self--2666/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId9": {
+      "Id": "rId9",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-ii--80/legion-of-sentinels--2986/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId5": {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/invisibility--2676/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId6": {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/spell-compendium--86/shadow-mask--4147/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId7": {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/spell-compendium--86/shadow-radiance--4148/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId8": {
+      "Id": "rId8",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/spell-compendium--86/wall-of-gloom--4739/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId11": {
+      "Id": "rId11",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/blur--2664/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId10": {
+      "Id": "rId10",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/spell-compendium--86/shadow-binding--4141/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId13": {
+      "Id": "rId13",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/major-image--2681/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId12": {
+      "Id": "rId12",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/misdirection--2685/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId15": {
+      "Id": "rId15",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/shadow-conjuration--2699/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId14": {
+      "Id": "rId14",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/nondetection--2341/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId17": {
+      "Id": "rId17",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/invisibility-greater--2677/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId16": {
+      "Id": "rId16",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/phantasmal-killer--2691/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    "rId19": {
+      "Id": "rId19",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing4.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels",
+      "parte_destino": "xl/drawings/drawing4.xml"
+    },
+    "rId18": {
+      "Id": "rId18",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/illusory-wall--2674/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet4.xml.rels"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}cols",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "2",
+            "max": "8",
+            "width": "16.25"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlinks",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId1",
+            "location": "google_vignette",
+            "ref": "C21"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+            "ref": "D21"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+            "ref": "C22"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+            "ref": "D22"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+            "ref": "C23"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+            "ref": "D23"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+            "ref": "C24"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+            "ref": "D24"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+            "ref": "C25"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10",
+            "ref": "D25"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId11",
+            "ref": "C26"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId12",
+            "ref": "D26"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId13",
+            "ref": "E26"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId14",
+            "ref": "F26"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId15",
+            "ref": "C27"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId16",
+            "ref": "D27"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId17",
+            "ref": "E27"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId18",
+            "ref": "F27"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId19"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    }
+  ],
+  "celulas_xml_total": 71,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 67,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

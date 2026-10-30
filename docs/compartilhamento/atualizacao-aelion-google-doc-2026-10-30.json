@@ -1,0 +1,25 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Complemento registrado (30/10/2026): Background integral de Aelion Stormlash incorporado à wiki. Permanecem as lacunas da sessão sem gravação; este item está parcialmente respondido."
+    },
+    {
+      "antes": "Referências: Sabatina de 29–30/10/2026.",
+      "depois": "Referências: Sabatina de 29–30/10/2026. Background - Aelion Stormlash, fornecido pelo jogador (30/10/2026)."
+    },
+    {
+      "antes": "A completar: Diogo ou o grupo podem fornecer detalhes já definidos da apresentação de Aelion, demais acontecimentos, data e número da sessão sem gravação? Não repetir nome, vínculo atual ou participantes. A incursão ainda não aconteceu nos relatos.",
+      "depois": "A completar: Diogo ou o grupo podem fornecer detalhes já definidos da cena de apresentação de Aelion em mesa, demais acontecimentos, data e número da sessão sem gravação? O background já está registrado; não repetir nome, origem, motivações, vínculo atual ou participantes. A incursão ainda não aconteceu nos relatos."
+    },
+    {
+      "antes": "Já registrado: Aelion é de Diogo, antes Ryld, e apenas acompanha os Magníficos. Foram recuperados o encontro com Folha-Seca, prazo de dez dias, indicação da guarda e preparação para o túnel.",
+      "depois": "Já registrado: Aelion Stormlash é humano e personagem de Diogo, antes Ryld; apenas acompanha os Magníficos. Seu background foi recebido integralmente: órfão de guerra, formação militar, estudo arcano de eletricidade e trovão aliado à espada e busca de paz por imposição da ordem. Foram recuperados o encontro com Folha-Seca, o prazo de dez dias, a indicação da guarda e a preparação para o túnel."
+    }
+  ],
+  "estado": "FT-001_parcialmente_respondida_background_registrado",
+  "pendencias_restantes": 90,
+  "demais_textos_preservados": true
+}

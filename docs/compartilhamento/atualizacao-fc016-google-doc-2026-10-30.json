@@ -1,0 +1,33 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-010 e FC-001 tiveram as consultas encerradas com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os oito registros permanecem identificados neste documento, deixando 93 registros pendentes, sem nova solicitação de resposta nos itens encerrados.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-010, FC-001 e FC-016 tiveram as consultas encerradas com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os nove registros permanecem identificados neste documento, deixando 92 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Desconhecido"
+    },
+    {
+      "antes": "Referências: Diario - Fash Paleskin; Esclarecimentos do jogador (23/10/2026).",
+      "depois": "Referências: Diario - Fash Paleskin; Esclarecimentos do jogador (23/10/2026). Resposta do jogador (30/10/2026)."
+    },
+    {
+      "antes": "A completar: Qual era o nome da organização do Necromante, quem eram os três julgadores e o que restou dela e de sua relação com o Ébano?",
+      "depois": "Consulta encerrada: Nome da organização, identidade dos três julgadores, continuidade e eventual relação com o Ébano são desconhecidos. Preservar a iniciação de Fash sem afirmar sucessão do Ébano ou tomada pelo Cavaleiro. Não há nova pergunta aos jogadores neste item."
+    },
+    {
+      "antes": "FC-016 — Nome e continuidade da organização do Necromante",
+      "depois": "FC-016 — Nome e continuidade da organização do Necromante — CONSULTA ENCERRADA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-010, PC-024, PC-040 e FC-001 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 93 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-010, PC-024, PC-040, FC-001 e FC-016 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 92 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "consulta_encerrada_com_incertezas",
+  "pendencias_restantes": 92,
+  "demais_textos_preservados": true
+}

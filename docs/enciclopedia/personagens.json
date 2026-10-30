@@ -1,0 +1,2285 @@
+{
+  "dominio": "personagens",
+  "atualizado": "2026-10-29",
+  "estado": "congelado",
+  "cobertura": {
+    "cadastrados": 68,
+    "cobertos": 68,
+    "faltantes": [],
+    "extras": 18,
+    "total_notas": 86
+  },
+  "notas": [
+    {
+      "nome": "Fash Paleskin",
+      "destino": "Personagens/Fash Paleskin",
+      "arquivo": "Personagens/Fash Paleskin.md",
+      "fontes": [
+        "F",
+        "J",
+        "T25",
+        "FA"
+      ],
+      "pendencias": [
+        "PC-001",
+        "PC-002"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Glim Sombrasselva",
+      "destino": "Personagens/Glim Sombrasselva",
+      "arquivo": "Personagens/Glim Sombrasselva.md",
+      "fontes": [
+        "B",
+        "J",
+        "G",
+        "T18",
+        "T23",
+        "H",
+        "T24",
+        "T26"
+      ],
+      "pendencias": [
+        "PC-009",
+        "PC-010",
+        "PC-011",
+        "PC-024",
+        "PC-042",
+        "PC-046"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Okay d’Boa",
+      "destino": "Personagens/Okay dBoa",
+      "arquivo": "Personagens/Okay dBoa.md",
+      "fontes": [
+        "G",
+        "OK",
+        "J",
+        "H",
+        "T24",
+        "T25",
+        "T26"
+      ],
+      "pendencias": [
+        "PC-003",
+        "PC-004",
+        "PC-007",
+        "PC-010",
+        "PC-031",
+        "PC-046"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Kael",
+      "destino": "Personagens/Kael",
+      "arquivo": "Personagens/Kael.md",
+      "fontes": [
+        "F",
+        "J",
+        "T25"
+      ],
+      "pendencias": [
+        "PC-004",
+        "PC-036"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Crave",
+      "destino": "Personagens/Crave",
+      "arquivo": "Personagens/Crave.md",
+      "fontes": [
+        "G",
+        "H",
+        "T23",
+        "T24",
+        "T26"
+      ],
+      "pendencias": [
+        "PC-012",
+        "PC-013",
+        "PC-030",
+        "PC-046"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Ryld",
+      "destino": "Personagens/Ryld",
+      "arquivo": "Personagens/Ryld.md",
+      "fontes": [
+        "G",
+        "H",
+        "T20",
+        "PH"
+      ],
+      "pendencias": [
+        "PC-014",
+        "PC-046"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Arkhavel",
+      "destino": "Personagens/Arkhavel",
+      "arquivo": "Personagens/Arkhavel.md",
+      "fontes": [
+        "G",
+        "OK",
+        "T16",
+        "H",
+        "T26"
+      ],
+      "pendencias": [
+        "PC-015",
+        "PC-016",
+        "PC-017",
+        "PC-018",
+        "PC-019"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Timo",
+      "destino": "Personagens/Timo",
+      "arquivo": "Personagens/Timo.md",
+      "fontes": [
+        "F",
+        "J",
+        "T25",
+        "TIM"
+      ],
+      "pendencias": [
+        "PC-005",
+        "PC-006",
+        "PC-038"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Firael",
+      "destino": "Personagens/Firael",
+      "arquivo": "Personagens/Firael.md",
+      "fontes": [
+        "F",
+        "J",
+        "T25"
+      ],
+      "pendencias": [
+        "PC-007",
+        "PC-008",
+        "PC-036"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Rake",
+      "destino": "Personagens/Rake",
+      "arquivo": "Personagens/Rake.md",
+      "fontes": [
+        "F"
+      ],
+      "pendencias": [
+        "PC-038"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Elena / Serethyn",
+      "destino": "Personagens/Elena",
+      "arquivo": "Personagens/Elena.md",
+      "fontes": [
+        "F",
+        "H"
+      ],
+      "pendencias": [
+        "PC-032",
+        "PC-033"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Morvessh",
+      "destino": "Personagens/Morvessh",
+      "arquivo": "Personagens/Morvessh.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-032"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Selara",
+      "destino": "Personagens/Selara",
+      "arquivo": "Personagens/Selara.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-032"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Lyvessa",
+      "destino": "Personagens/Lyvessa",
+      "arquivo": "Personagens/Lyvessa.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-032"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Grixxian",
+      "destino": "Personagens/Grixxian",
+      "arquivo": "Personagens/Grixxian.md",
+      "fontes": [
+        "H",
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-033"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Lídia",
+      "destino": "Personagens/Lidia",
+      "arquivo": "Personagens/Lidia.md",
+      "fontes": [
+        "F"
+      ],
+      "pendencias": [
+        "PC-034"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "O Necromante",
+      "destino": "Personagens/Necromante",
+      "arquivo": "Personagens/Necromante.md",
+      "fontes": [
+        "H",
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-034"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Druida Sangrento",
+      "destino": "Personagens/Druida Sangrento",
+      "arquivo": "Personagens/Druida Sangrento.md",
+      "fontes": [
+        "F"
+      ],
+      "pendencias": [
+        "PC-035"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Cogu",
+      "destino": "Personagens/Cogu",
+      "arquivo": "Personagens/Cogu.md",
+      "fontes": [
+        "F",
+        "PH",
+        "H"
+      ],
+      "pendencias": [
+        "PC-038"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Anão guardião",
+      "destino": "Personagens/Anao guardiao",
+      "arquivo": "Personagens/Anao guardiao.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-035"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Dragão negro",
+      "destino": "Personagens/Dragao negro",
+      "arquivo": "Personagens/Dragao negro.md",
+      "fontes": [
+        "H",
+        "J",
+        "T25"
+      ],
+      "pendencias": [
+        "PC-036"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Hourian / Haurim",
+      "destino": "Personagens/Hourian Haurim",
+      "arquivo": "Personagens/Hourian Haurim.md",
+      "fontes": [
+        "F",
+        "PH"
+      ],
+      "pendencias": [
+        "PC-037"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Tork",
+      "destino": "Personagens/Tork",
+      "arquivo": "Personagens/Tork.md",
+      "fontes": [
+        "T13",
+        "G",
+        "H",
+        "T18"
+      ],
+      "pendencias": [
+        "PC-029"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Darian Folha-Seca Valek",
+      "destino": "Personagens/Folha-Seca",
+      "arquivo": "Personagens/Folha-Seca.md",
+      "fontes": [
+        "H",
+        "T18"
+      ],
+      "pendencias": [
+        "PC-026",
+        "PC-027"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Hanta",
+      "destino": "Personagens/Hanta",
+      "arquivo": "Personagens/Hanta.md",
+      "fontes": [
+        "H",
+        "T18"
+      ],
+      "pendencias": [
+        "PC-026"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Tólomon",
+      "destino": "Personagens/Tolomon",
+      "arquivo": "Personagens/Tolomon.md",
+      "fontes": [
+        "G",
+        "T18",
+        "H"
+      ],
+      "pendencias": [
+        "PC-013",
+        "PC-025"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Tariun",
+      "destino": "Personagens/Tariun",
+      "arquivo": "Personagens/Tariun.md",
+      "fontes": [
+        "T23",
+        "H"
+      ],
+      "pendencias": [
+        "PC-030"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Rudiger",
+      "destino": "Personagens/Rudiger",
+      "arquivo": "Personagens/Rudiger.md",
+      "fontes": [
+        "G",
+        "H",
+        "T23"
+      ],
+      "pendencias": [
+        "PC-013"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Lilo Sombrasselva",
+      "destino": "Personagens/Lilo Sombrasselva",
+      "arquivo": "Personagens/Lilo Sombrasselva.md",
+      "fontes": [
+        "B",
+        "J",
+        "T24",
+        "T25",
+        "H"
+      ],
+      "pendencias": [
+        "PC-009",
+        "PC-010",
+        "PC-011"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Piche",
+      "destino": "Personagens/Piche",
+      "arquivo": "Personagens/Piche.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-011"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Brakka Pedramansa",
+      "destino": "Personagens/Brakka Pedramansa",
+      "arquivo": "Personagens/Brakka Pedramansa.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-040"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Dornal",
+      "destino": "Personagens/Dornal",
+      "arquivo": "Personagens/Dornal.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-040"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Harlom Vinte-E-Dois",
+      "destino": "Personagens/Harlom Vinte-E-Dois",
+      "arquivo": "Personagens/Harlom Vinte-E-Dois.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-040"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Rumo",
+      "destino": "Personagens/Rumo",
+      "arquivo": "Personagens/Rumo.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-040"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Miri",
+      "destino": "Personagens/Miri",
+      "arquivo": "Personagens/Miri.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-040"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Varo",
+      "destino": "Personagens/Varo",
+      "arquivo": "Personagens/Varo.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-041"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Tom do Cesto",
+      "destino": "Personagens/Tom do Cesto",
+      "arquivo": "Personagens/Tom do Cesto.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-041"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Nina",
+      "destino": "Personagens/Nina",
+      "arquivo": "Personagens/Nina.md",
+      "fontes": [
+        "B"
+      ],
+      "pendencias": [
+        "PC-042"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Tahen",
+      "destino": "Personagens/Tahen",
+      "arquivo": "Personagens/Tahen.md",
+      "fontes": [
+        "T24",
+        "H"
+      ],
+      "pendencias": [
+        "PC-031"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Elrohir",
+      "destino": "Personagens/Elrohir",
+      "arquivo": "Personagens/Elrohir.md",
+      "fontes": [
+        "H"
+      ],
+      "pendencias": [
+        "PC-031",
+        "PC-046"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Aurel Vesperal",
+      "destino": "Personagens/Aurel Vesperal",
+      "arquivo": "Personagens/Aurel Vesperal.md",
+      "fontes": [
+        "T26",
+        "J",
+        "H"
+      ],
+      "pendencias": [
+        "PC-021",
+        "PC-023"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Carlos — carpinteiro",
+      "destino": "Personagens/Carlos carpinteiro",
+      "arquivo": "Personagens/Carlos carpinteiro.md",
+      "fontes": [
+        "H",
+        "J",
+        "T26"
+      ],
+      "pendencias": [
+        "PC-021"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Carlos — guarda de Eral",
+      "destino": "Personagens/Carlos guarda",
+      "arquivo": "Personagens/Carlos guarda.md",
+      "fontes": [
+        "H",
+        "J",
+        "T13"
+      ],
+      "pendencias": [
+        "PC-022"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Silthan",
+      "destino": "Personagens/Silthan",
+      "arquivo": "Personagens/Silthan.md",
+      "fontes": [
+        "H",
+        "T13"
+      ],
+      "pendencias": [
+        "PC-028"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Duque Teodoron Talent",
+      "destino": "Personagens/Teodoron Talent",
+      "arquivo": "Personagens/Teodoron Talent.md",
+      "fontes": [
+        "G",
+        "T18",
+        "H"
+      ],
+      "pendencias": [
+        "PC-020",
+        "PC-047"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Kuat",
+      "destino": "Personagens/Kuat",
+      "arquivo": "Personagens/Kuat.md",
+      "fontes": [
+        "G",
+        "OK",
+        "T16",
+        "T13"
+      ],
+      "pendencias": [
+        "PC-016"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Donovan",
+      "destino": "Personagens/Donovan",
+      "arquivo": "Personagens/Donovan.md",
+      "fontes": [
+        "T16"
+      ],
+      "pendencias": [
+        "PC-015",
+        "PC-017"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Filho de Arkhavel ligado ao prefeito",
+      "destino": "Personagens/Filho de Arkhavel ligado ao prefeito",
+      "arquivo": "Personagens/Filho de Arkhavel ligado ao prefeito.md",
+      "fontes": [
+        "T16",
+        "H",
+        "G",
+        "OK"
+      ],
+      "pendencias": [
+        "PC-015",
+        "PC-016"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Prefeito humano de Eral",
+      "destino": "Personagens/Prefeito humano de Eral",
+      "arquivo": "Personagens/Prefeito humano de Eral.md",
+      "fontes": [
+        "T16",
+        "G",
+        "T18"
+      ],
+      "pendencias": [
+        "PC-016",
+        "PC-047"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Tauro",
+      "destino": "Personagens/Tauro",
+      "arquivo": "Personagens/Tauro.md",
+      "fontes": [
+        "G",
+        "H",
+        "T18"
+      ],
+      "pendencias": [
+        "PC-018",
+        "PC-019"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Mulher originada do braço de Tauro",
+      "destino": "Personagens/Mulher originada do braco",
+      "arquivo": "Personagens/Mulher originada do braco.md",
+      "fontes": [
+        "G",
+        "T18"
+      ],
+      "pendencias": [
+        "PC-019"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Mulher possuída da caravana",
+      "destino": "Personagens/Mulher possuida da caravana",
+      "arquivo": "Personagens/Mulher possuida da caravana.md",
+      "fontes": [
+        "G"
+      ],
+      "pendencias": [
+        "PC-020"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Taverneira de Eral",
+      "destino": "Personagens/Taverneira de Eral",
+      "arquivo": "Personagens/Taverneira de Eral.md",
+      "fontes": [
+        "G",
+        "H",
+        "T16"
+      ],
+      "pendencias": [
+        "PC-024"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Kenku caolho",
+      "destino": "Personagens/Kenku caolho",
+      "arquivo": "Personagens/Kenku caolho.md",
+      "fontes": [
+        "H",
+        "T16",
+        "T18"
+      ],
+      "pendencias": [
+        "PC-029"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Gnoll sobrevivente",
+      "destino": "Personagens/Gnoll sobrevivente",
+      "arquivo": "Personagens/Gnoll sobrevivente.md",
+      "fontes": [
+        "H",
+        "G"
+      ],
+      "pendencias": [],
+      "extra": false
+    },
+    {
+      "nome": "Dríade do cajado de girassol",
+      "destino": "Personagens/Driade do cajado de girassol",
+      "arquivo": "Personagens/Driade do cajado de girassol.md",
+      "fontes": [
+        "T25",
+        "J",
+        "H"
+      ],
+      "pendencias": [
+        "PC-005"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Furion",
+      "destino": "Personagens/Furion",
+      "arquivo": "Personagens/Furion.md",
+      "fontes": [
+        "PH",
+        "F"
+      ],
+      "pendencias": [
+        "PC-039"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Beholder da biblioteca",
+      "destino": "Personagens/Beholder da biblioteca",
+      "arquivo": "Personagens/Beholder da biblioteca.md",
+      "fontes": [
+        "F",
+        "H"
+      ],
+      "pendencias": [
+        "PC-044"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Cérebro Ancião",
+      "destino": "Personagens/Cerebro Anciao",
+      "arquivo": "Personagens/Cerebro Anciao.md",
+      "fontes": [
+        "F",
+        "PH",
+        "H",
+        "T25"
+      ],
+      "pendencias": [
+        "PC-008"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Cavaleiro da Morte",
+      "destino": "Personagens/Cavaleiro da Morte",
+      "arquivo": "Personagens/Cavaleiro da Morte.md",
+      "fontes": [
+        "F",
+        "J",
+        "H"
+      ],
+      "pendencias": [
+        "PC-034"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Mulher das memórias",
+      "destino": "Personagens/Mulher das memorias",
+      "arquivo": "Personagens/Mulher das memorias.md",
+      "fontes": [
+        "T25",
+        "H"
+      ],
+      "pendencias": [
+        "PC-004"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Chefe goblin",
+      "destino": "Personagens/Chefe goblin",
+      "arquivo": "Personagens/Chefe goblin.md",
+      "fontes": [
+        "H"
+      ],
+      "pendencias": [
+        "PC-045"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Kord",
+      "destino": "Personagens/Kord",
+      "arquivo": "Personagens/Kord.md",
+      "fontes": [
+        "G",
+        "T23",
+        "H"
+      ],
+      "pendencias": [
+        "PC-012",
+        "PC-013",
+        "PC-046"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Hextor",
+      "destino": "Personagens/Hextor",
+      "arquivo": "Personagens/Hextor.md",
+      "fontes": [
+        "T23",
+        "H"
+      ],
+      "pendencias": [
+        "PC-012"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Silvanus",
+      "destino": "Personagens/Silvanus",
+      "arquivo": "Personagens/Silvanus.md",
+      "fontes": [
+        "F",
+        "J",
+        "PH"
+      ],
+      "pendencias": [
+        "PC-005",
+        "PC-039"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Lolth",
+      "destino": "Personagens/Lolth",
+      "arquivo": "Personagens/Lolth.md",
+      "fontes": [
+        "F"
+      ],
+      "pendencias": [],
+      "extra": false
+    },
+    {
+      "nome": "Pelor",
+      "destino": "Personagens/Pelor",
+      "arquivo": "Personagens/Pelor.md",
+      "fontes": [
+        "G"
+      ],
+      "pendencias": [
+        "PC-014",
+        "PC-046"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Vyrix",
+      "destino": "Personagens/Vyrix",
+      "arquivo": "Personagens/Vyrix.md",
+      "fontes": [
+        "H"
+      ],
+      "pendencias": [
+        "PC-043"
+      ],
+      "extra": false
+    },
+    {
+      "nome": "Filipe Vander — contato no sonho",
+      "destino": "Personagens/Filipe Vander",
+      "arquivo": "Personagens/Filipe Vander.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Billy — guarda do sonho",
+      "destino": "Personagens/Billy",
+      "arquivo": "Personagens/Billy.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Thorn / Thorne — clérigo do sonho",
+      "destino": "Personagens/Thorn do sonho",
+      "arquivo": "Personagens/Thorn do sonho.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Sandro — membro do quartel no sonho",
+      "destino": "Personagens/Sandro",
+      "arquivo": "Personagens/Sandro.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Carlos — guarda do sonho de Fash",
+      "destino": "Personagens/Carlos guarda do sonho",
+      "arquivo": "Personagens/Carlos guarda do sonho.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Roger — taverneiro anão do sonho",
+      "destino": "Personagens/Roger taverneiro do sonho",
+      "arquivo": "Personagens/Roger taverneiro do sonho.md",
+      "fontes": [
+        "F",
+        "H",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Roger Cangles — nome da prova da ira",
+      "destino": "Personagens/Roger Cangles",
+      "arquivo": "Personagens/Roger Cangles.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Taruk — líder relatado no sonho",
+      "destino": "Personagens/Taruk",
+      "arquivo": "Personagens/Taruk.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Mendrik Daergel — background de Tinkar",
+      "destino": "Personagens/Mendrik Daergel",
+      "arquivo": "Personagens/Mendrik Daergel.md",
+      "fontes": [
+        "F",
+        "FA",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "background_continuidade_pendente",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Felbira Daergel — background de Tinkar",
+      "destino": "Personagens/Felbira Daergel",
+      "arquivo": "Personagens/Felbira Daergel.md",
+      "fontes": [
+        "F",
+        "FA",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "background_continuidade_pendente",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Rask — cobrador do background de Fash",
+      "destino": "Personagens/Rask",
+      "arquivo": "Personagens/Rask.md",
+      "fontes": [
+        "F",
+        "FA",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "background_continuidade_pendente",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Jorven — ferreiro do background de Fash",
+      "destino": "Personagens/Jorven",
+      "arquivo": "Personagens/Jorven.md",
+      "fontes": [
+        "F",
+        "FA",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "background_continuidade_pendente",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Pai de Glim e Lilo",
+      "destino": "Personagens/Pai de Glim",
+      "arquivo": "Personagens/Pai de Glim.md",
+      "fontes": [
+        "B",
+        "J"
+      ],
+      "pendencias": [
+        "PC-042"
+      ],
+      "extra": true,
+      "estatuto": "material_com_perspectiva",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Mãe de Glim e Lilo",
+      "destino": "Personagens/Mae de Glim",
+      "arquivo": "Personagens/Mae de Glim.md",
+      "fontes": [
+        "B",
+        "J"
+      ],
+      "pendencias": [
+        "PC-042"
+      ],
+      "extra": true,
+      "estatuto": "material_com_perspectiva",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Lamassu ligado a Tauro",
+      "destino": "Personagens/Lamassu",
+      "arquivo": "Personagens/Lamassu.md",
+      "fontes": [
+        "G"
+      ],
+      "pendencias": [
+        "PC-018"
+      ],
+      "extra": true,
+      "estatuto": "material_em_cena",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Aboleth da mansão do prefeito",
+      "destino": "Personagens/Aboleth da mansao",
+      "arquivo": "Personagens/Aboleth da mansao.md",
+      "fontes": [
+        "G",
+        "T16"
+      ],
+      "pendencias": [
+        "PC-016",
+        "PC-017"
+      ],
+      "extra": true,
+      "estatuto": "material_relato_de_desfecho",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Lirista espectral da viagem de volta",
+      "destino": "Personagens/Lirista espectral",
+      "arquivo": "Personagens/Lirista espectral.md",
+      "fontes": [
+        "T18",
+        "G"
+      ],
+      "pendencias": [],
+      "extra": true,
+      "estatuto": "material_em_cena",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Mulher da Lua Sangrenta",
+      "destino": "Personagens/Mulher da Lua Sangrenta",
+      "arquivo": "Personagens/Mulher da Lua Sangrenta.md",
+      "fontes": [
+        "T25",
+        "T24",
+        "H"
+      ],
+      "pendencias": [
+        "FC-014"
+      ],
+      "extra": true,
+      "estatuto": "contato_recordado",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    }
+  ],
+  "pendencias": [
+    {
+      "id": "PC-001",
+      "destino": "Pendencias/Personagens/PC-001 - Fash no presente",
+      "titulo": "Fash no presente",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Fash Paleskin",
+        "Faccoes/Ebano"
+      ]
+    },
+    {
+      "id": "PC-002",
+      "destino": "Pendencias/Personagens/PC-002 - Continuidade de Tinkar e passado de Fash",
+      "titulo": "Continuidade de Tinkar e passado de Fash",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Fash Paleskin"
+      ]
+    },
+    {
+      "id": "PC-003",
+      "destino": "Pendencias/Personagens/PC-003 - Ascendência de Okay",
+      "titulo": "Ascendência de Okay",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Okay dBoa"
+      ]
+    },
+    {
+      "id": "PC-004",
+      "destino": "Pendencias/Personagens/PC-004 - Memórias e vidas de Okay",
+      "titulo": "Memórias e vidas de Okay",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Okay dBoa",
+        "Personagens/Kael",
+        "Personagens/Mulher das memorias",
+        "Faccoes/Zodiacos"
+      ]
+    },
+    {
+      "id": "PC-005",
+      "destino": "Pendencias/Personagens/PC-005 - Timo entre morte planta e cajado",
+      "titulo": "Timo entre morte planta e cajado",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Timo",
+        "Personagens/Driade do cajado de girassol",
+        "Itens/Cajado de girassol"
+      ]
+    },
+    {
+      "id": "PC-006",
+      "destino": "Pendencias/Personagens/PC-006 - Timo Pé-de-Musgo Fesh e versões antigas",
+      "titulo": "Timo Pé-de-Musgo Fesh e versões antigas",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Timo",
+        "Personagens/Fash Paleskin"
+      ]
+    },
+    {
+      "id": "PC-007",
+      "destino": "Pendencias/Personagens/PC-007 - Firael e o reconhecimento de Okay",
+      "titulo": "Firael e o reconhecimento de Okay",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Firael",
+        "Personagens/Okay dBoa",
+        "Itens/Mapas e pergaminhos de Firael"
+      ]
+    },
+    {
+      "id": "PC-008",
+      "destino": "Pendencias/Personagens/PC-008 - Condição pessoal do Cérebro",
+      "titulo": "Condição pessoal do Cérebro",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Cerebro Anciao",
+        "Personagens/Firael"
+      ]
+    },
+    {
+      "id": "PC-009",
+      "destino": "Pendencias/Personagens/PC-009 - Responsabilidade pelas mortes de Lilo e Piche",
+      "titulo": "Responsabilidade pelas mortes de Lilo e Piche",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Glim Sombrasselva",
+        "Personagens/Lilo Sombrasselva",
+        "Personagens/Piche",
+        "Itens/Grimorio de Glim"
+      ]
+    },
+    {
+      "id": "PC-010",
+      "destino": "Pendencias/Personagens/PC-010 - Identidade da sombra de Lilo",
+      "titulo": "Identidade da sombra de Lilo",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Lilo Sombrasselva",
+        "Personagens/Glim Sombrasselva",
+        "Personagens/Crave"
+      ]
+    },
+    {
+      "id": "PC-011",
+      "destino": "Pendencias/Personagens/PC-011 - Memória juvenil da runa e destino de Piche",
+      "titulo": "Memória juvenil da runa e destino de Piche",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Glim Sombrasselva",
+        "Personagens/Piche",
+        "Personagens/Lilo Sombrasselva"
+      ]
+    },
+    {
+      "id": "PC-012",
+      "destino": "Pendencias/Personagens/PC-012 - Crave após as provações",
+      "titulo": "Crave após as provações",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Crave",
+        "Personagens/Kord",
+        "Itens/Amuleto de Kord"
+      ]
+    },
+    {
+      "id": "PC-013",
+      "destino": "Pendencias/Personagens/PC-013 - Rudiger e a figura do prelúdio",
+      "titulo": "Rudiger e a figura do prelúdio",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Rudiger",
+        "Personagens/Kord",
+        "Personagens/Crave"
+      ]
+    },
+    {
+      "id": "PC-014",
+      "destino": "Pendencias/Personagens/PC-014 - Ryld luz e inspeção",
+      "titulo": "Ryld luz e inspeção",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Ryld",
+        "Personagens/Pelor"
+      ]
+    },
+    {
+      "id": "PC-015",
+      "destino": "Pendencias/Personagens/PC-015 - Arkhavel e retorno",
+      "titulo": "Arkhavel e retorno",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Arkhavel",
+        "Personagens/Donovan",
+        "Personagens/Filho de Arkhavel ligado ao prefeito"
+      ]
+    },
+    {
+      "id": "PC-016",
+      "destino": "Pendencias/Personagens/PC-016 - Kuat filho e destino do interrogado",
+      "titulo": "Kuat filho e destino do interrogado",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Kuat",
+        "Personagens/Filho de Arkhavel ligado ao prefeito",
+        "Personagens/Prefeito humano de Eral",
+        "Personagens/Donovan"
+      ]
+    },
+    {
+      "id": "PC-017",
+      "destino": "Pendencias/Personagens/PC-017 - Donovan",
+      "titulo": "Donovan",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Donovan",
+        "Personagens/Arkhavel"
+      ]
+    },
+    {
+      "id": "PC-018",
+      "destino": "Pendencias/Personagens/PC-018 - Tauro suas almas e Lamassu",
+      "titulo": "Tauro suas almas e Lamassu",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Tauro",
+        "Personagens/Mulher originada do braco",
+        "Personagens/Arkhavel"
+      ]
+    },
+    {
+      "id": "PC-019",
+      "destino": "Pendencias/Personagens/PC-019 - Identidade da mulher do braço",
+      "titulo": "Identidade da mulher do braço",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Mulher originada do braco",
+        "Personagens/Tauro"
+      ]
+    },
+    {
+      "id": "PC-020",
+      "destino": "Pendencias/Personagens/PC-020 - Mulher possuída da caravana",
+      "titulo": "Mulher possuída da caravana",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Mulher possuida da caravana",
+        "Personagens/Teodoron Talent",
+        "Personagens/Arkhavel"
+      ]
+    },
+    {
+      "id": "PC-021",
+      "destino": "Pendencias/Personagens/PC-021 - Morte e família de Carlos carpinteiro",
+      "titulo": "Morte e família de Carlos carpinteiro",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Carlos carpinteiro",
+        "Personagens/Aurel Vesperal"
+      ]
+    },
+    {
+      "id": "PC-022",
+      "destino": "Pendencias/Personagens/PC-022 - Cadáver de Carlos guarda",
+      "titulo": "Cadáver de Carlos guarda",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Carlos guarda",
+        "Personagens/Firael"
+      ]
+    },
+    {
+      "id": "PC-023",
+      "destino": "Pendencias/Personagens/PC-023 - Vesperal e a encomenda",
+      "titulo": "Vesperal e a encomenda",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Aurel Vesperal",
+        "Personagens/Carlos carpinteiro",
+        "Itens/Pergaminho do anjo"
+      ]
+    },
+    {
+      "id": "PC-024",
+      "destino": "Pendencias/Personagens/PC-024 - Taverneira nome e comunicação",
+      "titulo": "Taverneira nome e comunicação",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Taverneira de Eral",
+        "Personagens/Glim Sombrasselva",
+        "Personagens/Crave",
+        "Personagens/Okay dBoa"
+      ]
+    },
+    {
+      "id": "PC-025",
+      "destino": "Pendencias/Personagens/PC-025 - Destino de Tólomon",
+      "titulo": "Destino de Tólomon",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Tolomon"
+      ]
+    },
+    {
+      "id": "PC-026",
+      "destino": "Pendencias/Personagens/PC-026 - Rangers desaparecidos",
+      "titulo": "Rangers desaparecidos",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Folha-Seca",
+        "Personagens/Hanta"
+      ]
+    },
+    {
+      "id": "PC-027",
+      "destino": "Pendencias/Personagens/PC-027 - Amiga de Folha-Seca",
+      "titulo": "Amiga de Folha-Seca",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Folha-Seca"
+      ]
+    },
+    {
+      "id": "PC-028",
+      "destino": "Pendencias/Personagens/PC-028 - Silthan e os proprietários",
+      "titulo": "Silthan e os proprietários",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Silthan"
+      ]
+    },
+    {
+      "id": "PC-029",
+      "destino": "Pendencias/Personagens/PC-029 - Kenku caolho",
+      "titulo": "Kenku caolho",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Kenku caolho",
+        "Personagens/Tork"
+      ]
+    },
+    {
+      "id": "PC-030",
+      "destino": "Pendencias/Personagens/PC-030 - Tariun e a tarefa da montanha",
+      "titulo": "Tariun e a tarefa da montanha",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Tariun",
+        "Personagens/Crave",
+        "Personagens/Glim Sombrasselva",
+        "Personagens/Okay dBoa"
+      ]
+    },
+    {
+      "id": "PC-031",
+      "destino": "Pendencias/Personagens/PC-031 - Colegas de Okay e mestre desaparecido",
+      "titulo": "Colegas de Okay e mestre desaparecido",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Tahen",
+        "Personagens/Elrohir",
+        "Personagens/Okay dBoa"
+      ]
+    },
+    {
+      "id": "PC-032",
+      "destino": "Pendencias/Personagens/PC-032 - Bruxas sobreviventes e Elena",
+      "titulo": "Bruxas sobreviventes e Elena",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Morvessh",
+        "Personagens/Selara",
+        "Personagens/Lyvessa",
+        "Personagens/Elena"
+      ]
+    },
+    {
+      "id": "PC-033",
+      "destino": "Pendencias/Personagens/PC-033 - Grixxian e a camada do sonho",
+      "titulo": "Grixxian e a camada do sonho",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Grixxian",
+        "Personagens/Elena",
+        "Personagens/Morvessh"
+      ]
+    },
+    {
+      "id": "PC-034",
+      "destino": "Pendencias/Personagens/PC-034 - Necromante Lídia e Cavaleiro",
+      "titulo": "Necromante Lídia e Cavaleiro",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Necromante",
+        "Personagens/Lidia",
+        "Personagens/Cavaleiro da Morte"
+      ]
+    },
+    {
+      "id": "PC-035",
+      "destino": "Pendencias/Personagens/PC-035 - Anão guardião real e família",
+      "titulo": "Anão guardião real e família",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Anao guardiao",
+        "Personagens/Druida Sangrento"
+      ]
+    },
+    {
+      "id": "PC-036",
+      "destino": "Pendencias/Personagens/PC-036 - Dragão negro no presente",
+      "titulo": "Dragão negro no presente",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Dragao negro",
+        "Personagens/Kael",
+        "Personagens/Firael"
+      ]
+    },
+    {
+      "id": "PC-037",
+      "destino": "Pendencias/Personagens/PC-037 - Hourian Haurim e revoada",
+      "titulo": "Hourian Haurim e revoada",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Hourian Haurim"
+      ]
+    },
+    {
+      "id": "PC-038",
+      "destino": "Pendencias/Personagens/PC-038 - Cogu e Rake",
+      "titulo": "Cogu e Rake",
+      "prioridade": "baixa",
+      "entidades": [
+        "Personagens/Cogu",
+        "Personagens/Rake",
+        "Personagens/Timo"
+      ]
+    },
+    {
+      "id": "PC-039",
+      "destino": "Pendencias/Personagens/PC-039 - Furion e documento de continuidade",
+      "titulo": "Furion e documento de continuidade",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Furion"
+      ]
+    },
+    {
+      "id": "PC-040",
+      "destino": "Pendencias/Personagens/PC-040 - Sobreviventes da Roda de Estopa",
+      "titulo": "Sobreviventes da Roda de Estopa",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Brakka Pedramansa",
+        "Personagens/Dornal",
+        "Personagens/Harlom Vinte-E-Dois",
+        "Personagens/Rumo",
+        "Personagens/Miri"
+      ]
+    },
+    {
+      "id": "PC-041",
+      "destino": "Pendencias/Personagens/PC-041 - Varo e o assassino de Tom",
+      "titulo": "Varo e o assassino de Tom",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Varo",
+        "Personagens/Tom do Cesto",
+        "Personagens/Glim Sombrasselva"
+      ]
+    },
+    {
+      "id": "PC-042",
+      "destino": "Pendencias/Personagens/PC-042 - Família e aldeia de Glim",
+      "titulo": "Família e aldeia de Glim",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Nina",
+        "Personagens/Glim Sombrasselva",
+        "Lugares/Aldeia natal de Glim"
+      ]
+    },
+    {
+      "id": "PC-043",
+      "destino": "Pendencias/Personagens/PC-043 - Vyrix",
+      "titulo": "Vyrix",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Vyrix",
+        "Personagens/Folha-Seca"
+      ]
+    },
+    {
+      "id": "PC-044",
+      "destino": "Pendencias/Personagens/PC-044 - Beholder da biblioteca",
+      "titulo": "Beholder da biblioteca",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Beholder da biblioteca",
+        "Personagens/Firael"
+      ]
+    },
+    {
+      "id": "PC-045",
+      "destino": "Pendencias/Personagens/PC-045 - Chefe goblin e origem da doença",
+      "titulo": "Chefe goblin e origem da doença",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Chefe goblin"
+      ]
+    },
+    {
+      "id": "PC-046",
+      "destino": "Pendencias/Personagens/PC-046 - Poderes e identificação divina",
+      "titulo": "Poderes e identificação divina",
+      "prioridade": "alta",
+      "entidades": [
+        "Personagens/Okay dBoa",
+        "Personagens/Glim Sombrasselva",
+        "Personagens/Ryld",
+        "Personagens/Kord",
+        "Personagens/Pelor"
+      ]
+    },
+    {
+      "id": "PC-047",
+      "destino": "Pendencias/Personagens/PC-047 - Resposta do duque e prefeito humano",
+      "titulo": "Resposta do duque e prefeito humano",
+      "prioridade": "media",
+      "entidades": [
+        "Personagens/Teodoron Talent",
+        "Personagens/Prefeito humano de Eral"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "nome": "Filipe Vander — contato no sonho",
+      "destino": "Personagens/Filipe Vander",
+      "arquivo": "Personagens/Filipe Vander.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Billy — guarda do sonho",
+      "destino": "Personagens/Billy",
+      "arquivo": "Personagens/Billy.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Thorn / Thorne — clérigo do sonho",
+      "destino": "Personagens/Thorn do sonho",
+      "arquivo": "Personagens/Thorn do sonho.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Sandro — membro do quartel no sonho",
+      "destino": "Personagens/Sandro",
+      "arquivo": "Personagens/Sandro.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Carlos — guarda do sonho de Fash",
+      "destino": "Personagens/Carlos guarda do sonho",
+      "arquivo": "Personagens/Carlos guarda do sonho.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Roger — taverneiro anão do sonho",
+      "destino": "Personagens/Roger taverneiro do sonho",
+      "arquivo": "Personagens/Roger taverneiro do sonho.md",
+      "fontes": [
+        "F",
+        "H",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Roger Cangles — nome da prova da ira",
+      "destino": "Personagens/Roger Cangles",
+      "arquivo": "Personagens/Roger Cangles.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Taruk — líder relatado no sonho",
+      "destino": "Personagens/Taruk",
+      "arquivo": "Personagens/Taruk.md",
+      "fontes": [
+        "F",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "onirico",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Mendrik Daergel — background de Tinkar",
+      "destino": "Personagens/Mendrik Daergel",
+      "arquivo": "Personagens/Mendrik Daergel.md",
+      "fontes": [
+        "F",
+        "FA",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "background_continuidade_pendente",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Felbira Daergel — background de Tinkar",
+      "destino": "Personagens/Felbira Daergel",
+      "arquivo": "Personagens/Felbira Daergel.md",
+      "fontes": [
+        "F",
+        "FA",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "background_continuidade_pendente",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Rask — cobrador do background de Fash",
+      "destino": "Personagens/Rask",
+      "arquivo": "Personagens/Rask.md",
+      "fontes": [
+        "F",
+        "FA",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "background_continuidade_pendente",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Jorven — ferreiro do background de Fash",
+      "destino": "Personagens/Jorven",
+      "arquivo": "Personagens/Jorven.md",
+      "fontes": [
+        "F",
+        "FA",
+        "J"
+      ],
+      "pendencias": [
+        "PC-002",
+        "EV-003",
+        "LG-014"
+      ],
+      "extra": true,
+      "estatuto": "background_continuidade_pendente",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Pai de Glim e Lilo",
+      "destino": "Personagens/Pai de Glim",
+      "arquivo": "Personagens/Pai de Glim.md",
+      "fontes": [
+        "B",
+        "J"
+      ],
+      "pendencias": [
+        "PC-042"
+      ],
+      "extra": true,
+      "estatuto": "material_com_perspectiva",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Mãe de Glim e Lilo",
+      "destino": "Personagens/Mae de Glim",
+      "arquivo": "Personagens/Mae de Glim.md",
+      "fontes": [
+        "B",
+        "J"
+      ],
+      "pendencias": [
+        "PC-042"
+      ],
+      "extra": true,
+      "estatuto": "material_com_perspectiva",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Lamassu ligado a Tauro",
+      "destino": "Personagens/Lamassu",
+      "arquivo": "Personagens/Lamassu.md",
+      "fontes": [
+        "G"
+      ],
+      "pendencias": [
+        "PC-018"
+      ],
+      "extra": true,
+      "estatuto": "material_em_cena",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Aboleth da mansão do prefeito",
+      "destino": "Personagens/Aboleth da mansao",
+      "arquivo": "Personagens/Aboleth da mansao.md",
+      "fontes": [
+        "G",
+        "T16"
+      ],
+      "pendencias": [
+        "PC-016",
+        "PC-017"
+      ],
+      "extra": true,
+      "estatuto": "material_relato_de_desfecho",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Lirista espectral da viagem de volta",
+      "destino": "Personagens/Lirista espectral",
+      "arquivo": "Personagens/Lirista espectral.md",
+      "fontes": [
+        "T18",
+        "G"
+      ],
+      "pendencias": [],
+      "extra": true,
+      "estatuto": "material_em_cena",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    },
+    {
+      "nome": "Mulher da Lua Sangrenta",
+      "destino": "Personagens/Mulher da Lua Sangrenta",
+      "arquivo": "Personagens/Mulher da Lua Sangrenta.md",
+      "fontes": [
+        "T25",
+        "T24",
+        "H"
+      ],
+      "pendencias": [
+        "FC-014"
+      ],
+      "extra": true,
+      "estatuto": "contato_recordado",
+      "justificativa": "Complemento nominal solicitado pelo integrador; evidência citada na nota, sem nova identificação material por associação."
+    }
+  ],
+  "fontes_realmente_consultadas": [
+    {
+      "destino": "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre",
+      "alcance": "Leitura do handoff, com seções de correções, história antiga, pessoas, magia e mistérios; algumas notas curtas dependem somente desta síntese e dizem isso."
+    },
+    {
+      "destino": "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim",
+      "alcance": "Texto integral dos esclarecimentos do jogador de 23/10/2026."
+    },
+    {
+      "destino": "Fontes/Documentos/Diario - Fash Paleskin",
+      "alcance": "Passagens da abertura/Dia 45 e solo dos 45 dias; 08/02 a 10/01; 01/12, solo 02/12, 28/11, 07/11, 31/10 e 25/10; busca textual seletiva de nomes e datas. Complemento: leitura direta de 11/09, 20/09, 24/09, 01/10, 06/10, 13/10, prova da ira de 18/08 e BACKGROUND/HOJE para personagens do sonho e família Daergel."
+    },
+    {
+      "destino": "Fontes/Documentos/Background - Glim Sombrasselva",
+      "alcance": "Ato 1 e acolhimento do ato 2; passagens de Harlom, Rumo/Miri, crise e perda de Brakka, Varo, morte de Tom e retorno à aldeia; busca textual para nomes e destinos."
+    },
+    {
+      "destino": "Fontes/Documentos/Diario - Glim Sombrasselva",
+      "alcance": "Passagens S1–S3 de caravana, contrato, Tauro e mulher; S11/S12–S13 sobre prefeito/Kuat; trecho S17 de Tólomon, amuleto e Rudiger; buscas textuais seletivas. Complemento: leitura direta de S3–S4 para encontro e diagnóstico do Lamassu, S12 para Aboleth e S18 para identificação e fuga do lirista."
+    },
+    {
+      "destino": "Fontes/Documentos/Dossie de personagem - Okay dBoa",
+      "alcance": "Identidade/ascendência e início familiar; 7.10 sobre Kuat e interrogatório. Dossiê tratado como fonte derivada e interpretação a revisar."
+    },
+    {
+      "destino": "Fontes/Documentos/Personagens e Herois",
+      "alcance": "Texto integral; marcado revisar_continuidade. Furion é atestado apenas como menção dessa fonte; nomes próprios adicionais não foram promovidos."
+    },
+    {
+      "destino": "Fontes/Documentos/Resumo detalhado",
+      "alcance": "Introdução, personagens e passagens recuperadas por busca sobre Timo Pé-de-Musgo, Fesh, datas e arcos. Fonte derivada não reconciliada."
+    },
+    {
+      "destino": "Fontes/Vault/Vault - Fash Paleskin",
+      "alcance": "Texto integral da nota de background de Fash/Tinkar no vault, em revisão de continuidade."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27",
+      "alcance": "Passagens sobre Tork, represálias, emboscadas, relato da morte do prefeito/Kuat e financiadores da arena; busca seletiva."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05",
+      "alcance": "Passagens 00:34 e 01:17–01:30 sobre ausência de Arkhavel, filhos, cartas, Ébano e avaliações; busca seletiva."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25",
+      "alcance": "Passagens 01:08–01:18: ataque, Tork, clérigos, ausência de rangers, mensagem Kenku, Tauro e menina morta. Complemento: 00:22–00:25 e 00:58–01:01 sobre aparência, habilidades, identificação e história não individualizada do lirista."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02",
+      "alcance": "Passagens 00:08–00:15: retorno de Ryld, contratos planares e escaravelhos."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 21 - 2026-09-13",
+      "alcance": "Passagens recuperadas por pesquisa sobre símbolos, runa e memória juvenil; não leitura integral."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27",
+      "alcance": "Recapitulação 00:07–00:17, identificação de Hextor e 03:46–03:47 da figura que recolhe o sacerdote; pesquisa seletiva."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30",
+      "alcance": "Passagens 01:57–02:26 sobre Tahen e professor desaparecido; 03:03–03:05 sobre manifestação e função do familiar; busca seletiva de sombras. Complemento: 01:20–01:21 sobre Lua Sangrenta como organização distinta da Noite Eterna."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05",
+      "alcance": "Passagens 00:40 do cajado, 01:34–01:40 da memória/mortes/Firael/Cérebro, 01:49–01:56 das motivações e Timo/cajado, 02:19–02:21 do roubo ao dragão, atualização do familiar e ausência de Arkhavel; busca seletiva. Complemento: 01:42–01:43 sobre lembrança da mulher da Lua Sangrenta e boatos anteriores de vampiros."
+    },
+    {
+      "destino": "Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20",
+      "alcance": "Passagens 00:19–00:20 do nome e semelhança de Carlos, 02:39–02:48 de corpo/mesa/hidromel e encerramento; busca seletiva de Vesperal/Carlos."
+    }
+  ],
+  "limites": [
+    "Não houve leitura integral de todas as transcrições ou do diário de Glim. Cada síntese não reaberta é identificada como proveniente do handoff.",
+    "Não foram consultados documentos externos nem lore de D&D; links remotos preservados nas fontes não foram abertos.",
+    "Fesh, nomes expandidos de Hourian e do Cérebro, família Velkyn e nomes de organizações presentes em documentos revisar_continuidade não receberam aliases canônicos.",
+    "A sobrevivência individual de participantes do circo, rangers, Tólomon e Kenku caolho não foi deduzida de destinos coletivos.",
+    "Nenhum arquivo de fontes, sessões, anexos, índices ou cadastro comum foi alterado por este script.",
+    "O complemento nominal acrescenta 18 notas; figuras do sonho e do background antigo conservam estatuto onírico ou continuidade pendente. Tareksin, anjos e emissário de Hextor ainda não têm notas próprias neste domínio."
+  ],
+  "escritas": [
+    "conteudo/Personagens/Fash Paleskin.md",
+    "conteudo/Personagens/Glim Sombrasselva.md",
+    "conteudo/Personagens/Okay dBoa.md",
+    "conteudo/Personagens/Kael.md",
+    "conteudo/Personagens/Crave.md",
+    "conteudo/Personagens/Ryld.md",
+    "conteudo/Personagens/Arkhavel.md",
+    "conteudo/Personagens/Timo.md",
+    "conteudo/Personagens/Firael.md",
+    "conteudo/Personagens/Rake.md",
+    "conteudo/Personagens/Elena.md",
+    "conteudo/Personagens/Morvessh.md",
+    "conteudo/Personagens/Selara.md",
+    "conteudo/Personagens/Lyvessa.md",
+    "conteudo/Personagens/Grixxian.md",
+    "conteudo/Personagens/Lidia.md",
+    "conteudo/Personagens/Necromante.md",
+    "conteudo/Personagens/Druida Sangrento.md",
+    "conteudo/Personagens/Cogu.md",
+    "conteudo/Personagens/Anao guardiao.md",
+    "conteudo/Personagens/Dragao negro.md",
+    "conteudo/Personagens/Hourian Haurim.md",
+    "conteudo/Personagens/Tork.md",
+    "conteudo/Personagens/Folha-Seca.md",
+    "conteudo/Personagens/Hanta.md",
+    "conteudo/Personagens/Tolomon.md",
+    "conteudo/Personagens/Tariun.md",
+    "conteudo/Personagens/Rudiger.md",
+    "conteudo/Personagens/Lilo Sombrasselva.md",
+    "conteudo/Personagens/Piche.md",
+    "conteudo/Personagens/Brakka Pedramansa.md",
+    "conteudo/Personagens/Dornal.md",
+    "conteudo/Personagens/Harlom Vinte-E-Dois.md",
+    "conteudo/Personagens/Rumo.md",
+    "conteudo/Personagens/Miri.md",
+    "conteudo/Personagens/Varo.md",
+    "conteudo/Personagens/Tom do Cesto.md",
+    "conteudo/Personagens/Nina.md",
+    "conteudo/Personagens/Tahen.md",
+    "conteudo/Personagens/Elrohir.md",
+    "conteudo/Personagens/Aurel Vesperal.md",
+    "conteudo/Personagens/Carlos carpinteiro.md",
+    "conteudo/Personagens/Carlos guarda.md",
+    "conteudo/Personagens/Silthan.md",
+    "conteudo/Personagens/Teodoron Talent.md",
+    "conteudo/Personagens/Kuat.md",
+    "conteudo/Personagens/Donovan.md",
+    "conteudo/Personagens/Filho de Arkhavel ligado ao prefeito.md",
+    "conteudo/Personagens/Prefeito humano de Eral.md",
+    "conteudo/Personagens/Tauro.md",
+    "conteudo/Personagens/Mulher originada do braco.md",
+    "conteudo/Personagens/Mulher possuida da caravana.md",
+    "conteudo/Personagens/Taverneira de Eral.md",
+    "conteudo/Personagens/Kenku caolho.md",
+    "conteudo/Personagens/Gnoll sobrevivente.md",
+    "conteudo/Personagens/Driade do cajado de girassol.md",
+    "conteudo/Personagens/Furion.md",
+    "conteudo/Personagens/Beholder da biblioteca.md",
+    "conteudo/Personagens/Cerebro Anciao.md",
+    "conteudo/Personagens/Cavaleiro da Morte.md",
+    "conteudo/Personagens/Mulher das memorias.md",
+    "conteudo/Personagens/Chefe goblin.md",
+    "conteudo/Personagens/Kord.md",
+    "conteudo/Personagens/Hextor.md",
+    "conteudo/Personagens/Silvanus.md",
+    "conteudo/Personagens/Lolth.md",
+    "conteudo/Personagens/Pelor.md",
+    "conteudo/Personagens/Vyrix.md",
+    "conteudo/Pendencias/Personagens/PC-001 - Fash no presente.md",
+    "conteudo/Pendencias/Personagens/PC-002 - Continuidade de Tinkar e passado de Fash.md",
+    "conteudo/Pendencias/Personagens/PC-003 - Ascendência de Okay.md",
+    "conteudo/Pendencias/Personagens/PC-004 - Memórias e vidas de Okay.md",
+    "conteudo/Pendencias/Personagens/PC-005 - Timo entre morte planta e cajado.md",
+    "conteudo/Pendencias/Personagens/PC-006 - Timo Pé-de-Musgo Fesh e versões antigas.md",
+    "conteudo/Pendencias/Personagens/PC-007 - Firael e o reconhecimento de Okay.md",
+    "conteudo/Pendencias/Personagens/PC-008 - Condição pessoal do Cérebro.md",
+    "conteudo/Pendencias/Personagens/PC-009 - Responsabilidade pelas mortes de Lilo e Piche.md",
+    "conteudo/Pendencias/Personagens/PC-010 - Identidade da sombra de Lilo.md",
+    "conteudo/Pendencias/Personagens/PC-011 - Memória juvenil da runa e destino de Piche.md",
+    "conteudo/Pendencias/Personagens/PC-012 - Crave após as provações.md",
+    "conteudo/Pendencias/Personagens/PC-013 - Rudiger e a figura do prelúdio.md",
+    "conteudo/Pendencias/Personagens/PC-014 - Ryld luz e inspeção.md",
+    "conteudo/Pendencias/Personagens/PC-015 - Arkhavel e retorno.md",
+    "conteudo/Pendencias/Personagens/PC-016 - Kuat filho e destino do interrogado.md",
+    "conteudo/Pendencias/Personagens/PC-017 - Donovan.md",
+    "conteudo/Pendencias/Personagens/PC-018 - Tauro suas almas e Lamassu.md",
+    "conteudo/Pendencias/Personagens/PC-019 - Identidade da mulher do braço.md",
+    "conteudo/Pendencias/Personagens/PC-020 - Mulher possuída da caravana.md",
+    "conteudo/Pendencias/Personagens/PC-021 - Morte e família de Carlos carpinteiro.md",
+    "conteudo/Pendencias/Personagens/PC-022 - Cadáver de Carlos guarda.md",
+    "conteudo/Pendencias/Personagens/PC-023 - Vesperal e a encomenda.md",
+    "conteudo/Pendencias/Personagens/PC-024 - Taverneira nome e comunicação.md",
+    "conteudo/Pendencias/Personagens/PC-025 - Destino de Tólomon.md",
+    "conteudo/Pendencias/Personagens/PC-026 - Rangers desaparecidos.md",
+    "conteudo/Pendencias/Personagens/PC-027 - Amiga de Folha-Seca.md",
+    "conteudo/Pendencias/Personagens/PC-028 - Silthan e os proprietários.md",
+    "conteudo/Pendencias/Personagens/PC-029 - Kenku caolho.md",
+    "conteudo/Pendencias/Personagens/PC-030 - Tariun e a tarefa da montanha.md",
+    "conteudo/Pendencias/Personagens/PC-031 - Colegas de Okay e mestre desaparecido.md",
+    "conteudo/Pendencias/Personagens/PC-032 - Bruxas sobreviventes e Elena.md",
+    "conteudo/Pendencias/Personagens/PC-033 - Grixxian e a camada do sonho.md",
+    "conteudo/Pendencias/Personagens/PC-034 - Necromante Lídia e Cavaleiro.md",
+    "conteudo/Pendencias/Personagens/PC-035 - Anão guardião real e família.md",
+    "conteudo/Pendencias/Personagens/PC-036 - Dragão negro no presente.md",
+    "conteudo/Pendencias/Personagens/PC-037 - Hourian Haurim e revoada.md",
+    "conteudo/Pendencias/Personagens/PC-038 - Cogu e Rake.md",
+    "conteudo/Pendencias/Personagens/PC-039 - Furion e documento de continuidade.md",
+    "conteudo/Pendencias/Personagens/PC-040 - Sobreviventes da Roda de Estopa.md",
+    "conteudo/Pendencias/Personagens/PC-041 - Varo e o assassino de Tom.md",
+    "conteudo/Pendencias/Personagens/PC-042 - Família e aldeia de Glim.md",
+    "conteudo/Pendencias/Personagens/PC-043 - Vyrix.md",
+    "conteudo/Pendencias/Personagens/PC-044 - Beholder da biblioteca.md",
+    "conteudo/Pendencias/Personagens/PC-045 - Chefe goblin e origem da doença.md",
+    "conteudo/Pendencias/Personagens/PC-046 - Poderes e identificação divina.md",
+    "conteudo/Pendencias/Personagens/PC-047 - Resposta do duque e prefeito humano.md",
+    "docs/enciclopedia/personagens.json",
+    "tools/consolidar_personagens.py",
+    "conteudo/Personagens/Filipe Vander.md",
+    "conteudo/Personagens/Billy.md",
+    "conteudo/Personagens/Thorn do sonho.md",
+    "conteudo/Personagens/Sandro.md",
+    "conteudo/Personagens/Carlos guarda do sonho.md",
+    "conteudo/Personagens/Roger taverneiro do sonho.md",
+    "conteudo/Personagens/Roger Cangles.md",
+    "conteudo/Personagens/Taruk.md",
+    "conteudo/Personagens/Mendrik Daergel.md",
+    "conteudo/Personagens/Felbira Daergel.md",
+    "conteudo/Personagens/Rask.md",
+    "conteudo/Personagens/Jorven.md",
+    "conteudo/Personagens/Pai de Glim.md",
+    "conteudo/Personagens/Mae de Glim.md",
+    "conteudo/Personagens/Lamassu.md",
+    "conteudo/Personagens/Aboleth da mansao.md",
+    "conteudo/Personagens/Lirista espectral.md",
+    "conteudo/Personagens/Mulher da Lua Sangrenta.md"
+  ]
+}

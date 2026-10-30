@@ -1,0 +1,33 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-001, PC-010, FC-001 e FC-016 tiveram as consultas encerradas com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os dez registros permanecem identificados neste documento, deixando 91 registros pendentes, sem nova solicitação de resposta nos itens encerrados.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-001, PC-010, PC-034, FC-001 e FC-016 tiveram as consultas encerradas com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os onze registros permanecem identificados neste documento, deixando 90 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Desconhecido"
+    },
+    {
+      "antes": "Referências: Diario - Fash Paleskin; Esclarecimentos do jogador (23/10/2026).",
+      "depois": "Referências: Diario - Fash Paleskin; Esclarecimentos do jogador (23/10/2026). Resposta do jogador (30/10/2026)."
+    },
+    {
+      "antes": "A completar: Qual foi o destino pessoal do Necromante e de Lídia? O Cavaleiro da Morte despertou e, se sim, agiu contra eles ou tomou a necrópole?",
+      "depois": "Consulta encerrada: Os destinos do Necromante e de Lídia são desconhecidos. O despertar do Cavaleiro da Morte, eventual ação contra os dois e tomada da necrópole não foram confirmados. Preservar os relatos e a hipótese condicional, sem nova pergunta aos jogadores neste item."
+    },
+    {
+      "antes": "PC-034 — Necromante Lídia e Cavaleiro",
+      "depois": "PC-034 — Necromante Lídia e Cavaleiro — CONSULTA ENCERRADA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-001, PC-010, PC-024, PC-040, FC-001 e FC-016 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 91 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-001, PC-010, PC-024, PC-034, PC-040, FC-001 e FC-016 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 90 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "consulta_encerrada_com_incertezas",
+  "pendencias_restantes": 90,
+  "demais_textos_preservados": true
+}

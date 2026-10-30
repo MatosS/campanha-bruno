@@ -1,0 +1,42 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Redencao de Crave e recuperacao do amuleto.md",
+  "fonte_nova_sha256": "8f3f9932a403ac72a4b4e1e21765ca9d24331eeb8fe6b92ba1238217228847c8",
+  "respostas_literais": [
+    "Concluida",
+    "O amuleto foi recuperado"
+  ],
+  "confirmacoes": [
+    "Redenção de Crave perante Kord concluída.",
+    "Amuleto de Kord recuperado."
+  ],
+  "limites": [
+    "Não se datou nem reconstruiu a cena de conclusão ou de recuperação.",
+    "Não presume retorno da sombra ou efeitos adicionais do amuleto.",
+    "Não confirma recuperação do cinto de Kord ou conclusão da tarefa de Tariun."
+  ],
+  "pendencias": {
+    "PC-012": "parcialmente_respondida; efeitos restantes mantidos",
+    "IT-003": "aberta quanto a funcionamento; recuperação registrada"
+  },
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 393,
+    "arquivos_identicos": 392,
+    "alteracoes_autorizadas": [
+      "conteudo/Fontes/Indice.md"
+    ],
+    "fontes_integrais_sessoes_anexos_originais_alterados": 0
+  },
+  "indices": {
+    "estados": {
+      "aberta": 92,
+      "parcialmente_respondida": 11,
+      "respondida": 3
+    }
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "teste_indexacao_aprovado": true
+  }
+}

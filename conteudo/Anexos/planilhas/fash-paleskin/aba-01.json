@@ -1,0 +1,6058 @@
+{
+  "fonte": "BASE INICIAL/FASH PALESKIN.xlsx",
+  "sha256_fonte": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0",
+  "aba": "PERSONGEM",
+  "ordem": 1,
+  "visibilidade": "visible",
+  "parte_xml": "xl/worksheets/sheet1.xml",
+  "celulas": [
+    {
+      "celula": "B2",
+      "atributos": {
+        "r": "B2",
+        "s": "11",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "7",
+      "valor": "BUILD",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G2",
+      "atributos": {
+        "r": "G2",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "12",
+      "valor": "SKILL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H2",
+      "atributos": {
+        "r": "H2",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "15",
+      "valor": "GRAD",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I2",
+      "atributos": {
+        "r": "I2",
+        "s": "17",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "16",
+      "valor": "SPENT",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J2",
+      "atributos": {
+        "r": "J2",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "18",
+      "valor": "ATRIB",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K2",
+      "atributos": {
+        "r": "K2",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "19",
+      "valor": "MISC",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L2",
+      "atributos": {
+        "r": "L2",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "20",
+      "valor": "TOTAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B3",
+      "atributos": {
+        "r": "B3",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "23",
+      "valor": "Whisper Gnome",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C3",
+      "atributos": {
+        "r": "C3",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "53",
+      "valor": "Fighter",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D3",
+      "atributos": {
+        "r": "D3",
+        "s": "26",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "55",
+      "valor": "Warrior",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G3",
+      "atributos": {
+        "r": "G3",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "63",
+      "valor": "Bluff",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H3",
+      "atributos": {
+        "r": "H3",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "9.0",
+      "valor": 9.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I3",
+      "atributos": {
+        "r": "I3",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "9",
+      "valor": 9,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H3",
+        "atributos": {
+          "t": "shared",
+          "ref": "I3:I7",
+          "si": "1"
+        },
+        "expandida": "=H3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "9",
+        "valor": 9
+      }
+    },
+    {
+      "celula": "J3",
+      "atributos": {
+        "r": "J3",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L3",
+      "atributos": {
+        "r": "L3",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "9",
+      "valor": 9,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(H3,J3,K3)",
+        "atributos": {
+          "t": "shared",
+          "ref": "L3:L23",
+          "si": "2"
+        },
+        "expandida": "=SUM(H3,J3,K3)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "9",
+        "valor": 9
+      }
+    },
+    {
+      "celula": "B4",
+      "atributos": {
+        "r": "B4",
+        "s": "33",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "97",
+      "valor": "Rogue",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C4",
+      "atributos": {
+        "r": "C4",
+        "s": "33",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "110",
+      "valor": "Swordsage",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D4",
+      "atributos": {
+        "r": "D4",
+        "s": "33",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "113",
+      "valor": "Expert",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G4",
+      "atributos": {
+        "r": "G4",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "114",
+      "valor": "Disable Device",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H4",
+      "atributos": {
+        "r": "H4",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11.0",
+      "valor": 11.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I4",
+      "atributos": {
+        "r": "I4",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=H4",
+        "ancora_compartilhada": "I3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "J4",
+      "atributos": {
+        "r": "J4",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K4",
+      "atributos": {
+        "r": "K4",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L4",
+      "atributos": {
+        "r": "L4",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "18",
+      "valor": 18,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H4,J4,K4)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "18",
+        "valor": 18
+      }
+    },
+    {
+      "celula": "G5",
+      "atributos": {
+        "r": "G5",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "117",
+      "valor": "Diplomacy",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H5",
+      "atributos": {
+        "r": "H5",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I5",
+      "atributos": {
+        "r": "I5",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=H5",
+        "ancora_compartilhada": "I3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "J5",
+      "atributos": {
+        "r": "J5",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K5",
+      "atributos": {
+        "r": "K5",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L5",
+      "atributos": {
+        "r": "L5",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H5,J5,K5)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "A6",
+      "atributos": {
+        "r": "A6",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B6",
+      "atributos": {
+        "r": "B6",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "119",
+      "valor": "Rogue 1 - Sneak Attack (+1d6), Trapfinding",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D6",
+      "atributos": {
+        "r": "D6",
+        "s": "37",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "120",
+      "valor": "Weapon Finesse, Two-Weapon Fighting, Darkstalker, Flaw: Weak Will, Flaw: Frail",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E6",
+      "atributos": {
+        "r": "E6",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "121",
+      "valor": "STR: 8 = 10 - 2",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G6",
+      "atributos": {
+        "r": "G6",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "122",
+      "valor": "Intimidate",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H6",
+      "atributos": {
+        "r": "H6",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I6",
+      "atributos": {
+        "r": "I6",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=H6",
+        "ancora_compartilhada": "I3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "J6",
+      "atributos": {
+        "r": "J6",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K6",
+      "atributos": {
+        "r": "K6",
+        "s": "9"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L6",
+      "atributos": {
+        "r": "L6",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H6,J6,K6)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "A7",
+      "atributos": {
+        "r": "A7",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B7",
+      "atributos": {
+        "r": "B7",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "123",
+      "valor": "Expert 1 - Bonus feat, Sneak Attack (+3d6)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D7",
+      "atributos": {
+        "r": "D7",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "124",
+      "valor": "Sneak Attack (+2d6)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E7",
+      "atributos": {
+        "r": "E7",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "125",
+      "valor": "DEX: 22 = 18 + 2 + 2",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G7",
+      "atributos": {
+        "r": "G7",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "126",
+      "valor": "Hide",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H7",
+      "atributos": {
+        "r": "H7",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11.0",
+      "valor": 11.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I7",
+      "atributos": {
+        "r": "I7",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "1"
+        },
+        "expandida": "=H7",
+        "ancora_compartilhada": "I3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "J7",
+      "atributos": {
+        "r": "J7",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K7",
+      "atributos": {
+        "r": "K7",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L7",
+      "atributos": {
+        "r": "L7",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "24",
+      "valor": 24,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H7,J7,K7)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "24",
+        "valor": 24
+      }
+    },
+    {
+      "celula": "A8",
+      "atributos": {
+        "r": "A8",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B8",
+      "atributos": {
+        "r": "B8",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "129",
+      "valor": "Rogue 2 - Evasion",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D8",
+      "atributos": {
+        "r": "D8",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "130",
+      "valor": "Knowledge Devotion",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E8",
+      "atributos": {
+        "r": "E8",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "131",
+      "valor": "CON: 18 = 16 + 2",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G8",
+      "atributos": {
+        "r": "G8",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "132",
+      "valor": "K(Arcana)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H8",
+      "atributos": {
+        "r": "H8",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I8",
+      "atributos": {
+        "r": "I8",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J8",
+      "atributos": {
+        "r": "J8",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L8",
+      "atributos": {
+        "r": "L8",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H8,J8,K8)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "A9",
+      "atributos": {
+        "r": "A9",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B9",
+      "atributos": {
+        "r": "B9",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "134",
+      "valor": "Rogue 3 - Sneak Attack (+4d6), Penetrating Strike",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E9",
+      "atributos": {
+        "r": "E9",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "135",
+      "valor": "INT: 17",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G9",
+      "atributos": {
+        "r": "G9",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "136",
+      "valor": "K(Dungeoneering)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H9",
+      "atributos": {
+        "r": "H9",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I9",
+      "atributos": {
+        "r": "I9",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J9",
+      "atributos": {
+        "r": "J9",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L9",
+      "atributos": {
+        "r": "L9",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H9,J9,K9)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "A10",
+      "atributos": {
+        "r": "A10",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B10",
+      "atributos": {
+        "r": "B10",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "137",
+      "valor": "Rogue 4 - Uncanny Dodge",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E10",
+      "atributos": {
+        "r": "E10",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "138",
+      "valor": "WIS: 14",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G10",
+      "atributos": {
+        "r": "G10",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "139",
+      "valor": "K(Local)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H10",
+      "atributos": {
+        "r": "H10",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I10",
+      "atributos": {
+        "r": "I10",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H10",
+        "atributos": {},
+        "expandida": "=H10"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "J10",
+      "atributos": {
+        "r": "J10",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L10",
+      "atributos": {
+        "r": "L10",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8",
+      "valor": 8,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H10,J10,K10)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "8",
+        "valor": 8
+      }
+    },
+    {
+      "celula": "A11",
+      "atributos": {
+        "r": "A11",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6.0",
+      "valor": 6.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B11",
+      "atributos": {
+        "r": "B11",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "143",
+      "valor": "Rogue 5 - Sneak Attack (+5d6)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D11",
+      "atributos": {
+        "r": "D11",
+        "s": "39",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "144",
+      "valor": "Craven",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E11",
+      "atributos": {
+        "r": "E11",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "146",
+      "valor": "CHA: 11 = 13 - 2",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G11",
+      "atributos": {
+        "r": "G11",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "147",
+      "valor": "K(Nature)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H11",
+      "atributos": {
+        "r": "H11",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I11",
+      "atributos": {
+        "r": "I11",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J11",
+      "atributos": {
+        "r": "J11",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L11",
+      "atributos": {
+        "r": "L11",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H11,J11,K11)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "A12",
+      "atributos": {
+        "r": "A12",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "7.0",
+      "valor": 7.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B12",
+      "atributos": {
+        "r": "B12",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "150",
+      "valor": "Rogue 6 -",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G12",
+      "atributos": {
+        "r": "G12",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "151",
+      "valor": "K(Religion)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H12",
+      "atributos": {
+        "r": "H12",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I12",
+      "atributos": {
+        "r": "I12",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J12",
+      "atributos": {
+        "r": "J12",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L12",
+      "atributos": {
+        "r": "L12",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H12,J12,K12)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "A13",
+      "atributos": {
+        "r": "A13",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B13",
+      "atributos": {
+        "r": "B13",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "152",
+      "valor": "Expert 2 - Bonus feat, Sneak Attack (+8d6)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D13",
+      "atributos": {
+        "r": "D13",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "154",
+      "valor": "Sneak Attack (+3d6)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E13",
+      "atributos": {
+        "r": "E13",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "161",
+      "valor": "PV: 59",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G13",
+      "atributos": {
+        "r": "G13",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "163",
+      "valor": "K(Planes)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H13",
+      "atributos": {
+        "r": "H13",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I13",
+      "atributos": {
+        "r": "I13",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "J13",
+      "atributos": {
+        "r": "J13",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L13",
+      "atributos": {
+        "r": "L13",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4",
+      "valor": 4,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H13,J13,K13)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "4",
+        "valor": 4
+      }
+    },
+    {
+      "celula": "A14",
+      "atributos": {
+        "r": "A14",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "9.0",
+      "valor": 9.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B14",
+      "atributos": {
+        "r": "B14",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "172",
+      "valor": "Swordsage 1 - Quick to Act +1, Discipline Focus (Weapon Focus) (Shadow Hand)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D14",
+      "atributos": {
+        "r": "D14",
+        "s": "41",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "174",
+      "valor": "Shadow Blade",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E14",
+      "atributos": {
+        "r": "E14",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "177",
+      "valor": "FORT: 9 = 5+4",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G14",
+      "atributos": {
+        "r": "G14",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "178",
+      "valor": "Listen",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H14",
+      "atributos": {
+        "r": "H14",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11.0",
+      "valor": 11.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I14",
+      "atributos": {
+        "r": "I14",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "H14",
+        "atributos": {
+          "t": "shared",
+          "ref": "I14:I24",
+          "si": "3"
+        },
+        "expandida": "=H14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "J14",
+      "atributos": {
+        "r": "J14",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K14",
+      "atributos": {
+        "r": "K14",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L14",
+      "atributos": {
+        "r": "L14",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "15",
+      "valor": 15,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H14,J14,K14)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "15",
+        "valor": 15
+      }
+    },
+    {
+      "celula": "A15",
+      "atributos": {
+        "r": "A15",
+        "s": "36"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "10.0",
+      "valor": 10.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B15",
+      "atributos": {
+        "r": "B15",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "194",
+      "valor": "Warrior 1 - Bonus feat",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D15",
+      "atributos": {
+        "r": "D15",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "197",
+      "valor": "Staggering Strike",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E15",
+      "atributos": {
+        "r": "E15",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "202",
+      "valor": "REFL: 11 = 5+6",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G15",
+      "atributos": {
+        "r": "G15",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "203",
+      "valor": "Move Silent",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H15",
+      "atributos": {
+        "r": "H15",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11.0",
+      "valor": 11.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I15",
+      "atributos": {
+        "r": "I15",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H15",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "J15",
+      "atributos": {
+        "r": "J15",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K15",
+      "atributos": {
+        "r": "K15",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L15",
+      "atributos": {
+        "r": "L15",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "20",
+      "valor": 20,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H15,J15,K15)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "20",
+        "valor": 20
+      }
+    },
+    {
+      "celula": "A16",
+      "atributos": {
+        "r": "A16",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11.0",
+      "valor": 11.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B16",
+      "atributos": {
+        "r": "B16",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "205",
+      "valor": "Fighter 1 - Hit-and-Run Tatics, Bonus feat",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "D16",
+      "atributos": {
+        "r": "D16",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "207",
+      "valor": "Improved Two-Weapon Fighting",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E16",
+      "atributos": {
+        "r": "E16",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "208",
+      "valor": "VONT: 4 = 5+2-3",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G16",
+      "atributos": {
+        "r": "G16",
+        "s": "28",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "209",
+      "valor": "Open Lock",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H16",
+      "atributos": {
+        "r": "H16",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6.0",
+      "valor": 6.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I16",
+      "atributos": {
+        "r": "I16",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6",
+      "valor": 6,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H16",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "6",
+        "valor": 6
+      }
+    },
+    {
+      "celula": "J16",
+      "atributos": {
+        "r": "J16",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L16",
+      "atributos": {
+        "r": "L16",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H16,J16,K16)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "A17",
+      "atributos": {
+        "r": "A17",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "12.0",
+      "valor": 12.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B17",
+      "atributos": {
+        "r": "B17",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "210",
+      "valor": "Warrior 2 - Bonus feat",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E17",
+      "atributos": {
+        "r": "E17",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "211",
+      "valor": "CA: 25 = 10+6+1+8",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G17",
+      "atributos": {
+        "r": "G17",
+        "s": "42",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "212",
+      "valor": "Search",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H17",
+      "atributos": {
+        "r": "H17",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11.0",
+      "valor": 11.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I17",
+      "atributos": {
+        "r": "I17",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H17",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "J17",
+      "atributos": {
+        "r": "J17",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "3.0",
+      "valor": 3.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K17",
+      "atributos": {
+        "r": "K17",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "4.0",
+      "valor": 4.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L17",
+      "atributos": {
+        "r": "L17",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "18",
+      "valor": 18,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H17,J17,K17)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "18",
+        "valor": 18
+      }
+    },
+    {
+      "celula": "A18",
+      "atributos": {
+        "r": "A18",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "13.0",
+      "valor": 13.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B18",
+      "atributos": {
+        "r": "B18",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "222",
+      "valor": "Fighter 2 - Bonus feat",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G18",
+      "atributos": {
+        "r": "G18",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "224",
+      "valor": "Sense Motive",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H18",
+      "atributos": {
+        "r": "H18",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I18",
+      "atributos": {
+        "r": "I18",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H18",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "J18",
+      "atributos": {
+        "r": "J18",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L18",
+      "atributos": {
+        "r": "L18",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2",
+      "valor": 2,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H18,J18,K18)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "2",
+        "valor": 2
+      }
+    },
+    {
+      "celula": "G19",
+      "atributos": {
+        "r": "G19",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "235",
+      "valor": "Sleight of Hand",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H19",
+      "atributos": {
+        "r": "H19",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I19",
+      "atributos": {
+        "r": "I19",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1",
+      "valor": 1,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H19",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "1",
+        "valor": 1
+      }
+    },
+    {
+      "celula": "J19",
+      "atributos": {
+        "r": "J19",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K19",
+      "atributos": {
+        "r": "K19",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L19",
+      "atributos": {
+        "r": "L19",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8",
+      "valor": 8,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H19,J19,K19)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "8",
+        "valor": 8
+      }
+    },
+    {
+      "celula": "B20",
+      "atributos": {
+        "r": "B20",
+        "s": "44",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "240",
+      "valor": "ITENS",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G20",
+      "atributos": {
+        "r": "G20",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "242",
+      "valor": "Spot",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H20",
+      "atributos": {
+        "r": "H20",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11.0",
+      "valor": 11.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I20",
+      "atributos": {
+        "r": "I20",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H20",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "J20",
+      "atributos": {
+        "r": "J20",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "K20",
+      "atributos": {
+        "r": "K20",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "6.0",
+      "valor": 6.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L20",
+      "atributos": {
+        "r": "L20",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "19",
+      "valor": 19,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H20,J20,K20)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "19",
+        "valor": 19
+      }
+    },
+    {
+      "celula": "B21",
+      "atributos": {
+        "r": "B21",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "245",
+      "valor": "ITEMS PARTICULARES",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "C21",
+      "atributos": {
+        "r": "C21",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "246",
+      "valor": "NOTAS",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E21",
+      "atributos": {
+        "r": "E21",
+        "s": "14",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "247",
+      "valor": "NOTAS DE PROGRESSÃO",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G21",
+      "atributos": {
+        "r": "G21",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "248",
+      "valor": "Trumble",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H21",
+      "atributos": {
+        "r": "H21",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I21",
+      "atributos": {
+        "r": "I21",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H21",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "J21",
+      "atributos": {
+        "r": "J21",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L21",
+      "atributos": {
+        "r": "L21",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H21,J21,K21)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "B22",
+      "atributos": {
+        "r": "B22",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "249",
+      "valor": "Amuleto de Resistência a Expulsão",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E22",
+      "atributos": {
+        "r": "E22",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "207",
+      "valor": "Improved Two-Weapon Fighting",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G22",
+      "atributos": {
+        "r": "G22",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "250",
+      "valor": "Use Magic Device",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H22",
+      "atributos": {
+        "r": "H22",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11.0",
+      "valor": 11.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I22",
+      "atributos": {
+        "r": "I22",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H22",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "J22",
+      "atributos": {
+        "r": "J22",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L22",
+      "atributos": {
+        "r": "L22",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "11",
+      "valor": 11,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H22,J22,K22)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "11",
+        "valor": 11
+      }
+    },
+    {
+      "celula": "B23",
+      "atributos": {
+        "r": "B23",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "251",
+      "valor": "Coroa de Dominar Morto-Vivo (5DV)",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E23",
+      "atributos": {
+        "r": "E23",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "252",
+      "valor": "Underfoot Combat",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G23",
+      "atributos": {
+        "r": "G23",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "253",
+      "valor": "Use Rope",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H23",
+      "atributos": {
+        "r": "H23",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0.0",
+      "valor": 0.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I23",
+      "atributos": {
+        "r": "I23",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "0",
+      "valor": 0,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H23",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "0",
+        "valor": 0
+      }
+    },
+    {
+      "celula": "J23",
+      "atributos": {
+        "r": "J23",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L23",
+      "atributos": {
+        "r": "L23",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "2"
+        },
+        "expandida": "=SUM(H23,J23,K23)",
+        "ancora_compartilhada": "L3"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "B24",
+      "atributos": {
+        "r": "B24",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "254",
+      "valor": "Saco para Teleportar Corpos",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E24",
+      "atributos": {
+        "r": "E24",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "255",
+      "valor": "Confound the Big Folk",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G24",
+      "atributos": {
+        "r": "G24",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "256",
+      "valor": "Tumble",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H24",
+      "atributos": {
+        "r": "H24",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I24",
+      "atributos": {
+        "r": "I24",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5",
+      "valor": 5,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "",
+        "atributos": {
+          "t": "shared",
+          "si": "3"
+        },
+        "expandida": "=H24",
+        "ancora_compartilhada": "I14"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "5",
+        "valor": 5
+      }
+    },
+    {
+      "celula": "J24",
+      "atributos": {
+        "r": "J24",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "5.0",
+      "valor": 5.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "L24",
+      "atributos": {
+        "r": "L24",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "8.0",
+      "valor": 8.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B25",
+      "atributos": {
+        "r": "B25",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "257",
+      "valor": "Poção de Invisibilidade",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E25",
+      "atributos": {
+        "r": "E25",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "258",
+      "valor": "Dodge",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G25",
+      "atributos": {
+        "r": "G25",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "259",
+      "valor": "Speak Language",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "H25",
+      "atributos": {
+        "r": "H25",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "1.0",
+      "valor": 1.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I25",
+      "atributos": {
+        "r": "I25",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B26",
+      "atributos": {
+        "r": "B26",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "260",
+      "valor": "Varinha de Inflingir Ferimentos Leves x2",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E26",
+      "atributos": {
+        "r": "E26",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "261",
+      "valor": "Titan Fighting",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G26",
+      "atributos": {
+        "r": "G26",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "262",
+      "valor": "Collector of Histories",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I26",
+      "atributos": {
+        "r": "I26",
+        "s": "31"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "2.0",
+      "valor": 2.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B27",
+      "atributos": {
+        "r": "B27",
+        "s": "29",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "263",
+      "valor": "PERGAMINHOS",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "E27",
+      "atributos": {
+        "r": "E27",
+        "s": "23",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "264",
+      "valor": "Travel Devotion",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "G27",
+      "atributos": {
+        "r": "G27",
+        "s": "9",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "20",
+      "valor": "TOTAL",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I27",
+      "atributos": {
+        "r": "I27",
+        "s": "2"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "117",
+      "valor": 117,
+      "formato_numero": "General",
+      "formula": {
+        "texto_xml": "SUM(I3:I26)",
+        "atributos": {},
+        "expandida": "=SUM(I3:I26)"
+      },
+      "cache": {
+        "estado": "presente",
+        "tipo_xml": "n",
+        "valor_xml": "117",
+        "valor": 117
+      }
+    },
+    {
+      "celula": "B28",
+      "atributos": {
+        "r": "B28",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "265",
+      "valor": "Divine Sacrifice",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "I28",
+      "atributos": {
+        "r": "I28",
+        "s": "29"
+      },
+      "tipo_xml": "n",
+      "valor_xml_presente": true,
+      "valor_xml": "117.0",
+      "valor": 117.0,
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B29",
+      "atributos": {
+        "r": "B29",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "266",
+      "valor": "Blade of Blood",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B30",
+      "atributos": {
+        "r": "B30",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "267",
+      "valor": "Bloodletting",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B31",
+      "atributos": {
+        "r": "B31",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "268",
+      "valor": "Death Grimace",
+      "formato_numero": "General",
+      "formula": null
+    },
+    {
+      "celula": "B32",
+      "atributos": {
+        "r": "B32",
+        "s": "24",
+        "t": "s"
+      },
+      "tipo_xml": "s",
+      "valor_xml_presente": true,
+      "valor_xml": "269",
+      "valor": "Deathwatch",
+      "formato_numero": "General",
+      "formula": null
+    }
+  ],
+  "comentarios": [
+    {
+      "celula": "C3",
+      "autor": "",
+      "texto": "Hit-and-Run Variant",
+      "atributos": {
+        "authorId": "0",
+        "ref": "C3"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "C3"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "Hit-and-Run Variant",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K7",
+      "autor": "",
+      "texto": "+4 small size\n+4 whisper gnome\n",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K7"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K7"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+4 small size\n+4 whisper gnome\n",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K6",
+      "autor": "",
+      "texto": "+2 synergy(Bluff)\n",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K6"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K6"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+2 synergy(Bluff)\n",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K5",
+      "autor": "",
+      "texto": "+2 synergy(Bluff)",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K5"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K5"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+2 synergy(Bluff)",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K4",
+      "autor": "",
+      "texto": "+4 shadow plane",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K4"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K4"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+4 shadow plane",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "H25",
+      "autor": "",
+      "texto": "Drow",
+      "atributos": {
+        "authorId": "0",
+        "ref": "H25"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "H25"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "Drow",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K20",
+      "autor": "",
+      "texto": "+2 whisper gnome\n+4 shadow plane",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K20"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K20"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+2 whisper gnome\n+4 shadow plane",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "E13",
+      "autor": "",
+      "texto": "1 = (6+4-1) = 9\n2 = (5+4-1) = 17\n3 = (3+4-1) = 23\n4 = (3+4-1) = 29\n5 = (4+4-1) = 36\n6 = (5+4-1) = 44\n7 = (4+4-1) = 51\n8 = (5+4-1) = 59\n",
+      "atributos": {
+        "authorId": "0",
+        "ref": "E13"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "E13"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "1 = (6+4-1) = 9\n2 = (5+4-1) = 17\n3 = (3+4-1) = 23\n4 = (3+4-1) = 29\n5 = (4+4-1) = 36\n6 = (5+4-1) = 44\n7 = (4+4-1) = 51\n8 = (5+4-1) = 59\n",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K19",
+      "autor": "",
+      "texto": "+2 synergy(Bluff)",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K19"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K19"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+2 synergy(Bluff)",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K17",
+      "autor": "",
+      "texto": "+4 shadow plane",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K17"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K17"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+4 shadow plane",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K15",
+      "autor": "",
+      "texto": "+4 whisper gnome",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K15"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K15"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+4 whisper gnome",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "celula": "K14",
+      "autor": "",
+      "texto": "+2 whisper gnome",
+      "atributos": {
+        "authorId": "0",
+        "ref": "K14"
+      },
+      "parte": "xl/comments1.xml",
+      "xml_estruturado": {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}comment",
+        "atributos": {
+          "authorId": "0",
+          "ref": "K14"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}text",
+            "atributos": {},
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}t",
+                "atributos": {
+                  "{http://www.w3.org/XML/1998/namespace}space": "preserve"
+                },
+                "texto": "+2 whisper gnome",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "hyperlinks": [
+    {
+      "intervalo": "B3",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+        "ref": "B3"
+      },
+      "relacionamento": {
+        "Id": "rId2",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dnd.arkalseif.info/races/races-of-stone--82/whisper-gnome--35/index.html",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dnd.arkalseif.info/races/races-of-stone--82/whisper-gnome--35/index.html"
+    },
+    {
+      "intervalo": "B4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+        "ref": "B4"
+      },
+      "relacionamento": {
+        "Id": "rId3",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/rogue/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/rogue/"
+    },
+    {
+      "intervalo": "C4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+        "ref": "C4"
+      },
+      "relacionamento": {
+        "Id": "rId4",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/swordsage/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/swordsage/"
+    },
+    {
+      "intervalo": "D4",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+        "ref": "D4"
+      },
+      "relacionamento": {
+        "Id": "rId5",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/classes/expert/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/classes/expert/"
+    },
+    {
+      "intervalo": "D15",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+        "ref": "D15"
+      },
+      "relacionamento": {
+        "Id": "rId6",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/complete-adventurer--54/staggering-strike--2753/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/complete-adventurer--54/staggering-strike--2753/"
+    },
+    {
+      "intervalo": "E23",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+        "ref": "E23"
+      },
+      "relacionamento": {
+        "Id": "rId7",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/races-of-the-wild--84/underfoot-combat--3018/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/races-of-the-wild--84/underfoot-combat--3018/"
+    },
+    {
+      "intervalo": "E24",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+        "ref": "E24"
+      },
+      "relacionamento": {
+        "Id": "rId8",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/races-of-the-wild--84/confound-the-big-folk--415/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/races-of-the-wild--84/confound-the-big-folk--415/"
+    },
+    {
+      "intervalo": "E26",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+        "ref": "E26"
+      },
+      "relacionamento": {
+        "Id": "rId9",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/races-of-stone--82/titan-fighting--2926/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/races-of-stone--82/titan-fighting--2926/"
+    },
+    {
+      "intervalo": "E27",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10",
+        "ref": "E27"
+      },
+      "relacionamento": {
+        "Id": "rId10",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/feats/complete-champion--57/travel-devotion--2966/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/feats/complete-champion--57/travel-devotion--2966/"
+    },
+    {
+      "intervalo": "B28",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId11",
+        "ref": "B28"
+      },
+      "relacionamento": {
+        "Id": "rId11",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/book-of-exalted-deeds--52/divine-sacrifice--88/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/book-of-exalted-deeds--52/divine-sacrifice--88/"
+    },
+    {
+      "intervalo": "B29",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId12",
+        "ref": "B29"
+      },
+      "relacionamento": {
+        "Id": "rId12",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-ii--80/blade-of-blood--2991/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-ii--80/blade-of-blood--2991/"
+    },
+    {
+      "intervalo": "B30",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId13",
+        "ref": "B30"
+      },
+      "relacionamento": {
+        "Id": "rId13",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/complete-mage--58/bloodletting--849/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/complete-mage--58/bloodletting--849/"
+    },
+    {
+      "intervalo": "B31",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId14",
+        "ref": "B31"
+      },
+      "relacionamento": {
+        "Id": "rId14",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/book-of-vile-darkness--37/death-grimace--205/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/book-of-vile-darkness--37/death-grimace--205/"
+    },
+    {
+      "intervalo": "B32",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId15",
+        "ref": "B32"
+      },
+      "relacionamento": {
+        "Id": "rId15",
+        "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+        "Target": "https://dndtools.net/spells/players-handbook-v35--6/deathwatch--2728/",
+        "TargetMode": "External",
+        "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+      },
+      "destino": "https://dndtools.net/spells/players-handbook-v35--6/deathwatch--2728/"
+    }
+  ],
+  "mesclagens": [
+    "B2:E2",
+    "B5:E5",
+    "B6:C6",
+    "B7:C7",
+    "B8:C8",
+    "B9:C9",
+    "B10:C10",
+    "B18:E18",
+    "B19:E19",
+    "B20:E20",
+    "B11:C11",
+    "B12:C12",
+    "B13:C13",
+    "B14:C14",
+    "B15:C15",
+    "B16:C16",
+    "B17:C17"
+  ],
+  "drawings": [],
+  "objetos_vml": [
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2049",
+      "tipo": "Note",
+      "celula": "C3",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "3, 15, 3, 10, 7, 15, 5, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2049",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "3, 15, 3, 10, 7, 15, 5, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "2",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "2",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2050",
+      "tipo": "Note",
+      "celula": "K7",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 7, 10, 15, 15, 11, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2050",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 7, 10, 15, 15, 11, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "6",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2051",
+      "tipo": "Note",
+      "celula": "K6",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 6, 10, 15, 15, 9, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2051",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 6, 10, 15, 15, 9, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "5",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2052",
+      "tipo": "Note",
+      "celula": "K5",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 5, 10, 15, 15, 7, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2052",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 5, 10, 15, 15, 7, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2053",
+      "tipo": "Note",
+      "celula": "K4",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 4, 10, 15, 15, 6, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2053",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 4, 10, 15, 15, 6, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "3",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2054",
+      "tipo": "Note",
+      "celula": "H25",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "8, 15, 25, 10, 12, 15, 27, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2054",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "8, 15, 25, 10, 12, 15, 27, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "24",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "7",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2055",
+      "tipo": "Note",
+      "celula": "K20",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 20, 10, 15, 15, 23, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2055",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 20, 10, 15, 15, 23, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "19",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2056",
+      "tipo": "Note",
+      "celula": "E13",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "5, 15, 13, 10, 9, 15, 23, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2056",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "5, 15, 13, 10, 9, 15, 23, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "12",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "4",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2057",
+      "tipo": "Note",
+      "celula": "K19",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 19, 10, 15, 15, 21, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2057",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 19, 10, 15, 15, 21, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "18",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2058",
+      "tipo": "Note",
+      "celula": "K17",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 17, 10, 15, 15, 19, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2058",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 17, 10, 15, 15, 19, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "16",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2059",
+      "tipo": "Note",
+      "celula": "K15",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 15, 10, 15, 15, 17, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2059",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 15, 10, 15, 15, 17, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "14",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "id": "_x0000_s2060",
+      "tipo": "Note",
+      "celula": "K14",
+      "estilo": "visibility:hidden",
+      "texto": "",
+      "ancora": "11, 15, 14, 10, 15, 15, 16, 4",
+      "xml_estruturado": {
+        "tag": "{urn:schemas-microsoft-com:vml}shape",
+        "atributos": {
+          "id": "_x0000_s2060",
+          "style": "visibility:hidden",
+          "fillcolor": "#ffffe1",
+          "type": "#_x0000_t202"
+        },
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}fill",
+            "atributos": {
+              "angle": "0",
+              "color2": "#ffffe1"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}shadow",
+            "atributos": {
+              "color": "black",
+              "obscured": "t",
+              "on": "t"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}path",
+            "atributos": {
+              "{urn:schemas-microsoft-com:office:office}connecttype": "none"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:vml}textbox",
+            "atributos": {},
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{urn:schemas-microsoft-com:office:excel}ClientData",
+            "atributos": {
+              "ObjectType": "Note"
+            },
+            "texto": null,
+            "filhos": [
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}MoveWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}SizeWithCells",
+                "atributos": {},
+                "texto": null,
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Anchor",
+                "atributos": {},
+                "texto": "11, 15, 14, 10, 15, 15, 16, 4",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}AutoFill",
+                "atributos": {},
+                "texto": "False",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Row",
+                "atributos": {},
+                "texto": "13",
+                "filhos": []
+              },
+              {
+                "tag": "{urn:schemas-microsoft-com:office:excel}Column",
+                "atributos": {},
+                "texto": "10",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "relacionamentos": {
+    "rId11": {
+      "Id": "rId11",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/book-of-exalted-deeds--52/divine-sacrifice--88/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId10": {
+      "Id": "rId10",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/complete-champion--57/travel-devotion--2966/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId13": {
+      "Id": "rId13",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/complete-mage--58/bloodletting--849/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId12": {
+      "Id": "rId12",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-ii--80/blade-of-blood--2991/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments",
+      "Target": "../comments1.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels",
+      "parte_destino": "xl/comments1.xml"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dnd.arkalseif.info/races/races-of-stone--82/whisper-gnome--35/index.html",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/rogue/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId4": {
+      "Id": "rId4",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/swordsage/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId9": {
+      "Id": "rId9",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/races-of-stone--82/titan-fighting--2926/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId15": {
+      "Id": "rId15",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/players-handbook-v35--6/deathwatch--2728/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId14": {
+      "Id": "rId14",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/spells/book-of-vile-darkness--37/death-grimace--205/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId17": {
+      "Id": "rId17",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/vmlDrawing",
+      "Target": "../drawings/vmlDrawing1.vml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels",
+      "parte_destino": "xl/drawings/vmlDrawing1.vml"
+    },
+    "rId16": {
+      "Id": "rId16",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/drawing",
+      "Target": "../drawings/drawing1.xml",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels",
+      "parte_destino": "xl/drawings/drawing1.xml"
+    },
+    "rId5": {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/classes/expert/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId6": {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/complete-adventurer--54/staggering-strike--2753/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId7": {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/races-of-the-wild--84/underfoot-combat--3018/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    "rId8": {
+      "Id": "rId8",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://dndtools.net/feats/races-of-the-wild--84/confound-the-big-folk--415/",
+      "TargetMode": "External",
+      "parte_relacionamento": "xl/worksheets/_rels/sheet1.xml.rels"
+    }
+  },
+  "metadados_aba": [
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetPr",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}outlinePr",
+          "atributos": {
+            "summaryBelow": "0",
+            "summaryRight": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetViews",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetView",
+          "atributos": {
+            "workbookViewId": "0"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheetFormatPr",
+      "atributos": {
+        "customHeight": "1",
+        "defaultColWidth": "12.63",
+        "defaultRowHeight": "15.75"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}cols",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "1",
+            "max": "1",
+            "width": "3.13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "2",
+            "max": "5",
+            "width": "32.75"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "6",
+            "max": "6",
+            "width": "3.25"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "7",
+            "max": "7",
+            "width": "18.0"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}col",
+          "atributos": {
+            "customWidth": "1",
+            "min": "8",
+            "max": "12",
+            "width": "6.13"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCells",
+      "atributos": {
+        "count": "17"
+      },
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B2:E2"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B5:E5"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B6:C6"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B7:C7"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B8:C8"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B9:C9"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B10:C10"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B18:E18"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B19:E19"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B20:E20"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B11:C11"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B12:C12"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B13:C13"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B14:C14"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B15:C15"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B16:C16"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}mergeCell",
+          "atributos": {
+            "ref": "B17:C17"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlinks",
+      "atributos": {},
+      "texto": null,
+      "filhos": [
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId2",
+            "ref": "B3"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+            "ref": "B4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+            "ref": "C4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+            "ref": "D4"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+            "ref": "D15"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+            "ref": "E23"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+            "ref": "E24"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+            "ref": "E26"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10",
+            "ref": "E27"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId11",
+            "ref": "B28"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId12",
+            "ref": "B29"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId13",
+            "ref": "B30"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId14",
+            "ref": "B31"
+          },
+          "texto": null,
+          "filhos": []
+        },
+        {
+          "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}hyperlink",
+          "atributos": {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId15",
+            "ref": "B32"
+          },
+          "texto": null,
+          "filhos": []
+        }
+      ]
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}drawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId16"
+      },
+      "texto": null,
+      "filhos": []
+    },
+    {
+      "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}legacyDrawing",
+      "atributos": {
+        "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId17"
+      },
+      "texto": null,
+      "filhos": []
+    }
+  ],
+  "atributos_linhas": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    },
+    {
+      "r": "34"
+    },
+    {
+      "r": "35"
+    },
+    {
+      "r": "36"
+    },
+    {
+      "r": "37"
+    },
+    {
+      "r": "38"
+    },
+    {
+      "r": "39"
+    },
+    {
+      "r": "40"
+    },
+    {
+      "r": "41"
+    },
+    {
+      "r": "42"
+    },
+    {
+      "r": "43"
+    },
+    {
+      "r": "44"
+    },
+    {
+      "r": "45"
+    },
+    {
+      "r": "46"
+    },
+    {
+      "r": "47"
+    },
+    {
+      "r": "48"
+    },
+    {
+      "r": "49"
+    },
+    {
+      "r": "50"
+    },
+    {
+      "r": "51"
+    },
+    {
+      "r": "52"
+    },
+    {
+      "r": "53"
+    },
+    {
+      "r": "54"
+    },
+    {
+      "r": "55"
+    },
+    {
+      "r": "56"
+    },
+    {
+      "r": "57"
+    },
+    {
+      "r": "58"
+    },
+    {
+      "r": "59"
+    },
+    {
+      "r": "60"
+    },
+    {
+      "r": "61"
+    },
+    {
+      "r": "62"
+    },
+    {
+      "r": "63"
+    },
+    {
+      "r": "64"
+    },
+    {
+      "r": "65"
+    },
+    {
+      "r": "66"
+    },
+    {
+      "r": "67"
+    },
+    {
+      "r": "68"
+    },
+    {
+      "r": "69"
+    },
+    {
+      "r": "70"
+    },
+    {
+      "r": "71"
+    },
+    {
+      "r": "72"
+    },
+    {
+      "r": "73"
+    },
+    {
+      "r": "74"
+    },
+    {
+      "r": "75"
+    },
+    {
+      "r": "76"
+    },
+    {
+      "r": "77"
+    },
+    {
+      "r": "78"
+    },
+    {
+      "r": "79"
+    },
+    {
+      "r": "80"
+    },
+    {
+      "r": "81"
+    },
+    {
+      "r": "82"
+    },
+    {
+      "r": "83"
+    },
+    {
+      "r": "84"
+    },
+    {
+      "r": "85"
+    },
+    {
+      "r": "86"
+    },
+    {
+      "r": "87"
+    },
+    {
+      "r": "88"
+    },
+    {
+      "r": "89"
+    },
+    {
+      "r": "90"
+    },
+    {
+      "r": "91"
+    },
+    {
+      "r": "92"
+    },
+    {
+      "r": "93"
+    },
+    {
+      "r": "94"
+    },
+    {
+      "r": "95"
+    },
+    {
+      "r": "96"
+    },
+    {
+      "r": "97"
+    },
+    {
+      "r": "98"
+    },
+    {
+      "r": "99"
+    },
+    {
+      "r": "100"
+    },
+    {
+      "r": "101"
+    },
+    {
+      "r": "102"
+    },
+    {
+      "r": "103"
+    },
+    {
+      "r": "104"
+    },
+    {
+      "r": "105"
+    },
+    {
+      "r": "106"
+    },
+    {
+      "r": "107"
+    },
+    {
+      "r": "108"
+    },
+    {
+      "r": "109"
+    },
+    {
+      "r": "110"
+    },
+    {
+      "r": "111"
+    },
+    {
+      "r": "112"
+    },
+    {
+      "r": "113"
+    },
+    {
+      "r": "114"
+    },
+    {
+      "r": "115"
+    },
+    {
+      "r": "116"
+    },
+    {
+      "r": "117"
+    },
+    {
+      "r": "118"
+    },
+    {
+      "r": "119"
+    },
+    {
+      "r": "120"
+    }
+  ],
+  "celulas_xml_total": 2297,
+  "limites": [
+    "Fórmulas não foram recalculadas. Cache é o gravado na fonte.",
+    "Markdown não reproduz posicionamento, estilos ou interatividade do Excel. XML e binário original preservam esses recursos.",
+    "Texto e números lexicais exatos estão neste JSON e no pacote OOXML, inclusive espaços e quebras de linha."
+  ],
+  "conferencias": {
+    "celulas_na_leitura_openpyxl": 206,
+    "coordenadas_so_no_xml": [],
+    "coordenadas_so_no_openpyxl": [],
+    "formulas_divergentes": [],
+    "conversoes_por_formato_data_hora": [],
+    "valores_literais_convertidos_ou_divergentes": [],
+    "caches_convertidos_ou_divergentes": []
+  }
+}

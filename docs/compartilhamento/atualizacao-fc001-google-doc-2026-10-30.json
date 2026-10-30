@@ -1,0 +1,37 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-010 foi encerrada com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os sete registros permanecem identificados neste documento, deixando 94 registros pendentes, sem nova solicitação de resposta nos itens encerrados.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-010 e FC-001 tiveram as consultas encerradas com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os oito registros permanecem identificados neste documento, deixando 93 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Desconhecido, Fash agora é um NPC"
+    },
+    {
+      "antes": "Referências: Esclarecimentos do jogador (23/10/2026); Transcrição S16 (05/08/2026).",
+      "depois": "Referências: Esclarecimentos do jogador (23/10/2026); Transcrição S16 (05/08/2026). Esclarecimento do jogador (30/10/2026)."
+    },
+    {
+      "antes": "A completar: Como se organiza hoje o Ébano, quais territórios e guildas controla e como distribui comando e filiação?",
+      "depois": "Consulta encerrada: Organização atual, territórios, guildas, comando e filiação permanecem desconhecidos. Não há informação a acrescentar pelo jogador neste item; não criar organograma ou fronteiras por suposição."
+    },
+    {
+      "antes": "Já registrado: A fundação por Fash e a identidade Sociedade das Sombras foram confirmadas. As cartas descrevem destruição e adesão de guildas e posterior equilíbrio com o Mercado, mas não apresentam organograma ou fronteiras atuais. Esta pergunta trata da instituição; a sobrevivência individual de Fash pertence às pendências de personagens.",
+      "depois": "Já registrado: A fundação do Ébano por Fash e a identidade Sociedade das Sombras estão confirmadas. A estrutura e o alcance atuais são desconhecidos. Fash agora é um NPC; isso não confirma cargo atual ou sobrevivência no presente da campanha de Glim."
+    },
+    {
+      "antes": "FC-001 — Estrutura e alcance atual do Ébano",
+      "depois": "FC-001 — Estrutura e alcance atual do Ébano — CONSULTA ENCERRADA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-010, PC-024 e PC-040 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 94 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-010, PC-024, PC-040 e FC-001 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 93 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "consulta_encerrada_com_incertezas",
+  "pendencias_restantes": 93,
+  "demais_textos_preservados": true
+}

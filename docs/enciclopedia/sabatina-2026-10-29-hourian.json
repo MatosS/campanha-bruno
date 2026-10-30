@@ -1,0 +1,36 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Grafia confirmada de Hourian.md",
+  "fonte_nova_sha256": "f2657b971268fe2dd7ddecdd55f3509c150d6e70ad13faad24a67fee0c114ec9",
+  "resposta_literal": "Hourian",
+  "resolucao": "Nome canônico Hourian; Haurim como variante de anotação e alias. Nomes dos covis atualizados.",
+  "PC-037": {
+    "status": "parcialmente_respondida",
+    "aspecto_resolvido": "Grafia e referência nominal.",
+    "retomar_na_sabatina": false,
+    "limites": "Não confirma por extensão biografia ou revoada."
+  },
+  "cadastro": "docs/enciclopedia/nomes-hourian-2026-10-29.json",
+  "caminhos_existentes_preservados": true,
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 399,
+    "arquivos_identicos": 398,
+    "alteracoes_autorizadas": [
+      "conteudo/Fontes/Indice.md"
+    ],
+    "fontes_integrais_sessoes_anexos_originais_alterados": 0
+  },
+  "indices": {
+    "fila": [],
+    "estados": {
+      "aberta": 88,
+      "parcialmente_respondida": 14,
+      "respondida": 4
+    }
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "teste_foco_e_preservacao_da_indexacao_aprovado": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": "2026-10-29",
+  "fonte_nova": "conteudo/Fontes/Confirmacoes/2026-10-29 - Reconhecimento da runa por estudo.md",
+  "fonte_nova_sha256": "1d17244a8d5b835a80e0b025338ad9372605110690e09f88e3ada1cbee175cbb",
+  "resposta_literal": "Por reconhece o mestre quis dizer por estudo, não por experiencia.",
+  "PC-011": {
+    "status": "respondida",
+    "escopo": "Runa reconhecida por estudo, sem experiência pessoal pressuposta; motivo afetivo para guardar Piche já confirmado.",
+    "premissa_corrigida": "A leitura e a pergunta anteriores tratavam o reconhecimento como indício de episódio vivido.",
+    "limites": "Sem identificação de materiais/data/local do estudo; sem atribuir poderes ao corpo de Piche nem afirmar ausência categórica de magia."
+  },
+  "preservacao": {
+    "arquivos_anteriores_conferidos": 389,
+    "arquivos_identicos": 388,
+    "alteracoes_autorizadas": [
+      "conteudo/Fontes/Indice.md"
+    ],
+    "fontes_integrais_sessoes_anexos_originais_alterados": 0
+  },
+  "indices": {
+    "PC-011_fora_da_fila": true,
+    "estados": {
+      "aberta": 97,
+      "parcialmente_respondida": 5,
+      "respondida": 3
+    },
+    "pendencias_ativas": 102
+  },
+  "verificacoes": {
+    "enciclopedia_aprovada": true,
+    "migracao_aprovada": true,
+    "teste_indexacao_aprovado": true
+  }
+}

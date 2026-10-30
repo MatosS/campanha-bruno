@@ -1,0 +1,37 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009 e PC-041 foram posteriormente respondidas; PC-010 foi encerrada com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os seis registros permanecem identificados neste documento, deixando 95 registros pendentes, sem nova solicitação de resposta nos itens encerrados.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009, PC-041 e PC-042 foram posteriormente respondidas; PC-010 foi encerrada com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os sete registros permanecem identificados neste documento, deixando 94 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta confirmada (30/10/2026): Mae e pai morreram, Glim não tem informações de Nina depois que deixou a vila pela ultima vez."
+    },
+    {
+      "antes": "Referências: Background - Glim Sombrasselva; Sabatina de 29–30/10/2026.",
+      "depois": "Referências: Background - Glim Sombrasselva; Sabatina de 29–30/10/2026. Confirmação do jogador (30/10/2026)."
+    },
+    {
+      "antes": "A completar: Quais informações familiares já definidas podem ser registradas: nomes dos pais, situação atual da mãe e de Nina, contexto da morte do pai? Não solicitar criação de dados nunca definidos.",
+      "depois": "Pergunta respondida: Ambos os pais estão mortos, e Glim não tem notícias de Nina desde a última saída da vila. A antiga notícia da mãe viva é um relato histórico; não inventar data ou circunstâncias de sua morte, nomes dos pais ou destino atual de Nina."
+    },
+    {
+      "antes": "Já registrado: O nome da aldeia natal não foi definido e está fora de prioridade.",
+      "depois": "Já registrado: A mãe e o pai de Glim morreram. Glim não tem informações sobre Nina desde que deixou a vila pela última vez. O nome da aldeia não foi definido e continua fora de prioridade."
+    },
+    {
+      "antes": "PC-042 — Família e aldeia de Glim",
+      "depois": "PC-042 — Família e aldeia de Glim — RESPONDIDA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017, PC-009 e PC-041 já foram respondidas; PC-010, PC-024 e PC-040 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 95 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017, PC-009, PC-041 e PC-042 já foram respondidas; PC-010, PC-024 e PC-040 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 94 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "respondida",
+  "pendencias_restantes": 94,
+  "demais_textos_preservados": true
+}

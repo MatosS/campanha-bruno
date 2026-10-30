@@ -1,0 +1,1296 @@
+{
+  "fonte": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+  "sha256_fonte": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc",
+  "membros": [
+    {
+      "parte": "xl/comments1.xml",
+      "bytes": 1037,
+      "sha256": "18e578f444eea2809ab94dffbc45910b9749fc9eef949a0cef691c5411a7125a",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/comments1.xml"
+    },
+    {
+      "parte": "xl/comments2.xml",
+      "bytes": 555,
+      "sha256": "9c6f7dc2b32832a43eb38bdbc46ee500ef486709e90196a5cda6625a37b81b5d",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/comments2.xml"
+    },
+    {
+      "parte": "xl/comments3.xml",
+      "bytes": 2113,
+      "sha256": "38b9a7fe39f2b3bef669810c629d51b04e4a87008c84c481a7b63a53c8b05cc2",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/comments3.xml"
+    },
+    {
+      "parte": "xl/comments4.xml",
+      "bytes": 557,
+      "sha256": "d7401a0cd49affc2e1cda2dabed5b9b279e44e2071604ec188abca92051e266e",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/comments4.xml"
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing1.vml",
+      "bytes": 2032,
+      "sha256": "222cf036900fbe7217c5687eb0175a2bf00259d1763ec6d7de6db9381ee5bef0",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/vmlDrawing1.vml"
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing2.vml",
+      "bytes": 1117,
+      "sha256": "827898a496cda15e2215447352578de645644c128938bf8651f66af0c4b49d43",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/vmlDrawing2.vml"
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing3.vml",
+      "bytes": 1573,
+      "sha256": "770db1ff188fdedcbb258ff85303ef0f1f29d93241bc40c6c4944f283961c0e0",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/vmlDrawing3.vml"
+    },
+    {
+      "parte": "xl/drawings/vmlDrawing4.vml",
+      "bytes": 1120,
+      "sha256": "840bf804917a484a25670528062d6b4e1954ff66db1c669a3b4729c363f7a6b2",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/vmlDrawing4.vml"
+    },
+    {
+      "parte": "xl/drawings/drawing1.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing1.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing2.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing2.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing3.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing3.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing4.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing4.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing5.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing5.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing6.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing6.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing7.xml",
+      "bytes": 3569,
+      "sha256": "1e920060378780ab8d619228e295123edf6b12d432305b2b3ea19d12b07670c3",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing7.xml"
+    },
+    {
+      "parte": "xl/drawings/_rels/drawing7.xml.rels",
+      "bytes": 831,
+      "sha256": "f1492c2301815931fb67547fdbaaffc02219a3fe405bfa2171a49d562603eef2",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/_rels/drawing7.xml.rels"
+    },
+    {
+      "parte": "xl/drawings/drawing8.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing8.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing9.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing9.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing10.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing10.xml"
+    },
+    {
+      "parte": "xl/drawings/drawing11.xml",
+      "bytes": 775,
+      "sha256": "394373ea7e1b1dfd8633980cf12b48a29def82f40be77ecb084131e50739dc4b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/drawings/drawing11.xml"
+    },
+    {
+      "parte": "xl/worksheets/sheet1.xml",
+      "bytes": 43928,
+      "sha256": "ee7b92181ea852f882dfcaa98a4ddbd68a5527d050ec51b8469215e6e28465a3",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet1.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet1.xml.rels",
+      "bytes": 6846,
+      "sha256": "cac9e8181b9f4ecb28952cf4798517fe76c953109d58cac85e31a19a1d6805c2",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet1.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet2.xml",
+      "bytes": 7599,
+      "sha256": "ab84d7e1fefe821a752b955ac4086f5681c863ff9f6824896a5cf5faf2d8faa0",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet2.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet2.xml.rels",
+      "bytes": 298,
+      "sha256": "eace0cae9b4278f2954e555cfc3944b18802739a2d6d5930bb473590e18ed4fd",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet2.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet3.xml",
+      "bytes": 127815,
+      "sha256": "91b38ddaf51efff4fe0d8db3aeb630d92feae17b86f2aab8b67a0ef74ab5510c",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet3.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet3.xml.rels",
+      "bytes": 19782,
+      "sha256": "2aa56493b6f63c7eb8d2939379992819bbd175a086c17de097e0b98be42768b5",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet3.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet4.xml",
+      "bytes": 4527,
+      "sha256": "5f918aa38049530eed3d5f12e00e72c073f40e544357ab8789b5ff51b243a736",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet4.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet4.xml.rels",
+      "bytes": 4143,
+      "sha256": "1862ce41aadcda7f812e1d19be101f1be656a14f382e88a5c3205244259c336a",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet4.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet5.xml",
+      "bytes": 6164,
+      "sha256": "f9a686c12be2a48adbee77aaaced7f7d4ca953e910faddf4e74e3972e1f91f9f",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet5.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet5.xml.rels",
+      "bytes": 298,
+      "sha256": "4f7aefe2ca16e6be537157c55112d03434865c97d679f669015971a281609b84",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet5.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet6.xml",
+      "bytes": 145002,
+      "sha256": "4d200a897beb1cecc15b4085a5a728786c8497656cbdc5fca9e53fbcb15da035",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet6.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet6.xml.rels",
+      "bytes": 581,
+      "sha256": "3b5686f8eb7107c2f4398e7fa2eb73d4fe77e6d5cd26c3a889477c9f5ce22cf2",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet6.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet7.xml",
+      "bytes": 5156,
+      "sha256": "1193e52ed0317a1c5fafcb006d806f7fcdf9fb39f4352f077d2e3229939c1367",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet7.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet7.xml.rels",
+      "bytes": 1491,
+      "sha256": "5ffd7f58388f54b96e67355ee8d1046e3dcc4bb219436627d02f72da2d7dc60b",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet7.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet8.xml",
+      "bytes": 33691,
+      "sha256": "aa5542e3db012140c28070de46109e64ce6464b83754de2a292253ebf9dbfe1e",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet8.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet8.xml.rels",
+      "bytes": 298,
+      "sha256": "191dfa43053c7eb189fe0176f3d24118b4d44229ca14dc6d3ede5b4ab1a7db61",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet8.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet9.xml",
+      "bytes": 5691,
+      "sha256": "1e3913a0d380d9a1c55ef08759f5ea4ed975a1e2ec57c25aead48c81647bf4be",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet9.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet9.xml.rels",
+      "bytes": 298,
+      "sha256": "12f2762b1e26fe691016aa6bce0c1c86928ade80b018e80eb812eba7ddba2d20",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet9.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet10.xml",
+      "bytes": 116770,
+      "sha256": "1a885f1adad10b6f0fd0131a389b2370468a18e639bdc8554c97da50988a83a5",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet10.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet10.xml.rels",
+      "bytes": 38817,
+      "sha256": "10e84a350577f2e96187469a4609c21a38a8231f4fe1fe00cb69957231fd1a19",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet10.xml.rels"
+    },
+    {
+      "parte": "xl/worksheets/sheet11.xml",
+      "bytes": 1107,
+      "sha256": "e886a12ea33154321ef7e0bd940e079a9d3888d104bf8a62021c2247f47bf2bd",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/sheet11.xml"
+    },
+    {
+      "parte": "xl/worksheets/_rels/sheet11.xml.rels",
+      "bytes": 299,
+      "sha256": "bbd9595fe1331a7fd6f139767607cd4f0446042e7d70c6f0e0b0e15b18cc7c6c",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/worksheets/_rels/sheet11.xml.rels"
+    },
+    {
+      "parte": "xl/theme/theme1.xml",
+      "bytes": 3757,
+      "sha256": "ae5d71054ede722ca536030c3010fecb3f6ce424a0a7518978bdbf2d32003b19",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/theme/theme1.xml"
+    },
+    {
+      "parte": "xl/sharedStrings.xml",
+      "bytes": 27441,
+      "sha256": "85a65ba60937153b7f8068a50617ac6ac4cef62cacbd7eb96783d43714f744b3",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/sharedStrings.xml"
+    },
+    {
+      "parte": "xl/styles.xml",
+      "bytes": 28173,
+      "sha256": "d8f127a3eb93354b44d28a7c9ed033c2642b4f1241a0774cb4fdb1fa5c6b1f86",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/styles.xml"
+    },
+    {
+      "parte": "xl/persons/person.xml",
+      "bytes": 161,
+      "sha256": "4ebd5532d853723b706f7de3d7ec4f8824ff5885c1b2fad14760298a574b608c",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/persons/person.xml"
+    },
+    {
+      "parte": "xl/workbook.xml",
+      "bytes": 1481,
+      "sha256": "e20f4352beeb8e07ba53f2878a53ac98ffea1cc0f9565768d821af9a465556b9",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/workbook.xml"
+    },
+    {
+      "parte": "xl/_rels/workbook.xml.rels",
+      "bytes": 2240,
+      "sha256": "ea5968b6bf0b861d0e2bf668646b1707c259f7facd146d7a24087cb84592b22c",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/_rels/workbook.xml.rels"
+    },
+    {
+      "parte": "_rels/.rels",
+      "bytes": 296,
+      "sha256": "8cbbdc48821190ccc33949fb8f8d021399ddbd526f770a8e86afae1c19e8d3e5",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/_rels/.rels"
+    },
+    {
+      "parte": "xl/media/image2.png",
+      "bytes": 132784,
+      "sha256": "27824fe664f14699891c5b442bba5499097fbe4d65f4295e58fd0999bc9ba25a",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image2.png"
+    },
+    {
+      "parte": "xl/media/image5.png",
+      "bytes": 327857,
+      "sha256": "e606deb3e707ff064a9088bd241997dd7266e9fa389cc364e74e51d9540e716c",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image5.png"
+    },
+    {
+      "parte": "xl/media/image1.png",
+      "bytes": 852082,
+      "sha256": "74f0e2db455ccf33d42d1168f4970c0077d6bc257fffca76460ab5327bde8d05",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image1.png"
+    },
+    {
+      "parte": "xl/media/image3.png",
+      "bytes": 167636,
+      "sha256": "337b7b12bc804c00f6a4972f1e7e2f24d11b9e4a8f5edc668365a567531fb25e",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image3.png"
+    },
+    {
+      "parte": "xl/media/image4.png",
+      "bytes": 217422,
+      "sha256": "e65dc0dc7770795b770367e1b835db9cd8332a60f61beb8953f302e176e66d15",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image4.png"
+    },
+    {
+      "parte": "[Content_Types].xml",
+      "bytes": 4466,
+      "sha256": "6ce7990312e29b6da47184fd279adce4fc790ae386278c4776f1ed5da3ddf9ba",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/[Content_Types].xml"
+    }
+  ],
+  "metadados_workbook": {
+    "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}workbook",
+    "atributos": {},
+    "texto": null,
+    "filhos": [
+      {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}workbookPr",
+        "atributos": {},
+        "texto": null,
+        "filhos": []
+      },
+      {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheets",
+        "atributos": {},
+        "texto": null,
+        "filhos": [
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "MAIN",
+              "sheetId": "1",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "LILO",
+              "sheetId": "2",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "SPELLS SUMMARY",
+              "sheetId": "3",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "SPELLBOOK SPELL LIST",
+              "sheetId": "4",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "SPELLS TABLE",
+              "sheetId": "5",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "ITEMS",
+              "sheetId": "6",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId10"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "ALTERSELF & POLYMORPH",
+              "sheetId": "7",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId11"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "XP",
+              "sheetId": "8",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId12"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "QUESTS",
+              "sheetId": "9",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId13"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "SPELLS LIST",
+              "sheetId": "10",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId14"
+            },
+            "texto": null,
+            "filhos": []
+          },
+          {
+            "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}sheet",
+            "atributos": {
+              "state": "visible",
+              "name": "BIBLIOTECA",
+              "sheetId": "11",
+              "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId15"
+            },
+            "texto": null,
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}definedNames",
+        "atributos": {},
+        "texto": null,
+        "filhos": []
+      },
+      {
+        "tag": "{http://schemas.openxmlformats.org/spreadsheetml/2006/main}calcPr",
+        "atributos": {},
+        "texto": null,
+        "filhos": []
+      }
+    ]
+  },
+  "relacionamentos_workbook": {
+    "rId11": {
+      "Id": "rId11",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet7.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet7.xml"
+    },
+    "rId10": {
+      "Id": "rId10",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet6.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet6.xml"
+    },
+    "rId13": {
+      "Id": "rId13",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet9.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet9.xml"
+    },
+    "rId12": {
+      "Id": "rId12",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet8.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet8.xml"
+    },
+    "rId15": {
+      "Id": "rId15",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet11.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet11.xml"
+    },
+    "rId14": {
+      "Id": "rId14",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet10.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet10.xml"
+    },
+    "rId1": {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme",
+      "Target": "theme/theme1.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/theme/theme1.xml"
+    },
+    "rId2": {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles",
+      "Target": "styles.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/styles.xml"
+    },
+    "rId3": {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/sharedStrings",
+      "Target": "sharedStrings.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/sharedStrings.xml"
+    },
+    "rId4": {
+      "Id": "rId4",
+      "Type": "http://schemas.microsoft.com/office/2017/10/relationships/person",
+      "Target": "persons/person.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/persons/person.xml"
+    },
+    "rId9": {
+      "Id": "rId9",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet5.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet5.xml"
+    },
+    "rId5": {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet1.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet1.xml"
+    },
+    "rId6": {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet2.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet2.xml"
+    },
+    "rId7": {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet3.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet3.xml"
+    },
+    "rId8": {
+      "Id": "rId8",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet",
+      "Target": "worksheets/sheet4.xml",
+      "parte_relacionamento": "xl/_rels/workbook.xml.rels",
+      "parte_destino": "xl/worksheets/sheet4.xml"
+    }
+  },
+  "midias": [
+    {
+      "parte": "xl/media/image2.png",
+      "bytes": 132784,
+      "sha256": "27824fe664f14699891c5b442bba5499097fbe4d65f4295e58fd0999bc9ba25a",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image2.png",
+      "formato": "PNG",
+      "largura": 300,
+      "altura": 381,
+      "modo": "RGB",
+      "usos": [
+        {
+          "aba": "ALTERSELF & POLYMORPH",
+          "celula": "E11",
+          "nome_objeto": "image2.png"
+        }
+      ],
+      "inspecao_visual": {
+        "data": "2026-10-29",
+        "metodo": "view_image da mídia original extraída, sem transformação",
+        "resultado": "Imagem legível, preservada sem redimensionamento; âncora conferida no DrawingML."
+      }
+    },
+    {
+      "parte": "xl/media/image5.png",
+      "bytes": 327857,
+      "sha256": "e606deb3e707ff064a9088bd241997dd7266e9fa389cc364e74e51d9540e716c",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image5.png",
+      "formato": "PNG",
+      "largura": 612,
+      "altura": 792,
+      "modo": "RGBA",
+      "usos": [
+        {
+          "aba": "ALTERSELF & POLYMORPH",
+          "celula": "A11",
+          "nome_objeto": "image5.png"
+        }
+      ],
+      "inspecao_visual": {
+        "data": "2026-10-29",
+        "metodo": "view_image da mídia original extraída, sem transformação",
+        "resultado": "Imagem legível, preservada sem redimensionamento; âncora conferida no DrawingML."
+      }
+    },
+    {
+      "parte": "xl/media/image1.png",
+      "bytes": 852082,
+      "sha256": "74f0e2db455ccf33d42d1168f4970c0077d6bc257fffca76460ab5327bde8d05",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image1.png",
+      "formato": "PNG",
+      "largura": 800,
+      "altura": 1034,
+      "modo": "RGB",
+      "usos": [
+        {
+          "aba": "ALTERSELF & POLYMORPH",
+          "celula": "C11",
+          "nome_objeto": "image1.png"
+        }
+      ],
+      "inspecao_visual": {
+        "data": "2026-10-29",
+        "metodo": "view_image da mídia original extraída, sem transformação",
+        "resultado": "Imagem legível, preservada sem redimensionamento; âncora conferida no DrawingML."
+      }
+    },
+    {
+      "parte": "xl/media/image3.png",
+      "bytes": 167636,
+      "sha256": "337b7b12bc804c00f6a4972f1e7e2f24d11b9e4a8f5edc668365a567531fb25e",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image3.png",
+      "formato": "PNG",
+      "largura": 360,
+      "altura": 353,
+      "modo": "RGB",
+      "usos": [
+        {
+          "aba": "ALTERSELF & POLYMORPH",
+          "celula": "I11",
+          "nome_objeto": "image3.png"
+        }
+      ],
+      "inspecao_visual": {
+        "data": "2026-10-29",
+        "metodo": "view_image da mídia original extraída, sem transformação",
+        "resultado": "Imagem legível, preservada sem redimensionamento; âncora conferida no DrawingML."
+      }
+    },
+    {
+      "parte": "xl/media/image4.png",
+      "bytes": 217422,
+      "sha256": "e65dc0dc7770795b770367e1b835db9cd8332a60f61beb8953f302e176e66d15",
+      "saida": "conteudo/Anexos/planilhas/glim-sombrasselva/ooxml/xl/media/image4.png",
+      "formato": "PNG",
+      "largura": 475,
+      "altura": 500,
+      "modo": "RGB",
+      "usos": [
+        {
+          "aba": "ALTERSELF & POLYMORPH",
+          "celula": "G11",
+          "nome_objeto": "image4.png"
+        }
+      ],
+      "inspecao_visual": {
+        "data": "2026-10-29",
+        "metodo": "view_image da mídia original extraída, sem transformação",
+        "resultado": "Imagem legível, preservada sem redimensionamento; âncora conferida no DrawingML."
+      }
+    }
+  ],
+  "abas": [
+    {
+      "nome": "MAIN",
+      "ordem": 1,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet1.xml",
+      "celulas_xml": 1909,
+      "celulas_com_conteudo": 212,
+      "formulas": 43,
+      "formulas_compartilhadas": 39,
+      "cache_formulas": {
+        "presente": 40,
+        "vazio_no_xml": 3
+      },
+      "comentarios": 3,
+      "hyperlinks": 30,
+      "mesclagens": 41,
+      "objetos_drawingml": 0,
+      "objetos_vml": 3,
+      "cobertura_markdown": {
+        "celulas": 212,
+        "comentarios": 3,
+        "hyperlinks": 30,
+        "mesclagens": 41,
+        "objetos_vml": 3
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-01.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 212,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "LILO",
+      "ordem": 2,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet2.xml",
+      "celulas_xml": 238,
+      "celulas_com_conteudo": 34,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 0,
+      "hyperlinks": 0,
+      "mesclagens": 32,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 34,
+        "comentarios": 0,
+        "hyperlinks": 0,
+        "mesclagens": 32,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-02.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 34,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "SPELLS SUMMARY",
+      "ordem": 3,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet3.xml",
+      "celulas_xml": 5317,
+      "celulas_com_conteudo": 160,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 1,
+      "hyperlinks": 90,
+      "mesclagens": 5,
+      "objetos_drawingml": 0,
+      "objetos_vml": 1,
+      "cobertura_markdown": {
+        "celulas": 160,
+        "comentarios": 1,
+        "hyperlinks": 90,
+        "mesclagens": 5,
+        "objetos_vml": 1
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-03.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 160,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "SPELLBOOK SPELL LIST",
+      "ordem": 4,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet4.xml",
+      "celulas_xml": 71,
+      "celulas_com_conteudo": 67,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 0,
+      "hyperlinks": 18,
+      "mesclagens": 0,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 67,
+        "comentarios": 0,
+        "hyperlinks": 18,
+        "mesclagens": 0,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-04.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 67,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "SPELLS TABLE",
+      "ordem": 5,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet5.xml",
+      "celulas_xml": 111,
+      "celulas_com_conteudo": 70,
+      "formulas": 5,
+      "formulas_compartilhadas": 5,
+      "cache_formulas": {
+        "presente": 5
+      },
+      "comentarios": 0,
+      "hyperlinks": 0,
+      "mesclagens": 71,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 70,
+        "comentarios": 0,
+        "hyperlinks": 0,
+        "mesclagens": 71,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-05.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 70,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "ITEMS",
+      "ordem": 6,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet6.xml",
+      "celulas_xml": 6040,
+      "celulas_com_conteudo": 153,
+      "formulas": 46,
+      "formulas_compartilhadas": 30,
+      "cache_formulas": {
+        "presente": 46
+      },
+      "comentarios": 2,
+      "hyperlinks": 0,
+      "mesclagens": 45,
+      "objetos_drawingml": 0,
+      "objetos_vml": 2,
+      "cobertura_markdown": {
+        "celulas": 153,
+        "comentarios": 2,
+        "hyperlinks": 0,
+        "mesclagens": 45,
+        "objetos_vml": 2
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-06.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 153,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "ALTERSELF & POLYMORPH",
+      "ordem": 7,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet7.xml",
+      "celulas_xml": 147,
+      "celulas_com_conteudo": 37,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 0,
+      "hyperlinks": 6,
+      "mesclagens": 22,
+      "objetos_drawingml": 5,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 37,
+        "comentarios": 0,
+        "hyperlinks": 6,
+        "mesclagens": 22,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-07.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 37,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "XP",
+      "ordem": 8,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet8.xml",
+      "celulas_xml": 132,
+      "celulas_com_conteudo": 113,
+      "formulas": 32,
+      "formulas_compartilhadas": 30,
+      "cache_formulas": {
+        "presente": 32
+      },
+      "comentarios": 0,
+      "hyperlinks": 0,
+      "mesclagens": 969,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 113,
+        "comentarios": 0,
+        "hyperlinks": 0,
+        "mesclagens": 969,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - XP.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-08.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 113,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [
+          {
+            "celula": "B4",
+            "valor_xml": 46096.0,
+            "openpyxl": "2026-03-15 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B5",
+            "valor_xml": 46099.0,
+            "openpyxl": "2026-03-18 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B6",
+            "valor_xml": 46105.0,
+            "openpyxl": "2026-03-24 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B7",
+            "valor_xml": 46111.0,
+            "openpyxl": "2026-03-30 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B8",
+            "valor_xml": 46113.0,
+            "openpyxl": "2026-04-01 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B9",
+            "valor_xml": 46118.0,
+            "openpyxl": "2026-04-06 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B10",
+            "valor_xml": 46127.0,
+            "openpyxl": "2026-04-15 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B11",
+            "valor_xml": 46138.0,
+            "openpyxl": "2026-04-26 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B12",
+            "valor_xml": 46139.0,
+            "openpyxl": "2026-04-27 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B13",
+            "valor_xml": 46148.0,
+            "openpyxl": "2026-05-06 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B14",
+            "valor_xml": 46155.0,
+            "openpyxl": "2026-05-13 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B15",
+            "valor_xml": 46162.0,
+            "openpyxl": "2026-05-20 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B16",
+            "valor_xml": 46169.0,
+            "openpyxl": "2026-05-27 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B17",
+            "valor_xml": 46190.0,
+            "openpyxl": "2026-06-17 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B18",
+            "valor_xml": 46202.0,
+            "openpyxl": "2026-06-29 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B19",
+            "valor_xml": 46239.0,
+            "openpyxl": "2026-08-05 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B20",
+            "valor_xml": 46251.0,
+            "openpyxl": "2026-08-17 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B21",
+            "valor_xml": 46259.0,
+            "openpyxl": "2026-08-25 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B22",
+            "valor_xml": 46266.0,
+            "openpyxl": "2026-09-01 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B23",
+            "valor_xml": 46267.0,
+            "openpyxl": "2026-09-02 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B24",
+            "valor_xml": 46278.0,
+            "openpyxl": "2026-09-13 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B25",
+            "valor_xml": 46282.0,
+            "openpyxl": "2026-09-17 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B26",
+            "valor_xml": 46286.0,
+            "openpyxl": "2026-09-21 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B27",
+            "valor_xml": 46292.0,
+            "openpyxl": "2026-09-27 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B28",
+            "valor_xml": 46295.0,
+            "openpyxl": "2026-09-30 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B29",
+            "valor_xml": 46300.0,
+            "openpyxl": "2026-10-05 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B30",
+            "valor_xml": 46315.0,
+            "openpyxl": "2026-10-20 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          },
+          {
+            "celula": "B31",
+            "valor_xml": 46321.0,
+            "openpyxl": "2026-10-26 00:00:00",
+            "tipo_openpyxl": "datetime",
+            "formato": "dd/mm"
+          }
+        ],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "QUESTS",
+      "ordem": 9,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet9.xml",
+      "celulas_xml": 165,
+      "celulas_com_conteudo": 10,
+      "formulas": 0,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {},
+      "comentarios": 0,
+      "hyperlinks": 0,
+      "mesclagens": 32,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 10,
+        "comentarios": 0,
+        "hyperlinks": 0,
+        "mesclagens": 32,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-09.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 10,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "SPELLS LIST",
+      "ordem": 10,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet10.xml",
+      "celulas_xml": 3600,
+      "celulas_com_conteudo": 1611,
+      "formulas": 33,
+      "formulas_compartilhadas": 23,
+      "cache_formulas": {
+        "presente": 33
+      },
+      "comentarios": 1,
+      "hyperlinks": 179,
+      "mesclagens": 1,
+      "objetos_drawingml": 0,
+      "objetos_vml": 1,
+      "cobertura_markdown": {
+        "celulas": 1611,
+        "comentarios": 1,
+        "hyperlinks": 179,
+        "mesclagens": 1,
+        "objetos_vml": 1
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-10.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 1611,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    },
+    {
+      "nome": "BIBLIOTECA",
+      "ordem": 11,
+      "visibilidade": "visible",
+      "parte_xml": "xl/worksheets/sheet11.xml",
+      "celulas_xml": 3,
+      "celulas_com_conteudo": 3,
+      "formulas": 1,
+      "formulas_compartilhadas": 0,
+      "cache_formulas": {
+        "presente": 1
+      },
+      "comentarios": 0,
+      "hyperlinks": 0,
+      "mesclagens": 0,
+      "objetos_drawingml": 0,
+      "objetos_vml": 0,
+      "cobertura_markdown": {
+        "celulas": 3,
+        "comentarios": 0,
+        "hyperlinks": 0,
+        "mesclagens": 0,
+        "objetos_vml": 0
+      },
+      "saida_markdown": "conteudo/Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md",
+      "dados_json": "conteudo/Anexos/planilhas/glim-sombrasselva/aba-11.json",
+      "conferencias": {
+        "celulas_na_leitura_openpyxl": 3,
+        "coordenadas_so_no_xml": [],
+        "coordenadas_so_no_openpyxl": [],
+        "formulas_divergentes": [],
+        "conversoes_por_formato_data_hora": [],
+        "valores_literais_convertidos_ou_divergentes": [],
+        "caches_convertidos_ou_divergentes": []
+      }
+    }
+  ],
+  "strings_compartilhadas_sem_uso_em_celulas": [],
+  "avisos_leitor_openpyxl": []
+}

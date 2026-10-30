@@ -1,0 +1,37 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017 e PC-009 foram posteriormente respondidas; PC-010 foi encerrada com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os cinco registros permanecem identificados neste documento, deixando 96 registros pendentes, sem nova solicitação de resposta nos itens encerrados.",
+      "depois": "A versão inicial incluiu 101 registros com informação pendente e excluiu cinco já respondidos: PC-002, PC-003, PC-011, FC-009 e IT-005. FC-017, PC-009 e PC-041 foram posteriormente respondidas; PC-010 foi encerrada com as incertezas preservadas, PC-024 por irrelevância e PC-040 por ausência de registros adicionais. Os seis registros permanecem identificados neste documento, deixando 95 registros pendentes, sem nova solicitação de resposta nos itens encerrados."
+    },
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta confirmada (30/10/2026): Foi Varo quem matou Tom, Glim não tem informações sobre Varo depois que se distanciou dele."
+    },
+    {
+      "antes": "Referências: Background - Glim Sombrasselva.",
+      "depois": "Referências: Background - Glim Sombrasselva. Confirmação do jogador (30/10/2026)."
+    },
+    {
+      "antes": "A completar: Qual é o cargo e estado atual de Varo Cinzafrio, e quem era o homem que matou Tom durante o serviço? Há confirmação de ordem de Varo ou apenas vínculo com sua rede?",
+      "depois": "Pergunta respondida: A autoria material é de Varo. O estado, o paradeiro e o cargo atuais não são conhecidos por Glim; não é necessário inventar esses detalhes ou manter nova solicitação neste item."
+    },
+    {
+      "antes": "Já registrado: O background descreve Varo como intermediário e o assassino como homem que acompanha Glim, sem nomeá-lo nessa cena. A morte não foi atribuída nominalmente a Varo.",
+      "depois": "Já registrado: Varo matou Tom durante o serviço em que acompanhava Glim, conforme confirmação do jogador. Glim não tem informações sobre Varo desde que se distanciou dele."
+    },
+    {
+      "antes": "PC-041 — Varo e o assassino de Tom",
+      "depois": "PC-041 — Varo e o assassino de Tom — RESPONDIDA"
+    },
+    {
+      "antes": "Este documento reúne 101 registros em consulta. FC-017 e PC-009 já foram respondidas; PC-010, PC-024 e PC-040 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 96 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes.",
+      "depois": "Este documento reúne 101 registros em consulta. FC-017, PC-009 e PC-041 já foram respondidas; PC-010, PC-024 e PC-040 tiveram suas consultas encerradas, preservando as incertezas e os fatos conhecidos. Restam 95 registros com informação pendente. Os IDs permitem incorporar as respostas à wiki sem perder a ligação com as fontes."
+    }
+  ],
+  "estado": "respondida",
+  "pendencias_restantes": 95,
+  "demais_textos_preservados": true
+}

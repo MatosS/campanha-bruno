@@ -1,0 +1,17 @@
+{
+  "data": "2026-10-29",
+  "snapshot_historico_preservado": true,
+  "correcoes": [
+    {
+      "path": "conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+      "antes_sha256": "ec3a2ed246e7dda6c25527ae2cff7500143201a7f8a6c813ec197f67fd2b6b4a",
+      "depois_sha256": "8d65d37af028ac905184ae852bdf817b5314ea2e043bbb63bb36e5e72c635af6",
+      "data": "2026-10-29",
+      "motivo": "Recuperar a indicacao visual de fonte riscada em seis celulas de Fash INTERESSES, omitida na primeira apresentacao Markdown.",
+      "evidencia": "BASE INICIAL/FASH PALESKIN.xlsx; INTERESSES C3,D4,C24,C25,C51,C52; xl/styles.xml preservado.",
+      "registro": "docs/auditoria-exclusao/correcao-rasuras.json",
+      "copia_anterior": "docs/auditoria-exclusao/antes-correcao/conteudo/Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+      "dados_literais_alterados": false
+    }
+  ]
+}

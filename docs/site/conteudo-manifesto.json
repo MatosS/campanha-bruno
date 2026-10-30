@@ -1,0 +1,3105 @@
+{
+  "source": "conteudo/",
+  "quartz": "5.0.0",
+  "notes": [
+    {
+      "path": "Campanhas/Fash.md",
+      "sha256": "6d5c6ac0b4006242f2b01fd1752d22736cff8953222c15f228ac6737416166d8",
+      "title": "Campanha de Fash"
+    },
+    {
+      "path": "Campanhas/Glim.md",
+      "sha256": "35cd943867eaf4f7704d24d44ed2a9a1dc4273f95be0f8cfee1b3224fc9167b9",
+      "title": "Campanha de Glim"
+    },
+    {
+      "path": "Campanhas/Indice.md",
+      "sha256": "6706a909a1b09d790d388d2cfbf82e484451c797c2aea1f317cbf3daa9c1f257",
+      "title": "Campanhas"
+    },
+    {
+      "path": "Criaturas/Crepusculos Venenosos.md",
+      "sha256": "1fa5fb08dff0b67c3a647735f9d8e9f16b8c867ea230d8ac1c20f964512e3692",
+      "title": "Crepúsculos Venenosos"
+    },
+    {
+      "path": "Criaturas/Devoradores de mente.md",
+      "sha256": "69ac0ca68d5fe23e8adcb20af048f859080fcbe9c0c9d6f506bee2a291c2771a",
+      "title": "Devoradores de mente"
+    },
+    {
+      "path": "Criaturas/Fada Orfa.md",
+      "sha256": "6457859f6e5d1e4bb677fd9ec42058f7b89f87b8ebc4a7ff2b72c7782b1e87d2",
+      "title": "Fada Órfã"
+    },
+    {
+      "path": "Criaturas/Goblins de Dekanter.md",
+      "sha256": "2161decdb12321aa946579239079c566bfb000f526c94a3f68ed4a81258dd6e0",
+      "title": "Goblins de Dekanter"
+    },
+    {
+      "path": "Criaturas/Indice.md",
+      "sha256": "a4094c0cdca9207c24446cc4f5100665f182ce2a1c575035f43d61574c8564fc",
+      "title": "Criaturas"
+    },
+    {
+      "path": "Criaturas/Inevitaveis.md",
+      "sha256": "d56a7a1024eb778c2d86a3013f8c59bda4a55f275c86a4e464f122b7b6f9cc3c",
+      "title": "Inevitáveis na descrição da mesa"
+    },
+    {
+      "path": "Criaturas/Kuat - grafia provisoria.md",
+      "sha256": "e8e3307296dd5b344a03ddb7b24d538a5b7265a331c9ab5fea27c88ce28f785c",
+      "title": "Kuat — grafia provisória"
+    },
+    {
+      "path": "Criaturas/Magia viva do sono.md",
+      "sha256": "2def69b0f79e7ce051330e26e74ce658f1ff1c15516e95bd3fea140ac60226e3",
+      "title": "Magia viva do sono"
+    },
+    {
+      "path": "Criaturas/Mind Shredders.md",
+      "sha256": "f2ef58cf120ff1d4c5c908c98af12bc80a39afab1b28a9a03f41f7c3b34b343a",
+      "title": "Mind Shredders"
+    },
+    {
+      "path": "Criaturas/Vasuthant.md",
+      "sha256": "5bd8d0ed01194dc498ebf2d88e6473511ad8903e94245b6a0ccffecf2aea6d19",
+      "title": "Vasuthant"
+    },
+    {
+      "path": "Cronologia/Fash e Glim.md",
+      "sha256": "0b6b0872d657f24afc30d7216c1b6a8d8822a4b61fece7c828bc0140662f33e7",
+      "title": "Fash e Glim — continuidade"
+    },
+    {
+      "path": "Cronologia/Glim Sombrasselva.md",
+      "sha256": "fc78f15ca61ca35a9092472092e8b5e82a1b8616c03d4da21d165740dceb8895",
+      "title": "Glim — cronologia da campanha"
+    },
+    {
+      "path": "Cronologia/Indice.md",
+      "sha256": "0f94581b50e54a767ccda17f9cbc3950c0f04d0d2bc3b13e39f89379768d76ba",
+      "title": "Cronologia"
+    },
+    {
+      "path": "Eventos/Agua envenenada de Eral.md",
+      "sha256": "61c4443d714f1efea9270b617739006b1405ce2a2f2c400da42869edece42827",
+      "title": "Água envenenada de Eral"
+    },
+    {
+      "path": "Eventos/Aprisionamento do Cerebro.md",
+      "sha256": "91f5bafa56a9bd93dad09ec58cefdfe27fea67f8006a44edf28d2109a5579e68",
+      "title": "Aprisionamento do Cérebro e guerra dos guardiões"
+    },
+    {
+      "path": "Eventos/Ataque a Eral.md",
+      "sha256": "f0407979bfd1badc419c103718f4fa2903f1753b15d73f58bf1405e89c8aa851",
+      "title": "Ataque a Eral e traição dos Kenku"
+    },
+    {
+      "path": "Eventos/Busca dos rangers.md",
+      "sha256": "162f2c992bd029d2e7637918f2fd15b23cca0056aa2eeeb2443b33c6c6ed178a",
+      "title": "Busca dos rangers e retorno a Eral"
+    },
+    {
+      "path": "Eventos/Caca ao Vasuthant.md",
+      "sha256": "b8cf4e5426b31b57d3a18e5e9063f90f9d33eef38101385393e394c885b364b8",
+      "title": "Caça ao Vasuthant"
+    },
+    {
+      "path": "Eventos/Caso Carlos e magia viva.md",
+      "sha256": "285ce802fe0e13404d8a7c3697714914c5fd6f4520b395a845b206e4a5e926cf",
+      "title": "Caso da família de Carlos e magia viva"
+    },
+    {
+      "path": "Eventos/Caso das criancas.md",
+      "sha256": "8c1254470388bcb1e326c22c3012b035fb002b1c59d7f69b31633dc0e21ba349",
+      "title": "Desaparecimento das crianças e Fada Órfã"
+    },
+    {
+      "path": "Eventos/Cativeiro e sonho de Fash.md",
+      "sha256": "48679dbf04ac152eb4a8a0ee32bb430f00c9225a0518f496d8886f19fbc51b3b",
+      "title": "Cativeiro e sonho de Fash"
+    },
+    {
+      "path": "Eventos/Chegada a Eral.md",
+      "sha256": "f5b8ae1a44aaa6e1a468ac7048244e1b86510b46ec621a3d94abb13634ddbc03",
+      "title": "Chegada a Eral e contrato com Arkhavel"
+    },
+    {
+      "path": "Eventos/Confronto com Vesperal.md",
+      "sha256": "71292602227a831e0274fc930a5d582eb4df259c249c7eb759d5f75ebe65bb07",
+      "title": "Confronto com Aurel Vesperal"
+    },
+    {
+      "path": "Eventos/Crise do prefeito.md",
+      "sha256": "bec00d873b7cc2729ec7ffe20553188bb4a3178605554834e76b31271004ebb9",
+      "title": "Crise do prefeito e do Aboleth"
+    },
+    {
+      "path": "Eventos/Crise dos refens.md",
+      "sha256": "3175c76a0aff51f4eb4f5467e3b4043ddc44217ef58a602fa29aa6358fea2afa",
+      "title": "Crise dos reféns e massacre nas cavernas"
+    },
+    {
+      "path": "Eventos/Despertar do Fogo Primordial.md",
+      "sha256": "be459fbc390f30b72a73203c126ab7bcd9684156e8dbfd9441e3b73a72ff09a6",
+      "title": "Despertar do Fogo Primordial"
+    },
+    {
+      "path": "Eventos/Destruicao da esfera de Elena.md",
+      "sha256": "befd9999eda87af7a97275fd500c24551362fbcc7c972747e0f8447a0d8ea91b",
+      "title": "Destruição da esfera de Elena e epidemia de luz"
+    },
+    {
+      "path": "Eventos/Duelo e entrega de Firael.md",
+      "sha256": "ebf898fea2a4cd431d560937b43a0e04ae78185c97bbba27cbbb5a617e38c61a",
+      "title": "Duelo dos trolls e entrega de Firael"
+    },
+    {
+      "path": "Eventos/Experiencia de Okay no amuleto.md",
+      "sha256": "8d41a97ef55ce36be53532192e96e511257479797c2314149030ef95c35fceb9",
+      "title": "Experiência de Okay no amuleto"
+    },
+    {
+      "path": "Eventos/Indice.md",
+      "sha256": "d6cb1e44b144a7172184e0c81fd458bcd89b993f1675bbd3c924e81178a1dd68",
+      "title": "Acontecimentos"
+    },
+    {
+      "path": "Eventos/Infancia e ruptura de Glim.md",
+      "sha256": "19d71995ff2f0ab90369ad6da9cd345b14939eb5ef1172e724cc577c4b21888a",
+      "title": "Infância de Glim e ruptura do selo"
+    },
+    {
+      "path": "Eventos/Manifestacao da sombra de Lilo.md",
+      "sha256": "98aaa06549b2cd4905a1dfee255f43f002ea0d8173e91164f84137ed494b5694",
+      "title": "Manifestação da sombra de Lilo"
+    },
+    {
+      "path": "Eventos/Memorias de Kael.md",
+      "sha256": "c2d47e7026085d1d8658a278696028492893265c83b61bbad8707d976fba8ea4",
+      "title": "Recuperação das memórias de Kael"
+    },
+    {
+      "path": "Eventos/Morte de Kael.md",
+      "sha256": "05adf09f0e35e15d53164c4c2e0920a73642d685e1479d6e894ebec149bb9950",
+      "title": "Morte de Kael e continuidade em Okay"
+    },
+    {
+      "path": "Eventos/Noite Eterna.md",
+      "sha256": "a483c9c7a011b6083a44d479534be0b68e61239581feb4f6f0c1eed6920f67a5",
+      "title": "Noite Eterna"
+    },
+    {
+      "path": "Eventos/Posto dos Mind Shredders.md",
+      "sha256": "8940968c1979f6b5209f1f9d970fe4349bdb5f4587e6e01aabe48604aed52c18",
+      "title": "Combate ao posto dos Mind Shredders"
+    },
+    {
+      "path": "Eventos/Preparativos da torre.md",
+      "sha256": "5cc80cd12ff9d4139386f787c379d2b7a0e4cbc3be1bb0379d06b5e2b6af1da1",
+      "title": "Preparativos da torre e ida ao Etéreo"
+    },
+    {
+      "path": "Eventos/Provacoes de Kord.md",
+      "sha256": "e35eb3f38d7dddc54590987213312c0afe9c76ef05977b3466324f5f3c1511b8",
+      "title": "Provações de Kord e aldeia na neve"
+    },
+    {
+      "path": "Eventos/Queda da arena.md",
+      "sha256": "73ffe63d109719516aeed51230dd493f535b86b930c257491dee46837d68a7fa",
+      "title": "Queda da arena de Eral"
+    },
+    {
+      "path": "Eventos/Queda da Roda de Estopa.md",
+      "sha256": "76ade4be6fbbce1757d036c43b3cfcda238a4e90ce2d4307cb5cbf06eaecb19e",
+      "title": "Queda da Roda de Estopa"
+    },
+    {
+      "path": "Eventos/Queda do Druida Sangrento.md",
+      "sha256": "8f491b4e6ff5d5a861d63e24f86e035d73ed2eae4d37cd495475ea6ec304a2cb",
+      "title": "Queda do Druida Sangrento e libertação dos anões"
+    },
+    {
+      "path": "Eventos/Reassentamento em Throden.md",
+      "sha256": "40df793fea15eb5c6cf1c06248549051e81f0cf12d63e74d5217e3b270528f89",
+      "title": "Reassentamento da cidade drow e de Throden"
+    },
+    {
+      "path": "Eventos/Retomada dos tuneis de Eral.md",
+      "sha256": "ccc5a1c071f321dd8f6ceb2577ec72454657af64759ed29dc2cfab2a4b8a49a8",
+      "title": "Retomada dos túneis de Eral"
+    },
+    {
+      "path": "Eventos/Revoada Branca.md",
+      "sha256": "1fa4dc8d29e36f59ea75f441378006e982c5f86b2628526cbe783fd613f59728",
+      "title": "Revoada Branca e outras revoadas"
+    },
+    {
+      "path": "Eventos/Trabalho de Glim para Varo.md",
+      "sha256": "96dbca61c6cedfec1af4999cd7616518a50c14bc7d2468c919c756d8463ae885",
+      "title": "Trabalho de Glim para Varo e morte de Tom"
+    },
+    {
+      "path": "Faccoes/Anoes libertos.md",
+      "sha256": "6073792123aae680c644826d539d92ce4db25bb2bf4968194f8618a8735e6805",
+      "title": "Anões libertos"
+    },
+    {
+      "path": "Faccoes/Arena de Silthan.md",
+      "sha256": "5baf7787ab274025239302297ab1f13bd58e572736a7c3d112b5a1e5c86a420f",
+      "title": "Negócio da arena de Silthan"
+    },
+    {
+      "path": "Faccoes/Arquivistas.md",
+      "sha256": "df85a897b0ebde162e1163753732168299011345a1285c22479f6454c346a0fd",
+      "title": "Ordem do Véu Sepulcral"
+    },
+    {
+      "path": "Faccoes/Casa Velkyn.md",
+      "sha256": "00b5cc3c2706e9b29af481350f052150148cb861bace3aac31bf9beb2a8b01a7",
+      "title": "Casa Velkyn"
+    },
+    {
+      "path": "Faccoes/Circulo Vetrilus.md",
+      "sha256": "02ed52ed9b649a70092cca153242317ca5f940e1e6ce3e9ef1f350dbe4e575c4",
+      "title": "Círculo Vetrilus"
+    },
+    {
+      "path": "Faccoes/Conclave da floresta.md",
+      "sha256": "ea2dc11769395f655dd70195455614861cba850da12f3e5f877c4c3fab4ee626",
+      "title": "Conclave da floresta"
+    },
+    {
+      "path": "Faccoes/Conclave das Bruxas.md",
+      "sha256": "c23b3da0ca8482a45c66095ddffe96b20dfd2620600b9288fb2c1e8c9b995372",
+      "title": "Conclave das Bruxas nos registros antigos"
+    },
+    {
+      "path": "Faccoes/Ebano.md",
+      "sha256": "bdd391024b21f318138042311937d41863b566efaa2e4a9b709533a5cf6252ba",
+      "title": "Ébano"
+    },
+    {
+      "path": "Faccoes/Guarda de Eral.md",
+      "sha256": "a520998075664d366420ef95732bcd9c75645762e2b25a940e7eccfde9b09121",
+      "title": "Guarda de Eral"
+    },
+    {
+      "path": "Faccoes/Igreja de Kord.md",
+      "sha256": "611f7eeda79d7c56e414433429ca237eb2c029578d10f74affb600ea85bc4df8",
+      "title": "Igreja de Kord"
+    },
+    {
+      "path": "Faccoes/Indice.md",
+      "sha256": "fb8b6e8c7e88030a4de5cc023ee263b88ac2b7d574c7d68b42b00a341a7a4d72",
+      "title": "Facções e grupos"
+    },
+    {
+      "path": "Faccoes/Instituicoes de Lazathar.md",
+      "sha256": "5b7c81b107be564825529f77959d68626e78b06d7234c98f591023b41657f9bc",
+      "title": "Instituições do sonho de Lazathar"
+    },
+    {
+      "path": "Faccoes/Kenku de Eral.md",
+      "sha256": "6fc4bafb35c4d3187c811f44b3233ad2ce56fb4da982894d68bed794a11c993e",
+      "title": "Kenku de Eral"
+    },
+    {
+      "path": "Faccoes/Lamina da Meia-Noite.md",
+      "sha256": "d9f8f7a6fd85bb875ae47d3ac1d9cce8ee28440de0ec5b10480b9b1557bcf684",
+      "title": "Lâmina da Meia-Noite"
+    },
+    {
+      "path": "Faccoes/Lua Sangrenta.md",
+      "sha256": "b47b022e405ac47ed82704bdfcd11076235dd84c46c26eb2804cee202890bf34",
+      "title": "Lua Sangrenta"
+    },
+    {
+      "path": "Faccoes/Magnificos.md",
+      "sha256": "432489e5b22095373e2a2e64146bfefa32587bb53d90fee948174f5aeecb10f7",
+      "title": "Os Magníficos"
+    },
+    {
+      "path": "Faccoes/Meio-dragoes de Throden.md",
+      "sha256": "b02b31da4349ab4fbc5a938a5a047c81083deb96408e10281111d6f5bc0f39c8",
+      "title": "Meio-dragões de Throden"
+    },
+    {
+      "path": "Faccoes/Mercado Negro.md",
+      "sha256": "6c20f6f5ae67c4a5edebbd9d57d686aba8f5253a0e2715a484731218fe17f5f1",
+      "title": "Mercado Negro"
+    },
+    {
+      "path": "Faccoes/Organizacao de Firael.md",
+      "sha256": "d6e028fe74c9e5ced65591a74185f610a5050ab11cb4fe0968aa49a254d61b68",
+      "title": "Séquito de Kharzun"
+    },
+    {
+      "path": "Faccoes/Organizacao do Necromante.md",
+      "sha256": "f8c03e308fcf6b285083f3d736cfe9f5860e4f50329e1215b8b4d895e5ed0c42",
+      "title": "Organização do Necromante"
+    },
+    {
+      "path": "Faccoes/Roda de Estopa.md",
+      "sha256": "cddbd1bc0debe7b913b9aac14004eefe7c79b0727ce9fb4836bdaa6e587f4214",
+      "title": "Roda de Estopa"
+    },
+    {
+      "path": "Faccoes/Traficantes planares de almas.md",
+      "sha256": "415db3957f4cd54688adb1fb2dbe7f59fd7a2ea29506dc68dd3c16978c0107be",
+      "title": "Traficantes planares de almas"
+    },
+    {
+      "path": "Faccoes/Zodiacos.md",
+      "sha256": "ab2f5d799662b5ac47f5331e37685b29ae51a0730a72283de88d80d75f793699",
+      "title": "Zodíacos"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Cinto de Kord nao recuperado.md",
+      "sha256": "6f9f03f66aa7630d38a44b2c95bc68f8eb5810a737203425343250411e0e4087",
+      "title": "Sabatina — cinto de Kord não recuperado, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Circulo Vetrilus e Conclave das Bruxas.md",
+      "sha256": "86d21d1c0024ec9b6c2ac09a4ae3f3c30d7d6cbb5b8ff1f29012a9e4932ddf0d",
+      "title": "Sabatina — Círculo Vetrilus e Conclave das Bruxas, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Coordenadas K28 L28 sem confirmacao.md",
+      "sha256": "2cd2086c553aed779bf09257ab1a308e203548cc6043fe3c6532210317dd09ac",
+      "title": "Sabatina — coordenadas K28/L28 sem confirmação, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Furion mantido sob revisao.md",
+      "sha256": "f285c64c571e6918fd377178cf9ee5a790a67e8a75dbf1183e4661100ba72399",
+      "title": "Sabatina — Furion mantido sob revisão, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Glim nunca ouviu falar de Fash.md",
+      "sha256": "f8562d7c47342e3ee7ce007089cbfcfcd717811192b6cae305c80e39c74b4a68",
+      "title": "Sabatina — Glim nunca ouviu falar de Fash, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Grafia confirmada de Hourian.md",
+      "sha256": "f2657b971268fe2dd7ddecdd55f3509c150d6e70ad13faad24a67fee0c114ec9",
+      "title": "Sabatina — grafia confirmada de Hourian, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Grimorio de Glim e Shar.md",
+      "sha256": "b867faa4492fa9aeacd777a968a3173b392061879e67259e62801ab5ff6b09be",
+      "title": "Sabatina — grimório de Glim e Shar, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Identidade do familiar de Lilo.md",
+      "sha256": "5b4e4382f310091e089f3046bdeefe8934a55577a436b0b90c91a540002a78a0",
+      "title": "Sabatina — limites da identidade do familiar de Lilo, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Identidade do professor de Okay desconhecida.md",
+      "sha256": "28a06c484a0b708503100056bfbd9c4b1ad7f895278109c4077eccb991b4d78a",
+      "title": "Sabatina — identidade do professor de Okay desconhecida, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Intriga de Firael e conhecimento de Fash.md",
+      "sha256": "f317e1f521e727732c3b3bc81a9592b80b70e4bfcadc14bb800c057c30e908af",
+      "title": "Sabatina — intriga de Firael e conhecimento de Fash, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Invisibilidade das portas no destino.md",
+      "sha256": "e89201696973a4bd55f142550fc8ab333dc4c263d9521ad4fae833fb99d5ca2f",
+      "title": "Sabatina — invisibilidade das portas no destino, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Kuat e filho de Arkhavel.md",
+      "sha256": "f2b55619f495435886d4f782298f58144fefabdca04db6826fef4b1868cff3c9",
+      "title": "Sabatina — Kuat e filho de Arkhavel, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Localizacao do santuario de Timo desconhecida.md",
+      "sha256": "7a7a1ce236c772da10bdb94219ff3ae12d1c1644939d5ff7f0865b554908caba",
+      "title": "Sabatina — localização do santuário de Timo desconhecida, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Nodo sob o fosso escavado por Fash.md",
+      "sha256": "f344bbee0be98a08d39a586e209b067635def300ec8a4ef2a212527d37a3722b",
+      "title": "Sabatina — nodo sob o fosso escavado por Fash, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Nodos do fosso e das bruxas distintos.md",
+      "sha256": "c9fade5040229d91273523fbb701c05e009fc7ae946f3423c37bf211e243b989",
+      "title": "Sabatina — nodos do fosso e das bruxas distintos, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Nome da aldeia de Glim nao definido.md",
+      "sha256": "462d117907796023a1618ddb23d61af35606c11b515b040211ee3833469bd88e",
+      "title": "Sabatina — nome da aldeia de Glim não definido, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Nome da Ordem do Veu Sepulcral.md",
+      "sha256": "497ab8129a31315f11292e12625accb6e2deab40e97b380ffd1515d39286a814",
+      "title": "Sabatina — nome da Ordem do Véu Sepulcral, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Porta mantida aberta para retorno.md",
+      "sha256": "03f563e9baa603c52133bebc58effeaf871f710272b4d168d99bcad773e4bad7",
+      "title": "Sabatina — porta mantida aberta para retorno, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Reconhecimento da runa por estudo.md",
+      "sha256": "1d17244a8d5b835a80e0b025338ad9372605110690e09f88e3ada1cbee175cbb",
+      "title": "Sabatina — reconhecimento da runa por estudo, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Redencao de Crave e recuperacao do amuleto.md",
+      "sha256": "8f3f9932a403ac72a4b4e1e21765ca9d24331eeb8fe6b92ba1238217228847c8",
+      "title": "Sabatina — redenção de Crave e recuperação do amuleto, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Reencarnacao de Okay desconhecida por Glim.md",
+      "sha256": "24e44041fb6e1b37574ebffc50ed4407ba8a047bb3aca1a02e7e4bd62fad1355",
+      "title": "Sabatina — reencarnação de Okay desconhecida por Glim, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Revoadas sem identificacao confirmada.md",
+      "sha256": "b9895acc5b0dc5a854792f863130cf370bf59fdc2fad9e6e85cecb214c5da7aa",
+      "title": "Sabatina — revoadas sem identificação confirmada, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Ryld e sessao recente sem gravacao.md",
+      "sha256": "351f7a23bafad70621b0247abcf6cfce36f29380bb2367508d1ad39f105ba46a",
+      "title": "Sabatina — Ryld e sessão recente sem gravação, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Sabatina de continuidade - Fash e Timo.md",
+      "sha256": "2c0812a00817046b5b934e4f4e4adaaa8390194df14b658ea62aeb451b6a5a0e",
+      "title": "Sabatina de continuidade — Fash, Timo e Okay, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Sobrevivencia do Kuat.md",
+      "sha256": "ea387945643b84b4973aa1dac534a271084ce59627bed24fc015b63962ff7129",
+      "title": "Sabatina — sobrevivência do Kuat, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Tariun sem noticias e prioridade para contradicoes.md",
+      "sha256": "88593141963f42b9dd6017de696a293870f74893a51d1d8677e55eb4b8d8bf08",
+      "title": "Sabatina — Tariun sem notícias e prioridade para contradições, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Valor afetivo de Piche.md",
+      "sha256": "dcf75af5edd567a3ca3b2dbdfbbb2127a8e57b496ea4710adc8a676475af1953",
+      "title": "Sabatina — valor afetivo de Piche, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Vigilia Silenciosa conforme dossie de Okay.md",
+      "sha256": "e0ebcdbea69b5ceb027689ce3283ec54212dcfde918af88f2e4f960c7c03e609",
+      "title": "Sabatina — Vigília Silenciosa conforme dossiê de Okay, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-29 - Vinculos divinos e Mystra.md",
+      "sha256": "3c9e4bc3aab173d4e650a99c0a72592403612840228b0d9abf7f006f92c0c081",
+      "title": "Sabatina — vínculos divinos e Mystra, 29/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Aelion acompanha os Magnificos.md",
+      "sha256": "6cb7540429f2df0c7e07b99fd65cc28acc9caa1450bd56101a53df450af6823b",
+      "title": "Sabatina — Aelion acompanha os Magníficos"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Aelion e participantes da incursao.md",
+      "sha256": "a0e94250a6b4df7923e5b9c3d678dde1d07f17cd440f744c5317083181b463ae",
+      "title": "Sabatina — Aelion e participantes da incursão"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Agua de Eral tribo e hipotese de acao do exercito.md",
+      "sha256": "1759f0ca4c1b087982eb89d7d9a5ba476fbe3caefe15f1caeb21c3cd44bc2962",
+      "title": "Sabatina — água de Eral, tribo e hipótese de ação do exército"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Aldeia proxima a capital sem prioridade.md",
+      "sha256": "ba2dddea71e0b8d6ec4f68009062468831286c5f5340685073e3234e36720e0d",
+      "title": "Sabatina — aldeia próxima à capital, sem prioridade"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Arkhavel criou magia viva desfecho desconhecido.md",
+      "sha256": "ffd6519d9faa82d618c29803feb22a451c681580d7fa3d605dcb1d2266930de7",
+      "title": "Sabatina — Arkhavel criou a magia viva, desfecho desconhecido"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Assunto do Conclave e arena encerrado.md",
+      "sha256": "72b7a40c58df4ff36d492349a61e06280a9d62ca8951cd19d291ab8a56ac09fe",
+      "title": "Sabatina — assunto do Conclave e da arena encerrado"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Ausencia de registros adicionais da Roda de Estopa.md",
+      "sha256": "ad263ee413facff0fe4e3f6d930a82e64dd42f11e4e169d44fba33416092653b",
+      "title": "Sabatina — ausência de registros adicionais da Roda de Estopa"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Composicao e estrutura atuais do Sequito desconhecidas.md",
+      "sha256": "e899b10c5ed469dc2d75a1bdf1723dac87b33b377e5cc2cfd9c30b402c97a1c3",
+      "title": "Sabatina — composição e estrutura atuais do Séquito desconhecidas"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Crave continua sem sombra.md",
+      "sha256": "87d5a359d3b80debbea7524902e249016996f1a63758396f551455bae7e7b62c",
+      "title": "Sabatina — Crave continua sem sombra"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Crenca antiga sobre Elena e versao da bruxa.md",
+      "sha256": "8ccf61000198fcfd0535df9a7fd8506b3a95f329adcef6ccf9c3f701e635fc4c",
+      "title": "Sabatina — crença antiga sobre Elena e a versão da bruxa"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Criterio de revisao contradicoes e fluxo.md",
+      "sha256": "d01bf53d081cca38183e66d6a67e3ea58206f35c950050b0fcc7c3ab6386f601",
+      "title": "Critério do jogador — contradições e gaps no fluxo"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Destino de Silthan nao recordado.md",
+      "sha256": "0f5f4f9f01af4d55d1b680713dd1ddb2fab7cbfbf44420667c559c2841857c9b",
+      "title": "Sabatina — destino de Silthan não recordado"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Destinos desconhecidos dos demais da Roda.md",
+      "sha256": "a2769671778af275074d7e83ef79eb8ab0cf04a4501e151ad8576adca33b82cd",
+      "title": "Sabatina — destinos desconhecidos dos demais da Roda de Estopa"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Destinos do Necromante Lidia e Cavaleiro desconhecidos.md",
+      "sha256": "04bf2db49d550f0ac5ceaea7bd1c170ce8c632b774978853940d0ae59887bbd4",
+      "title": "Sabatina — destinos do Necromante, Lídia e Cavaleiro desconhecidos"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Encontro com Folha-Seca e sucesso dos rangers.md",
+      "sha256": "adeb3bac2abed5e1b43b0da02aad26b64f0eebfda07aa04d49c287123319e043",
+      "title": "Sabatina — encontro com Folha-Seca e sucesso dos rangers"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Eral e refugiados sem detalhes adicionais.md",
+      "sha256": "448b9491613dce62b68d3f3fa51117138f626d9151d06d9aac57187237ba80ea",
+      "title": "Sabatina — Eral e refugiados sem detalhes adicionais"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Estrutura do Ebano desconhecida e Fash NPC.md",
+      "sha256": "44d5442240a3015e6636ccab9aef8b2487cf434d64533b9b775f56dc6adc1782",
+      "title": "Sabatina — estrutura do Ébano desconhecida e Fash NPC"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Estrutura e rotas do Mercado desconhecidas.md",
+      "sha256": "517e7b25dfb1a2cb6fa867ca17e5a124f61a5e2a5daacbf1f9898cf084c7733f",
+      "title": "Sabatina — estrutura e rotas do Mercado desconhecidas"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Exercito confirmou resolucao da agua sem detalhes.md",
+      "sha256": "e0f3e07493a680b95b380959f0d513ca9eb2815f470d265544e0c86fa3cfe67f",
+      "title": "Sabatina — resolução da água pelo exército, sem detalhes"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Exercito permanece em Eral e futura guarda desconhecida.md",
+      "sha256": "1cfca2e103e483191b40b1d025b43024526e8d9f2c6a2f1640c9a2e064e23d12",
+      "title": "Sabatina — exército permanece em Eral e futura guarda desconhecida"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Fim da Roda de Estopa e ausencia de contato.md",
+      "sha256": "2c422a8d801d1ed5065ea3ad1fc58a0fc3756c57d95591f942a16450e0a6773a",
+      "title": "Sabatina — fim da Roda de Estopa e ausência de contato"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Glim nunca se separa do grimorio.md",
+      "sha256": "3b13f01a8e42b655c7040a5765df16edfbdcb6ebb4b51e13cf4419d55edc99a3",
+      "title": "Sabatina — Glim nunca se separa do grimório"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Grimorio negacao e identidade de Glim.md",
+      "sha256": "0b1f7d6fee5b828d6bbd48a4802f7c3e13adccaa66aa281ea7143fdc44856638",
+      "title": "Sabatina — grimório, negação e identidade de Glim"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Intriga de Firael e Mercado sem explicacao conhecida.md",
+      "sha256": "5fc72e35af95584bc2d04aacf3c691bd088bf6df800eb445c10466e848297881",
+      "title": "Sabatina — intriga de Firael e Mercado sem explicação conhecida"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Kenku oportunismo e destino desconhecido.md",
+      "sha256": "731678d229afb7d036851b9ca9cba8ee29513bd33a80d015ddef604bdefbe164",
+      "title": "Sabatina — Kenku, oportunismo e destino desconhecido"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Kuat e especie com grafia incerta.md",
+      "sha256": "7770efe45c0c6649d2a51cf4fc7ae25d79522c50c28fefaa2d894831cd60c9b7",
+      "title": "Sabatina — Kuat é espécie, com grafia incerta"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Lua Sangrenta detalhes desconhecidos.md",
+      "sha256": "48f508a22f0bc807d1151f7a8f31b5b986f0e51430bb48ad11d738704f154dfe",
+      "title": "Sabatina — detalhes desconhecidos da Lua Sangrenta"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Mapa antigo e resolucao dos problemas de Eral.md",
+      "sha256": "a04a19681682bdf9a46700a798ac641d2e3db0feed3c153de0f2ea3b9237d1d4",
+      "title": "Sabatina — mapa antigo e resolução dos problemas de Eral"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Morte de Brakka definida.md",
+      "sha256": "1c94e61dd5d4ccc390efda9f38d70b0a9643ec0c7c75e194342ef4b891fc602e",
+      "title": "Sabatina — morte de Brakka definida"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Morte de Carlos no ataque e possessao do cadaver.md",
+      "sha256": "b3e22bca54880498217584495be14eac439b32807afcb5251e07944f255c228d",
+      "title": "Morte de Carlos no ataque e possessão do cadáver"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Morte de Tolomon considerada provavel.md",
+      "sha256": "be1d59201518e5bfbb3c4e1a653341ee2f3247fc4cd537348bc5896c0ed79dcc",
+      "title": "Sabatina — morte de Tólomon considerada provável"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Mulher da caravana sem noticias.md",
+      "sha256": "1981fc3bcfe58d28e8d4f561ed1d2f93fceffc093940da0f5d9bab6e02319592",
+      "title": "Sabatina — mulher da caravana sem notícias"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Necropole e cordilheira distintas.md",
+      "sha256": "5eb93bb9f8969ce107ae1890563da0b692ea1c3d1572d815aea0f39fb2b6bde9",
+      "title": "Sabatina — necrópole e cordilheira distintas, 30/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Negacao de Glim e morte da taverneira.md",
+      "sha256": "6344821a80946c07a25c676dee9b14b4c90966470d14dfa3f27abb8b76851f20",
+      "title": "Sabatina — negação de Glim e morte da taverneira"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Nome da organizacao de Firael sob suspeita.md",
+      "sha256": "68ab742f966a10e648a420d24ddd6073c2e0a02aa3db222cbe671ff04f4b4ba9",
+      "title": "Sabatina — nome da organização de Firael sob suspeita"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Nome oficial Sequito de Kharzun confirmado.md",
+      "sha256": "1985a43dee51ba473031e2a31af0e72d655e1cacd23c2bd36723b03c94b17d56",
+      "title": "Sabatina — nome oficial Séquito de Kharzun confirmado"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Organizacao do Necromante informacoes desconhecidas.md",
+      "sha256": "f87be3a8cfe1b7d001a854ec5767a8e0d3c1f7d39e2e4f4e51ba922ff7274d92",
+      "title": "Sabatina — informações desconhecidas da organização do Necromante"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Orientacao da guarda fazer o melhor possivel.md",
+      "sha256": "000c6725441cd21fa9f4db4124d830870ce8b624402a893ad21291e50266a013",
+      "title": "Sabatina — orientação da guarda: fazer o melhor possível"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Pais de Glim mortos e Nina sem noticias.md",
+      "sha256": "a6d5268d4660d0fc5dba6bf5a1d5770b85b71c051de452514112c8baf947ff1a",
+      "title": "Sabatina — pais de Glim mortos e Nina sem notícias"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - PC-009 encerrada sem informacoes adicionais.md",
+      "sha256": "c25bad07ca1e86ea8d46cccc110c3ccf8142d4dcdff78776dcfb65dc46bbdb2a",
+      "title": "Sabatina — PC-009 encerrada sem informações adicionais"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - PC-010 encerrada com identidade incerta.md",
+      "sha256": "d812593aa5fa03e98f24f32d61d7032a010e58ac4cc33b6d6e98abdc72632ce2",
+      "title": "Sabatina — PC-010 encerrada com identidade incerta"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - PC-024 encerrada por irrelevancia.md",
+      "sha256": "e460455913f7ed85f9c2391163fda87ab33dd62928cd34aee762165398421bd4",
+      "title": "Sabatina — PC-024 encerrada por irrelevância"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Prazo do ranger e indicacao do tunel pela guarda.md",
+      "sha256": "fe51e979e86963da98e654d994c68122fc955a1f8f229fdab359dcbc309c49b8",
+      "title": "Sabatina — prazo do ranger e indicação do túnel pela guarda"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Precedencia de Fash nas divergencias do diario de Firael.md",
+      "sha256": "33badd0f90d5526655c1636f24d9cbcc4df02942b68c3c5976c9ede0b5411f1d",
+      "title": "Precedência de Fash nas divergências do diário de Firael"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Proibicao de elfos lembrada como onirica.md",
+      "sha256": "0728787a6f3a2b2a4afe2d0bec83a2d799fb4d3e34cfcd29c745de9afe95fb8c",
+      "title": "Sabatina — proibição de elfos lembrada como onírica"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Refens resgatados de volta a cidade.md",
+      "sha256": "bb53e2598897b8cb3972249c88d6c95e0ef26d086fb9366d725d7ded772b5896",
+      "title": "Sabatina — reféns resgatados de volta à cidade"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Regiao de Fash distante de Eral.md",
+      "sha256": "b1b26241601bc5ab023e54af1d8bd1908d26adf552569ae5eafc0298df0704ae",
+      "title": "Sabatina — região do mapa de Fash distante de Eral, 30/10/2026"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Rudiger como manifestacao de Kord e crenca.md",
+      "sha256": "aaaec520f79b90cb86d2c51be1a0b6843310a2dc29efcdb6a22435a629e599d3",
+      "title": "Sabatina — Rudiger como manifestação de Kord é crença"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Ryld sem achados e necessidade da incursao.md",
+      "sha256": "a10baa5479a4efe00eff229fc18a5e1cf1e1fed924a7196fdb5d1d00c3b49da0",
+      "title": "Sabatina — Ryld sem achados e necessidade da incursão"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Selo e voz do grimorio sem certezas.md",
+      "sha256": "5265306108c6ff7ab551ddfbc2ebc5248b611749ddbc4f317abe55b84da9c41a",
+      "title": "Sabatina — selo e voz do grimório sem certezas"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Silthan possivel integrante do casal.md",
+      "sha256": "dcc078f6faaf7a16b4bca414fd93ebb8ed124b224818034d13e7396043b1f8a1",
+      "title": "Sabatina — Silthan como possível integrante do casal proprietário"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Situacao atual de Fash desconhecida.md",
+      "sha256": "1997988bb39eb9dc934231b5140b003d5e709212591ea6445152caf2536f0797",
+      "title": "Sabatina — situação atual de Fash desconhecida"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Sobreviventes da arena presos e propriedade sem destino conhecido.md",
+      "sha256": "029dab7e60d5232da621873dda22ee8bd02858a153110391c5bf483ed4a4fa57",
+      "title": "Sabatina — sobreviventes da arena presos e propriedade sem destino conhecido"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Suspeita sobre sacerdote de Kord como informante.md",
+      "sha256": "857588d6817e668429a8429321199603d0997080b6a83170ca2f895e8586fc75",
+      "title": "Sabatina — suspeita sobre sacerdote de Kord como informante"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Tunel reaberto na sessao sem gravacao.md",
+      "sha256": "f287df6de7ebd0dd1493e3bd83503a378716ad96037b4c1f85ef6f08b6aeb5db",
+      "title": "Sabatina — túnel reaberto na sessão sem gravação"
+    },
+    {
+      "path": "Fontes/Confirmacoes/2026-10-30 - Varo matou Tom e ausencia de noticias.md",
+      "sha256": "e01a379688c67a18a74e027ff74c8d117abfcd35d81e82c7d5114f88f2990a10",
+      "title": "Sabatina — Varo matou Tom e ausência de notícias"
+    },
+    {
+      "path": "Fontes/Documentos/Background - Aelion Stormlash.md",
+      "sha256": "ee112661cd458cd5485a0c5dad0762a8ef8d8a8c3ed9ae809b418e5917fb94d8",
+      "title": "Background - Aelion Stormlash"
+    },
+    {
+      "path": "Fontes/Documentos/Background - Glim Sombrasselva.md",
+      "sha256": "dd49a8c79dac1200f01eaf93b9a79e97d6458d9236ebffafbff87750177b8df3",
+      "title": "Background - Glim Sombrasselva"
+    },
+    {
+      "path": "Fontes/Documentos/Diario - Fash Paleskin.md",
+      "sha256": "41aae41d8d3851509c1545a69a83160b7745c99e3d5d40ac775c459bc382ebce",
+      "title": "Diario - Fash Paleskin"
+    },
+    {
+      "path": "Fontes/Documentos/Diario - Glim Sombrasselva - Texto.md",
+      "sha256": "c09f2277ae8cf40ddac742b8e5dbe21457b30d77f5804158a4d482eeb5b2c867",
+      "title": "Diario - Glim Sombrasselva - Texto"
+    },
+    {
+      "path": "Fontes/Documentos/Diario - Glim Sombrasselva.md",
+      "sha256": "ebf267d8b2cd2694544ff464fe7d1748c37cd26547e4841ca4ee01482b88d442",
+      "title": "Diario - Glim Sombrasselva"
+    },
+    {
+      "path": "Fontes/Documentos/Diario de Firael - variante 1.md",
+      "sha256": "f973ff3655647f0874a7fc1ba89bb386d143e537bdece2162a94bec917084535",
+      "title": "Diario de Firael - variante 1"
+    },
+    {
+      "path": "Fontes/Documentos/Diario de Firael - variante 2.md",
+      "sha256": "bbb8e693fb71908267e085152f520b40e7514aa2ed43673fc0a8cce7e43dca0b",
+      "title": "Diario de Firael - variante 2"
+    },
+    {
+      "path": "Fontes/Documentos/Diario de Firael - versao completa.md",
+      "sha256": "83f9e9ae1b42303cd057faa4acba43b619026583fae7358a7b7e3ee8f1c5ae8c",
+      "title": "Diario de Firael - versao completa"
+    },
+    {
+      "path": "Fontes/Documentos/Dossie de personagem - Okay dBoa.md",
+      "sha256": "d02323aa11a90469c44ffc05f760bbb7295b758d2724842fd85be7616c1f71f8",
+      "title": "Dossie de personagem - Okay dBoa"
+    },
+    {
+      "path": "Fontes/Documentos/Handoff do cenario.md",
+      "sha256": "25aa5f0f6231bd5e1b94d23e909f2056537f320dba94c7ec7b1fafb060a47865",
+      "title": "Handoff do cenario"
+    },
+    {
+      "path": "Fontes/Documentos/Indice.md",
+      "sha256": "f8a258a649ddaf969a0d781f42e91c2b67a32c8e02202f09a030973348f59523",
+      "title": "Documentos integrais"
+    },
+    {
+      "path": "Fontes/Documentos/Nota1.md",
+      "sha256": "2454307dfe727a6fc97a1b9d309d7e55d5903084cd42ec27ac14368ce091e385",
+      "title": "Dossiê de personagem — Okay d’Boa"
+    },
+    {
+      "path": "Fontes/Documentos/Nota2.md",
+      "sha256": "e5a6446a8dcfd50c9059f70453180ea2b8143376a9366b57c176eb37a50b643e",
+      "title": "Personagens e Heróis"
+    },
+    {
+      "path": "Fontes/Documentos/Personagens e Herois.md",
+      "sha256": "106c2d98449f48933efe99b9c57c1e501769f59e2065214026f00f1b619b7d64",
+      "title": "Personagens e Herois"
+    },
+    {
+      "path": "Fontes/Documentos/Preludio de Ryld.md",
+      "sha256": "77027fa906cccf57552a0ab0efa8f82844f3a5a6cbb23c03209fe7e21a4b1074",
+      "title": "Preludio de Ryld"
+    },
+    {
+      "path": "Fontes/Documentos/Resumo detalhado.md",
+      "sha256": "e883d4b21ad1658704fcd4fa1560bf93ce0fb9a3f8ef245db614b1d32fbdf3f9",
+      "title": "Resumo detalhado — Diário de Timo Pé-de-Musgo"
+    },
+    {
+      "path": "Fontes/Indice.md",
+      "sha256": "ba04c039096c7cbd77d8a2a90c55d59ddb3c1926fe747a4daa22b98ea4eba159",
+      "title": "Acervo de fontes"
+    },
+    {
+      "path": "Fontes/Planilhas/Fash Paleskin - ADMINISTRAÇÃO CIDADE DROW.md",
+      "sha256": "fa48d4afd1c2f4486cd7da403b1b758e52bf188222f63b88e5035900ab28fcb2",
+      "title": "Fash Paleskin — ADMINISTRAÇÃO CIDADE DROW"
+    },
+    {
+      "path": "Fontes/Planilhas/Fash Paleskin - CONTROLE DE XP.md",
+      "sha256": "b075fcb44b18599132b50f58170e8ca0d0366a9f611d346bb7d59861e4006cdc",
+      "title": "Fash Paleskin — CONTROLE DE XP"
+    },
+    {
+      "path": "Fontes/Planilhas/Fash Paleskin - INTERESSES.md",
+      "sha256": "8d65d37af028ac905184ae852bdf817b5314ea2e043bbb63bb36e5e72c635af6",
+      "title": "Fash Paleskin — INTERESSES"
+    },
+    {
+      "path": "Fontes/Planilhas/Fash Paleskin - PERSONGEM.md",
+      "sha256": "85f34c591fd08d51c3fc317f2ad1c79782d89fd3ba3cbf23404a55836a796e27",
+      "title": "Fash Paleskin — PERSONGEM"
+    },
+    {
+      "path": "Fontes/Planilhas/Fash Paleskin - PLANEJAMENTO.md",
+      "sha256": "e4fe04b1fb08b3793a7af36e851511eb1dec2e9b9baf63e080cfc465a1daf62f",
+      "title": "Fash Paleskin — PLANEJAMENTO"
+    },
+    {
+      "path": "Fontes/Planilhas/Fash Paleskin - UNDEAD COMPANION.md",
+      "sha256": "eddf51c1065d1e86ec056f9271bc74f8a19f911813e1a9a1e0047bb764a16536",
+      "title": "Fash Paleskin — UNDEAD COMPANION"
+    },
+    {
+      "path": "Fontes/Planilhas/Fash Paleskin.md",
+      "sha256": "efe7fd1cffa075d0acbe587019ab1f6daaf615e77ea7ba106780591e50605920",
+      "title": "Fash Paleskin — planilha original"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - ALTERSELF & POLYMORPH.md",
+      "sha256": "0fefbefe8376ee6f528a2c9e0aaedfea472e9842090d63e3fe7b50bdc58f5408",
+      "title": "Glim Sombrasselva — ALTERSELF & POLYMORPH"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - BIBLIOTECA.md",
+      "sha256": "f80edc95056254249d3913ca02632ab425b415dfb51fabd1690ec6bb96329cc4",
+      "title": "Glim Sombrasselva — BIBLIOTECA"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - ITEMS.md",
+      "sha256": "fa56d5c5f626db0cdc4bb74099a84549649d1d93607a8dd4a704a4c59ed4e276",
+      "title": "Glim Sombrasselva — ITEMS"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - LILO.md",
+      "sha256": "853c03dd9481b6a31d58ed257d885ce38038389b815a1301e6287c669151dda7",
+      "title": "Glim Sombrasselva — LILO"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - MAIN.md",
+      "sha256": "b5132db265c36cca46ffabcde7053c9ac7f966e2f56005eedea5d2bfa6ea4862",
+      "title": "Glim Sombrasselva — MAIN"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - QUESTS.md",
+      "sha256": "bc3dcec0000dcd70c7030a8ee7cb954e7d599cae340050e724669b2179714e6e",
+      "title": "Glim Sombrasselva — QUESTS"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - SPELLBOOK SPELL LIST.md",
+      "sha256": "1e8e5855e3035dd13d381b131e9c44146db2b82b76bfdb27dcaba1168583d59d",
+      "title": "Glim Sombrasselva — SPELLBOOK SPELL LIST"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - SPELLS LIST.md",
+      "sha256": "cd8a39b306071dfe1ebfb3a8646204ac67f0e4a1e543566346767570ce6cdfdd",
+      "title": "Glim Sombrasselva — SPELLS LIST"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - SPELLS SUMMARY.md",
+      "sha256": "fc775f896f6f563cce19c2c868939de17406d8d8a3ce264860918f596b04b728",
+      "title": "Glim Sombrasselva — SPELLS SUMMARY"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - SPELLS TABLE.md",
+      "sha256": "5cb3c4eff5cd0250e49a4d66fae0f541c8f1a2b6e077348ce2eda82304d1af17",
+      "title": "Glim Sombrasselva — SPELLS TABLE"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva - XP.md",
+      "sha256": "0e3f2ac33c5c3aaa0b0331f2fb2b7b9b54d9b6be4bede9bc012e213cb63a44c6",
+      "title": "Glim Sombrasselva — XP"
+    },
+    {
+      "path": "Fontes/Planilhas/Glim Sombrasselva.md",
+      "sha256": "0be102a1362c0a19790de81205b8146dfc2daeed5040a92c6706f5dc105a1efc",
+      "title": "Glim Sombrasselva — planilha original"
+    },
+    {
+      "path": "Fontes/Planilhas/Indice.md",
+      "sha256": "ad97b5ceae7053baa2f578c8a4e52b3d487d8ed86d529d7f91c7967974f1469d",
+      "title": "Planilhas convertidas"
+    },
+    {
+      "path": "Fontes/Referencias do vault.md",
+      "sha256": "3459ac3ec76bfb5e5a0952db7af3fdf560a4b61cae7a3d5cb85edbd6fbe47c95",
+      "title": "Referências externas ao recorte do vault"
+    },
+    {
+      "path": "Fontes/Transcricoes/Acervo - Sessoes 13 a 25.md",
+      "sha256": "fdf9742f012ab72497e26297b3a9e880afa538644ef98f7da5026f17d1ba9cdc",
+      "title": "Acervo — sessões 13 a 25"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 13 - 2026-05-27.md",
+      "sha256": "efcc884205c28092ee5bb3a51768087d2a02aee240bfbfd1812ba02200f6a20f",
+      "title": "Glim — transcrição da sessão 13 — 2026-05-27"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 14 - 2026-06-17.md",
+      "sha256": "94800c3134d5ed037819c6786400c46efe84365c27d394c8904d3d816ee6a7e8",
+      "title": "Glim — transcrição da sessão 14 — 2026-06-17"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 15 - 2026-06-29.md",
+      "sha256": "e7d4125607820e08af8215367b6af9d84fd875ac6abcf010323438775bc88fa9",
+      "title": "Glim — transcrição da sessão 15 — 2026-06-29"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 16 - 2026-08-05.md",
+      "sha256": "999d586632183abafc9328b49fbd8962cae60f220dfe3018b388bef7c07c3b9c",
+      "title": "Glim — transcrição da sessão 16 — 2026-08-05"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 17 - 2026-08-17.md",
+      "sha256": "9f0bd9e90d25b94b9ecca670350f9494da15d99bc8853344db21feaac2017256",
+      "title": "Glim — transcrição da sessão 17 — 2026-08-17"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 18 - 2026-08-25.md",
+      "sha256": "320a24d0a602a32c9f3a92b10086d3426c6f32f8c007b8b6301438e7040e34ca",
+      "title": "Glim — transcrição da sessão 18 — 2026-08-25"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 19 - 2026-09-01.md",
+      "sha256": "74d8813f90d8ceb8fb194ef26d259c6fac94e98dedbf477e801d4a711ece0701",
+      "title": "Glim — transcrição da sessão 19 — 2026-09-01"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 20 - 2026-09-02.md",
+      "sha256": "e2e09f2769007cdadad545c3e3fa27a942381821dbd9bb85ba32e5431a655bdc",
+      "title": "Glim — transcrição da sessão 20 — 2026-09-02"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 21 - 2026-09-13.md",
+      "sha256": "a428f90d5b0fdda55e0a7da740f556d28019f9c92c8c9f8bfd51750ee978566d",
+      "title": "Glim — transcrição da sessão 21 — 2026-09-13"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 22 - 2026-09-16.md",
+      "sha256": "bc51d620ddd34185aabfb1a472ae5fa61ecae2a83d9f0f501956d76482b5271d",
+      "title": "Glim — transcrição da sessão 22 — 2026-09-16"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 23 - 2026-09-27.md",
+      "sha256": "72213731bc11dc38a71ac8cc4731b294a52f144f5f927d13ac14aa6f4d9f72ac",
+      "title": "Glim — transcrição da sessão 23 — 2026-09-27"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 24 - 2026-09-30.md",
+      "sha256": "6a50f00ecfa5f1a9dce7a6fc8708a097bb574ca7670fc60164eb76274de8745a",
+      "title": "Glim — transcrição da sessão 24 — 2026-09-30"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 25 - 2026-10-05.md",
+      "sha256": "0fa261b57b95dd1686beaacf9ffcb6ce466dd5a5192c7fb705a434a15e94a437",
+      "title": "Glim — transcrição da sessão 25 — 2026-10-05"
+    },
+    {
+      "path": "Fontes/Transcricoes/Glim - Sessao 26 - 2026-10-20.md",
+      "sha256": "5e1ffe408f85321c6ab53246646f5cd7afe860766eaaeaa4aee45ad6307efc06",
+      "title": "Glim — transcrição da sessão 26 — 2026-10-20"
+    },
+    {
+      "path": "Fontes/Transcricoes/Indice.md",
+      "sha256": "9ce6d848aabfbab1c4189f67528d3ba78cc35fd33a2fe6ebb504bf75933a7c1a",
+      "title": "Transcrições da campanha de Glim"
+    },
+    {
+      "path": "Fontes/Transcricoes/Proveniencia - Sessoes 13 a 25.md",
+      "sha256": "23aa56a6311bd676ed9d0312b229a4add0f50caeebd097c9943c50c55409205f",
+      "title": "Proveniência — sessões 13 a 25"
+    },
+    {
+      "path": "Fontes/Vault/Indice.md",
+      "sha256": "f2b70ff26b2e501ea5880422b44cce40a330b537af960c10848f575a3e2abb93",
+      "title": "Notas importadas do vault-42"
+    },
+    {
+      "path": "Fontes/Vault/Vault - 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "sha256": "b7fac13dd0b174a129b664aaf37ee7eef8e2d2aa6c2130a2da17d211a9be3133",
+      "title": "Vault — 2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Arkhavel.md",
+      "sha256": "8c248afc8f8c1421e4df20c6eb3ac75822271d6f8c1d9e34a99d03b791bb090c",
+      "title": "Vault — Arkhavel"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "sha256": "60fc1151df3715df9a3625a9740ed64b05d5725276517f33204d358a36431c9a",
+      "title": "Vault — Drive - BACKGROUND - GLIM SOMBRASSELVA"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "sha256": "b334eca995551578bcbb16e952b1c07b4f4d360b9c656b1b7b5df8c94c99fcdd",
+      "title": "Vault — Drive - DIARIOS - GLIM SOMBRASSELVA"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Drive - GLIM SOMBRASSELVA.md",
+      "sha256": "556eb075e016754081affe5b8d513d787f894ef69da63be625e0397765eee82c",
+      "title": "Vault — Drive - GLIM SOMBRASSELVA"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Drive - TREASURE GLIM PARTY.md",
+      "sha256": "717d9e1f68b5f4054ddbb0034053646f0119a280b711568ed09fa2fd52419096",
+      "title": "Vault — Drive - TREASURE GLIM PARTY"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Fash Paleskin - Old Archive.md",
+      "sha256": "80a10a6a3423145c9c78b674f11fba3caaff5abe6681e16c12ca994bf6dcc5a6",
+      "title": "Vault — Fash Paleskin - Old Archive"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Fash Paleskin.md",
+      "sha256": "34201826e89507fe54a3a18a0a367b82483e86c93894a47e318f456961ab95c2",
+      "title": "Vault — Fash Paleskin"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Assets.md",
+      "sha256": "2f62f89963db54b18379a87cedcee3407e23d395f92e0a9abffe315fe6c3b549",
+      "title": "Vault — Glim Sombrasselva - Assets"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Background Full.md",
+      "sha256": "cf9081ce769795e9f2e596c4aaa123df5a1ab666bf9dedd39bcdf94f234f25ce",
+      "title": "Vault — Glim Sombrasselva - Background Full"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Character Sheet.md",
+      "sha256": "c25267c1f3ca0a81b5312ce7ba2069e9c6a97686006af55004bb01b3abb4d4bc",
+      "title": "Vault — Glim Sombrasselva - Character Sheet"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Cronologia da Campanha.md",
+      "sha256": "3c1f5d661d5a577eb7e1ff10e56f4bf64f811694568b14f476cf8cc889041166",
+      "title": "Vault — Glim Sombrasselva - Cronologia da Campanha"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Diary Full.md",
+      "sha256": "caf8609e3b4cdb6e2426226075b0fd325e23910235b668bc34334eeaf221c69a",
+      "title": "Vault — Glim Sombrasselva - Diary Full"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Diary.md",
+      "sha256": "bbefaba40e88743034c7bff38f60bac906e2f42f6b4e82c2336d51caf4e0058a",
+      "title": "Vault — Glim Sombrasselva - Diary"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 13 Diary Draft.md",
+      "sha256": "03b4f2e66eb7ac5fb44197634182d2ac93be503d3e0554f6530657e27e176b6c",
+      "title": "Vault — Glim Sombrasselva - Session 13 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 14 Diary Draft.md",
+      "sha256": "1ebd0108fa4c567ecdb8f8af6fb0c6bc4c997af2146874a9e4af644a370e17ef",
+      "title": "Vault — Glim Sombrasselva - Session 14 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 15 Diary Draft.md",
+      "sha256": "cf3fb986d7bc309456afa80a159fbf4ecc1c1359332c2ccb6242145d31196982",
+      "title": "Vault — Glim Sombrasselva - Session 15 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 16 Diary Draft.md",
+      "sha256": "62ecd4ddd366b6fa9e3a06b95170cddf675a8a421a4393a2f7e510a55ef8ddae",
+      "title": "Vault — Glim Sombrasselva - Session 16 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 17 Diary Draft.md",
+      "sha256": "ba18620b10371669b8771803083e17ea64e09618edf22d441888eabec9ab00f2",
+      "title": "Vault — Glim Sombrasselva - Session 17 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 18 Diary Draft.md",
+      "sha256": "3452dcf4dd1561fa48e2c09a086e321f3d7bbb1d29ff47a233b319737c980b9f",
+      "title": "Vault — Glim Sombrasselva - Session 18 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 19 Diary Draft.md",
+      "sha256": "39c37a32c182b9db2ed63030b19351ad0dcc7d1d855fb3fb00693dd6c09134bc",
+      "title": "Vault — Glim Sombrasselva - Session 19 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 20 Diary Draft.md",
+      "sha256": "bc04203457d419e7ec89113f45e2e9c1cad4131bd919faaa04e83149cc775fa6",
+      "title": "Vault — Glim Sombrasselva - Session 20 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 21 Diary Draft.md",
+      "sha256": "30f9315811ff345338f93d610fbbd55c6e4013b1b490345041e3407dd9920741",
+      "title": "Vault — Glim Sombrasselva - Session 21 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 22 Diary Draft.md",
+      "sha256": "4a14a505f3a374685ebed553bdaa275fadac6d8e7b59a7b2bf9df82d80d2f475",
+      "title": "Vault — Glim Sombrasselva - Session 22 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 23 Diary Draft.md",
+      "sha256": "db6ecf91fbaa020bbc3f0694d2136874549a4a3f33efba76a0abacb1f0cc3309",
+      "title": "Vault — Glim Sombrasselva - Session 23 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 24 Diary Draft.md",
+      "sha256": "f35ccf35dde04e963a9ba087fe3cd1579ea634e297190001b3e6f9bf9cbbce4c",
+      "title": "Vault — Glim Sombrasselva - Session 24 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 25 Diary Draft.md",
+      "sha256": "488b06b11c2e4df9c27f6f6fb3f5677360df044112293595c8116892d69d9305",
+      "title": "Vault — Glim Sombrasselva - Session 25 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Session 26 Diary Draft.md",
+      "sha256": "009fdb9cbb5976f9702cc04229b1d3e90c070de875d57c2b7f9b9ce2b661f5cd",
+      "title": "Vault — Glim Sombrasselva - Session 26 Diary Draft"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva - Threads.md",
+      "sha256": "d8018098d0ea3c6fb29e385bf943c10ca3066533e761dca4ab307827363207c0",
+      "title": "Vault — Glim Sombrasselva - Threads"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Glim Sombrasselva.md",
+      "sha256": "973079867ac81d5a45cfe3beb8b2603e7b35107a7dc6c1a1408a3c3a3fe61603",
+      "title": "Vault — Glim Sombrasselva"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Grimório de Glim.md",
+      "sha256": "ffa2ebb68504977a3545a01c0378178a316ded9c7608d73d2de18c9ad05c6d48",
+      "title": "Vault — Grimório de Glim"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Lilo Sombrasselva.md",
+      "sha256": "71df4ef710a6e95de0250594650e3423f0e6bde04ffe7058d6c549a4f2e9dfe7",
+      "title": "Vault — Lilo Sombrasselva"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Piche.md",
+      "sha256": "1d3a1bfa25b02665b460359c9e245861418df9d90b42764eb4f68905eb2a5b2c",
+      "title": "Vault — Piche"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Roda de Estopa.md",
+      "sha256": "ce20ebff0cb2e221d0fca15a3cabb50b4287056300b0d0c667c73d2f945c39b4",
+      "title": "Vault — Roda de Estopa"
+    },
+    {
+      "path": "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre.md",
+      "sha256": "54392025ea0fd0ce9bfcc298ecdd036e5f5e54b2e38e949088f2b59169c48205",
+      "title": "Vault — RPG - Handoff do cenario para o mestre"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Ryld.md",
+      "sha256": "326221ce84c411ffe1c374a65b115c53a043ef5b82dd4b1339fdc7753ff194f7",
+      "title": "Vault — Ryld"
+    },
+    {
+      "path": "Fontes/Vault/Vault - Ébano.md",
+      "sha256": "d0e6e772a71ef9b242e0eacaf14d8d456f386c5c70f6c411b5132bb8cefc6aab",
+      "title": "Vault — Ébano"
+    },
+    {
+      "path": "Inicio.md",
+      "sha256": "0e9d6acbcba8b6795694a3b92cda9b3dddab3668f4570529079c7760b4d4d0cf",
+      "title": "Campanha de Fash e Glim"
+    },
+    {
+      "path": "Itens/Amuleto de Kord.md",
+      "sha256": "f4eac34e84542d0d1daa40a74a0373aa70492183126bdab631832097a11280ab",
+      "title": "Amuleto ou anel de Kord"
+    },
+    {
+      "path": "Itens/Artefatos investigados pelos arquivistas.md",
+      "sha256": "1511c4a80d7202ff93858309ab190b7acacc1ec19eeadecb7734abf3d811600c",
+      "title": "Artefatos investigados pelos arquivistas"
+    },
+    {
+      "path": "Itens/Cajado de girassol.md",
+      "sha256": "d404ca249332bd4ea19c9ea96536b94990984fb49324815447205c2b95681d85",
+      "title": "Cajado de girassol"
+    },
+    {
+      "path": "Itens/Cinto de Kord.md",
+      "sha256": "780e87a151214078080c7083d012e612a32e2d381eab08be3e4f73c9b73c5359",
+      "title": "Cinto de Kord no gelo"
+    },
+    {
+      "path": "Itens/Colar de mortos-vivos.md",
+      "sha256": "2e37e835532731f088059bc5038c4e9f37ee6b45272d48260d9e61cc8c57c476",
+      "title": "Colar de mortos-vivos do drow"
+    },
+    {
+      "path": "Itens/Coleiras drow.md",
+      "sha256": "9b098f262986df5292150d663a4662a5bed7abafbe3c3bcc8278d7f57259a9d9",
+      "title": "Coleiras drow"
+    },
+    {
+      "path": "Itens/Corneta da arena.md",
+      "sha256": "626e996f9dca7ba16b81773630e6d4c62a288e9910a67385ea22c216ae645b39",
+      "title": "Corneta da arena"
+    },
+    {
+      "path": "Itens/Disco de Tariun.md",
+      "sha256": "70621433a8d2ad0301d611187580663f802ca6bf753ba5d48762666a7d372a82",
+      "title": "Disco de Tariun"
+    },
+    {
+      "path": "Itens/Dogma do Saber Imortal.md",
+      "sha256": "88acf624b7e7bd428a5f6d60ce7e885e89968207a415f5d52772826edd0dc620",
+      "title": "Dogma do Saber Imortal"
+    },
+    {
+      "path": "Itens/Esfera de Elena.md",
+      "sha256": "30e2625bb70df0f1af72cd284a975d363527028443e2f66e39b65bdfa338254b",
+      "title": "Esfera de Elena"
+    },
+    {
+      "path": "Itens/Fogo Primordial.md",
+      "sha256": "79fb805c16216b9ab54a841ef1b9d08a91b2d52b0a468673666c4bf786931e55",
+      "title": "Fogo Primordial de Okay"
+    },
+    {
+      "path": "Itens/Grimorio de Glim.md",
+      "sha256": "4c0ce526641d19e781ca85da82d7ad2bb4f283d73285bc55610e85329f53c320",
+      "title": "Grimório de Glim"
+    },
+    {
+      "path": "Itens/Indice.md",
+      "sha256": "79abf6083d94cc5b8d6dcad14b2ecaf9e6a7f6336241f2fac3fec085c85f3565",
+      "title": "Itens, poderes e mecanismos"
+    },
+    {
+      "path": "Itens/Livro das tres bruxas.md",
+      "sha256": "7a8d591cba576524ec5b6c999d83e5b2a4407ffd0cb2846badca5729578c40b0",
+      "title": "Livro das três bruxas"
+    },
+    {
+      "path": "Itens/Livro de Hextor.md",
+      "sha256": "8f13ea33a77e152134fbb5c0f7324c238fb4a5b96ab7d3cc6f3cf2da2460e22f",
+      "title": "Livro de Hextor"
+    },
+    {
+      "path": "Itens/Livro do dragao negro.md",
+      "sha256": "864e111150f763894260b0b144ce81cd5cbd31f41be4d22271e84fdcacad0e1c",
+      "title": "Livro do dragão negro"
+    },
+    {
+      "path": "Itens/Mapas e pergaminhos de Firael.md",
+      "sha256": "0854c2fd3a6cbea398614642426bfb8f40bb04fec791045dff2a9cbdaa321b25",
+      "title": "Mapas e pergaminhos de Firael"
+    },
+    {
+      "path": "Itens/Mascara astral do drow.md",
+      "sha256": "f8dedde4197b5ea5e185206d87b0a9b9d0db9f0a7ac045980ed36344e28bc36a",
+      "title": "Máscara astral do drow"
+    },
+    {
+      "path": "Itens/Mascara dos testes.md",
+      "sha256": "6161db3777cc6dfc670ab0aae92c83c3505c592c7f1ea939a38b385af6e62c32",
+      "title": "Máscara dos testes do sonho"
+    },
+    {
+      "path": "Itens/Medalhao de limpeza.md",
+      "sha256": "be42f7de454438855a2fc6f16a9efcc25fc8c0ab9dd00dca17403ea56e9bbfb7",
+      "title": "Medalhão de limpeza"
+    },
+    {
+      "path": "Itens/Memorias materiais de Glim.md",
+      "sha256": "8c1ad4f1e96290099b820a4450720cef3f02cd6b2e579e57c96bf482f9b996f4",
+      "title": "Memórias materiais de Glim"
+    },
+    {
+      "path": "Itens/Mesa de analise.md",
+      "sha256": "68a0f88be5933114aa42befbbe3431e11a0a9d18b6d67c1de98568402aa0a8af",
+      "title": "Mesa de análise de Arkhavel"
+    },
+    {
+      "path": "Itens/Pergaminho do anjo.md",
+      "sha256": "79d5552d91a046f018776a07b010520383abc6b7b9b0f17e96c2c5acf2a11d69",
+      "title": "Pergaminho do anjo"
+    },
+    {
+      "path": "Itens/Portas de Arkhavel.md",
+      "sha256": "a4ba8f99b954aeb36b65afeea9a5ec4842bd46d3092e0406c440571708379d9a",
+      "title": "Portas de Arkhavel"
+    },
+    {
+      "path": "Lugares/Aldeia natal de Glim.md",
+      "sha256": "372aeccc5c6b45838e42e382ddb3e304803f5691ed434d2fe8fc31b55c3798d7",
+      "title": "Aldeia natal de Glim"
+    },
+    {
+      "path": "Lugares/Aldeia ocupada na neve.md",
+      "sha256": "8c23f25ca261739e0484ac2cd625b66c513aabda1ff3c4e8519c8ea58575ba42",
+      "title": "Aldeia ocupada na neve"
+    },
+    {
+      "path": "Lugares/Area dos mortos-vivos imoveis.md",
+      "sha256": "8f24e2541aa3163c8fe325b4cc468d7a6d2eb544214040b15b7bdf2ef914db0c",
+      "title": "Área dos mortos-vivos imóveis"
+    },
+    {
+      "path": "Lugares/Arena de Eral.md",
+      "sha256": "8496d6a430b3ec121922c6bb3c4c9e3ace50ccc790b93f61b0eb92031d5a86dc",
+      "title": "Arena de Eral"
+    },
+    {
+      "path": "Lugares/Assentamento goblinoide.md",
+      "sha256": "2b709a397231431356a70c18825996a84f395964b86955ccd566e00399ecdb15",
+      "title": "Assentamento goblinoide"
+    },
+    {
+      "path": "Lugares/Biblioteca da Casa Velkyn.md",
+      "sha256": "524cf14e5797ae8608de94210a4abfdefe127054c5e68981783c5b0e76913b11",
+      "title": "Biblioteca da Casa Velkyn"
+    },
+    {
+      "path": "Lugares/Biblioteca do beholder.md",
+      "sha256": "3c4df34e3ecf4081106b19856b92ef8b12266dbad32bf45709dcc2efe8171a9c",
+      "title": "Biblioteca do beholder"
+    },
+    {
+      "path": "Lugares/Cabana das bruxas.md",
+      "sha256": "34ae27eb361b6ddb03f05908f64a48de1d667643e037dfcc442d0a544eeaa3ec",
+      "title": "Cabana das bruxas"
+    },
+    {
+      "path": "Lugares/Carruan.md",
+      "sha256": "4e5e75740e7920083f4ce4c9c88cccbbd7dcb85c4722797056e09fb38a0397de",
+      "title": "Carruan"
+    },
+    {
+      "path": "Lugares/Cartografia regional de Fash.md",
+      "sha256": "0a5472baf76c60ebf9432ffd8fe1fc135753e058b33ebb46b579e43045d0a185",
+      "title": "Cartografia regional de Fash"
+    },
+    {
+      "path": "Lugares/Casa de Carlos.md",
+      "sha256": "a0ffc209928a361e4faa5b429824ab5fdc7b97342bf6abfce8b46ee3cc9d8a26",
+      "title": "Casa de Carlos carpinteiro"
+    },
+    {
+      "path": "Lugares/Casa em quarentena.md",
+      "sha256": "baf3a9beb8c69fc17da44b91533b84738218487c4082746e2c9352deecbb5806",
+      "title": "Casa em quarentena"
+    },
+    {
+      "path": "Lugares/Cidade ana dos trolls.md",
+      "sha256": "aaf06a9eeb104c55c6f2781dd204312d045b444e55fecfc9f020735cab886101",
+      "title": "Antiga cidade anã dos trolls"
+    },
+    {
+      "path": "Lugares/Cidade drow.md",
+      "sha256": "652354a91461122d5530e8b2a2fa469129647f900d31da2c90bdc87d027452aa",
+      "title": "Cidade drow — P22"
+    },
+    {
+      "path": "Lugares/Comunidade da floresta.md",
+      "sha256": "9f41d73043c76643fbc3461a7f2becd051c5cc892e3039e68cfba491f9f9b2f4",
+      "title": "Comunidade da floresta"
+    },
+    {
+      "path": "Lugares/Conclave da Raiz Ancestral.md",
+      "sha256": "8db3994fa048a4f53919b8b48381de3bacbb08e48a3947573f88d2ffd63f9e8c",
+      "title": "Conclave da Raiz Ancestral — T23"
+    },
+    {
+      "path": "Lugares/Covil do dragao negro.md",
+      "sha256": "f9e1871a7ffb457dd76f77af957b521ab12d9e6c602e17088200dbcfd8ac285b",
+      "title": "Covil do dragão negro da região de P22"
+    },
+    {
+      "path": "Lugares/Covil maritimo.md",
+      "sha256": "8b34131e89d18fe1ddf07b1dc9267802450502bd055c3761e257da2602be8a01",
+      "title": "Covil marítimo das expedições"
+    },
+    {
+      "path": "Lugares/Covis de Hourian Haurim.md",
+      "sha256": "0a098d5af7b184ac56291cc7986fe3e908322fc20eb6b5073c9cc46b92f3311a",
+      "title": "Covis de Hourian"
+    },
+    {
+      "path": "Lugares/Eldrosia.md",
+      "sha256": "69ef455197ddf50d5069daa6740fcaca8a66375ef27af2e761b5cb9f102bc8a8",
+      "title": "Eldrosia"
+    },
+    {
+      "path": "Lugares/Eral.md",
+      "sha256": "4802c7a7bfc72c40b582b90087f865fb9949f3136cbac9fcf62eab2d84462e3d",
+      "title": "Eral"
+    },
+    {
+      "path": "Lugares/Floresta de Timo.md",
+      "sha256": "d563d41c0c3f49c980f8493d22abdc74bca48b489105d0fa4042ae96862347fc",
+      "title": "Floresta de Timo"
+    },
+    {
+      "path": "Lugares/Fosso de ossos e nodo.md",
+      "sha256": "416ef19e0c8bbace213bd83d1de0950ca2aad4da006b8a8a0bab789121df3c42",
+      "title": "Fosso de ossos e nodo"
+    },
+    {
+      "path": "Lugares/Igreja de Kord em Eral.md",
+      "sha256": "9bae474e4788051608b5ad8719ea06bf3b1dfd63c1084016501d7a1425e770b3",
+      "title": "Igreja de Kord em Eral"
+    },
+    {
+      "path": "Lugares/Indice.md",
+      "sha256": "4371da8d98c985e01dfb0bc63f85575ae1460939fb01eb19668e4db710e97d4e",
+      "title": "Lugares"
+    },
+    {
+      "path": "Lugares/Kranklefang Lunhollow.md",
+      "sha256": "54c30718806433e7014a805245d35b3113e629e7d8f5f071a64405681207d8a0",
+      "title": "Kranklefang Lunhollow — vila dos gnomos"
+    },
+    {
+      "path": "Lugares/Laoum.md",
+      "sha256": "5d35306dc707345792391ffdbc116c7bc2854dc44658019330cf11f21c100d27",
+      "title": "Laoum"
+    },
+    {
+      "path": "Lugares/Lazathar.md",
+      "sha256": "437c00369476f966708c869af90b932ba78dca570e69c7ad866c109a31b4c979",
+      "title": "Lazathar"
+    },
+    {
+      "path": "Lugares/Loraeth.md",
+      "sha256": "f69345dbe1dbb951e8fde6e3bdf3dc9e50f555a1cee33eaf715982575787a08f",
+      "title": "Loraeth — vila dos Furion"
+    },
+    {
+      "path": "Lugares/Mercadia.md",
+      "sha256": "89c148f6d2ef597c1df39983e2254af66cab391188bac56a2bec99d535eed7e7",
+      "title": "Mercadia"
+    },
+    {
+      "path": "Lugares/Montanha das memorias.md",
+      "sha256": "3d0c4040f5015c4e6fa7939c04a5440d7cc67236b3b74b94df5f5406d8d98d86",
+      "title": "Montanha das memórias"
+    },
+    {
+      "path": "Lugares/Muro das Lamentacoes.md",
+      "sha256": "2e62cdf006064d0be03b754b366eef33d4fb85e457771d572d93eb48ef2b0d67",
+      "title": "Muro das Lamentações"
+    },
+    {
+      "path": "Lugares/Necropole.md",
+      "sha256": "45d313895ed591b844c3ad3c91645a69b8bd319f78192f0022eb7b214c35e73f",
+      "title": "Necrópole"
+    },
+    {
+      "path": "Lugares/Nodo do Circulo Vetrilus.md",
+      "sha256": "abd6d2e41cf43c0ef677078108696565341c68c0d792da3f122aed1c9a405dd4",
+      "title": "Nodo do Círculo Vetrilus"
+    },
+    {
+      "path": "Lugares/Passagem colapsada de Vaerion.md",
+      "sha256": "9ade06f894739cca4c3c2d542e25fc1d5a1bd0f62bb87efcf6d49fa5e9191f39",
+      "title": "Passagem colapsada de Vaerion"
+    },
+    {
+      "path": "Lugares/Plano das Sombras.md",
+      "sha256": "c6a4c28fc16888ad1036b3833adee1cb821e4d36cda470c3cb0b82953b7d2982",
+      "title": "Plano das Sombras"
+    },
+    {
+      "path": "Lugares/Plano dos sonhos.md",
+      "sha256": "cc7878be030148147c69988d705d0ad62f272b37f075326e25e147bf96c50611",
+      "title": "Experiência e mundo dos sonhos"
+    },
+    {
+      "path": "Lugares/Plano Elemental do Ar.md",
+      "sha256": "3953cc4ba8b1b5bb9f82920f0b71da731da70fc7145279106c908bb86fb651b5",
+      "title": "Plano Elemental do Ar"
+    },
+    {
+      "path": "Lugares/Plano Etereo.md",
+      "sha256": "c02cf8eea77d0d312b4addf228541e7f20d6ef6c282ef4b5cfa5dc560a6f97d0",
+      "title": "Plano Etéreo"
+    },
+    {
+      "path": "Lugares/Regiao gelada.md",
+      "sha256": "5765c9e1aff1fd5dd582de3c333e146f7a1becc9b62aeb537fef5067d4f5763d",
+      "title": "Região gelada e cidade sem nome"
+    },
+    {
+      "path": "Lugares/Ruinas do mapa de Fash.md",
+      "sha256": "7df47ff9a116e4599f3f03778a9e11d348136f1e6fb7784fbbb711fcc0f5ad7d",
+      "title": "Ruínas do mapa de Fash"
+    },
+    {
+      "path": "Lugares/Santuario da driade.md",
+      "sha256": "774142a983f1e23d0775185ed60ef3916cb5b7eaae31674a7d7cf3663670197e",
+      "title": "Santuário da dríade"
+    },
+    {
+      "path": "Lugares/Syltha Vaelor.md",
+      "sha256": "e0428a959839a34f05ceb1aeb5b3d1b1a97022cd5fbe23de917ddd6a6afeff6a",
+      "title": "Syltha Vaelor — vila das dríades"
+    },
+    {
+      "path": "Lugares/Teladelion.md",
+      "sha256": "3417a79edc8fdcf53edf9572769f2c799ee4d3da857f8b8aedb3f81152fee6c5",
+      "title": "Teladelion"
+    },
+    {
+      "path": "Lugares/Thael V oren.md",
+      "sha256": "ba34f2c56f7e578908df6b468381e0c68cee8050effd5b327e792f61012347a4",
+      "title": "Thael`Voren — vila das fadas"
+    },
+    {
+      "path": "Lugares/Thal Karak.md",
+      "sha256": "3aff821a566a7104af5d00be51c220c441fa91b3070a96592a2ec75ac219c2dc",
+      "title": "Montanhas de Thal Karak"
+    },
+    {
+      "path": "Lugares/Thornaeva.md",
+      "sha256": "45686b470e1fdb4a5bd8a858fc5bc2d388ec5f39cba6ebdad1c14cb7ff3c128d",
+      "title": "Thornaeva — vila das fadas espinho"
+    },
+    {
+      "path": "Lugares/Throden.md",
+      "sha256": "8cf152e9629b2aa626f54a71b866d5ac5a53bc571e83f1173c48d03b40d9d645",
+      "title": "Throden — Forte Q23"
+    },
+    {
+      "path": "Lugares/Torre de Arkhavel.md",
+      "sha256": "f11c56e547f66eca9b9ce1e5533930c0090a58678d6ccb96cea107444cc091e3",
+      "title": "Torre de Arkhavel"
+    },
+    {
+      "path": "Lugares/Vael Tharion.md",
+      "sha256": "6bf608b980f4137e3422c47eb6f1f0f68aed80e67aa8848e5f5ab89878d96b1f",
+      "title": "Vael`Tharion — vila dos centauros"
+    },
+    {
+      "path": "Lugares/Vila dos meio-dragoes.md",
+      "sha256": "2f85643b6b0b2126808b8d790ae851c0c8c14939a6e4850b5347d24822ee525e",
+      "title": "Vila dos meio-dragões — U27"
+    },
+    {
+      "path": "Lugares/Vilarejo costeiro do preludio de Ryld.md",
+      "sha256": "921b2fd006521980da44f6eb42d5709fa4c9f4751a816619429cbf106a1f4279",
+      "title": "Vilarejo costeiro do prelúdio de Ryld"
+    },
+    {
+      "path": "Pendencias/Acervo/FT-001 - Sessao recente sem gravacao e novo personagem.md",
+      "sha256": "775b1283920a01eb15a1e0d5be5585431ae1aeaf09f985fd3d2af452c51af355",
+      "title": "FT-001 — Sessão recente sem gravação e novo personagem"
+    },
+    {
+      "path": "Pendencias/Conflitos e confirmacoes.md",
+      "sha256": "cc4e90e4147959f04cfcaf0d4c1585ce692579b5333b28c40b93ba0358a149f5",
+      "title": "Conflitos de fontes e confirmações existentes"
+    },
+    {
+      "path": "Pendencias/Cronologia/CR-001 - Calendário material do cenário.md",
+      "sha256": "6226f27b643d74c7d29f5343c32fe2715b9ff89833a5cee22d065ce2264dd75d",
+      "title": "CR-001 — Calendário material do cenário"
+    },
+    {
+      "path": "Pendencias/Cronologia/CR-002 - Dias transcorridos nas sessões vinte a vinte e seis.md",
+      "sha256": "5661cd1926afaca5d4dc3198168ffea44d6d7f1711e55d358aae24424e44b497",
+      "title": "CR-002 — Dias transcorridos nas sessões vinte a vinte e seis"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-001 - Sequência da transição entre as duas campanhas.md",
+      "sha256": "73a91f1522630f33796f18d3c114ff710b2c4073b26accad4553360de2052800",
+      "title": "EV-001 — Sequência da transição entre as duas campanhas"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-002 - Desfecho da epidemia das criaturas de luz.md",
+      "sha256": "1749e41181fe498687c94600e25f15f06aa16a40e409d29a10ef2e78965eb415",
+      "title": "EV-002 — Desfecho da epidemia das criaturas de luz"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-003 - Propósito e correspondências do sonho antigo.md",
+      "sha256": "9f1b1413c7ee061e5e496c728a9244cd32e8f683f8d42e0cc5fd68374aa5509b",
+      "title": "EV-003 — Propósito e correspondências do sonho antigo"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-004 - Resgatados e consequências da crise dos reféns.md",
+      "sha256": "7fbaf3184f5d5daf49e9026d8a0c34ca04c11262ae9b182d5853dee73f37b8d5",
+      "title": "EV-004 — Resgatados e consequências da crise dos reféns"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-005 - Sobreviventes da aldeia na neve.md",
+      "sha256": "ef8367ad6fd1ed18553c967ce3282efcbfae107097bb0793b8a37d9ba5b8c412",
+      "title": "EV-005 — Sobreviventes da aldeia na neve"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-006 - Início e encerramento da Noite Eterna.md",
+      "sha256": "8cee0b5a0cb67e64673d3a596b33fd9dfc0aa2776b11c28b84ab177e330a0912",
+      "title": "EV-006 — Início e encerramento da Noite Eterna"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-007 - Identidade e cronologia das revoadas.md",
+      "sha256": "7099c7c153184a803ec7c780c371db3c163393afec3721629049042706c6279f",
+      "title": "EV-007 — Identidade e cronologia das revoadas"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-008 - Conclusão do caso da água envenenada.md",
+      "sha256": "8cbb7ce7fc724cf42267ae57b9f522f153c70ab2a56318e45764226d77b6cbb0",
+      "title": "EV-008 — Conclusão do caso da água envenenada"
+    },
+    {
+      "path": "Pendencias/Eventos/EV-009 - Versoes divergentes do diario de Firael.md",
+      "sha256": "1785b6297871b3c21359ea2094e800cba338fc2888580f317fd1ff9b02921af5",
+      "title": "EV-009 — Versões divergentes do diário de Firael"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-001 - Estrutura e alcance atual do Ébano.md",
+      "sha256": "e5b19598796022c3003ec1ce4d7f8d4add2aab181786015fbdb8e0432c8539c1",
+      "title": "FC-001 — Estrutura e alcance atual do Ébano"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-002 - Nome e composição da organização de Firael.md",
+      "sha256": "d0bacca256c9a58604ae11939f4e762456f985e754e770aed11fc8067042b493",
+      "title": "FC-002 — Séquito de Kharzun — composição e estrutura"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-003 - Aliança de Firael com o Mercado e operação em Eral.md",
+      "sha256": "08d4a629dd3898d549a882c5413b9b19b1a4edcb3ec7fc244eeeea2b7b077d1d",
+      "title": "FC-003 — Aliança de Firael com o Mercado e operação em Eral"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-004 - Estrutura e rotas do Mercado Negro.md",
+      "sha256": "45fce5572a7fcd8a851cafa6e6d277196bfd373a17da77b2b611d88b82025078",
+      "title": "FC-004 — Estrutura e rotas do Mercado Negro"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-005 - Informante investigado pelo Mercado.md",
+      "sha256": "202d5d05f92b6c137cb7e70cb78a0ec5f89b994d2050bc63278f74daaf347bb5",
+      "title": "FC-005 — Informante investigado pelo Mercado"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-006 - Propriedade e liquidação do negócio da arena.md",
+      "sha256": "be76a216c0a27b60e895bb61fc62cc92b4e4f46b70db8bef8f99efaf8ed98197",
+      "title": "FC-006 — Propriedade e liquidação do negócio da arena"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-007 - Decisão e vínculos dos Kenku no saque.md",
+      "sha256": "d5169bce1ed1322e753aab6ce620bc6d5d1b6895164d6e826b9528411b47baaa",
+      "title": "FC-007 — Decisão e vínculos dos Kenku no saque"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-008 - Responsabilidade e governo do Conclave da floresta.md",
+      "sha256": "84669ab31f78ed6a19f87c984b75c24bb37e85d6b4ab537c5950036c9baf5ecb",
+      "title": "FC-008 — Responsabilidade e governo do Conclave da floresta"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-009 - Círculo Vetrilus e nome Conclave das Bruxas.md",
+      "sha256": "5f6205d7dc5f0c7191ca8868d50b9dcd93b7d469bf7ab89576ec49053b0d5dde",
+      "title": "FC-009 — Círculo Vetrilus e nome Conclave das Bruxas"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-010 - Rede de vassalos e continuidade das bruxas.md",
+      "sha256": "62cc2c88d0fe41e88f4dcf019838f96ab5218232a845909dd85be3383c129eab",
+      "title": "FC-010 — Rede de vassalos e continuidade das bruxas"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-011 - Igreja de Kord após o ataque a Eral.md",
+      "sha256": "a408b189166b6142d6df76c551c324f9cf95ea2780e54ccd41220fa950625628",
+      "title": "FC-011 — Igreja de Kord após o ataque a Eral"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-012 - Nome e subdivisões dos arquivistas.md",
+      "sha256": "b94754535c1260294faacc3c2baf5d2446c2898f6915ed8bedd9d581b3b2f218",
+      "title": "FC-012 — Nome e subdivisões dos arquivistas"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-013 - Relatórios e resposta às expedições perdidas.md",
+      "sha256": "834ae51508b8085c11d12567c879d146542c817fca9a7eb4590c70767b3b39ae",
+      "title": "FC-013 — Relatórios e resposta às expedições perdidas"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-014 - Identidade e atividade da Lua Sangrenta.md",
+      "sha256": "0fc9157108e61b74d5a7b397e340d65f99ee011361fc1b481474b35500a9709b",
+      "title": "FC-014 — Identidade e atividade da Lua Sangrenta"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-015 - Estrutura e legado dos Zodíacos.md",
+      "sha256": "2767c03d251582036a1a528de24f260beae847dbf7433d844a9193f9f43cd24a",
+      "title": "FC-015 — Estrutura e legado dos Zodíacos"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-016 - Nome e continuidade da organização do Necromante.md",
+      "sha256": "a95f6c79e14a784c60d181cdb04f3d4c2c4d1168db63074af24ab62a7889d875",
+      "title": "FC-016 — Nome e continuidade da organização do Necromante"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-017 - Continuidade coletiva da Roda de Estopa.md",
+      "sha256": "d9361d8f23e180cce66fb1dc94a8840b765023ecbb10355725943bffb974706c",
+      "title": "FC-017 — Continuidade coletiva da Roda de Estopa"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-018 - Reconstituição da Guarda de Eral.md",
+      "sha256": "143053c9aca74bc4b82f5201872d64131cf9d0d3dbc2efb68997c77e12def219",
+      "title": "FC-018 — Reconstituição da Guarda de Eral"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-019 - Identidade da organização de traficantes de almas.md",
+      "sha256": "5a3960a8b455cad3ff44aa7f1bc22a7183e7b4e3775f17d10d6899e97986c977",
+      "title": "FC-019 — Identidade da organização de traficantes de almas"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-020 - Pacto e governo das comunidades reassentadas.md",
+      "sha256": "b89dd10539e201dd27b183cf84786670ec9054a2d644bb380a68c46e548a4dfd",
+      "title": "FC-020 — Pacto e governo das comunidades reassentadas"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-021 - Correspondentes materiais das instituições do sonho.md",
+      "sha256": "e1a1c66d7db4ca8ca633a2c0028f739e95b50da203d169c26bf6a414095c1a26",
+      "title": "FC-021 — Correspondentes materiais das instituições do sonho"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-022 - Colônia dos Mind Shredders.md",
+      "sha256": "c7e3e3ef22f7aea0f6e5c2a91e537d15954113c1a842b85702db932da88e66a0",
+      "title": "FC-022 — Colônia dos Mind Shredders"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-023 - Destino e reprodução da magia viva.md",
+      "sha256": "9b88e2c6e38e424fabd0f3478565da167c33455520a81e937cfb63b745d58892",
+      "title": "FC-023 — Destino e reprodução da magia viva"
+    },
+    {
+      "path": "Pendencias/Faccoes/FC-024 - Envenenamento e Crepúsculos Venenosos.md",
+      "sha256": "fbb5d87ac2126c752e97d88eee767f88840bb11ff938742aa6354d639f791f5a",
+      "title": "FC-024 — Envenenamento e Crepúsculos Venenosos"
+    },
+    {
+      "path": "Pendencias/Indice.md",
+      "sha256": "d3bc44d32a9c4e41863bed6c3c4fa2064a0bd72384494de797ff094536b279d3",
+      "title": "Revisão de contradições e sequência"
+    },
+    {
+      "path": "Pendencias/Itens/IT-001 - Entidade e selo do grimório.md",
+      "sha256": "1b4e5187acc8a40c6ed8a8d032d2612a879cd74b36f5f775859ac847339ca906",
+      "title": "IT-001 — Entidade e selo do grimório"
+    },
+    {
+      "path": "Pendencias/Itens/IT-002 - Diferenças entre os livros das bruxas.md",
+      "sha256": "836625184fd6787df2e42724c8f06409f42646f85448522e47666fe318e7ec1a",
+      "title": "IT-002 — Diferenças entre os livros das bruxas"
+    },
+    {
+      "path": "Pendencias/Itens/IT-003 - Natureza e funcionamento do amuleto de Kord.md",
+      "sha256": "a3fcd3ae0140018e6ccb610e1ac2a5518c3c0faa9825f10510c3e584661742c3",
+      "title": "IT-003 — Natureza e funcionamento do amuleto de Kord"
+    },
+    {
+      "path": "Pendencias/Itens/IT-004 - Estado e regras restantes do cinto de Kord.md",
+      "sha256": "891bd3aaee0b096906a4b0305238cb3213204106babe3b8c3ccf552ac5347863",
+      "title": "IT-004 — Estado e regras restantes do cinto de Kord"
+    },
+    {
+      "path": "Pendencias/Itens/IT-005 - Fechar e reabrir as portas planares.md",
+      "sha256": "0d1e9e6c8b3fff30f2729e418e5be02a34ccc63e30eb2c93f236762b0a073579",
+      "title": "IT-005 — Fechar e reabrir as portas planares"
+    },
+    {
+      "path": "Pendencias/Itens/IT-006 - Origem e limites ainda abertos do Fogo Primordial.md",
+      "sha256": "92775fd7e3fddd149f57ff83df8ed4cf4b8a5b5120f49ac862090e8273a8d4f7",
+      "title": "IT-006 — Origem e limites ainda abertos do Fogo Primordial"
+    },
+    {
+      "path": "Pendencias/Itens/IT-007 - Consciência e poderes do cajado de girassol.md",
+      "sha256": "59acc589e391fca08276b308a08ce3ca6743bf91f881dd2b0693b186a1413040",
+      "title": "IT-007 — Consciência e poderes do cajado de girassol"
+    },
+    {
+      "path": "Pendencias/Itens/IT-008 - Dados dos artefatos investigados pelos arquivistas.md",
+      "sha256": "c41ab68d3a330b0bed8d05032e4be90d0a9373baf6aa11b4a2128686478de9f0",
+      "title": "IT-008 — Dados dos artefatos investigados pelos arquivistas"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-001 - Nomes oficiais e lei de Carruan.md",
+      "sha256": "3ac70531f07df89ef065692a124a2656e43d64f5d8f998a4bbf8771726e61a50",
+      "title": "LG-001 — Nomes oficiais e lei de Carruan"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-002 - Ocupação de Eral e destino dos refugiados.md",
+      "sha256": "ba982bc55d19e6cf989fa5d413f1b196dd800f7287fc8e497c7fca3ca8a14a78",
+      "title": "LG-002 — Ocupação de Eral e destino dos refugiados"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-003 - Assentamentos goblinoides e rotas de Eral.md",
+      "sha256": "42be5f822e9f43913702238ec2bf405fa7d5d02e48e38f9190fea94544a9b4ac",
+      "title": "LG-003 — Assentamentos goblinoides e rotas de Eral"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-004 - Ocupantes de P22 Q23 e U27.md",
+      "sha256": "5993413b281a3d25927d63b87cf302e69f3d75cda305423a343ec2e1f8e73e7f",
+      "title": "LG-004 — Ocupantes de P22 Q23 e U27"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-005 - Cartografia e destinos antigos da cidade drow.md",
+      "sha256": "68596ebe837e4128904aee833ea055518734041f6b45e5e9d3c6fb1cb1f0cf70",
+      "title": "LG-005 — Cartografia e destinos antigos da cidade drow"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-006 - Localização e guarda atual do nodo.md",
+      "sha256": "40ee03e799abd9f83e2d66a7569ba65a1caff80ef9158ffb1d4aa75c2637169e",
+      "title": "LG-006 — Localização e guarda atual do nodo"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-007 - Necrópole e área de mortos-vivos.md",
+      "sha256": "495049341e6402e2bcbd69c93142eb7b3ab2052beac7d6d79b03fbc78aaee898",
+      "title": "LG-007 — Necrópole e área de mortos-vivos"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-008 - Covis de Hourian Haurim.md",
+      "sha256": "25bd0066a06924650b961ed1760910b07c1133ee2ebae3f83be5ced61fc94a61",
+      "title": "LG-008 — Covis de Hourian"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-009 - Região gelada e aldeia após os yetis.md",
+      "sha256": "e2362e00135d0d3b821d4dfd16ca3d24a16710b98855b77e89d3c858278c0d09",
+      "title": "LG-009 — Região gelada e aldeia após os yetis"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-010 - Floresta de Timo e santuário atual.md",
+      "sha256": "784bcd586c4116f6502f6fbafbe6a7ff61913784bcc34f4f62fcf76d549fa35d",
+      "title": "LG-010 — Floresta de Timo e santuário atual"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-011 - Rota marítima dos arquivistas.md",
+      "sha256": "a408ba537821fbef04560049d04233ba5ef334e32c035ed54eb15e88a4cc72d7",
+      "title": "LG-011 — Rota marítima dos arquivistas"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-012 - Nome e rota da montanha das memórias.md",
+      "sha256": "898481d1b3dfba71f8dccbc2caebc4e4e01bfc11c334c97fa17e7e54182d0951",
+      "title": "LG-012 — Nome e rota da montanha das memórias"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-013 - Nome e localização da aldeia de Glim.md",
+      "sha256": "65de0e8ec0cdf047749a1873270090dc701ba015683dc090a25f9748291502a0",
+      "title": "LG-013 — Nome e localização da aldeia de Glim"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-014 - Referentes materiais dos lugares do sonho.md",
+      "sha256": "392ff4c1c5f0008a55638f475b857d4918424dec687238eec6c69753eb8deeb0",
+      "title": "LG-014 — Referentes materiais dos lugares do sonho"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-015 - Mercadia acessos e regras locais.md",
+      "sha256": "7c28e9ce2d120bc293519c9f9130cab1765b8367f89690b499bc75c571cd55c0",
+      "title": "LG-015 — Mercadia acessos e regras locais"
+    },
+    {
+      "path": "Pendencias/Lugares/LG-016 - Localização da comunidade de Eral.md",
+      "sha256": "6d7c97a680820d8b13c1eeff89ae04a2a961c55c636c902b82e159681f7f2b52",
+      "title": "LG-016 — Localização da comunidade de Eral"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-001 - Fash no presente.md",
+      "sha256": "e25f841e77a2449766a5385fde10ac397a11e40993b25eb4626188b6525e88d9",
+      "title": "PC-001 — Fash no presente"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-002 - Continuidade de Tinkar e passado de Fash.md",
+      "sha256": "d6617164a516e2b9142cedaef5ed35eec18b93175b7fb305dac0beb2cb15dc90",
+      "title": "PC-002 — Continuidade de Tinkar e passado de Fash"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-003 - Ascendência de Okay.md",
+      "sha256": "98b4b309056cb778b975768185b7a4d9a45f8a603d8cc38e3adda6558b744dc7",
+      "title": "PC-003 — Ascendência de Okay"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-004 - Memórias e vidas de Okay.md",
+      "sha256": "cda3f19f5062211eb6b6284d96443da5094b1e02614e2fb99d6adfbfc13798b3",
+      "title": "PC-004 — Memórias e vidas de Okay"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-005 - Timo entre morte planta e cajado.md",
+      "sha256": "e565ae632878157c671a630f5eda2ab0b8f93fee74dbac7bd7a5a3ff90f734d2",
+      "title": "PC-005 — Timo entre morte planta e cajado"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-006 - Timo Pé-de-Musgo Fesh e versões antigas.md",
+      "sha256": "4108a161bce7606e1df67e0d8e32c4d465ebc77428ca3d5ea4d50d65d87076f4",
+      "title": "PC-006 — Timo Pé-de-Musgo Fesh e versões antigas"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-007 - Firael e o reconhecimento de Okay.md",
+      "sha256": "5bf6cb7eccdc5c0aab6341d1d692a014fb262b81bc51df8922bcf41650dca868",
+      "title": "PC-007 — Firael e o reconhecimento de Okay"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-008 - Condição pessoal do Cérebro.md",
+      "sha256": "7b074d1c0b1dd1d5a0d6a818700c67d8a4b4287972de9c43703d1381e9945e12",
+      "title": "PC-008 — Condição pessoal do Cérebro"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-009 - Responsabilidade pelas mortes de Lilo e Piche.md",
+      "sha256": "affa263077a242b4bc6b2acfa2beddafe26783adaf377318d440dedc4a4fabe6",
+      "title": "PC-009 — Responsabilidade pelas mortes de Lilo e Piche"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-010 - Identidade da sombra de Lilo.md",
+      "sha256": "cfe67c322c5e099e11f111b0aad5dfaf9e8f81b8284bb93ba7503d6bf756c637",
+      "title": "PC-010 — Identidade da sombra de Lilo"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-011 - Memória juvenil da runa e destino de Piche.md",
+      "sha256": "00137a96491e9da8e56f062fe51719b05b50b2ac76069960e5ac0b79061be07a",
+      "title": "PC-011 — Reconhecimento da runa e valor afetivo de Piche"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-012 - Crave após as provações.md",
+      "sha256": "b4d452ae2a35e85c94b186db2a7d9f6632fcc5b7711b3c3aa7809ea1c1ac6a3b",
+      "title": "PC-012 — Crave após as provações"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-013 - Rudiger e a figura do prelúdio.md",
+      "sha256": "83b040db76b198d88c65d743c2b9aff28e15f9068abfe8bf933cf833b8177854",
+      "title": "PC-013 — Rudiger e a figura do prelúdio"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-014 - Ryld luz e inspeção.md",
+      "sha256": "20429cd18f61d537eb4f29dbcfcf5e7128e230cf3063b2d4b7c5da69baceefd4",
+      "title": "PC-014 — Ryld luz e inspeção"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-015 - Arkhavel e retorno.md",
+      "sha256": "d0e4898e83f3024e5d077f36442ab1f890563ebdf6e952cf51fea92613906f3f",
+      "title": "PC-015 — Arkhavel e retorno"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-016 - Kuat filho e destino do interrogado.md",
+      "sha256": "aa439fa8b3d1f10f429e02117b37072ef61f32ff4cddf2e795d88bfda0d3d44d",
+      "title": "PC-016 — Kuat filho e destino do interrogado"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-017 - Donovan.md",
+      "sha256": "fb5e69074ba357d7202c7bd950195a1a2872ba8df1d22675409c9dd72badfbef",
+      "title": "PC-017 — Donovan"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-018 - Tauro suas almas e Lamassu.md",
+      "sha256": "16076884c462cbb8baa0d72ec024752aae344815ce8ee2fcd030440794a601ac",
+      "title": "PC-018 — Tauro suas almas e Lamassu"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-019 - Identidade da mulher do braço.md",
+      "sha256": "c755b8c785e6de1de4a21bf68f4d49ef0577a26a98ff5271ae184bfd641c3037",
+      "title": "PC-019 — Identidade da mulher do braço"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-020 - Mulher possuída da caravana.md",
+      "sha256": "8d43649e4c4b5a6f228cd97f4f1f3173f25dd4d6ad6641dceb3265567c6d5ab5",
+      "title": "PC-020 — Mulher possuída da caravana"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-021 - Morte e família de Carlos carpinteiro.md",
+      "sha256": "4374fdd8776b300f248c55cb63c826626cd546cf249990a4a561eb36ff196d67",
+      "title": "PC-021 — Morte e família de Carlos carpinteiro"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-022 - Cadáver de Carlos guarda.md",
+      "sha256": "ee72db20d7bd34a8b4ed53d9acd45c5e3dbffdb0d9d5fb03e4465fdebdc419d7",
+      "title": "PC-022 — Cadáver de Carlos guarda"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-023 - Vesperal e a encomenda.md",
+      "sha256": "8c72950921d597d5e7a178733d26771eaf490ac282b3f6ae779fc006e70985d8",
+      "title": "PC-023 — Vesperal e a encomenda"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-024 - Taverneira nome e comunicação.md",
+      "sha256": "f830d9fec5df3d7c5040387f04e9a10565d14fb5745f80ee5a3fdd19793b3abb",
+      "title": "PC-024 — Taverneira nome e comunicação"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-025 - Destino de Tólomon.md",
+      "sha256": "ec86e32c440dd33f5bde3bc389ea59bc44e4a319a2586fc22b1a407e39cc97bd",
+      "title": "PC-025 — Destino de Tólomon"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-026 - Rangers desaparecidos.md",
+      "sha256": "6a4aece3c273744aeb0f0f03ba4ae2ad8e1933816422ec59c3501ee3a555ea05",
+      "title": "PC-026 — Rangers desaparecidos"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-027 - Amiga de Folha-Seca.md",
+      "sha256": "39a36f92a54e41909175723a30c3caeb7a1449982f83b345ee860e2e58f7cd36",
+      "title": "PC-027 — Amiga de Folha-Seca"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-028 - Silthan e os proprietários.md",
+      "sha256": "b6d6a96c02d4b4946f2bfc747638d610aa185664113315552da399e2a72f6540",
+      "title": "PC-028 — Silthan e os proprietários"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-029 - Kenku caolho.md",
+      "sha256": "4007bd25aa7699d601c50a38f971c011d0b2077f2de9f2030db64f9f6e288602",
+      "title": "PC-029 — Kenku caolho"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-030 - Tariun e a tarefa da montanha.md",
+      "sha256": "c79becbfcf7476f913eb85b880a224a1a12752bbba38670fdd8eb620626b2edd",
+      "title": "PC-030 — Tariun e a tarefa da montanha"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-031 - Colegas de Okay e mestre desaparecido.md",
+      "sha256": "745d0d67a53b693b99d4f62cc53cdc508f4fff45dfd52d41846d36334ff64331",
+      "title": "PC-031 — Colegas de Okay e mestre desaparecido"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-032 - Bruxas sobreviventes e Elena.md",
+      "sha256": "fc13bb072ccb3c7e25ab3ca28f8a9a0cb3acd7f83f6d375f9114aab84d2f7a78",
+      "title": "PC-032 — Bruxas sobreviventes e Elena"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-033 - Grixxian e a camada do sonho.md",
+      "sha256": "fb6366df17fffd55c083ae1f5f5707919575b499e369c3a7ae0e132afca70627",
+      "title": "PC-033 — Grixxian e a camada do sonho"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-034 - Necromante Lídia e Cavaleiro.md",
+      "sha256": "b36d884374c8cea198b5a4adb2c7cddbe8aeeaf224f93228b4bcd5a958defdcd",
+      "title": "PC-034 — Necromante Lídia e Cavaleiro"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-035 - Anão guardião real e família.md",
+      "sha256": "907833e5a2fcff9fed248a6d3f643304bd5f588a15688696dabae04fa93986f2",
+      "title": "PC-035 — Anão guardião real e família"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-036 - Dragão negro no presente.md",
+      "sha256": "c877482c4b3a7c349524e45f5d3588ff6bbc8dd95697d88dace63237a3133ceb",
+      "title": "PC-036 — Dragão negro no presente"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-037 - Hourian Haurim e revoada.md",
+      "sha256": "96b069cba58608e7be090c832f5b53f45fcd185df2aee436232428f7a0fe1c33",
+      "title": "PC-037 — Grafia de Hourian e relatos históricos"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-038 - Cogu e Rake.md",
+      "sha256": "ee8ef3dcdbe0c8daa05c122d978db45644c17d9a0b4292e25ed4dae52b6ab4ee",
+      "title": "PC-038 — Cogu e Rake"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-039 - Furion e documento de continuidade.md",
+      "sha256": "ca3f4af7c4e44ed64accf59749b84c4d4a2503a3f8ae69815314ab3caf122cc9",
+      "title": "PC-039 — Furion e documento de continuidade"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-040 - Sobreviventes da Roda de Estopa.md",
+      "sha256": "871650915507fefd0ed41a88dbb753da5f12ae9b6389b8ea2b95f2ebf209f22c",
+      "title": "PC-040 — Sobreviventes da Roda de Estopa"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-041 - Varo e o assassino de Tom.md",
+      "sha256": "46ea40251077166e8aa4eef80e8b0b4340d57d7836417dade4cb5bd66a1981fe",
+      "title": "PC-041 — Varo e o assassino de Tom"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-042 - Família e aldeia de Glim.md",
+      "sha256": "0e23e1d578fa80ccc6d175087c62e943f1ef3994218269dbd0572b71e96b81c7",
+      "title": "PC-042 — Família e aldeia de Glim"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-043 - Vyrix.md",
+      "sha256": "8af63a8582d5ea17b86ea9d6a3aacb543eca25fe87c50813def601363843e5ca",
+      "title": "PC-043 — Vyrix"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-044 - Beholder da biblioteca.md",
+      "sha256": "687a2ab35a55a571d2822903164f870a295195f9305aca1d85a73d259da289f9",
+      "title": "PC-044 — Beholder da biblioteca"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-045 - Chefe goblin e origem da doença.md",
+      "sha256": "4abb2e2c5d1a4e7ef488f587daee7324bdc95f662f8f0311707f0c2f2dcea58d",
+      "title": "PC-045 — Chefe goblin e origem da doença"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-046 - Poderes e identificação divina.md",
+      "sha256": "de450521a3cbfcc4f3f2df13a14698e2593a0e079c23ed42ba32de43b1222965",
+      "title": "PC-046 — Poderes e identificação divina"
+    },
+    {
+      "path": "Pendencias/Personagens/PC-047 - Resposta do duque e prefeito humano.md",
+      "sha256": "f28dd09afd4b7a1298cdd75147546506dc5295925d9ab4c96214d89379a7e39f",
+      "title": "PC-047 — Resposta do duque e prefeito humano"
+    },
+    {
+      "path": "Pendencias/Roteiro da sabatina.md",
+      "sha256": "9e1ff459fe8c5880d1f2419a864fd68d2aa399f3ec09d3ba5f0d6c4076cf6e71",
+      "title": "Roteiro de revisão — contradições e sequência"
+    },
+    {
+      "path": "Personagens/Aboleth da mansao.md",
+      "sha256": "67073986cd0139ed93dcc65672e1d54cd77a6188ce73b9a214ab3a876b3ca3dd",
+      "title": "Aboleth da mansão do prefeito"
+    },
+    {
+      "path": "Personagens/Aelion.md",
+      "sha256": "3b59d75284fc0b125ba137d9b29f92e72c9ebad82177411ba4245b35c32e7055",
+      "title": "Aelion Stormlash"
+    },
+    {
+      "path": "Personagens/Anao guardiao.md",
+      "sha256": "172b3a64c9b43da48565d4f5370747aed252f7de397034c1a57a8a8766020621",
+      "title": "Anão guardião"
+    },
+    {
+      "path": "Personagens/Arkhavel.md",
+      "sha256": "1697577b0bc86dc89943528789bb65637f16c9c7f5fccce527da1874a5e2a4c7",
+      "title": "Arkhavel"
+    },
+    {
+      "path": "Personagens/Aurel Vesperal.md",
+      "sha256": "f0151a9639d1ccc1902693038cd2726bc51a617ab6559212d5cc1a0080c386b4",
+      "title": "Aurel Vesperal"
+    },
+    {
+      "path": "Personagens/Beholder da biblioteca.md",
+      "sha256": "38f613c5109b0775300852294670a5b7ff15a2ca89a16d469ff9c0a7d9b01116",
+      "title": "Beholder da biblioteca"
+    },
+    {
+      "path": "Personagens/Billy.md",
+      "sha256": "468142854729653d467d283f9539b0ed07389d7058ec27e31d965d609116af2f",
+      "title": "Billy — guarda do sonho"
+    },
+    {
+      "path": "Personagens/Brakka Pedramansa.md",
+      "sha256": "ca380eb28f40e287f1fd47c9818da7c6c615cad2133d56b75b18208be6dfc0e4",
+      "title": "Brakka Pedramansa"
+    },
+    {
+      "path": "Personagens/Carlos carpinteiro.md",
+      "sha256": "221f148877daea52f2009fead9802821cab83dfb1f0cf3bc9a6b2ea8776c91a8",
+      "title": "Carlos — carpinteiro"
+    },
+    {
+      "path": "Personagens/Carlos guarda do sonho.md",
+      "sha256": "6eff8a49d55771625d1cbb529415be7b51be052d0559ef2e5a91363b558671ff",
+      "title": "Carlos — guarda do sonho de Fash"
+    },
+    {
+      "path": "Personagens/Carlos guarda.md",
+      "sha256": "4a351d2e6be663ae286f4048b1b82363bde97e3073d2fe9a3eb73fe3ec8f4903",
+      "title": "Carlos — guarda de Eral"
+    },
+    {
+      "path": "Personagens/Cavaleiro da Morte.md",
+      "sha256": "0d37377f7ea0ed7fe23604db3256dfc3b6b0b54a475a00d15f91519a8696a67e",
+      "title": "Cavaleiro da Morte"
+    },
+    {
+      "path": "Personagens/Cerebro Anciao.md",
+      "sha256": "33a10dcc59b865591a7728d4fa1177cd096848277ac0ce5af7f1708295c056f2",
+      "title": "Cérebro Ancião"
+    },
+    {
+      "path": "Personagens/Chefe goblin.md",
+      "sha256": "11c4184b1928be21f68038f89460b1abead17b00066b447e2e29ad570d73de45",
+      "title": "Chefe goblin"
+    },
+    {
+      "path": "Personagens/Cogu.md",
+      "sha256": "36425fc2f0c69e94ce499d477712cae65e0bb1275ce7e80102cbac451244df89",
+      "title": "Cogu"
+    },
+    {
+      "path": "Personagens/Crave.md",
+      "sha256": "38e788281a6043c5f6fcaffe620cbb953f0a851bb1fc97316d8b5ac8d6fdbde1",
+      "title": "Crave"
+    },
+    {
+      "path": "Personagens/Donovan.md",
+      "sha256": "1585b9fd1b61978d52549b30d894747eb94cd323a87bb3f1b80ff1c39c135c67",
+      "title": "Donovan"
+    },
+    {
+      "path": "Personagens/Dornal.md",
+      "sha256": "adf4b15688335f62515c33023bdcca8c5a85f3c34bb2be0eb9d39fbb64263123",
+      "title": "Dornal"
+    },
+    {
+      "path": "Personagens/Dragao negro.md",
+      "sha256": "1ff1fa9c961d25fd19b0cb42f98651905edd9a69d4a8df67a96445aa8ea4182b",
+      "title": "Dragão negro"
+    },
+    {
+      "path": "Personagens/Driade do cajado de girassol.md",
+      "sha256": "72c43ddacb1f38634a123ed9574d0ec23df7ae942f433390ac1413dc6ad12f9d",
+      "title": "Dríade do cajado de girassol"
+    },
+    {
+      "path": "Personagens/Druida Sangrento.md",
+      "sha256": "38e9ba1fd7d5c7f2f8f266848a5a4c62608f00aa20cd3542243f55ba9a22119d",
+      "title": "Druida Sangrento"
+    },
+    {
+      "path": "Personagens/Eilistraee.md",
+      "sha256": "fede289ef3e04b78ce04422aff7a147e3b34f6c455b417562a3de72a24b3571f",
+      "title": "Eilistraee"
+    },
+    {
+      "path": "Personagens/Elena.md",
+      "sha256": "b660d319ce0505bdf1102bad4bd80ac9d10ae32cdc2449e5f96a240d04a2af6e",
+      "title": "Elena / Serethyn"
+    },
+    {
+      "path": "Personagens/Elrohir.md",
+      "sha256": "e7793c25bae9747e880da3b663dc7024acc561e49981899f66fa93fb0b648dad",
+      "title": "Elrohir"
+    },
+    {
+      "path": "Personagens/Fash Paleskin.md",
+      "sha256": "d54e9055fcdf7b9057d3a8af871c1809b3cc562cccf36092c01dc7d800464e8c",
+      "title": "Fash Paleskin"
+    },
+    {
+      "path": "Personagens/Felbira Daergel.md",
+      "sha256": "c4a7b693c36ffe23b7f605828c45b5388838cc1f82adc7ad9a28da75c1469e50",
+      "title": "Felbira Daergel — background de Tinkar"
+    },
+    {
+      "path": "Personagens/Filho de Arkhavel ligado ao prefeito.md",
+      "sha256": "bb90c7584c74d776b7c9921618679b74dfb495ce18af2e1a6fbfb6ff8ca10f8f",
+      "title": "Filho de Arkhavel ligado ao prefeito"
+    },
+    {
+      "path": "Personagens/Filipe Vander.md",
+      "sha256": "fae3905338d1590f82351312c343c690852ee29b9e3528a7e30f61575e84bb38",
+      "title": "Filipe Vander — contato no sonho"
+    },
+    {
+      "path": "Personagens/Firael.md",
+      "sha256": "707e57c0c9cfc5fb5c78eee22d0948d8640d0c803d8d1b4cebd55b60be8c40d1",
+      "title": "Firael"
+    },
+    {
+      "path": "Personagens/Folha-Seca.md",
+      "sha256": "03ae37494497e9334d80ba26ccb4df6b5d4d2c295d725fe7a8ff1869d16ffb93",
+      "title": "Darian Folha-Seca Valek"
+    },
+    {
+      "path": "Personagens/Furion.md",
+      "sha256": "ac3bcfe12f4db93bd8c3da491ef7245b81a073369c3f8c70219778524e33d193",
+      "title": "Furion"
+    },
+    {
+      "path": "Personagens/Glim Sombrasselva.md",
+      "sha256": "23a7291f0d2739b29863a607d8d853b26ba845879f6f34f6ca794f10ef12cf28",
+      "title": "Glim Sombrasselva"
+    },
+    {
+      "path": "Personagens/Gnoll sobrevivente.md",
+      "sha256": "8f1e5852f16772eb38040a6460ddf604dbbd924cdc2a3627580a858eb0f3e3ef",
+      "title": "Gnoll sobrevivente"
+    },
+    {
+      "path": "Personagens/Grixxian.md",
+      "sha256": "c84babe785b9a6d1e8e8e57f74b20ae33409759f6dbc609b6a425ebcdda050a9",
+      "title": "Grixxian"
+    },
+    {
+      "path": "Personagens/Hanta.md",
+      "sha256": "37c39ba3fa22ac8b47592ddf772820989169ae2686e94631d079fe2ff5cb828d",
+      "title": "Hanta"
+    },
+    {
+      "path": "Personagens/Harlom Vinte-E-Dois.md",
+      "sha256": "016d3e9f6a3c8f495266ab12429794954d2fc400aabad8e1773ef6c7f537adad",
+      "title": "Harlom Vinte-E-Dois"
+    },
+    {
+      "path": "Personagens/Hextor.md",
+      "sha256": "1976d246737ace57f34a9e983881a3088881c704a62bf918c4dde070c251df77",
+      "title": "Hextor"
+    },
+    {
+      "path": "Personagens/Hourian Haurim.md",
+      "sha256": "34ab1738ff10680f478ff1e35f465173ea70904b0239d0ecedadb3b6456693a0",
+      "title": "Hourian"
+    },
+    {
+      "path": "Personagens/Indice.md",
+      "sha256": "b725c8bedf5d52b8bb15c563beccd8d0679830682c8cccefe5b299e83459ddde",
+      "title": "Personagens"
+    },
+    {
+      "path": "Personagens/Jorven.md",
+      "sha256": "4999a3738b84e2f8a630b2816eb71ebd9bcd11d648347fc19383f4d09f3a3be2",
+      "title": "Jorven — ferreiro do background de Fash"
+    },
+    {
+      "path": "Personagens/Kael.md",
+      "sha256": "04afcf1e041d3edb96d660ab23035c2c13f7334c17dd78ff13f793569cd49a88",
+      "title": "Kael"
+    },
+    {
+      "path": "Personagens/Kenku caolho.md",
+      "sha256": "e40e0177c0ac5e91479fb5457e63fe1f94eabdd92a43cfc51853812c2e0a5784",
+      "title": "Kenku caolho"
+    },
+    {
+      "path": "Personagens/Kord.md",
+      "sha256": "a8e1b5a080d17afc632c52aaf64984857bafcbeb6658a2678753a8dd23cd7a89",
+      "title": "Kord"
+    },
+    {
+      "path": "Personagens/Kuat.md",
+      "sha256": "19ac32d2ac16956820ab2aa75616625e9c3de7dc141782fb25494f598ed090a4",
+      "title": "Falso mordomo de Eral"
+    },
+    {
+      "path": "Personagens/Lamassu.md",
+      "sha256": "0fbea5fe44ee8765da2a0f6f664b0eb7bf6f687bfa4251077b47256271b306fb",
+      "title": "Lamassu ligado a Tauro"
+    },
+    {
+      "path": "Personagens/Lidia.md",
+      "sha256": "520a0e4c6d3eae9770f788f38da7d67358c2cd60bb1106877b3903d9f42b7f5a",
+      "title": "Lídia"
+    },
+    {
+      "path": "Personagens/Lilo Sombrasselva.md",
+      "sha256": "bdaca078baa23e4151dc5a43d280bb1f2cf875ef6a47aaa906491989b4ab0368",
+      "title": "Lilo Sombrasselva"
+    },
+    {
+      "path": "Personagens/Lirista espectral.md",
+      "sha256": "d7d1535d09ba60dbcb9be45118dcb1dd5c3f12c188bd58233afe27906b307e86",
+      "title": "Lirista espectral da viagem de volta"
+    },
+    {
+      "path": "Personagens/Lolth.md",
+      "sha256": "a8aec03f8afe9d77c5199b473143d2c15d5e33b507455340e44593e11a1d36d0",
+      "title": "Lolth"
+    },
+    {
+      "path": "Personagens/Lythrana Velkyn.md",
+      "sha256": "7ef9a2a4e867fb2b14b6fa4fc2fa08b747833edcdddb7335a00ed68a3eeb285b",
+      "title": "Lythrana Velkyn"
+    },
+    {
+      "path": "Personagens/Lyvessa.md",
+      "sha256": "e04eb21ae23d9e034be950f98e2ee59a487d1967f7f0e265d551a64403edd2e8",
+      "title": "Lyvessa"
+    },
+    {
+      "path": "Personagens/Mae de Glim.md",
+      "sha256": "2400f4960d675428c07ee35b399c3ab1fffacb557fa8b4b8739ae1fbc691f6f8",
+      "title": "Mãe de Glim e Lilo"
+    },
+    {
+      "path": "Personagens/Mendrik Daergel.md",
+      "sha256": "0f429abcdf65aacae0e4d9637e8466869c3b6628b182abc46254115c6ab56859",
+      "title": "Mendrik Daergel — background de Tinkar"
+    },
+    {
+      "path": "Personagens/Miri.md",
+      "sha256": "be4d87775f21bbab19977f74dc91cd2255741000c869e729a9e868913835d162",
+      "title": "Miri"
+    },
+    {
+      "path": "Personagens/Morvessh.md",
+      "sha256": "c95e1b584419f38257729a7d6bea425ebb0aa2300c7369f4d014b5c605964e34",
+      "title": "Morvessh"
+    },
+    {
+      "path": "Personagens/Mulher da Lua Sangrenta.md",
+      "sha256": "aa3b8c6c814d424ad2f6319e880896cfe3eba94333e8237ae0f9a719cc30f084",
+      "title": "Mulher da Lua Sangrenta"
+    },
+    {
+      "path": "Personagens/Mulher das memorias.md",
+      "sha256": "d70a26342fd5af0cf1ea9669f64ddff430e381a340146c6227c92c5d4c6ab89d",
+      "title": "Mulher das memórias"
+    },
+    {
+      "path": "Personagens/Mulher originada do braco.md",
+      "sha256": "2a86830eae81cf08b6567323a09fd273a6bdb32b2811d2a2860f9966579ee643",
+      "title": "Mulher originada do braço de Tauro"
+    },
+    {
+      "path": "Personagens/Mulher possuida da caravana.md",
+      "sha256": "a3167bae759994efcb839067ca0014859b2de09c007fe83490620919f25eb333",
+      "title": "Mulher possuída da caravana"
+    },
+    {
+      "path": "Personagens/Mystra.md",
+      "sha256": "a8cf1c174940755fbff4c0deff81ecdf76aaf7a59a0f12f13987795de61a384f",
+      "title": "Mystra"
+    },
+    {
+      "path": "Personagens/Necromante.md",
+      "sha256": "ec50c0cd3c2ae35e0d286ca7bdeedbdd2f891e5ed266e2694bd2e940227da58e",
+      "title": "O Necromante"
+    },
+    {
+      "path": "Personagens/Nina.md",
+      "sha256": "e206d90979d4268ab5f31ad65d743bfd1c0201a101d204d9e6bbd78cfd2a5fc6",
+      "title": "Nina"
+    },
+    {
+      "path": "Personagens/Okay dBoa.md",
+      "sha256": "33ac12bb4f0a8ab0aa74c4e0bf60976814a1b91ef53a427e8379ed64b80a5d8c",
+      "title": "Okay d’Boa"
+    },
+    {
+      "path": "Personagens/Pai de Glim.md",
+      "sha256": "e81c6c8926ee4d1ff7982af013eb25e4c7d6a68e1520c1158957fcf0a0473fbb",
+      "title": "Pai de Glim e Lilo"
+    },
+    {
+      "path": "Personagens/Pelor.md",
+      "sha256": "a1fd318515fe8c7dbe091229a74367e8525548005ef4d2bc47480900d888ea17",
+      "title": "Pelor"
+    },
+    {
+      "path": "Personagens/Piche.md",
+      "sha256": "9330cdcfef70d8ef75e345c029ecb174bbcca3f5f3f8fb3018f6b4ad362e460f",
+      "title": "Piche"
+    },
+    {
+      "path": "Personagens/Prefeito humano de Eral.md",
+      "sha256": "bb93de0c512a5841dc21b3fe720f17f48bddef2478256ab58d3c26ef3642e1ee",
+      "title": "Prefeito humano de Eral"
+    },
+    {
+      "path": "Personagens/Rake.md",
+      "sha256": "3c2093e3c21e4be4b6ef21c401684d23cd74547031cb8a0d57358b1f75293423",
+      "title": "Rake"
+    },
+    {
+      "path": "Personagens/Rask.md",
+      "sha256": "95aa34fe8f65814b6af08ad8a5c7a2aabee518c595bbaca3bc7847a9f6099d12",
+      "title": "Rask — cobrador do background de Fash"
+    },
+    {
+      "path": "Personagens/Roger Cangles.md",
+      "sha256": "90263dbf9d4d10649c50d570d7179aa6ac3883f8e2e83be3cf39c94ffdad3eb1",
+      "title": "Roger Cangles — nome da prova da ira"
+    },
+    {
+      "path": "Personagens/Roger taverneiro do sonho.md",
+      "sha256": "d6cf8731359779118db4db755a81a4f18e71901a33ce4200ea2d972e3140fd85",
+      "title": "Roger — taverneiro anão do sonho"
+    },
+    {
+      "path": "Personagens/Rudiger.md",
+      "sha256": "e44c6bd413aceada680bf4f3342c41eca6a02cef9193e642ba1e1418e42d4f9c",
+      "title": "Rudiger"
+    },
+    {
+      "path": "Personagens/Rumo.md",
+      "sha256": "118bb1d6786bf5d7d295207abf25bbd6e468f3e88793f7182f81d39059a9ef80",
+      "title": "Rumo"
+    },
+    {
+      "path": "Personagens/Ryld.md",
+      "sha256": "6df6b231a96164422dcd38674ace0731d0aec54f661d0019c70ee18113c62818",
+      "title": "Ryld"
+    },
+    {
+      "path": "Personagens/Sandro.md",
+      "sha256": "d1d3f67ff31ecd6c5b2b804f58d562bc2dd4d6c9d3c4b348835f564a60730e40",
+      "title": "Sandro — membro do quartel no sonho"
+    },
+    {
+      "path": "Personagens/Selara.md",
+      "sha256": "fe518ffa1055d95ce258420c5da2216e3d5d23d32e1c00901df791b81c595219",
+      "title": "Selara"
+    },
+    {
+      "path": "Personagens/Shar.md",
+      "sha256": "df89c79476c11901a6659f69c06aff3d8776dee59952ec0c7ea83456e3c617b8",
+      "title": "Shar"
+    },
+    {
+      "path": "Personagens/Silthan.md",
+      "sha256": "ebce153d47fb78302e32b8204c6d7691f28a2aa2fc3abc6f18b560882f9e9f67",
+      "title": "Silthan"
+    },
+    {
+      "path": "Personagens/Silvanus.md",
+      "sha256": "e158731de9181c1d5008336dd78ae3714961d58cdc128f5fa946c5fb0b4c9b42",
+      "title": "Silvanus"
+    },
+    {
+      "path": "Personagens/Sylra Velkyn.md",
+      "sha256": "e8342c2ad14c77e0c9864e26dd1c21c6a0bcaff061cfe124d2e3b804d7a84f7d",
+      "title": "Sylra Velkyn"
+    },
+    {
+      "path": "Personagens/Tahen.md",
+      "sha256": "0ca497ea268197eb986d21fc7182c3f35010d7c9a6b2d7a5f5106cbe9760cd79",
+      "title": "Tahen"
+    },
+    {
+      "path": "Personagens/Tariun.md",
+      "sha256": "dac367f049982171291ae95da5997b0f467a7f750445c790909e517c67483954",
+      "title": "Tariun"
+    },
+    {
+      "path": "Personagens/Taruk.md",
+      "sha256": "fcb15c03d350cfdb9d2a5e1f0a856f5fa69fe4d4cc9dd51284c1afe0d34ef8ab",
+      "title": "Taruk — líder relatado no sonho"
+    },
+    {
+      "path": "Personagens/Tauro.md",
+      "sha256": "eea6b792fbdc3e4f9eff0cbaf539f1f06313d62025aee3c2bbf4c8761321ba3a",
+      "title": "Tauro"
+    },
+    {
+      "path": "Personagens/Taverneira de Eral.md",
+      "sha256": "d46f3360d9167276b910ee87794a48c61c3b55602e04577826ec32d7ef0233ec",
+      "title": "Taverneira de Eral"
+    },
+    {
+      "path": "Personagens/Teodoron Talent.md",
+      "sha256": "6b78dcc286a05478fd012600cbf3cd31c5563c8cb28afc6afb1e8bc67ce7b10a",
+      "title": "Duque Teodoron Talent"
+    },
+    {
+      "path": "Personagens/Thorn do sonho.md",
+      "sha256": "345122b2d6452379e1c7065f5fe68c54c30774920ecab60444ccbc58a37415c4",
+      "title": "Thorn / Thorne — clérigo do sonho"
+    },
+    {
+      "path": "Personagens/Timo.md",
+      "sha256": "82d90730f8f7e6d2c6d5fb177cc25cf8024c9cc4dcb2558a8e1b025eb87bf18a",
+      "title": "Timo"
+    },
+    {
+      "path": "Personagens/Tolomon.md",
+      "sha256": "ad259337c5ca07c868faead1b2be4a4e5c488ef988650f819df74bff168a781c",
+      "title": "Tólomon"
+    },
+    {
+      "path": "Personagens/Tom do Cesto.md",
+      "sha256": "5cc33daa622d90fd5d5cd3f02a1b436cbfa77794768ffc37207fc7de181f9e37",
+      "title": "Tom do Cesto"
+    },
+    {
+      "path": "Personagens/Tork.md",
+      "sha256": "7b72a9d996ee8dffe43f3e39eea97d3a199e0d4346e045229bb3988a611df55d",
+      "title": "Tork"
+    },
+    {
+      "path": "Personagens/Vaerion Velkyn.md",
+      "sha256": "0fbfb9c68a5c5084945d2ad9e5b68ba8026351ab61783b674a0be6978e2d38d1",
+      "title": "Vaerion Velkyn"
+    },
+    {
+      "path": "Personagens/Varo.md",
+      "sha256": "ecf2986770983b022fd5d1adac22b22eb2b0e7500c0b2786c23288f834c55a97",
+      "title": "Varo"
+    },
+    {
+      "path": "Personagens/Vyrix.md",
+      "sha256": "bb41a5b0dd5f53ce7ef371106c3d8469095cf735db6a85c765ecaa7f7f174043",
+      "title": "Vyrix"
+    },
+    {
+      "path": "Personagens/Zaerith Velkyn.md",
+      "sha256": "34fbe458834833567397e463096491c673549abc3e3674fb18a1e5e26fbbb1ce",
+      "title": "Zaerith Velkyn"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 01 - 2026-03-15.md",
+      "sha256": "33bd1d3d48f382bbf572e076074a2e1cbeb304efcb0bff53adb876ce954ac698",
+      "title": "Sessão 1 - 15/03 - De Lazathar para Eral e da Torre de Arkhavel para o Plano Elemental do Ar"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 02 - 2026-03-18.md",
+      "sha256": "a2663c62b3ae0c5fea88e4e599ca88dbe3c5dd53fed435ba700db4e4c7c7869a",
+      "title": "Sessão 2 - 18/03 - Tauro, Golem de Carne, Mulher e Contratos"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 03 - 2026-03-24.md",
+      "sha256": "e20d71ea2f8a16a52bc0dbcd014347307d3b5b59a00572ee198956314cd702d7",
+      "title": "Sessão 3 - 24/03 - Mortes, Perdão Real, Braço Novo e Lamassu"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 04 - 2026-03-30.md",
+      "sha256": "9f92847cd75146757c700151890b6723293a10d691e92c396b7749e01ef0a4d9",
+      "title": "Sessão 4 - 30/03 - Várias investigações, uma reunião peculiar e no fim é tudo culpa do Arkhavel"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 05 - 2026-04-01.md",
+      "sha256": "41ca9e58ccac1d1f58bf56efc1a17c8adadc835480b4ecb5fa7e38974d6f85a5",
+      "title": "Sessão 5 - 01/04 - Mais informação, mais trabalho e quase morte"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 06 - 2026-04-06.md",
+      "sha256": "c01a6966ddd664a153b9e5f574db520f07bc59f59677db6511baceb27fcebe0a",
+      "title": "Sessão 6 - 06/04 - Melhor ir na Missa do que ser Criminoso"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 07 - 2026-04-15.md",
+      "sha256": "b8f66a8c675485aa3ad4fdb79c920fba6d7b02e1410e45a78bc48e625e071f7c",
+      "title": "Sessão 7 - 15/04 - Foi mal Ryld, Vasuthant ensaboado"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 08 - 2026-04-26.md",
+      "sha256": "4e9e9bd18f6a3efb7e5d34db6420456ed59364f5a56c0520b188bca367022fd9",
+      "title": "Sessão 8 - 26/04 - Animais, Monstros e Guardas mortos"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 09 - 2026-04-27.md",
+      "sha256": "8ff6ae475b41a4dc3fd8c2802f38de1c2ccfa136ee37139a8a4c09e133bbb8ce",
+      "title": "Sessão 9 - 27/04 - Churrasco mais chato que já fui"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 10 - 2026-05-06.md",
+      "sha256": "d18451a718950273654c09a68da787f6921d752a6707d48639e67279c56ac21a",
+      "title": "Sessão 10 - 06/05 - O Deus Arkhavel e o Glim Sincero"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 11 - 2026-05-13.md",
+      "sha256": "3db032015edb050cdb1fa5ff0bcf728096b39347bab04644b80157ee885b377e",
+      "title": "Sessão 11 - 13/05 - Clérigo ranzinza, cada Magnífico no seu quadrado e não esquece o Ryld"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 12 - 2026-05-20.md",
+      "sha256": "d831e8e128f1862d4226f8e24174ba220e89d36bdd7f09b45751d962ed1f87cc",
+      "title": "Sessão 12 - 20/05 - Prefeito fantoche, mordomo peixe e eu salvando o dia"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 13 - 2026-05-27.md",
+      "sha256": "b7739d80a790e611cbde9ccce726827a5ab5803bb75f53ac7e637b7d5431aa0c",
+      "title": "Sessão 13 - 27/05 - Os galinha, o Tork e quarenta guardas demais"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 14 - 2026-06-17.md",
+      "sha256": "dff1aaefb51f5598d28bdbb111df81303d14bab445a9cc3de9bb69419b5117d8",
+      "title": "Sessão 14 - 17/06 - Sopão, clones e um plano quase magnífico"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 15 - 2026-06-29.md",
+      "sha256": "a9f353b660892dac11a8791043ea9f64939bd0748dbc1b9646abe1f37479d0d2",
+      "title": "Sessão 15 - 29/06 - A arena, o lagarto e Crave e seus amigos"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 16 - 2026-08-05.md",
+      "sha256": "c78124288d13e487cdcfb94b7f1d7eca7d1a6598ffd83b276289d4da7f33a360",
+      "title": "Sessão 16 - 05/08 - Tesouro de família, Silthan e o Tork Magnífico Honorário"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 17 - 2026-08-17.md",
+      "sha256": "4423163063fb50f41752f8fa166444642dfb1a4e099bce3332ad5014f47ed1da",
+      "title": "Sessão 17 - 17/08 - O amuleto de Kord, o grimório-planeta e um dragão curioso"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 18 - 2026-08-25.md",
+      "sha256": "307665e3ec1325bd467ba48408e081643749efbf39d994a6cf675763ad933b9d",
+      "title": "Sessão 18 - 25/08 - O caminho errado, a canção morta e a cidade em cinzas"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 19 - 2026-09-01.md",
+      "sha256": "af8625f18e4bc8118e93c2499d82f9c62605b120aa0272cc0a90c2e9a454683f",
+      "title": "Sessão 19 - 01/09 - A corneta, a casa em quarentena e os devoradores de pensamento"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 20 - 2026-09-02.md",
+      "sha256": "5e10a782a2ca590eb6453e703a311bacb8985d0f8a91c5617ca5cacca7f22d7b",
+      "title": "Sessão 20 - 02/09 - Mercadia e o preço de respirar entre monstros"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 21 - 2026-09-13.md",
+      "sha256": "38342630144de59bcc703095f2ec6abbf74d14c3a7f982c1dfe9d009b7d57973",
+      "title": "Sessão 21 - 13/09 - O líder imortal, os escravos e o gnoll que voltou"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 22 - 2026-09-16.md",
+      "sha256": "259fb49defd489a9c4d530b2f31cea0d0d01418166444a4db02caef9106aa12d",
+      "title": "Sessão 22 - 16/09 - O palanque, os reféns e a ordem que pesa"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 23 - 2026-09-27.md",
+      "sha256": "2f76b76604d5e6ccf340d535c3fbddaabe8fff9ec3b90272a54b5de06ad12321",
+      "title": "Sessão 23 - 27/09 - Tariun, Extor e a montanha onde força não bastava"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 24 - 2026-09-30.md",
+      "sha256": "800f5ea58efe2418c0eea965783aa0120fbf2451dcb5116c14a31df02a24d050",
+      "title": "Sessão 24 - 30/09 - Fogo primordial, uma sombra a menos e um irmão a mais"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 25 - 2026-10-05.md",
+      "sha256": "e239e00d85524e9cc7efb60d061909e97d30f4a653b61ea3e9bf9c60d8d45571",
+      "title": "Sessão 25 - 05/10 - Mapas demais, uma vida passada e a torre que eu chamei de casa"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao 26 - 2026-10-20.md",
+      "sha256": "902154146d752ae86b66d7d4298c2390d63ce47f7e543f81228fa243f746245d",
+      "title": "Sessão 26 - 20/10 - O Carlos que não era Carlos, a torre imunda e o hidromel que voltou"
+    },
+    {
+      "path": "Sessoes/Glim - Sessao Solo - 2026-04-22.md",
+      "sha256": "39a46dbca829955aae26fc3cf92adf03720b04250f50e60eb601138ef2c50968",
+      "title": "Sessão Solo - 22/04 - Espero que seja Amigo"
+    },
+    {
+      "path": "Sessoes/Indice.md",
+      "sha256": "7c55d1bbfd58a068af717212253a420e70eb966e193db71a31f3182af4fcbd99",
+      "title": "Sessões de Glim"
+    },
+    {
+      "path": "Visoes/Indice.md",
+      "sha256": "3b61b2d3353b89ad7469fb96c086e956cb3c16de1294020368d7560d11deba98",
+      "title": "Visões gerais"
+    },
+    {
+      "path": "Visoes/Missoes e fios abertos.md",
+      "sha256": "0ef4c8107e61c05880c08dc9d1183e7cf9407f5670b6a9566dbc2762df67941f",
+      "title": "Missões e fios abertos"
+    },
+    {
+      "path": "Visoes/Novas fontes - Firael e Ryld.md",
+      "sha256": "7aab9d68e49431a75036e5d524bd1052f6707e3430e480f698624b6447a04ade",
+      "title": "Novas fontes — Firael e Ryld"
+    },
+    {
+      "path": "Visoes/Relacoes de poder.md",
+      "sha256": "3f62adc71ce5a532c8357cdb545634fb2020aaf6403ae66d3842c3f6fac889f5",
+      "title": "Relações de poder"
+    }
+  ],
+  "attachments": 204,
+  "externalFiles": [
+    {
+      "from": "arquivo/originais/BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md.txt"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/DIARIO DE RPG (Fash).md.txt"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md.txt"
+    },
+    {
+      "from": "arquivo/originais/importacoes-2026-10-30/Diário de Firael (1).docx",
+      "to": "Acervo/Arquivos/arquivo/originais/importacoes-2026-10-30/Diário de Firael (1).docx"
+    },
+    {
+      "from": "arquivo/originais/importacoes-2026-10-30/Diário de Firael (2).docx",
+      "to": "Acervo/Arquivos/arquivo/originais/importacoes-2026-10-30/Diário de Firael (2).docx"
+    },
+    {
+      "from": "arquivo/originais/importacoes-2026-10-30/Diário de Firael.docx",
+      "to": "Acervo/Arquivos/arquivo/originais/importacoes-2026-10-30/Diário de Firael.docx"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/Dossiê de personagem - Okay dBoa.txt"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/RPG - Handoff do cenario para o mestre.md.txt"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/Nota1.pdf",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/Nota1.pdf"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/Nota2.pdf",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/Nota2.pdf"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/Personagens e Herois.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/Personagens e Herois.txt"
+    },
+    {
+      "from": "arquivo/originais/importacoes-2026-10-30/Préludio Ryld.docx",
+      "to": "Acervo/Arquivos/arquivo/originais/importacoes-2026-10-30/Préludio Ryld.docx"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/Resumo detalhado.docx",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/Resumo detalhado.docx"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/FASH PALESKIN.xlsx",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/FASH PALESKIN.xlsx"
+    },
+    {
+      "from": "arquivo/originais/BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+      "to": "Acervo/Arquivos/arquivo/originais/BASE INICIAL/GLIM SOMBRASSELVA.xlsx"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json"
+    },
+    {
+      "from": "arquivo/originais/vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Piche.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Piche.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/70 Research/RPG - Handoff do cenario para o mestre.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/70 Research/RPG - Handoff do cenario para o mestre.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ryld.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ryld.md.txt"
+    },
+    {
+      "from": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ébano.md",
+      "to": "Acervo/Arquivos/arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ébano.md.txt"
+    },
+    {
+      "from": "docs/enciclopedia/triagem-pendencias-2026-10-30.json",
+      "to": "Acervo/Arquivos/docs/enciclopedia/triagem-pendencias-2026-10-30.json"
+    }
+  ],
+  "broken": []
+}

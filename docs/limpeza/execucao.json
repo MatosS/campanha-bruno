@@ -1,0 +1,344 @@
+{
+  "data": "2026-10-29T19:04:00.0591245-03:00",
+  "concluida_em": "2026-10-29T19:04:00.7837240-03:00",
+  "autorizacao": "Usuário autorizou explicitamente a remoção da BASE INICIAL e dos 53 arquivos auditados do vault-42 em 2026-10-29.",
+  "estado": "concluida",
+  "arquivos": [
+    {
+      "origem": "BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/BACKGROUND - GLIM SOMBRASSELVA.md",
+      "sha256": "2bee000af32830f22b079ba8af4e51c1f2cde35b41e676d6314785988e8991bf"
+    },
+    {
+      "origem": "BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/DIARIO DE RPG (Fash).md",
+      "sha256": "2597614929c99d199d6a4b9e7c31a5807734dddf2d973a6ec0544e5ed256dded"
+    },
+    {
+      "origem": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.md",
+      "sha256": "ec630a69c611d0d652a343f165aa0a6b97a730f7f71226f9a67beeb053a3391d"
+    },
+    {
+      "origem": "BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/DIÁRIOS - GLIM SOMBRASSELVA.txt",
+      "sha256": "6813a22f8dab0c50a20d7c64623e42807260e81a6bad679ca70d0d5779510e25"
+    },
+    {
+      "origem": "BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/Dossiê de personagem - Okay dBoa.txt",
+      "sha256": "8e2fb8c1a33fe5b2cc23cdfdb73f57aa9d28dc247337ed9118c5ca07f35e9c47"
+    },
+    {
+      "origem": "BASE INICIAL/FASH PALESKIN.xlsx",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/FASH PALESKIN.xlsx",
+      "sha256": "831e5cda71b515373d2bd42a0bcd1e7b1faf1cb0bbee29a3618997195fcd78a0"
+    },
+    {
+      "origem": "BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/GLIM SOMBRASSELVA.xlsx",
+      "sha256": "c31cc5e0ddabd7fc864fc0ae7a35b6d96e3c42ca1f10b568758b5c98b12f15cc"
+    },
+    {
+      "origem": "BASE INICIAL/Nota1.pdf",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/Nota1.pdf",
+      "sha256": "7f1ec942aa1b1716661295eb04ea6e383de12f5a46294532c8a9c1602d5e9884"
+    },
+    {
+      "origem": "BASE INICIAL/Nota2.pdf",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/Nota2.pdf",
+      "sha256": "b92a57304804baad64a9493f4958580ae92f87fb1ad5a551b958499a7e603555"
+    },
+    {
+      "origem": "BASE INICIAL/Personagens e Herois.txt",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/Personagens e Herois.txt",
+      "sha256": "480e21a7c7c3d79bf21339eb56bb6f9213ce9ba86152de3b9e0fd9e708eb69ea"
+    },
+    {
+      "origem": "BASE INICIAL/Resumo detalhado.docx",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/Resumo detalhado.docx",
+      "sha256": "2078a8f535cb171168297a34f2ca6e2afba9857b407eea71e458ff39225b77f3"
+    },
+    {
+      "origem": "BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "copia_preservada": "arquivo/originais/BASE INICIAL/RPG - Handoff do cenario para o mestre.md",
+      "sha256": "183a3bf14c92819a5399c6e17ed2df75a21888bf0d8393ee24ac890994b38fea"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Arkhavel.md",
+      "sha256": "978d4698b9a04a6dcadd0aa2226c7ac596943449068559696b786fd1de4b794b"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Assets.md",
+      "sha256": "2e5153affd4fbf1f6ebf44a044a71f5d3ceafb898b201b844cc42bc42245197b"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Background Full.md",
+      "sha256": "16cb3d2fe5d5230de41fd4b937fec5eab76f72aec0bcd892919d4cb4f2254aa8"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Character Sheet.md",
+      "sha256": "9f0a4ef11a85dd735956a457bc85163d77aff83208c7e01812855cef12f517d5"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Cronologia da Campanha.md",
+      "sha256": "12e8b8c3d7ddbe0d118f2b80e31a2f5fb87912f46adbff8b5f4e473f6b0a99f7"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary Full.md",
+      "sha256": "80d8bd7b0ea3f3df0ea3e1f117bcb5409c3a5aac7e949f575dc26ee263b967d8"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Diary.md",
+      "sha256": "0461ac677b625e2fd65364fc42daf5f595ca5827afd371328d4f30b01b8523f6"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 13 Diary Draft.md",
+      "sha256": "1facb00efbb0028bba77614405cf95a4bf854cefefad7347de3734c7598de485"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 14 Diary Draft.md",
+      "sha256": "741d4730c911da060230fb34e82c54533137af3598dbafd2d67deb2e2e5eccbe"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 15 Diary Draft.md",
+      "sha256": "8cfcfcd327509fa2d675fc3c8d7105a2137a04b5c55a8cde66cad9ac760c6759"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 16 Diary Draft.md",
+      "sha256": "9204d49c6d58af0309edc3e19f4c4e9270c4a3bd7f087649fcf1b7391bf4e261"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 17 Diary Draft.md",
+      "sha256": "a891c6d7d014c357d950c443a2d1903bc70eb8e33aa058fcd42dc6d5f8e4f121"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 18 Diary Draft.md",
+      "sha256": "0b38c3b077e9b8a0b60e579254e3cda5a67cb5637cb9f3aa688e950d712a4884"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 19 Diary Draft.md",
+      "sha256": "41d357a384179dd438f0dfe600af0b6f98f0cff197e81143006d7e0eea24aca3"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 20 Diary Draft.md",
+      "sha256": "b4e7e24e5207131c1c8aaf28facbb84e5245dc9226c274ec38e21ad50e79d5cc"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 21 Diary Draft.md",
+      "sha256": "d035e4d61f186f7921fd97a5f55f260375c6d91b6a49e34cd18ae8c53d325a45"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 22 Diary Draft.md",
+      "sha256": "fec2c7717cd20891c4556727175a50e5ab25172107416ba5981f96595eacf2b0"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 23 Diary Draft.md",
+      "sha256": "d3b89b9da36d48f20c9ffbd5df8c5eecb4f6462c3af23365806cbc69bb011454"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 24 Diary Draft.md",
+      "sha256": "2a6ffff3241cb62617baac715ea7ffb86c2414ad59bb17dd9e28a4c16a2c0b61"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 25 Diary Draft.md",
+      "sha256": "32121f016135daa14a1e2c4a1c05935aaedbe3ab11a6614c0d1d23a08e445a69"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Session 26 Diary Draft.md",
+      "sha256": "c139fc6a3d92a7f44afae9f3cceb456c500a9d95b162d73fc62932057aa6c028"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva - Threads.md",
+      "sha256": "129aa754c4bbb3c0f00c5103cfad0419b8f30deb8b3d42e7a36dd942a2c7e6ff"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Glim Sombrasselva.md",
+      "sha256": "85f44c554fa362dd035d5a19b09c97ef982dc0982d9224130bbee479e55e4653"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Grimório de Glim.md",
+      "sha256": "3f2aa7856ab4cfea0a3b3f6d81fe19c6f48015d1636223c8a543051efeec33dd"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Lilo Sombrasselva.md",
+      "sha256": "28acf01df7a8a2836f245712c7823a415f2028fa59f05dd5dca8960b0f54a1d6"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Piche.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Piche.md",
+      "sha256": "bf4642d47aa59814f0612220a8661540d13cc9af6de48c296f7fd79a2c65953b"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Roda de Estopa.md",
+      "sha256": "757b3546f3a1577312e5f982e63b70e6d9ae262f09deff8f372bb443a1d6123d"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Ryld.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ryld.md",
+      "sha256": "886f02a2fffe12d7102343dae5ac43721021a1bec52dc22a32bcd8ef3b8ab92b"
+    },
+    {
+      "origem": "vault-42/20 Projects/Glim Sombrasselva/Ébano.md",
+      "copia_preservada": "arquivo/originais/vault-42/20 Projects/Glim Sombrasselva/Ébano.md",
+      "sha256": "eeadc8fdfdc5b67fbf82333477c4f0f1f8830901b727bbe10a0bfb9d0575050d"
+    },
+    {
+      "origem": "vault-42/70 Research/RPG - Handoff do cenario para o mestre.md",
+      "copia_preservada": "arquivo/originais/vault-42/70 Research/RPG - Handoff do cenario para o mestre.md",
+      "sha256": "183a3bf14c92819a5399c6e17ed2df75a21888bf0d8393ee24ac890994b38fea"
+    },
+    {
+      "origem": "vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "copia_preservada": "arquivo/originais/vault-42/40 Sources/RPG/2026-10-23 - Esclarecimentos do jogador sobre Fash e Glim.md",
+      "sha256": "8a36c19cfa113aa378fd01f59de3104258b8fd625cd23862a7d7612727d0bb8b"
+    },
+    {
+      "origem": "vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "copia_preservada": "arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin - Old Archive.md",
+      "sha256": "1d9cbc6c7bbedf06f2ad848898468455a6c0cf3ef8fd3ec25f22d39005cdc60b"
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "copia_preservada": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - GLIM SOMBRASSELVA.md",
+      "sha256": "e192f00a0b60678d071b5aea90629e17932636e9a083a7029ccc675424c36f64"
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "copia_preservada": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - DIARIOS - GLIM SOMBRASSELVA.md",
+      "sha256": "d352fbbbd36faee151b30fa86a1c6bc02525960bf9d4b14b26936bdfd2cf0a55"
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "copia_preservada": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - BACKGROUND - GLIM SOMBRASSELVA.md",
+      "sha256": "23b0306dcb48ba23ef20e024c5e96bb422d217355cc5af995c3e495d6415d943"
+    },
+    {
+      "origem": "vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "copia_preservada": "arquivo/originais/vault-42/40 Sources/Google Drive/RPG/Drive - TREASURE GLIM PARTY.md",
+      "sha256": "72211362582af38beda28380f68f39da2a6bb3dd468ebcf0c4687b7b4f657462"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 13 - 2026-05-27.txt",
+      "sha256": "742e0b4b18e09e0e2c8b334f9f53ff6f2a23e5c93abfedded26d8b2a63c3c7e0"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 14 - 2026-06-17.txt",
+      "sha256": "4eb0a0c7df214d77af426497f6c6de202a679bdc5278b23ba3a662377a375b05"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 15 - 2026-06-29.txt",
+      "sha256": "f9e002f5ca955d4dee836695e8bb992932f59ef95daf5493a6efe5fba25de0be"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 16 - 2026-08-05.txt",
+      "sha256": "b50ce48394bf9cbc959a6f2417c074b3db3e89a04118ab9d9749db4ea321b0b5"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 17 - 2026-08-17.txt",
+      "sha256": "ca755212a077b895d7b64d78202777305b8853ad5ab89f90c33a7cde6adc42f9"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 18 - 2026-08-25.txt",
+      "sha256": "e1b06300e074fdf3dec6681a7ba9c738f3d1404dd8b48a1855f23a290f71ea5c"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 19 - 2026-09-01.txt",
+      "sha256": "fd4d38aca0b7843db50b512819cb07c21aa5fe95e5d58b3759ab2437e920035a"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 20 - 2026-09-02.txt",
+      "sha256": "f580351d0b61f6623516b0c72fe3cfb32001825ea76eee06ec3ca81abdb72171"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 21 - 2026-09-13.txt",
+      "sha256": "79bcd945e90593ddcb1aed30a99d610968e999c4ef1ace3cde9b86bdcec33af7"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 22 - 2026-09-16.txt",
+      "sha256": "9308709de60bef681678f7296c213edab0af30dfd471da7775412660f9361642"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 23 - 2026-09-27.txt",
+      "sha256": "d602645ef2b2e31f701eab0004edfe478549cdf9fe0bb349fc1120b0e58b861c"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 24 - 2026-09-30.txt",
+      "sha256": "74edb5e3ce08f051b7d8500f95ff5b02e5fe5f82b565fcc9b4b07622afe2b7ea"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/GLIM - Sessao 25 - 2026-10-05.txt",
+      "sha256": "776d1619dcfb4125af9485c5e8e9d230e3dd4e30f15fcf3c473c822225f4d957"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Sessao 26 - 2026-10-20 - Transcricao Completa.txt",
+      "sha256": "07dc5dbaaaad4857eaeb20b9dbacc67354fdbf33af0898e4a8abf02fafcacb06"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/proveniencia.json",
+      "sha256": "158ab35f67c02f3880c2d212035f8836295de85f5a239d721d27940b633d2432"
+    },
+    {
+      "origem": "vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "copia_preservada": "arquivo/originais/vault-42/98 Attachments/GLIM - Transcricoes por Sessao - 2026-10-20/LEIA-ME.txt",
+      "sha256": "4620afe00e952148cf8ca7fad3d8a8d788bd84bb3a36011c382cdc80db392c33"
+    },
+    {
+      "origem": "vault-42/90 Archive/RPG/Fash Paleskin.md",
+      "copia_preservada": "arquivo/originais/vault-42/90 Archive/RPG/Fash Paleskin.md",
+      "sha256": "e28619310e67fb2aa09204eb0cf4f2f2b0624c446f4a964b7abe7e695ec49d34"
+    }
+  ],
+  "base_inicial_removida": true,
+  "links_vault": 186,
+  "notas_vault_ajustadas": 30,
+  "scripts_atualizados": [
+    {
+      "caminho": "tools/converter_docx.py",
+      "sha256_antes": "db46a733b6de5a9cbd650ff904be50bedd2041db99f24175db36840adb6db116",
+      "sha256_depois": "d3eef19d502c62c9af12786de4d50c028faf4ed3939cc8590e5739c859f96e16",
+      "motivo": "Resolvedor estrito de fontes arquivadas após a limpeza autorizada e trava contra regeneração acidental de fontes curadas; manifesto histórico preservado."
+    }
+  ]
+}

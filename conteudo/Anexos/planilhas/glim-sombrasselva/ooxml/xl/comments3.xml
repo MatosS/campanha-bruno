@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><comments xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author></author></authors><commentList><comment authorId="0" ref="C7"><text><t xml:space="preserve">DIMENSION STRIDE
+BOOTS
+Price (Item Level): 2,000 gp (6th)
+Body Slot: Feet
+Caster Level: 7th
+Aura: Faint; (DC 16) conjuration
+Activation: — and standard (command)
+Weight: 1 lb.
+These sleek leather boots lean slightly forward,
+as if poised to leap.
+While wearing dimension stride boots, you
+gain a +2 competence bonus on Jump
+checks. This is a continuous effect and
+requires no activation.
+ In addition, the boots have 5 charges,
+which are renewed each day at dawn.
+Spending 1 or more charges allows you to
+teleport a short distance (with no chance
+of error). You must have line of sight and
+line of effect to your destination. You
+can’t use the boots to move into a space
+occupied by another creature, nor can you
+teleport into a solid object; if you attempt
+to do so, the boots’ activation is wasted.
+You can bring along objects weighing up
+to your maximum load, but you can’t bring
+other creatures.
+1 charge: Teleport 20 feet.
+3 charges: Teleport 40 feet.
+5 charges: Teleport 60 feet.</t></text></comment><comment authorId="0" ref="C4"><text><t xml:space="preserve">Third Eye Clarity
+Price (Item Level): 3,000 gp (7th)
+Body Slot: Face
+Caster Level: 7th
+Aura: Moderate; (DC 18) conjuration
+Activation: Immediate (mental)
+Weight: —
+This crystal is so clear that it is diffi cult to
+see.
+You can activate this crystal to negate any
+one of the following conditions affecting you: confused, dazed, fascinated, or
+stunned.
+ You can activate the eye in response to
+an effect that would impose one of these
+conditions (for instance, after failing your
+save against a monk’s Stunning Fist attack
+but before the stun takes effect).
+ This ability functions once per day
+</t></text></comment></commentList></comments>

@@ -1,0 +1,25 @@
+{
+  "document_id": "1NOMhvh7ZN_tFRBr0HYl2M65k6rMHYPb-4at2EQtKjmc",
+  "verificado": true,
+  "alteracoes": [
+    {
+      "antes": "Resposta / grau de certeza / fonte: ________________________________________",
+      "depois": "Resposta registrada (30/10/2026): Era próxima a capital. Não é relevante. Item deixado sem prioridade e fora da fila de novas perguntas."
+    },
+    {
+      "antes": "A completar: Quais localização, condição da aldeia e situação da antiga casa já estão estabelecidas? Acrescentar apenas dados existentes; o nome continua adiado.",
+      "depois": "Sem prioridade: Não é necessário completar nome, geografia detalhada, ocupação ou estado atual da casa agora. Retomar apenas se o tema ganhar relevância ou por solicitação do jogador; não criar informações para preencher campos."
+    },
+    {
+      "antes": "Já registrado: O nome da aldeia natal de Glim não foi definido e não precisa ser criado agora.",
+      "depois": "Já registrado: A aldeia natal de Glim ficava próxima à capital. O nome não foi definido. O jogador considera o detalhamento da localidade sem relevância por agora; os dados já narrados no background permanecem preservados."
+    },
+    {
+      "antes": "LG-013 — Nome e localização da aldeia de Glim",
+      "depois": "LG-013 — Nome e localização da aldeia de Glim — SEM PRIORIDADE"
+    }
+  ],
+  "estado": "sem_prioridade",
+  "pendencias_restantes": 100,
+  "demais_textos_preservados": true
+}

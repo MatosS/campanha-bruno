@@ -1,0 +1,13 @@
+{
+  "data": "2026-10-30",
+  "tema": "Alcance da anotação sobre proibição de elfos em Carruan",
+  "fonte": "conteudo/Fontes/Documentos/Diario - Fash Paleskin.md",
+  "contexto": "Anotação após descrição da capital real, antes do despertar definitivo; memórias reais ainda questionadas pelo narrador.",
+  "pergunta_jogador": "Isso não era algo ainda do sonho?",
+  "conclusao": "Contexto ambíguo; retirar pressuposto editorial de lei material, sem confirmar exclusividade do sonho.",
+  "notas_atualizadas": [
+    "conteudo/Lugares/Carruan.md",
+    "conteudo/Pendencias/Lugares/LG-001 - Nomes oficiais e lei de Carruan.md"
+  ],
+  "fontes_originais_alteradas": false
+}

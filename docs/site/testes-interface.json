@@ -1,0 +1,19 @@
+{
+  "data": "2026-10-30",
+  "url": "http://127.0.0.1:8080/",
+  "navegador": "Codex — navegador integrado",
+  "verificado": {
+    "busca_Carlos": "Resultados distinguem carpinteiro, guarda de Eral e guarda do sonho; resultado do carpinteiro abriu a nota e mostrou a confirmação mais recente.",
+    "navegacao_por_no": "Clique no nó de Glim abriu /personagens/glim-sombrasselva.",
+    "lista_acessivel": "Busca por Glim no diretório do grafo retornou oito notas; o link abriu a nota de Glim.",
+    "filtro_Fash": "99 notas e 235 conexões; excluindo personagens, 60 notas e 85 conexões.",
+    "grafo_inicial": "228 notas temáticas e 638 conexões; acervo complementar disponível pelo controle de inclusão.",
+    "leitura": "Página de Carlos com sumário, referências de entrada e grafo local.",
+    "temas": "Temas claro e escuro conferidos; prévia deixada no tema escuro.",
+    "celular": "390 × 844, sem rolagem horizontal; viewport restaurado ao final.",
+    "console": "Nenhum erro ou aviso registrado na verificação final.",
+    "reconstrucao": "Alterações da apresentação detectadas pelo observador; reconstrução concluída com sucesso."
+  },
+  "capturas": ["docs/site/previa-desktop.png", "docs/site/previa-mobile.png"],
+  "publicacao_externa": false
+}

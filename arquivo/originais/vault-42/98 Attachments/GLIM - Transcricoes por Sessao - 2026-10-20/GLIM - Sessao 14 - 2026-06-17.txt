@@ -1,0 +1,1140 @@
+GLIM SOMBRASSELVA - SESSAO 14
+Data da sessao: 2026-06-17
+Fuso das datas e horarios locais: America/Sao_Paulo (UTC-03:00)
+
+Transcricao automatica integral disponivel, sem reescrita, resumo ou separacao ON/OFF game.
+Os timestamps entre colchetes sao relativos ao inicio de cada gravacao/parte.
+
+Observacao: Tres partes por desconexoes do bot. Existem lacunas entre as partes; os timestamps originais reiniciam em cada parte.
+
+
+===== PARTE 1 DE 3 =====
+Pasta de origem: 2026-06-17 - GLIM 1
+Inicio da gravacao (Sao Paulo): 17/06/2026, 20:12:26
+Entradas disponiveis: 1082
+
+----- INICIO DA TRANSCRICAO ORIGINAL -----
+[00:00:03] huberling: Dá pra mover tokens em grupo agora?
+[00:00:11] MatosS: Eu vou, que eu vou dar um print da
+[00:00:11] huberling: Tabelinha de tesouro, tabelinha de tesouro randômicaaa automatizada
+[00:00:14] Oto: Aí, deixa eu lembrar. Eu, eu tô na igreja e a gente combinou que eu ia estudar por um ou dois dias pra pegar um ou dois magias. Eu vou lembrar aqui pra ver, porque eu quero umas magias praaa, pra plano. Tá aí, deixa eu ver
+[00:00:25] MatosS: Né, tá fazendo. Não, não, mas a gente nem, agora pelo jeito nem, nós nem vai pra esse negócio do plano primeiro ainda, tem que resolver isso aqui da cidade. Mas, ééé, tá. Eu, eu e o Kraiv a gente vai prooo, pra área da favela lá onde os cara vive, que eu falei: "Vamo ach-- entrar numa taverna lá, dar um rolê", eu quero esperar os cara abordar a gente, só porque assim, a gente quer eles, que eles sejam mais discretos que a gente, né?
+[00:00:35] Oto: Eu sou negro estudando então
+[00:00:46] Oto: [ruído]
+[00:00:49] huberling: Fala, pode entrar aí
+[00:00:54] huberling: Pode entrar aí que tá pronto
+[00:01:07] huberling: [ruído]
+[00:01:12] huberling: O mapa com missão tá ali?
+[00:01:17] huberling: Eu acho que é uma passagem que tem
+[00:01:23] huberling: Calma que está conectando, né?
+[00:01:33] huberling: Blockchains
+[00:01:43] huberling: Tables
+[00:01:53] huberling: Olha, tem umas coisa nova aqui, special abilities. Não tinha esse special abilities se eu não me engano
+[00:02:55] huberling: Bom, Matu, cê foi lá então, é isso? Tá você e o Kraven? Tá só você
+[00:03:02] MatosS: Ah!
+[00:03:06] MatosS: Só-- boa pergunta. É, não só eu. Vou, vou falar pro Caio aqui, o Caio te ama muito também
+[00:03:12] huberling: O que é bem praí? O que é bem pra lá?
+[00:03:13] ladeiraA: Voltei, foi mal, tinha ido no banheiro. Voltei, voltei
+[00:03:17] MatosS: Ah, então eu perguntei pra ele: "E aí, Chris, cê quer ir comigo? [riso] Eu, eu tava querendo ir lá falar com os Kenku".
+[00:03:17] Oto: [ruído]
+[00:03:25] ladeiraA: É vamo. Eles-- até então eles parecem amigáveis, então
+[00:03:27] MatosS: [ruído]
+[00:03:31] MatosS: É, eu falei: "Ah, o plano é a gente vai lá pra área deles lá, que a gente sabe que eles são por lá e vamo, ó, entrar numa taverna lá, jogar uma conversa fora e esperar eles abordar a gente, que é melhor do que a gente ficar procurando eles, eu acho. Então vamo
+[00:03:43] ladeiraA: Beleza
+[00:03:47] huberling: Bom, quando foram lá, ficaram ali próximos, né, na, da, da área onde vocês sabem que eles moram. Que horas são agora aí? Já de tarde, né?
+[00:04:00] MatosS: Não faço ideia
+[00:04:01] ladeiraA: Se o sei que é o mestre não sabe, quem dirá nós? [riso]
+[00:04:02] Oto: [ruído]
+[00:04:03] MatosS: [riso]
+[00:04:05] huberling: É, eu tô tentando lembrar como é que a gente parou da última vez, né, véio? Tá travando aqui, tá. Bom, passou uns, uns 12 minutos, cara. Cês vão perceber que tem um cringe vindo pra vocês, porque ele, ele olha pra baixo, o micro fica pro lado do peito, né? Pra não parecer que ele não é um bane. E vai com umas calça bem largona pra esconder as pata, né? Ele tá vindo. Vai chegar, vai chegar ali de frente procês
+[00:04:10] MatosS: Olá, como está?
+[00:04:11] ladeiraA: [ruído]
+[00:04:37] MatosS: A gen-- a gente tá na rua? Tá na taverna? Tá onde, gente?
+[00:04:40] huberling: Da rua? Se o senhor lá foi perto da casa de quem?
+[00:04:44] MatosS: Beleza
+[00:04:48] MatosS: E aí, tudo bom?
+[00:04:52] huberling: Astrid, o que traz esse sacado?
+[00:04:57] Oto: [ruído]
+[00:04:57] MatosS: Eu dou uma olhada assim, eu falo: "Não sei se foi com você que a gente falou da outra vez", porque, né, cês tão sempre
+[00:05:04] MatosS: Vamos ao terceiro exemplo
+[00:05:11] MatosS: Então, a gente tá acertando o plano, né, pra resolver toda essa situação. E, e aí que eu-- assim, a gente-- essa situação é a seguinte: a gente falou com
+[00:05:18] Oto: [ruído]
+[00:05:24] Oto: [ruído]
+[00:05:27] MatosS: As autoridades, digamos assim. E ela garantiu que, que as suas famílias, etc, podem ficar, mas ela não garantiu que não haverá algum tipo mínimo de punição praaa os envolvidos, né, nos crimes passados
+[00:05:47] huberling: O que seria um mínimo de poluição?
+[00:05:52] MatosS: Bom, eu acredito, eu, eu tendo a acreditar em um bom senso aí de que talvez um trabalho forçado pela comunidade ou, ou talvez poderia ser talvez um tempo de prisão, mas algo cabível, né? Não anos, talvez pouco tempo, enfim, algo só pra que dê uma sensação pra população de que, né, não foi-- cês não saíram impunes de, de, de algum mal que vocês tenham colaborado, né?
+[00:06:17] ladeiraA: Não saiu de graça.
+[00:06:24] MatosS: Mas, mas assim, eu tinha, eu queria dar uma sugestão queee talvez deixasse, digamos, mais claro a toda a, a vontade de vocês de colaborar e se integrar com a, com a comunidade, com a cidade aqui, né? Porque a gente tem o seguinte problema: nós vamos-- nós temos os meios, digamos, de resolver parte do problema da guarda, digamos que parte do problema que ainda está aqui na cidade, mas nós temos um certo receio de que quando formos resolver o problema da arena, que alguém consiga fugir e essa fuga resulte no conhecimento, seja dos goblins que estão fora da cidade ou até da, do tal do mercado negro, né?
+[00:07:15] MatosS: Eee, e aí vocês até conhecendo mais, digamos, o submundo da cidade aqui do que nós, eu pensei que talvez vocês pudessem nos ajudar, não diretamente em um combate, mas fazendo o cerco, digamos assim, na região, pra que não haja fugitivos. Porque imagino que se tiver alguma passagem secreta, algum beco e etc, vocês vão ter conhecimento disso, né? Então acho que vocês seriam os, os mais indicados para, pra evitar fugas e, e alarmes desnecessários, digamos, ou, ou inconvenientes
+[00:07:15] huberling: [ruído]
+[00:07:58] huberling: Se nós fizermos isso, o que é um risco pra gente, porque eu não sou 100%-- é, se foi a cidade que causou o problema e matou todo mundo, é uma coisa. Agora, se a própria organização atacou a própria organização, a gente fica com receio de ter uma retaliação no mercado negro, por exemplo
+[00:08:20] MatosS: Então, isso, essa informação só vai acon-- só vai vazar se falharmos, né? No caso, se a função, se essa função for de vocês, eu diria que essa responsabilidade estaria com vocês, né, de não deixar ninguém escapar
+[00:08:33] huberling: Então, mas é que foi um problema, porque você disse o seguinte: se a gente fizer isso, a gente vai tá demonstrando que a gente tá querendo ajudar mesmo, pra diminuir nossa pena. Só que aí como é que a gente faz isso pra diminuir nossa pena e ninguém vai saber? Entendeu onde eu quero chegar?
+[00:08:51] MatosS: Bom, a, a, a, eu acredito que a história oficial é de que a Guarda da Cidade resolveu todo o assunto. E a única coisa que, digamos, poderia ficar estranho, é de que vocês vão-- tão sendo aceitos na cidade de maneira pacífica, digamos, né? Mas isso já ficaria estranho de qualquer forma, né, porque isso é o que vocês pretendem, é o que vai acontecer de qualquer forma. É, agora a gente não precisa, é, dizer exatamente que "ah, vocês foram poupados ou vocês foram, é, a pena de vocês foi reduzida por causa dessa ajuda", né?
+[00:09:16] ladeiraA: [som de bolhas]
+[00:09:31] MatosS: Enfim, é-é, e-esse é um discurso que vamos ter que alinhar com as autoridades, entendeu? Mas assim, faz todo sentido pras autoridades puxar toda a responsabilidade pra eles, porque é um mérito, né, que eles tão pegando, como se eles tivessem resolvido tudo sozinho, né? Acho que cê concorda com isso. Faz todo sentido pra vocês ficar de fora desse mérito. E essa história do porquê que vocês agora vivem na cidade em paz, é uma história que vai ter que ser contada de qualquer forma, né. Então, com essa ajuda a m-- a mais ou, ou sem essa ajuda, a, a história o-- a gente vai ter que inventar alguma coisa de qualquer jeito
+[00:10:10] huberling: É que na realidade, a gente enxerga diferente. Por quê? Eu nunca pensei que eu vou tirar o meu capuz aqui e vou sair andando na cidade. O que eu pensei é o seguinte: vocês sabem que nós existimos, no-- vocês sabem com quem nós éramos aliados e nós queremos por um ponto final nisso e viver numa boa na cidade. Na boa que eu digo na cidade, da forma que nós vivemos hoje, nós estamos escondidos dessas inimigas
+[00:10:40] MatosS: Não, então, eu digo melhor ainda, se, se ninguém do grande público, vamos dizer assim, vai saber, a explicação é essa, vocês estão esco-- continuam escondidos na cidade como vocês estavam antes e a guarda da cidade, as autoridades, eu faço com a mão entre aspas assim com a mão, né, não sabem que vocês estão por aqui. E, e a, e a, o, o discurso oficial vai ser esse, desde que não fuja ninguém da arena
+[00:11:12] MatosS: Agora, aí eu pe-- a-- penso assim, agora uma coisa que eu queria perguntar é: qual é-- quem são essas pessoas da arena, no sentido de que há inocentes lá?
+[00:11:24] huberling: Ah, ou. Quer dizer, depende do que você possa considerar inocentes lá. Não, crianças não, mas tem escravos, né? Então, se você for pensar sobre a organização, sobre ser criminoso, não, tem gente inocente lá. Só que, como é o mercado negro que entrega esse povo, eu acredito que possa ter membros de guildas contrárias ao mercado negro, possa ter algum criminoso, entendeu? Não necessariamente só pessoas puramente inocentes
+[00:11:28] ladeiraA: [ruído]
+[00:11:33] MatosS: Crianças?
+[00:11:44] ladeiraA: [ruído]
+[00:11:48] ladeiraA: [ruído]
+[00:11:55] ladeiraA: [ruído]
+[00:12:09] MatosS: Entendi
+[00:12:14] MatosS: Eu dou uma respirada assim e falo: "É, eu não sei como, a, a, enfim, e-essa questão..." Eu só baixo a cabeça e não respondo, não, não termino
+[00:12:27] huberling: Bom
+[00:12:29] MatosS: Aí enfim, continuando, ééé, s-- depois que a gente conseguir resolver a arena, os guardas já vão, já vão tá resolvido, isso tá garantido, o-os que estão aqui na cidade, eu digo. E aí a gente, o próximo passo é resolver os guardas que vão voltar e o-os, os goblins, né? Ééé, aí a gente, sendo sincero, ainda não pensei nessa parte. A gente vai ter que ver qual que a gente consegue fazer primeiro. O problema é que a gente não sabe exatamente quando os guardas vão voltar, mas enfim
+[00:13:02] ladeiraA: Aperta e carrega
+[00:13:04] MatosS: Eu acho queee, bom, aí eu pensando aqui, pensando aqui agora, eu acho que a gente pode talvez pedir alguma ajuda pros rangers. Os rangers talvez poderiam fazer uma patrulha pra sa-- pra gente saber com alguns dias de antecedência quando os guardas estiverem voltando
+[00:13:07] ladeiraA: [ruído]
+[00:13:13] ladeiraA: [ruído]
+[00:13:20] ladeiraA: Eu, eu dou uma cutucadinha assim, mas e os Rangers que eu faço um astro assim que são do mal
+[00:13:20] huberling: Oh!
+[00:13:30] MatosS: É, eu acho queee eu vou-- e-e-eu falaria direto com o Folha Seca, que, que pelo que o nosso amigo aqui já disse, ele não tá comprometido, digamos assim. E eu acredito que mesmo os
+[00:13:34] ladeiraA: [ruído]
+[00:13:39] huberling: Tá, cês tão tendo isso aqui que eu tô vendo, comprometidos. Cês já têm a lista do Zepper comprometido
+[00:13:46] MatosS: Sim, exato. Mas então, eu acho que falando com o Folha Seca, ele vai ser, eu acho que, digamos, coerente. E eu, eu acredito que esses Rangers comprometidos, eles talvez te-- estejam tendo alguma vantagem, né, com, com relação a essa, a organização. Você não sabe nada disso, né? Eu, eu pergunto pra ele, até te interrompo, assim, pergunto pra ele. Porque e-eu queria saber por que que eles tão comprometidos, porque de repente, ó, eles tão comprometidos, mas digamos menos comprometidos que os outros, é só algum, sei lá, eles negociam alguma coisa. Enfim, como que você-- você que me deu a lista, né, então
+[00:14:12] ladeiraA: [ruído]
+[00:14:16] ladeiraA: [som de interferência]
+[00:14:23] ladeiraA: Amado, eu quero ver
+[00:14:24] MatosS: [ruído]
+[00:14:24] huberling: O que eu sei é que antes dos Ringers se meterem com essas organizações, era comum usar animais na arena, tipo um leão versus um gladiador. Depois que os Ringers se meterem com isso, os animais foram proibidos. Isso é o que eu sei
+[00:14:32] ladeiraA: [ruído]
+[00:14:36] MatosS: Uhum, uhum.
+[00:14:40] ladeiraA: [ruído]
+[00:14:42] MatosS: Deve ter sido, exato, deve ter sido um acordo entre esses rangers e a organização pra não usar animais e os rangers devem ajudar eles de algum jeito, mas se a organização não existir mais, não tem mais animais pra serem usados e os rangers não precisam mais tá com eles. Eu, eu acredito, tenho um bom grau de certeza que a situação é essa e eu acho que falhando com-- falando com Folha Seca, a gente vai resolver isso de maneira fácil, sem, ééé, enfim, sem precisar dos meios que vamos utilizar pra, para os guardas e para a arena
+[00:14:46] ladeiraA: [ruído]
+[00:15:20] huberling: Bom, eu posso garantir então apenas que ninguém vai sair de lá de dentro vivo
+[00:15:31] ladeiraA: 少しずつ音を出してみましょう。
+[00:15:34] huberling: É claro, desde que vocês façam um conflito, né? Porque também se todo mundo for sair, [tosse] eu não tenho como segurar todo mundo
+[00:15:40] MatosS: Tá, é essa a ideia. A gente vai fazer um conflito. Pelo que você deu lá de lista, não, não devem ser muitos combatentes lá dentro. Acho que, eu olhei assim, o Kreve consegue lidar com, com eles
+[00:15:48] ladeiraA: [ruído]
+[00:15:56] huberling: A grande parte ali é mais burocrata do queee, do que outra coisa, né? O que você vai ter que se preocupar mais é com os gnolls que tão lá dentro, né? E com o pessoal do contrabando, eles têm um ou outro soldado bem armado. É isso
+[00:16:00] ladeiraA: [ruído]
+[00:16:03] MatosS: [ruído]
+[00:16:16] MatosS: Não, a gente, a gente consegue lidar com isso, eu acho
+[00:16:24] MatosS: Bom, ééé, então é isso. Então vamos seguir cooom, com o plano. Como que a gente avisa vocês quando for acontecer? Ou vocês ficam de olho e, e vão saber?
+[00:16:25] ladeiraA: [ruído]
+[00:16:27] huberling: [ruído]
+[00:16:36] huberling: Relaxa, a gente vai saber
+[00:16:38] MatosS: Tá bom, tamo contando com vocês
+[00:16:42] MatosS: Tamo saindo, UK. Ooo, agora eu vou dar
+[00:16:43] ladeiraA: [ruído]
+[00:16:46] huberling: Beleza. Não saiam, não vão por aquela rua ali, virem por aqui, senão vão ver vocês saindo daqui
+[00:16:52] MatosS: Tá, eu, é, é, eu falo assim: "Cê acha que pode ter alguém seguindo a gente? Acho que não, né? Quem seguia era vocês, né?"
+[00:16:59] huberling: Ninguém seguindo vocês, quem seguia era a gente, a gente que tinha essa obrigação. Mas se vocês forem por ali agora, vocês vão trombar dois membros da, da organização. É melhor cês virem por aqui
+[00:17:05] ladeiraA: [ruído]
+[00:17:10] MatosS: Tá certo. Então vou seguir o caminho que ele falou aí
+[00:17:15] MatosS: Eu sigo o caminho que ele falou, Bruno, mas eu vooou dar uma volta, vou passar lá na, na taverna, vou encomendar outro bolo eee, e depois vam-- matar um tempinho ali, eu vou praaa, pra guarda da cidade falar com o Thork
+[00:17:15] huberling: Beleza.
+[00:17:15] ladeiraA: [ruído]
+[00:17:21] huberling: [ruído]
+[00:17:31] MatosS: Vou sempre-- tô, tô meio assim desconfiado, né? Sempre olho pra ver se não tem ninguém seguindo a gente e tal
+[00:17:31] huberling: Obrigado.
+[00:17:33] ladeiraA: E o, o, o Crame tá acompanhando o Glim aí, tipo guarda-costas assim, sabe? Mais pra se acontecer alguma surpresa aí, é, conseguir socorrer ele
+[00:17:35] huberling: [ruído]
+[00:17:44] huberling: Não vai acontecer nada de mais, beleza. Beleza. Cês perceberam que vocês são seguidos por um crenco, porque ele quis que vocês percebessem. É tipo assim, provavelmente ele tá fingindo que tá mantendo ainda, hã, o que ele deveria fazer, entendeu? Pra organização. Então, tipo assim, ele, ele se deixou ser visto procês terem noção que ele tá ali e ficou andando, depois ele sumiu de novo, tipo, cê sabe que tá lá, mas não tá vendo mais. É
+[00:18:02] MatosS: Beleza
+[00:18:16] MatosS: Uhum. Beleza
+[00:18:19] huberling: Beleza. O professor até a aguarda
+[00:18:26] ladeiraA: [som de água]
+[00:18:26] huberling: Você chegou lá?
+[00:18:27] MatosS: E aí, Thor que tá por aí em algum canto? Que eu tenho algumas perguntas e informações sobre a questão do veneno ali da água
+[00:18:31] huberling: [inaudível]
+[00:18:37] huberling: Tá, entra aqui. Ele tá mexendo numas papelada, tá falando de fazer uma reunião, sei lá. Vai levar o celular pra dentro. Ele tá com o mo-- ééé, tô ligando
+[00:18:45] ladeiraA: [ruído]
+[00:18:47] MatosS: O Thor que eu falei, o Thor, Thor, o Thor que trabalha demais. Thor quem trabalha mais, só, só o Magnífico mesmo pra trabalhar mais que ele, pra ser mais trabalhador
+[00:18:54] Oto: E ganha pra matar todo mundo né, no caso?
+[00:18:57] huberling: [riso] Ele tá com um monte de papel, é tipo assim, arquivo de cada guarda, tá ligado?
+[00:19:03] ladeiraA: Ó o coitado. Esse serviço aí de, de, de papel assim, um homem forte como ele não deveria passar por isso. Uma tristeza na vida de um homem.
+[00:19:07] MatosS: [ruído]
+[00:19:14] huberling: [ruído]
+[00:19:16] MatosS: Cadê seus estagiários, Tucker?
+[00:19:19] huberling: Hã, quando se trata de avaliar os guardas e dar promoções, eu gosto de fazer eu mesmo
+[00:19:27] MatosS: A gente pode dar uma palavrinha?
+[00:19:30] huberling: Claro, ele foi, fechou a porta, mandou o cara sair fora e de
+[00:19:37] MatosS: É, a gente vai lidar com a arena e a gente vai garantir que ninguém vai escapar. Se você lidar com a situação aqui, a cidade fica resolvida. Aí a gente tem que depois bolar o plano pra lidar com, enfim, com os guardas e com os goblins fora da cidade
+[00:19:38] ladeiraA: [ruído]
+[00:19:43] ladeiraA: É o que ele merece
+[00:19:51] ladeiraA: Então isso é muito legal. É muito bom. Isso vai muito bem.
+[00:19:59] MatosS: Ééé, você consegue, digamos que o-- quanto antes, qua-quando que po-- fica bom pra você?
+[00:20:09] huberling: Hum
+[00:20:12] MatosS: E, e, e assim, aí, é, bo-bo-- fa-- tem um detalhe, né? Ééé, depois que você-- hã?
+[00:20:16] huberling: Eu já comecei o plano. Eu já comecei o plano. Aham, como você vê. Aí ele mostrando a mesa dele. Ééé, entãooo, eu acredito que eu consigo fazer isso hoje, mas o ideal seria amanhã, porque se eu for fazer hoje, vai parecer que tá muitooo corrido, né? Eu não sei, pode levantar alguma suspeita, mas amanhã eu acho que seria o mais ideal. Eu começo de manhã, tal
+[00:20:25] MatosS: Hum.
+[00:20:30] ladeiraA: [ruído]
+[00:20:34] MatosS: Você acha que
+[00:20:43] MatosS: [ruído]
+[00:20:49] MatosS: Beleza. Pode ser. É, então amanhã. A-eu, eu queria perguntar pra você o seguinte: você acha queee quando você terminar aí o que tem que ser feito, não sei quanto tempo você acredita que vai demorar exatamente, mas você conseguiria reunir o que te sobra de honesto da guarda e nos ajudar na empreitada da arena? Ou, ou pelo menos estar lá, não digo pre-- diga assim, pelo menos ir lá quando tiver acabando, que seja que você chegue no meio ou que n-nos ajude pouco, mas... Ou acho que era melhor que o discurso fosse que, que você que resolveu tudo. Você, digo você e a guarda, né?
+[00:21:01] huberling: [ruído]
+[00:21:30] huberling: Entendi o ponto de vista, só que assim, vamo lá. Eu vou fazer as reuniões e eu vou fazer com o tempo que deveria levar. Vamo dizer que cada um deles eu vou levar uns 40 minutos. Por quê? Porque eu vou começar, eu vou executar e eu vou ter que limpar. Até eu terminar tudo pra não levantar suspeita, e aí eu vou ter que chamar o próximo. Eu vou ter que ainda fazer um esquema com os guardas pra [tosse] parecer que o que passou pela reunião teve que fazer algumas respostas e eu não quero que eles se, que eles se juntem praaa, pra não ficar passando informação ou coisa do gênero. Então eu vou ter que trabalhar alguma coisa nesse sentido. Eu vou fazer as primeiras reuniões com os guardas que eu sei que são de confiança, pra gente poder fazer com que eles sejam vistos depois de sair e sejam levados pra algum lugar isolado. E eles entenderem queee, que as perguntas é mais individual e não quero que ninguém fique sabendo. Só que ao mesmo tempo eu tenho que fazer alguma coisa que não sejaaa, que não levante suspeita, que eles não fiquem com pulga atrás da orelha, mas é que eu não posso simplesmente desaparecer com o corpo e os cara falar assim: "Cadê o tal?" E ele não tá em lugar nenhum
+[00:21:46] ladeiraA: [som de robô]
+[00:22:24] MatosS: [ruído]
+[00:22:46] huberling: Então, eu acredito que eu vou demorar um bom tempo pra conseguir fazer tudo da melhor forma possível sem levantar essas dúvidas, né?
+[00:22:50] ladeiraA: [ruído]
+[00:22:52] MatosS: Provavelmente o dia inteiro. Provavelmente o dia inteiro. Sim, e aí a gente poderia atacar a arena talvez à noite?
+[00:22:57] huberling: Exato
+[00:23:03] ladeiraA: Só isso que a gente fala que é a parte mais importante.
+[00:23:03] huberling: Mas aí se você deixar pra atacar à noite, a Arena não vai desconfiar que ela não tá vendo nenhum dos guardas dela? Durante o dia inteiro?
+[00:23:10] MatosS: Mas e se a gente atacar? Bom, se a gente atacar a arena antes, não corre o risco dos guardas ficar sabendo e ir ajudar?
+[00:23:17] huberling: Se você disse que não vai fugir ninguém, acredito que não
+[00:23:21] MatosS: É, não vai fugir ninguém, mas será que seus guar-- esses guardas desonestos eles não, não frequentam a arena lá de vez em quando? Não pode alguém lá
+[00:23:28] huberling: Não, mas é por isso que eu falei pra você que eu acho que fica estranho eu fazer hoje, porque eu vou dar como aviso que eu quero todo mundo na guarda, porque nós vamos fazer as promoções. Aí alguns, eu já vou até ditar que ganhou promoção pro pessoal fazer tipo comemoraçãozinha enquanto eu tô chamando os próximos, entendeu? E aí eu vou deixar bem claro hoje que as perguntas de amanhã vão ser uma mini prova sobre determinados assuntos pra fazer eles estudarem um pouco pra hoje. Entãooo, algumas perguntas sobre lei, algumas perguntas sobre como deveria ser a conduta do, do guarda em certas situações, entendeu? Eu vou fazer alguma coisa nesse sentido. Eee pra também dar de explicação do porquê que eu tô separando eles, os que já fizeram a prova e os que não fizeram a prova. Com isso, eu acredito que eu consiga segurar a guarda aqui, entendeu?
+[00:23:47] MatosS: Uhum
+[00:24:04] ladeiraA: [ruído]
+[00:24:09] MatosS: [ruído]
+[00:24:14] ladeiraA: [ruído]
+[00:24:18] ladeiraA: Correi!
+[00:24:31] huberling: E não deixar eles saírem. E ao mesmo tempo, eu aviso eles hoje, assim eles avisariam lá na arena que vão tá fora o dia todo por culpa disso, entendeu? A arena não vai desconfiar que os guardas não estão lá porque sabe que eles tão fazendo isso e eles ao mesmo tempo vão tá presos aqui. Eu posso fazer até melhor, eu posso fazer até melhor. Enquanto eu faço as questões práticas, eu coloco alguns dos meus que são confiáveis pra fazer as provas, ééé, como se diz? Tiro de flecha, né, é, combate. Então eu faço mais de um tipo de prova, entendeu? Passa primeiro pelo, pelo combate, pelo tiro, por coisas do gênero e depois vem pra mim
+[00:24:43] MatosS: [ruído]
+[00:24:49] MatosS: [ruído]
+[00:25:05] MatosS: [ruído]
+[00:25:16] ladeiraA: [ruído]
+[00:25:17] MatosS: Mas com relação a-a-a-a narrativa, você tá de acordo que foi vocês que resolveram tudo?
+[00:25:23] huberling: Não, tudo bem, por mim não tem problema
+[00:25:27] MatosS: Falei: "Então sobrou pra você cuidar de todos mesmo, Chris". Olhei pro Chris
+[00:25:33] ladeiraA: É, minha vida não tá fácil, né? Cês tão jogando muita, muita coisa sobre mim, viu?
+[00:25:41] MatosS: Bom, então é isso e que os deuses nos ajudem, Torque. Espero que dê tudo certo. E, e é só a metade, né? Depois falta mais um bom tanto ainda. Mas eu acho que o resto [ruído]
+[00:25:52] huberling: É, o bom senso é um grande problema. A gente tem que pedir ajuda, porqueee vou ser bem sincero, nós não vamos dar conta. Eu não dou conta. Tem alguns guardas naquele grupo queee eles literalmente batem de frente comigo
+[00:26:01] MatosS: Todos? Mas dos, dos outros guardas ou do, dos dois lados?
+[00:26:13] huberling: [ruído]
+[00:26:14] MatosS: Não se preocupe, o Magnífico vai estar ao seu lado. Ééé, bom, va-vamos um problema de cada vez, a gente resolve esse primeiro
+[00:26:24] huberling: Ok
+[00:26:26] MatosS: Então está combinado pra amanhãáá, o-- durante a manhã
+[00:26:32] huberling: Eu começo. Vocês veem a hora que cês querem ir lá. Eu iria antes, vocês podem até ir mais perto do final da tarde, que seria quando eu tivesse acabando, e talvez eu chegue lá no meio, entendeu? Mas eu não deixaria pra atacar à noite, porque aí vai ficar muito estranho
+[00:26:41] MatosS: [ruído]
+[00:26:49] MatosS: Tudo bem, aí a gente vai ainda durante o dia, até como você disse, final da tarde então, se programa dessa forma
+[00:26:56] huberling: Boa sorte
+[00:26:58] MatosS: Muito obrigado
+[00:26:59] ladeiraA: Ééé, acho que eu vou precisar. Porque pelo jeito eu vou ter que fazer todo o trabalho sujo, né?
+[00:27:09] huberling: Bom, vocês tão em quatro, né? Não conseguem aumentar esse número?
+[00:27:18] MatosS: A gente vai ter algum, algum nível de ajuda a gente vai ter, mas, ééé, acho que vai dar sim, bro. Pode-- fic-- vamo, vamo-- fica tranquilo. Eu acredito no Crave e se o Crave não der conta, eu tô lá pra salvar o dia de novo
+[00:27:18] huberling: Não tem mais nenhum, é?
+[00:27:33] ladeiraA: [ruído]
+[00:27:41] ladeiraA: Fez aquela chacoalhada na cabeça, né? Tipo: "Então tá". [riso]
+[00:27:49] MatosS: Ah, vamos saindo, eu falo: "bom", é, eu falo com o Creve: "vamo aproveitar e já vamo tentar falar com o Folhação
+[00:27:49] huberling: Bem
+[00:27:59] MatosS: Lá pro, pela fora da cidade, né, onde os rangers ficam?
+[00:28:03] ladeiraA: Sim, sim
+[00:28:04] MatosS: Então vamo lá
+[00:28:06] huberling: Beleza, cês foram até lá. Tem alguns angels ali, mas o Folha Seca não tá ali no momento
+[00:28:11] MatosS: Eu vou cumprimentar todo mundo aí, vou perguntar-- eles não vão ter ainda, depois que eu mandei os bolo pra eles, vou perguntar dos bolos, se eles gostaram dos bolo
+[00:28:13] ladeiraA: [ruído]
+[00:28:18] huberling: Ô, valeu, brigadão. Caramba, cara, tava muito bom
+[00:28:23] MatosS: Vocês conseguiram cada um comer uma do-- pelo menos uma fatia do de chocolate? Chocolate é
+[00:28:27] huberling: Não, eu gosto. É, chocolate? Cê mandou um só, né? Não, foi dois, né? Deu, deu, deu, deu, deu pra comer todo mundo
+[00:28:35] MatosS: Mas então, onde que, por onde que anda o, o Folha Seca?
+[00:28:40] huberling: Ah, ele tá na mata. Ele deve voltar até final da tarde. Se quiser eu, se quiser eu aviso ele pra passar lá pro Floxy
+[00:28:41] ladeiraA: [ruído]
+[00:28:47] ladeiraA: [ruído]
+[00:28:48] MatosS: E ooo, esqueci o nome do outro, Bruno. Qual o nome do outro? É. E o fulano, tá por aí? Ah, é? Mas tá acontecendo alguma coisa ou não, pessoal? É só rotina mesmo
+[00:28:52] huberling: Também não lembro agora. Fala qualquer coisa.
+[00:28:53] ladeiraA: Não, não, você não precisa fazer isso não.
+[00:28:58] huberling: Também tá na mata. É que tá uma galera na mata nesse momento
+[00:29:05] huberling: A gente tá com aquele problema lá da região queee quem foi não voltou, né? Eee aí foi mais um que não foi bem naquela região, foi só meio próximo, também não voltou, cara
+[00:29:06] ladeiraA: [ruído]
+[00:29:18] MatosS: Caramba, e eu, e eu, e eu fiquei de ajudar o Folha Seca com isso. Vou
+[00:29:25] huberling: Aí o pessoal tá fazendo tudo pra ficar mais caro, tá ligado? Mas a gente já, já não tem muito o que fazer, não
+[00:29:25] ladeiraA: [ruído] Quer dizer que era um macaco? Quanto tempo?
+[00:29:28] MatosS: [ruído]
+[00:29:33] MatosS: Tá, mas fala pro Folha Seca então ir, ir lá na torre falar comigo, por favor. Fala que ééé, que é importante e que pode até ter alguma relação talvez com isso aí, de repente
+[00:29:41] ladeiraA: [ruído]
+[00:29:45] huberling: Beleza, pode deixar. Aham, falou
+[00:29:47] MatosS: Certo. Muito obrigado, viu? Muito obrigado. Por acaso esse aí não é um dos [riso] um dos comprometidos, Bruno?
+[00:29:49] ladeiraA: [ruído]
+[00:29:54] huberling: Não, não, não é. Os comprometidos não podem. São seis comprometidos só. São só seis. Ah, tem uma pon-- tem uma porrada. É que tipo assim, tem os ranger e os, e os, os como fala? Ééé, aspirante, né? Os aspira. Mas assim, o grupo deles aí tem umas 60 pessoas entre aspirante, ranger e criaturas da natureza
+[00:29:56] MatosS: Quantos reindeer são, por exemplo, são de presente? Então são quantos reindeer?
+[00:30:12] MatosS: [ruído]
+[00:30:18] MatosS: É
+[00:30:22] huberling: É um grupinho bom, hein?
+[00:30:28] huberling: Bele? Alô?
+[00:30:31] ladeiraA: [ruído]
+[00:30:31] MatosS: Beleza, vamo voltar pra torre, vamo-- a-aliás, vamo passar na igreja chamar o, o Kai
+[00:30:37] huberling: Chegou lá na igreja
+[00:30:39] MatosS: Ó, não lembro aí que fim que deu o Ryd. O Ryd tava ca-- tava na torre? Ou o Ryd já saiu da torre?
+[00:30:43] huberling: Tá na torre, o Grudy tá na torre. Bom, cês chegaram ali na igreja, tá aberta dessa vez, não tá mais fechada. Ééé, cês mal entraram, os caras já aprontaram a por-- só aprontaram a porta do corredor porque já sabem que cês vão pra lá, tá ligado?
+[00:30:48] MatosS: [ruído]
+[00:30:52] ladeiraA: [ruído]
+[00:30:54] MatosS: Aí eu olhei-- antes de en-- antes de entrar eu olhei pro Kreve assim e falei: "ô Kreve, por que que a gente não pensou em chamar, em pedir ajuda da igreja?"
+[00:31:08] ladeiraA: Olha, é que normalmente quem pensa é você. E se você não pensou, quem dirá eu, né?
+[00:31:09] Oto: [som de interferência]
+[00:31:13] Oto: [ruído]
+[00:31:14] MatosS: Acabei de pensar, ué. Antes tarde do que nunca. Tá em tempo. Vamo lá
+[00:31:20] ladeiraA: [ruído]
+[00:31:20] huberling: Vocês não pensaram isso nem no, nem no dia que ele tava à mesa rolando, cês não pensaram isso na cabeça
+[00:31:26] MatosS: Tá, é, tá, tô indo
+[00:31:29] huberling: Beleza, cê entrou no corredor, passou lá, chegou na sala, tá os dois lá. Um estudando igual um maluco, o outro só tá preenchendo uns papel
+[00:31:38] MatosS: Eu passei e já fechei a porta depois do Cra-- do Crave entrar, né? Não fechei a porta
+[00:31:43] huberling: O Cleide só abre o, o, o Cleide só levantou a sobrancelha, tipo assim: "lá vem", sabe?
+[00:31:48] Oto: Eu, eu, eu fechei o livro, eu marquei o livro, fechei o li-- virei assim e falei: "Olha quem tá aqui"
+[00:31:55] MatosS: Estudei na cadeira assim, com os pé na cadeira, coloquei as duas mão na mesa assim, dei aquela inclinada na mesa assim, olhei sério, falei: "Amanhã metade do problema será resolvido". Aí eu falei: "Ou, ou, ou, ou assim eu espero". Olhei pro Crave, tipo [riso]
+[00:31:56] ladeiraA: [ruído]
+[00:32:12] ladeiraA: Eu dou um joinha assim, tipo afirmando assim: "É isso aí", né? É-é, eu dou um joinha pra ele, tipo assim: "Continua, tá-tá-tá bom, tá bom", tá ligado? [riso]
+[00:32:22] MatosS: Obviamente, vindo, vi-vindo de mim, nós temos um magnífico plano para amanhã
+[00:32:22] Oto: Desculpa, senhor Magrinho
+[00:32:30] Oto: Discorra? Eu quero ouvir sobre esse plano.
+[00:32:33] huberling: Baixa a sobrancelha e a outra
+[00:32:35] MatosS: O Thork garantiu que vai resolver o problema dos guardas corruptos que ainda estão na cidade, porque tem metade que tá na cidade, metade que saiu com o-- fez a-a, entre aspas, de novo com os dedo com o prefeito, né? O Thork vai resolver os que tão na cidade. Aí a gente precisa resolver a Arena. A Arena não são muitas pessoas, pelo que as informações que a gente tem. São cerca de 25 pessoas, é, mas não são todos combatentes, tem alguns burocratas, sei lá, contadores, mercantes e etc. A gente vai ter que resolver a Arena. A gente vai ter uma cer-- uma cobertura, digamos assim, de alguns aliados, que vão garantir que ninguém da Arena vai fugir, porque isso é importante, porque se alguém deles fugir, eles podem alertar os goblinóides que tão do lado de fora ou os guardas que tão em viagem, ou mesmo o mercado negro co-com o qual a Arena faz negócios, né? Porque a Arena recebe escravos do mercado negro pra lutar nas arenas. Então a gente tem que garantir que nenhum vai fugir, a gente já lidou com esse problema. Só que ainda assim existe o combate na Arena em si, né? Porque não é todos que vão fugir, alguns vão, obviamente, fazer resistência. É, então pra esse combate, no momento, temos, é, o Kreve, eu, o Okai e o Kreve. É, daí que se você pudesse dar uma ajuda pra gente, seria muito bom, eu falei pro Poncho
+[00:32:44] ladeiraA: [ruído]
+[00:32:54] ladeiraA: Não te preocupes, vai.
+[00:32:58] ladeiraA: [ruído]
+[00:33:08] huberling: [ruído]
+[00:33:29] Oto: [ruído]
+[00:34:11] huberling: Em meus planos vocês vão atacar diretamente a arena.
+[00:34:16] ladeiraA: É isso aí, já tá tudo planejado
+[00:34:20] MatosS: Porque dessa forma a gente, eu falo isso entre aspas, geralmente limpa a cidade até que os guar-- o resto dos guardas corruptos voltem, mas aí a gente vai ter esse tempo, que a gente não sabe exatamente quanto é, mas a gente vai ter um tempo pra lidar cooom-- pra, enfim, pra planejar como lidar com esses guardas corruptos, né? E aí a gente vai ter o que sobrou da guarda honesta, que não é muita coisa, nós mesmos, os Magníficos, eee, eee vocês também. Outras igrejas, talvez, enfim, as igrejas. Eu acho que também se a gente desmantelar o-o-- já metade deles, eu acredito que a gente possa contar também com a ajuda de alguns dos rangers. Talvez co-- pelo menos como batedores, pra saber quando os soldados estiverem vol-- quando os soldados estiverem voltando
+[00:34:38] huberling: [ruído]
+[00:34:49] Oto: [pigarro]
+[00:35:09] Oto: Mas qual a conexão dos Rangers com, com o submundo mesmo?
+[00:35:17] MatosS: Então, os nossos informantes nos disseram que existem, que tem alguns rangers envolvidos, mas acho que quatro ou cinco deles envolvidos, ou seis, não sei. Não são muitos. Ééé, porém, pelas informações que esse próprio informante nos passou, é, nós acreditamos que esse envolvimento se dá mais por necessidade, no sentido de que a arena antigamente usava animais e agora não usam mais depois de que fizeram algum tipo de acordo com os rangers, né? Então talvez os rangers provê, pro-vêm pra ele algum tipo de serviço ou produto, enfim, alguma coisa, em troca deles não usarem animais nas arenas. Então quando eles, a arena não existir mais, os rangers não têm mais por que de ser aliados deles, entendeu? E de qualquer forma, são poucos rangers. Eu acho que a gente pode falar diretamente com o Folha Seca, explicar a situação eee, e se ele julgar que não é prudente envolver todos os rangers, né, ele, a gente pode, enfim, obter ajuda de alguns que a gente sabe que não estão comprometidos.
+[00:36:20] Oto: Tá, eu acho que o, o maior problema seria se por acaso os globi-- os globonoides ficarem sabendo e resolverem atacar a gente, né?
+[00:36:31] MatosS: Então, mas, ééé, justamente por isso que o, os guardas sendo resolvidos, sendo resolvido o problema dos guardas e sendo resolvido o problema da arena, não, não vai ter goblinóides, né? Pra-- assim, os goblinóides não vão ficar sabendo
+[00:36:40] huberling: [ruído]
+[00:36:42] Oto: Não, mas é, eu te, eu te digo isso. E se tu acha que vai passar rápido
+[00:36:45] huberling: Não, mas aaa, a pergunta que fica é a seguinte: hã, vamos supor que a gente liberou, resolveu tudo isso. E aí nós vamos esperar os guardas voltarem e só depois de tudo isso que a gente vai pensar nos goblins?
+[00:36:59] MatosS: Então, o problema é: a gente não sabe exatamente quando os guardas vão voltar [ruído de rádio]
+[00:37:04] huberling: É, não, é porque na minha, na, da minha perspectiva aqui, no, o, o meu temer entra mais no raciocínio dele também. Ééé, se a gente limpar tudo e ninguém for lá levar informação pros goblins, esses goblins eles não recebem informação de tempos em tempos? Não, não mandam ninguém aqui de tempo em tempo? Porque uma hora ou outra eles vão descobrir
+[00:37:25] MatosS: Sim, o meu, eu acho que o meu pla-- a, a aldeia goblinóide é próxima daqui, certo? Questão de um dia. Eu acho, é, eu acho que o, o melhor plano seria: a gente pode ir lá tentar resolver a questão dos goblinóides, bo-- fazer algumas armadilhas, algumas emboscadas, depois que a gente resolver aqui, mas a gente precisa, como eu disse, do suporte dos rangers, porque são eles quem vão, é, monitorar a região e dizer pra nós: "Olha, o, encontramos os soldados, os soldados estão há cinco dias", ou eles estão voltando, ou eles estão acampados, parados, entendeu? E eles que vão fazer essa função, né
+[00:37:32] huberling: Qual coisa assim?
+[00:38:02] huberling: Tá, então todo o plano depende, na verdade, de limpar as coisas pra que os rangers passem pro nosso lado
+[00:38:08] MatosS: Exato. Então eu acho que se a gente tiver isso, os rangers conseguiriam se locomover. Digamos que os soldados estão voltando. Os rangers talvez conseguiriam vir na frente, avisar a gente e a gente volta pra cidade. Ou, de repente, a gente vai ter tempo suficiente pra lidar com os goblinóides antes, ééé, dos soldados voltarem, né?
+[00:38:11] ladeiraA: E aí, o que que eu vou ver?
+[00:38:18] ladeiraA: [ruído]
+[00:38:29] huberling: E a gente tem força o suficiente pra lidar com os abomináveis?
+[00:38:31] ladeiraA: Já é hora de almoçar?
+[00:38:34] Oto: Tá.
+[00:38:34] MatosS: Aí eu dei meio que de ombros assim, eu falei: "A gente temos que acreditar que sim." [riso] Eu falei assim: "Qualquer aju-- falei qualquer ajuda é válida, mas caso a gente não tenha, ééé, não tenha muita força, a gente vai ter que tentar alguma estratégia de emboscada e de, é, de, de atacar em grupos isolados ou algo do tipo. Provavelmente, provavelmente com a, a ajuda dos rangers."
+[00:38:41] Oto: E, e eu, eu acho que é importante
+[00:38:46] ladeiraA: [ruído]
+[00:38:55] ladeiraA: Então, o, o Craig ele planta mal o meio de campo assim
+[00:38:58] huberling: Acho que é mentira.
+[00:39:03] ladeiraA: Eu, eu só queria dizer que eu, eu só tô conseguindo acompanhar até o primeiro combate, o segundo num, num, num tem espaço na minha cabeça ainda, viu?
+[00:39:14] MatosS: Tudo bem com ele?
+[00:39:14] Oto: Eu só acho o seguinte: eu acho que faz sentido o que você tá falando, mas tem um problema grave que é o que acontece durante a execução da primeira etapa do plano, que é o ataque à guarda corrupta que tá na cidade em simultâneo com a arena, se por acaso, por algum motivo, os goblinóides aparecerem, talvez o plano vazar, alguma coisa do tipo. Eu acho que não vai acontecer, mas de qualquer forma, acho que é prudente que a gente tenha meios de contenção desse risco ou um plano B. O que eu tava pensando é se a igreja-- qual que é o nome do sacerdote, Bruno?
+[00:40:06] huberling: É, muito bem.
+[00:40:11] huberling: Tenho que olhar nas anotação, porque eu não lembro também. A gente ficou sem jogar muito tempo, né, véi?
+[00:40:13] Oto: Acho que-- é, eu acho que tem. É no, é no nome esquisito que eu lembro
+[00:40:26] Oto: [ruído]
+[00:40:27] ladeiraA: Eu também não lembro muita coisa não
+[00:40:33] huberling: Ela não lembrava nem onde é que parou, quanto mais os nomes do povo. Se o Mate não lembra o Folha Seca, eu nem lembrava o que era Folha Seca, o nome do Folha Seca
+[00:40:39] ladeiraA: [ruído]
+[00:40:43] MatosS: Perguntando aqui pro, pro, pro gerente
+[00:40:48] huberling: Ah é, dá pra perguntar pro GPT, peraí. O negócio facilita nossa vida pra caralho
+[00:40:57] ladeiraA: [som de engasgo]
+[00:40:57] huberling: Vamo ver aí quem acha o nome do cara primeiro
+[00:41:06] MatosS: Solomon? Não, tinha um [ruído]
+[00:41:08] Oto: É isso aí, é isso aí, beleza
+[00:41:09] huberling: Olha, amigo, é...
+[00:41:18] huberling: Manda lá. Pode falar
+[00:41:20] Oto: Bom, ééé, então, Cláudio, o que eu tô pensando é: eu acho que é natural que, como você f-- como você apontou, que a gente ache que vai precisar de, de alguma ajuda na arena, eu que lembro, quantas pessoas são na arena que tão previsto de que a gente tenha que lidar?
+[00:41:37] MatosS: Acho que são umas 25 pessoas, acredito que metade delas são combatentes. E a, a gente vai tá de certa for-- se a, a igreja nos ajudar, a gente vai tá pra quase que em maior número, eu acho. Depende de quanto ajuda a igreja fornecer
+[00:41:41] Oto: Você é o que eu mais quero.
+[00:41:50] Oto: Porque eu, eu acho que talvez, talvez a, a igreja seja mais útil, ééé, monitorando as saídas da cidade pra queee, pra que a gente... Ela tá de ouvido?
+[00:41:59] MatosS: Não, não, não, não, não, não. Isso já tá resolvido. Já. Confia
+[00:42:06] ladeiraA: Cê tá indo, nós já tamo voltando
+[00:42:07] MatosS: O meu plano, meu plano é magnífico
+[00:42:12] Oto: Bom, se é assim, então a gente pode só executar ele Claro
+[00:42:17] MatosS: Olá!
+[00:42:17] huberling: Ó, o que eu posso, o que eu posso disponibilizar, vamos ver. O que eu posso disponibilizar são cinco homens pra poder empreitar com vocês e vários disponíveis, é, do lado de fora pra eventuais curas ou coisas possíveis que precisam ser feitas pra que alguém não morra
+[00:42:19] ladeiraA: [ruído]
+[00:42:22] MatosS: O, o ranger é o Hunter
+[00:42:37] ladeiraA: [ruído]
+[00:42:45] ladeiraA: Eu, eu gosto de não morrer, viu? Não queria dizer nada, mas
+[00:42:45] MatosS: Vai ser bom? Falar: "Não, é, parece bom, parece que eu acho, acho que é bem, acho que é suficiente." Aí eu só tenho que colocar um ponto, já que homem seus ficarão do lado de fora, ééé, alguns dos nossos contatos também estarão do lado de fora, garantindo que ninguém da arena fuja
+[00:42:55] ladeiraA: [ruído]
+[00:43:02] ladeiraA: [ruído]
+[00:43:08] MatosS: Que é o que eu acabei de dizer aqui
+[00:43:11] huberling: Tem alguma forma de eu saber que são eles ou não?
+[00:43:15] MatosS: Eu coço a cabeça assim, falei: "pra que? Eles tão sempre disfarçados, mas eles são, tão sempre com umas calça longa, porque..." Aí eu falei: "ah, bom", eu dou de ombros assim, eu falo: "acho que, né, cê não, não f-não faça nada que eu não faria", falei pro Talomond. [riso] Eles são, é, uma espécie de homens-galinhas, Kenkus. Eles têm patas, ar-a-pernas de galinha, então eles usam calças largas e máscaras ou chapéus pra, pra que não dê pra ver que eles não são humanos, eles são disfarçados aqui na cidade. E eles querem um lugar pra viver, eles têm família, crianças, etc. Então eles vão nos ajudar com isso em troca deles poderem viver aqui disfarçados em paz, sem, sem, sem problemas
+[00:43:23] ladeiraA: [ruído]
+[00:43:33] ladeiraA: [ruído]
+[00:43:44] ladeiraA: [ruído]
+[00:44:02] huberling: E essa troca é válida?
+[00:44:04] ladeiraA: [ruído]
+[00:44:05] MatosS: Claro, é válido sim, sem eles não tinha nada resolvido. A gente não ia saber de nada, não ia saber de ninguém, não ia ter os nomes nem nada
+[00:44:14] ladeiraA: Escreve lá
+[00:44:15] huberling: Então o plano tá todo sendo feito em cima da palavra deles
+[00:44:19] MatosS: E da minha. Mas é, mais da deles [riso]
+[00:44:21] ladeiraA: Eu fiz umas coisas
+[00:44:25] Oto: Bom ponto do Paulo
+[00:44:25] huberling: E se eles tiverem enganando você?
+[00:44:28] ladeiraA: A gente sabe onde eles moram
+[00:44:31] MatosS: A gente-- é, mas a gente tem muitos motivos pra acreditar que não, porque o-o, a lista que eles passaram, o Tork aprovou, o Tork já tava desconfiado da-- a-as desconfianças do Tork batia muito em cima do que, da lista que eles passaram pra gente dos envolvidos
+[00:44:31] Oto: Você me ouviu?
+[00:44:50] huberling: Tá, vamo, vamo, vamo fazer só o pior cenário possível aqui. A gente achava que o Tork tava envolvido, tô certo?
+[00:44:58] MatosS: Mas todo mundo sempre confiou muito no Tark
+[00:45:01] Oto: Não
+[00:45:02] huberling: Tá. Supondo que o Thork esteja envolvido de fato e que seja uma armadilha feita contra nós, o-- os Kenku tenham falado pra você onde atacar, a gente vá e o próprio Thork nos pegue, como é que a gente vai resolver isso?
+[00:45:15] ladeiraA: [ruído]
+[00:45:20] ladeiraA: Tem que bater nele igual eu vou bater em todos os outros, ué
+[00:45:23] Oto: Você só vê vai pelo que você faz
+[00:45:23] MatosS: Aí, é verdade. Nesse caso, nesse caso o mundo está contra nós e talvez não devêssemos estar no mundo. [riso]
+[00:45:36] MatosS: Não sei. Se, se você tiver alguma oração aí pra pergun-- pra pedir orientação a, a Cord, é, eu, eu acho que te ajudo
+[00:45:44] huberling: É porque me preocupa é que vocês acabaram de eliminar o prefeito
+[00:45:52] huberling: E aí, literalmente, o único inimigo que eles têm são vocês. Então euuu, eu particularmente faria uma armadilha pra matar vocês
+[00:45:57] ladeiraA: [ruído]
+[00:46:09] MatosS: Eu, eu concordo que é uma-- pode acon-- poderia ser isso, mas qual opção a gente tem? Não fazer, não fazer nada? E assim, eu, eu acho que, eu acho que eles tão falando a verdade mesmo. E, e, e até porque como eu disse assim, todo mundo-- você sempre confiou no Torgue, todo mundo que eu normalmente falei confiava no Torgue. Com exceção do Folhaseca
+[00:46:15] ladeiraA: Nem não faria uma armadilha pra matar a gente
+[00:46:26] ladeiraA: [inaudível]
+[00:46:34] huberling: Não, sim, eu sempre gostei. Até vocês trazerem essa dúvida pra minha cabeça, porque eu não sabia de nada, né? E eu conversei com o Tork várias vezes, várias e várias e várias, e nunca me passou nenhuma impressão de nada, eu nunca peguei ele num pulo, numa
+[00:46:50] MatosS: Então ele- e a, a reação do Tark quando a gente falou pra ele, passou a lista pra ele, foi bem convincente. Digo, ele, ele pareceu bem autêntica a reação dele
+[00:46:51] ladeiraA: [ruído]
+[00:47:11] huberling: Certo
+[00:47:16] huberling: Bom, o pior cenário seríamos ser atacados por todos os lados, correto?
+[00:47:24] huberling: Ééé, eu deixo pra você pensar sobre o assunto. Eu tenho cinco homens que poderiam lutar de fato. Eu, com certeza, poderia lutar de fato, mas eu não pretendi entrar. Veja quantos você realmente precisa levar lá pra dentro. O restante ficaria do lado de fora, pra caso a gente esteja caindo numa armadilha, a gente tenha como acabar com qualquer tipo de flanqueio
+[00:47:50] MatosS: Certo, tudo bem. A, a única-- a única coisa que eu quero acrescentar aqui antes que eu esqueça, é que o discurso oficial é de que a guarda lidou com toda a situação
+[00:47:57] ladeiraA: [ruído]
+[00:48:06] ladeiraA: [ruído]
+[00:48:07] huberling: Hum
+[00:48:07] MatosS: De-- aí talvez, não sei, se você quiser falar com o Thor e dizer que a igreja ajudou, se isso beneficia você de alguma forma, se é vantagem ou não, não sei, mas é melhor a gente não se envolver com isso
+[00:48:15] ladeiraA: [ruído]
+[00:48:18] huberling: Esses detalhes nós resolvemos depois Esses detalhes nós resolvemos depois, isso não é importante. O importante é salvar a cidade
+[00:48:24] Oto: Boa, gostei
+[00:48:27] Oto: [ruído]
+[00:48:27] MatosS: Então, tudo acontecerá amanhã, antes um pouco do entardecer. Vamos colocar umas 16h.
+[00:48:27] ladeiraA: Falou, falou pouco, mas falou bonito
+[00:48:38] huberling: Ok
+[00:48:43] ladeiraA: [ruído]
+[00:48:43] Oto: Eu acho queee, eu acho que isso
+[00:48:45] MatosS: Do nada?
+[00:48:49] huberling: Tá certo. E a gente tá fazendo duas apostas: uma que realmente tá tudo certo, é isso mesmo, e a outra que os rangers vão ficar do nosso lado
+[00:48:59] MatosS: É, mas um, olha, eu-- o plano mais magnífico que eu consegui fazer foi esse aí
+[00:49:00] Oto: Oi, tudo bem?
+[00:49:01] ladeiraA: [ruído]
+[00:49:05] huberling: Eu tenho só uma última pergunta: existe alguma possibilidade dos próprios Rangers serem os caguedas?
+[00:49:19] MatosS: É, eu dou de ombros. Quem sabe? Eu vou tentar falar com o Folha Seca ainda hoje
+[00:49:19] ladeiraA: [ruído]
+[00:49:28] huberling: É, manda informado depois então
+[00:49:31] MatosS: Tá certo. Como que, ééé, ô Bruninho, off aqui, aí eu não-- se a gente precisa ir dichavado lá pra área da arena, tem como, sei lá, os cara ver a gente, hã? Alguma coisa, acho que não, porque s-supondo que tá tudo nos conforme, os Ken foi quem fazia essa parte de espião, né? Então os cara da Ken vai passar [ruído de fundo]
+[00:49:36] ladeiraA: [ruído]
+[00:49:50] huberling: Nossos clientes são os espiões. É lógico que quando vocês tiverem marchando pra lá, se tiver alguém passeando, foi comprar uma maçã, vai te ver, né? Então aí cês veem como é que cês vão querer levar esse povo todo pra lá. Mas assim, é difícil você esconder, porque eu vou, eu vou destacar a igreja, eu vou montar praticamente uma, um hospital de luz aí
+[00:49:54] ladeiraA: [ruído]
+[00:50:00] MatosS: Uhum.
+[00:50:12] MatosS: Falou, mas a gente consegue. A gente-- qual, então, quantas pessoas no total? Que cê falou cinco pra combater, e o resto?
+[00:50:15] ladeiraA: [ruído]
+[00:50:16] Oto: [ruído]
+[00:50:19] huberling: Eu vou levar umas 25 pessoas. Eu não sei quantas pessoas, eu não sei quantas pessoas tão lá dentro feridas, eu não sei se tem que resgatar pessoas, eu tenho que auxiliar o povo não chegar próximo, não deixar ninguém ali por perto, porque eu não sei se vai ter alguma explosão ou não
+[00:50:22] MatosS: Professor Rodrigo
+[00:50:22] Oto: É só uma?
+[00:50:25] ladeiraA: [ruído]
+[00:50:27] MatosS: Três parágrafos pra apresentar
+[00:50:37] MatosS: Certo. Mas assim, vamo fazer isso em essa, essa ida em ondas. Digo, digo o seguinte: vamo-- você consegue algum, tipo duas carroças pra gente fechadas? Dessa forma a gente vai-- você leva os cinco combatentes nas carroças, eles chegam primeiro junto com a gente, também em carroças, aí a gente faz a emboscada. A gente entra na arena e aí a gente
+[00:50:53] huberling: [ruído]
+[00:51:02] huberling: Eu vou fazer um sopão ou algo do gênero então, pra levar pras pessoas carentes da região
+[00:51:04] ladeiraA: [ruído]
+[00:51:09] MatosS: Isso, muito bom, isso é uma estratégia muito boa. Isso a ge-- até nós podemos estar lá, por lá pra ajudar nesse sopão aí
+[00:51:17] huberling: Perfeito.
+[00:51:20] MatosS: Então tá combinado, a gente se encontra lá e, e eu fa-- eu ia falar q-que os deuses nos ajudem, mas eu olhei pro Paulo, mas se os deuses estão do nosso lado, então muito bem
+[00:51:26] ladeiraA: [ruído]
+[00:51:32] Oto: A morte está do nosso lado.
+[00:51:34] huberling: Acord está do nosso lado. Ok, até amanhã. Até amanhã não. Até amanhã não. Eu espero você aqui pra me dar informações sobre Folha Seca
+[00:51:39] ladeiraA: Cê sempre foi tão religioso, Lokai?
+[00:51:39] MatosS: [som de estalido]
+[00:51:49] MatosS: Tá, se não hoje, amanhã de manhã eu, eu venho aqui te falar
+[00:51:53] huberling: OK
+[00:51:56] huberling: [ruído]
+[00:51:56] ladeiraA: O Craig tá perguntando pro Kite se ele sempre foi tão religioso
+[00:52:00] Oto: Euuu não, eu só, eu só aprecio boas conversas eee o Tom tem sido muito gentil comigo eee tem criado uma, uma empatia pelo, pelo Code interessante, só isso
+[00:52:22] Oto: Mas não, eu sou religioso
+[00:52:25] huberling: Deveria passar mais tempo conosco aqui também
+[00:52:30] ladeiraA: Pra quê?
+[00:52:34] ladeiraA: Que que cês tem de bom aqui?
+[00:52:34] huberling: Pra onde? [riso] Por que você não fica e descobre?
+[00:52:43] ladeiraA: Aê, tá amarrado. Se o AK gostou daqui, quem sou eu pra gostar, fi?
+[00:52:55] Oto: É, eu, eu acho, eu acho que não faz muito sentido também. Não faz muito sentido mesmo Não faz muito o perfil dele não
+[00:52:56] huberling: Bom, o convite fica feito. Quando quiser, será bem-vindo
+[00:52:58] ladeiraA: [ruído]
+[00:53:05] MatosS: A gente se encontra lá então, gente, eu vou indo, até mais pra vocês
+[00:53:08] ladeiraA: A hora que a gente tá saindo, eu só olho pra trás assim: "Ó, tem uma coisa que eu quero provar ainda, aqueles pão abençoado que entrega nas, nas missa lá, que lá tem cara de ser gostoso".
+[00:53:13] Oto: [ruído]
+[00:53:21] huberling: [riso] Venha na missa
+[00:53:24] ladeiraA: Acho que o melhor é só pegar o pão e ir embora, acho que aí eu dou joinha assim e vou saindo
+[00:53:30] huberling: Beleza. [suspiro] O seu grupo realmente nunca aparece aqui com, hã, vamos dizer, notícias tediosas. É sempre coisa absurda
+[00:53:45] Oto: Não, é isso sim
+[00:53:51] huberling: [ruído]
+[00:53:58] huberling: É realmente só coisas absurdas, ok. Eu vooou, eu vou preparar um sopão. Ele se levantou e saiu da sala. Bom, você vai continuar estudando, né, só as magias aí, Matos e Cesar
+[00:54:19] MatosS: Pra torre agora
+[00:54:21] ladeiraA: Eu vou lá pra torre também. Vou descansar um pouquinho aí que vai ser um dia
+[00:54:31] ladeiraA: Que dia que é hoje da semana?
+[00:54:31] huberling: Que dia é hoje, Fernando? Se eu não me engano é quarta. Falta dois dias pra você poder brigar
+[00:54:40] ladeiraA: Já vou arrumar muita briga, gente. Não sei se eu vou lá brigar com aquele homem não
+[00:54:45] huberling: [riso] Bom, vocês chegaram na torre. Ao abrir a porta, tem ummm, tem uma placa no meio da sala
+[00:54:49] MatosS: [ruído]
+[00:54:54] ladeiraA: [ruído]
+[00:54:59] huberling: Com um monte de coisa escrita bem pequenininha, vai ter que chegar perto dela pra poder ler
+[00:55:04] MatosS: Olá, Alê
+[00:55:08] huberling: Infelizmente, eu cometi talvez alguns erros durante minha vida inteira e ela é beeem extensa. Por esse motivo, eu estou saindo pra resolver coisas de família. Eu não sei quanto tempo vou demorar pra voltar eee não sei se eu volto antes que vocês morram
+[00:55:33] huberling: Então é o seguinte: primeiro, ao sair tranque a porta. Segundo, eu vou deixar junto com as portas como vocês podem usar elas, detalhadamente. É um livro bem grande, bem grosso, bem chato de ler, mas eu tenho certeza que um de vocês vai ter muita felicidade em ler ele. Ééé, quarta, quarta questão: mantenha tudo limpo. Quinta questão: se não forem ficar com os animais, tirem eles de lá, porque senão depois vão morrer lá e vai ficar fedendo. Sexta questão: em relação aos meus amigos, eu deixei também pra vocês todas as descrições de onde vocês devem ir e qual porta deve ser usada. Eu sei, Magnífico, eu sei, Magnífico
+[00:55:39] ladeiraA: [ruído]
+[00:55:44] ladeiraA: [som de engolir]
+[00:56:12] ladeiraA: Se o lar do amor
+[00:56:26] huberling: Questão sete: caso não vão voltar por algum motivo, lembro vocês que vocês me devem, então voltem. E cabou
+[00:56:42] MatosS: O livro tá junto da placa?
+[00:56:44] huberling: Não, tá lá nas portas
+[00:56:48] huberling: [ruído]
+[00:56:51] ladeiraA: Cara, eu vejo a placa assim, eu, eu entro lá, eu entro dentro da, da torre, pego um, um lápis, um grafite, alguma coisa assim. Eee, eu esqueci o que ia fazer. Deu branco
+[00:56:52] MatosS: [ruído]
+[00:57:08] MatosS: [risada]
+[00:57:09] Oto: [ruído]
+[00:57:09] ladeiraA: Merci. E... [riso] Excuse.
+[00:57:13] huberling: [risos] Eu fui lá, peguei o grafite, parei na frente da placa e falei assim: "Que que eu tô fazendo aqui, meu?"
+[00:57:19] MatosS: [risada]
+[00:57:20] ladeiraA: Mas assim, é, é que eu não lembro tudo a frase mais, é, mas assim eu vou pegar um grafite e a primeira pergunta aí que ele faz, aí que ele fala, e ele-- eu vou responder na placa, tipo, vou escrever pra ele na placa, assim, na minha-- na cabeça do Kraven, o-o-o Arkham Knight vai ver isso aí de alguma forma. [riso] É, não lembro. É, acho que é a primeira, eu não lembro qual, eu não lembro qual a fala.
+[00:57:21] Oto: [som de bolhas]
+[00:57:37] huberling: Está aí o seu café, senhor?
+[00:57:42] huberling: A primeira que ele fa-- é, a primeira que ele fala que ele tá deixando tudo aí, que ele tá indo embora, né?
+[00:57:48] MatosS: É, não vai rabiscar no, na, na escrita original, hein? Rabisca no verso
+[00:57:53] huberling: Quero que cês trancarem a porta
+[00:57:56] MatosS: Eu peguei já a chave e fiquei comigo a chave
+[00:57:59] huberling: Beleza
+[00:58:00] MatosS: Eu falei: "Ô, ô Kreve, eu vou ler aqui o livro já pra adiantar isso aí, cê tem alguma coisa pra fazer hoje?"
+[00:58:11] ladeiraA: Ah, até então não, não. Eu tava pensando em descansar
+[00:58:18] MatosS: Então pe-pede lá mais um bolo de chocolate pra gente, po-porqueee vai que eu morro amanhã, eu quero comer dois
+[00:58:26] ladeiraA: Eu estico a mão assim e bato na mão
+[00:58:29] MatosS: Não, deu ruim, deu mole pra ele
+[00:58:36] ladeiraA: E eu vou, vou lá na, na taverna pedir o bolo de chocolate
+[00:58:40] MatosS: Mais um. Perfeito
+[00:58:42] huberling: Beleza. E você, Má? Cê vai fazer o quê?
+[00:58:46] ladeiraA: Realmente forte
+[00:58:47] MatosS: Eu vou pegar o livro mesmo da porta eee vou ler
+[00:58:51] ladeiraA: E tentando escolher alguns vencedores
+[00:58:51] huberling: São dois livros, né? Um vai te explicar qual porta vai pra cá ou pra qual plano, porque ele tem um monte delas, né? E qual é ooos riscos que cê tem que fazer, né, os diagramas que têm que ser feito, porque ele sempre tem que fazer o diagrama no chão e na porta, eles são sugados e aí a porta funciona, né? Então tem desenhado todos os diagramas de cada porta e tem a descrição de como é a porta certinha, né, porque cada porta tem um detalhezinho diferente, né? U-uma cor um pouco mais clara, uma cor um pouco mais escura, uma maçaneta diferente, a madeira que é feita é outra. E aí, ééé, o designer dela inteiro é diferente, enfim. Eee então tem a descrição de cada lugar. Só que assim, cara, se você for batendo assim, porque são muitas portas, né? Basicamente, não tem um plano de existência que você conheça que já não tenha uma porta aí. E tem porta pra tudo quanto é lugar, cara, tudo quanto é lugar mesmo. E tem algumas portas pra esse plano de existência mesmo. Então, tipo assim, você tem separado as portas por plano. Então as primeiras são pra cá, aí depois vai ter várias outras de outros planos. E você batendo
+[00:58:54] ladeiraA: [ruído]
+[00:59:00] ladeiraA: [ruído]
+[00:59:21] MatosS: [ruído]
+[00:59:30] ladeiraA: [som de estômago roncando]
+[00:59:34] ladeiraA: [ruído]
+[00:59:39] ladeiraA: [ruído]
+[00:59:55] MatosS: Mas demitir?
+[01:00:00] MatosS: As dicas para cá indicam algum destino?
+[01:00:02] ladeiraA: [ruído]
+[01:00:04] huberling: Ele descreve algumas coisas básicas, então tipo assim, ééé, uma grande cidade de f-- de Faerun, mas ele não diz qual, tá ligado? Ééé, ele vai lá e coloca Montanhas Uivantes e ponto. Então cê não tem muitas especificações, mas você consegue ter uma aí noção, essa aqui vai pra uma cidade, essa aqui vai pra uma montanha, essa aqui vai pro meio de uma floresta e assim por diante. Só que assim, esse livro ele é muito antigo, antigo pra caramba. Você percebeu que ele foi construindo esse livro e essas portas com o passar dos, dos, do, dos anos. Então, pô, tem porta aqui que tem mais de mil anos. Certeza que o lugar lá já é diferente. Se você falar assim: "ah, tem uma cidade", provavelmente vou chegar lá e não tem, entendeu?
+[01:00:18] ladeiraA: [ruído]
+[01:00:21] MatosS: Uhum.
+[01:00:27] MatosS: [ruído]
+[01:00:53] MatosS: Uhum. Não, beleza. Eu vou, eu vou dar uma separada já nooo, nos dois que eu acho que a gen-que a gente vai precisar pro trabalho, né? Que é o
+[01:00:55] huberling: Algumas você vai vencer, outras
+[01:01:03] huberling: É, o trabalho tem um, tem um outro papel do lado que ele escreveu. E pra esse trabalho você precisa dessa porta, número tal, e você vai sair em tal lugar e você vai procurar os bicho em tal lugar. E é isso. Já, já. Uma, por exemplo, se você vai pra Dark Sun, pra ter que ir no deserto pra poder pegar os escorpião. Não é os escorpião, os besouro. É.
+[01:01:06] MatosS: [ruído]
+[01:01:07] ladeiraA: [ruído]
+[01:01:16] MatosS: Perfeito. Ah, beleza, ele já deixou pronto ali, tá.
+[01:01:24] MatosS: É. A senhora não veio? É. Beleza. Eu vooou, eu vou guardar ooo, eu vou pegar a placa com o recado dooo, do Arkavel e o livro vou guardar na, na biblioteca. A biblioteca é toda bagunçada, vou colocar num canto lá. Ééé, eee, ô Bruno, qual a chanceee, eu já sei o suficiente deee, como que fala? De celestial pra tentar usar a mesa do Arkavel?
+[01:01:28] ladeiraA: [ruído]
+[01:01:39] huberling: Beleza.
+[01:01:48] ladeiraA: [ruído]
+[01:01:52] huberling: Já
+[01:01:55] MatosS: Cara, então o Grimm tá-- [riso] o Grimm não vai resistir. [riso] Então eu vou tentar usar mesmo o Dark Awel
+[01:02:03] huberling: Beleza, você foi lá na mesa do Arkavel, colocou o grimólino ali. A mesa-- cê tenta falar umas palavras ali pra dar ilu-- pra ela começar a funcionar. Ela até iluminou, tá? Ela iluminou o livro. Você tá s-- como se você tivesse sob um efeito de visão da verdade sobre o livro e ao mesmo tempo de detectar magia sobre o livro também. Só que vocêêê não sabe mexer completamente com a mesa, né? Cê chegou até aqui. Então cê sabe que o
+[01:02:07] ladeiraA: [ruído]
+[01:02:07] MatosS: É, eu não consigo
+[01:02:22] MatosS: [ruído]
+[01:02:32] MatosS: Certo. Beleza. É, não, e eu ia falar, quais os meios que eu tenho pra começar essa investigação, digamos assim, né? Ééé, a própria mesa tem runas escritas nela, ou talvez é algo que eu vou ter que achar na biblioteca do Arkavel, ou não
+[01:02:33] ladeiraA: [ruído]
+[01:02:46] ladeiraA: [ruído]
+[01:02:50] huberling: Pronto, talvez na biblioteca dele, mas ali na mesa mesmo, as runas que aparecem são as que você ativou, entendeu? Você mesmo que ativou, elas aparecem na, na, no mármore. Então o que acontece? Algumas-- o que você sabe? Você sabe que esse livro tem pelo menos cinco mil anos. Isso você sabe, a gente deu a ida-a idade do livro. O livro tem cinco mil anos. A segunda coisa é que o material que tá nesse-- que foi feito esse livro não é do plano material, tá? Entãooo, a, ele, ele entra como um material diferente só de você tá olhando pra ele, cê percebeu isso, porque agora ele não parece mais uma capa, ele não parece mais páginas em branco, ele parece pra você uma grande sombra. E é uma sombra viscosa. Quando você passa a mão, ela, ela, ela tem, ela, ela é um poucooo, ela é como se ela fosse um slime, tá? Você consegue puxar ela, tal, mas quando você solta, ela volta pra mesma forma, ela não def-- ela não tá deformando de forma nenhuma. Você não consegue ler o livro com, com o livro aí dessa forma, porque cê tá vendo com a visão da verdade a verdadeira forma dele. E aí as escritas não aparecem pra você, entendeu? Porque elas estariam tipo, na mesma cor que você tá vendo, não dá pra cê ler. Mas cê tá vendo ele do que é realmente feito, como ele é feito, co-- e tá conseguindo até mexer nele de uma forma diferente do que no dia a dia você mexia, tá? Ééé, com Detector Magia, lógico, tem encantamento, com certeza, tem transmutação, com certeza, mas tem muita magia aí. Desde ilusão, à evocação, à conjuração, cê vai ter praticamente todas as escolas dentro desse, desse livro aí, tá? Ééé, abjuração universal, tudo, vai ter tudo dentro do mesmo livro. O livro com certeza é um artefato maior, não tem como discutir isso
+[01:02:56] MatosS: [ruído]
+[01:03:02] ladeiraA: [ruído]
+[01:03:17] MatosS: Não
+[01:03:22] ladeiraA: [ruído]
+[01:03:28] MatosS: [ruído]
+[01:03:36] ladeiraA: [ruído]
+[01:03:54] MatosS: [ruído]
+[01:03:59] ladeiraA: [som de estática]
+[01:04:15] ladeiraA: [ruído]
+[01:04:31] ladeiraA: [ruído]
+[01:04:45] huberling: E o poder dele é avassalador
+[01:04:47] MatosS: Coloquei a mão na cara assim: "E aí, fala comigo?" Falei [riso]. Aí beleza, eu não consegui, é, descobrir nada além disso, que já foi bastante coisa, mas eu vou tirar ele daí então eee, e eu vooou-- eu não vou-- tipo assim, como o, o livro que o Arcadel deixou é um manual do-- manual de instruções, não, não tem muito porquê de eu ler ele agora. Faz mais sentido eu ler quando a gente for usar. Então eu vou fuçar na biblioteca mesmo pra ver se eu acho algo relacionado à mesa, vou tentar organizar alguma coisa
+[01:05:01] ladeiraA: Crianças, viaturas de polícia, viaturas de bombeiros e ambulâncias são veículos importantes que nos mantêm seguros. Cada polícia, bombeiro ou médico faz seu trabalho de maneira diferente. Vamos aprender sobre esses trabalhos importantes
+[01:05:05] huberling: [som de água]
+[01:05:18] ladeiraA: [ruído]
+[01:05:22] huberling: É, o livro em si, ele não tem grandes segredos. O que ele tem é tipo assim: "Ah, eu quero ir hoje pra Firen". Cê vai ter umas 12 portas pra Firen diferente. Aí em cada uma delas, você vai ter que perder o tempo de ver como é cada runa, como faz cada uma, tal. Mas é simplório, né, porque cê só tem que saber as runas que cê tem que fazer pra conseguir sair do outro lado. Agora, a única coisa que tem no livro, em toda santa página, em todo final do, do rodapé é: "Tome cuidado, porque se você-- se alguém tirar a porta do lugar, você não volta".
+[01:05:27] MatosS: [ruído]
+[01:05:28] ladeiraA: [ruído]
+[01:05:34] MatosS: [ruído]
+[01:05:38] MatosS: Será que é isso mesmo?
+[01:05:51] MatosS: Não adianta, não tem jeito.
+[01:05:54] ladeiraA: Crianças não devem trazer coisas valiosas pra rua sem permissão. Você pode perder ou pior ainda, chamar a atenção de um ladrão. Deveria levar agora mesmo
+[01:05:55] MatosS: [ruído]
+[01:06:04] huberling: Belém?
+[01:06:04] MatosS: Eu não lembro quando a gente foi, Bruno, ééé, a porta ficou do, do outro lado, né? Tipo, no outro plano, a gente via a porta também aberta ali e tal, a gente conseguia pegar a porta, fechar, fazer alguma coisa com ela, não?
+[01:06:11] Oto: [ruído]
+[01:06:14] ladeiraA: [ruído]
+[01:06:19] huberling: Não, é que assim, a porta que você abre, você tá abrindo outra porta ao mesmo tempo, cê tá, é, o outro lado ela tá abrindo também, entendeu? É a mesma porta, vamos dizer assim. É como se a porta tivesse nos dois lugares. Quando eu abro aqui, ela abre lá. Quando eu fecho aqui, ela fecha lá. É um portal. Exato, exato. Aquela da praia tinha uma porta sem parede. Lembra que o, eu não lembro quem de vocês tinha pego uma história de um ranger que falou que uma vez encontrou uma porta aberta no meio duma floresta e a hora que ele olhava pra porta tinha umaaa, tinha um, tinha um castelo, sei lá o que que era, era a porta dele. Ele, um ranger provavelmente passou, ele tinha, ele tava na mesma localidade e aí o cara viu a porta no meio do nada, entendeu? Agora, se a porta é visível quando ela não está ativa, cê já não sabe. É normal que portais não sejam visíveis quando não estejam ativados. É normal
+[01:06:22] ladeiraA: [ruído]
+[01:06:25] ladeiraA: [ruído]
+[01:06:26] MatosS: Existe uma porta do outro lado, né?
+[01:06:31] MatosS: [ruído]
+[01:06:35] ladeiraA: [ruído]
+[01:06:36] MatosS: Existe ela do outro lado exatamente, tipo
+[01:06:43] MatosS: [ruído]
+[01:06:54] MatosS: Não pode faltar aqui.
+[01:07:01] MatosS: [ruído]
+[01:07:06] MatosS: Não
+[01:07:21] MatosS: E pelas instruções eu consigo ativar a porta pelo outro lado?
+[01:07:26] huberling: É o que ele falou, se alguém tirar a porta do lugar aqui, aqui desse lado, não volta mais. Não tem como. É, não tem como ativar do outro lado, não tem como-- é, é aqui que tem que ser ativado. Aqui tá ativado, tá ativado. Desativou aqui, já era
+[01:07:30] MatosS: Não, beleza, mas aqui desse lado tá dentro da torre. A, é, vai ser, a preocupação é menor
+[01:07:39] MatosS: Porque do outro lado, do outro lado a porta tem que ficar aberta. Eu não consigo fechar ela pra ela ficar invisível
+[01:07:46] huberling: Não, você pode fechar ela, você pode fechar ela, mas ela-- se você fechar, ela não vai ficar invisível. Por quê? Porque eu fiz as runas do lado de cá e ativei ela, ela tá ativa. Eu posso abrir e voltar a hora que eu quiser. Você só vai desativar de fato a hora que tirar a porta, porque aí as runas se perdem, porque as runas foram puxadas, lembra? As runas são puxadas pra porta, mas na hora que tirar a porta, as runas se perdem
+[01:08:02] MatosS: Desse lado aqui. Não, sim, desse lado
+[01:08:10] MatosS: É, então o maior problema é esse então, na real. Daqui, bom, também não sei se é fácil ou não destruir um negócio desse, né? O maior problema é a gente tá do outro lado, alguém encontra a porta e, e enfim, entra nela aqui pra esse lado, né, e etc. Isso que é foda, quando que o Espiritarpédia precisa [inaudível].
+[01:08:23] huberling: É, não tiveram problemas com a porta lá no plano elemental do ar porque tava no meio também num lugar meio sussa, né? Mas aí, é, provavelmente as portas mais recentes, vamos dizer assim, uns 200 anos pra cá, elas estejam em lugares mais tranquilos, mas o problema é as de mil anos atrás, porque aí a-- o lugar que ele deve ter feito que era protegido, às vezes não existe mais, entendeu?
+[01:08:30] MatosS: E o time do Michael é o desse lado pelo menos, né, Paulo?
+[01:08:32] ladeiraA: [ruído]
+[01:08:42] ladeiraA: Isso não funciona mais, não?
+[01:08:50] MatosS: Uhum. Bom, enfim, vamo lidar com isso depois. Beleza, eu vou dar uma, vou estudar daí na biblioteca mesmo
+[01:08:54] huberling: [ruído]
+[01:09:03] huberling: Bom, cê tá estudando, ooo, o Otto tá estudando, o César foi comprar o bolo. César, você chegou, cê chegou na taverna
+[01:09:09] ladeiraA: Foi uma escavação
+[01:09:15] ladeiraA: Eu já chego, como eu disse pra mim, na minha cabeça toda taverna porta de bang bang, né? Então já [som de batida] já dá aquela batida na porta assim pra ela abrir um monte, já chego sorrindo vendo quem que tá aí, já chego no balcão, bato na mesa: "me vê um bolo e do mais caro", que eu sei que o mais caro é o de chocolate. [riso]
+[01:09:21] huberling: [ruído]
+[01:09:39] huberling: A taverneira começou a rir: "Eu jurava que cê ia falar 'me vê uma cerveja'. Que que aconteceu com você? O, o, o, o Magnífico te mordeu?"
+[01:09:45] ladeiraA: [ruído]
+[01:09:49] ladeiraA: Ééé, eu, eu, eu falo bem baixinho assim: "Coitado, ele tá, tá pensando demais esses dias, ele não tá muito bom da cabeça. Talvez o chocolate ajude a cabecinha dele".
+[01:09:56] MatosS: [ruído]
+[01:10:05] huberling: [riso] Entendi. Ééé, eu fiz uns quatro hoje, porque ele tá pedindo muito e eu tinha a ideia de que ele fosse pedir, então já tem até pronta entrega agora. Dá um segundo pra mim
+[01:10:10] Oto: [ruído]
+[01:10:18] ladeiraA: Claro. Opa, perfeito
+[01:10:24] huberling: Ela pegou dois lá, porque um ele já tinha comprado, tava esperando acho que ficar pronto, e ela fez quatro ao invés de fazer um só e te trouxe mais um
+[01:10:34] ladeiraA: Nossa, eu acho que, que, que além da taverna, se cê quiser abrir um, um negócio de prever futuro, cê tá com tudo, viu? Eu
+[01:10:44] huberling: Ah, mas não é, todo dia ele pede, todo dia, todo dia. Amanhã eu tenho certeza que ele vai pedir de novo
+[01:10:50] ladeiraA: Ééé, eu, eu, é o que eu espero, viu? É o que eu espero também
+[01:10:56] huberling: Eu vou ter que mudar o nome do bolo. Alguma coisa com magnífico no meio
+[01:11:03] ladeiraA: É, vamos ficar assim nisso, puxa vida. [riso]
+[01:11:03] MatosS: Magnífico bolo de chocolate
+[01:11:07] MatosS: É só um
+[01:11:10] huberling: É, mais alguma coisa? Uma sorvete?
+[01:11:12] ladeiraA: Aí fica, fica pra viagem. Se tem algum copinho que dê pra mim jogar na, depois no meio do caminho? Se não tiver também eu trago depois, se cê não se importar
+[01:11:20] huberling: Olá, tudo bem?
+[01:11:24] huberling: Ela te deu um mini barrilzinho
+[01:11:27] ladeiraA: Óia, ele aqui serve até de refil
+[01:11:33] huberling: Mais alguma coisa?
+[01:11:37] ladeiraA: Ééé, [estalo de língua] é que eu tenho que levar o bolo pra ele. Eu volto mais tarde, eu volto mais tarde
+[01:11:44] huberling: Vai lá, a gente vai ficar aqui esperando
+[01:11:48] ladeiraA: Eu vou, vou saindo, vou lá levar o bolo do, do Magnífico
+[01:11:52] huberling: Beleza. Duglin. Cara, você foi tranquilo, a rua. Novamente, o Kremko apareceu pra você, pra você saber que ele tá ali, que ele tá te seguindo, né? E aí ele voltou a te seguir escondido. Ééé, é mais uma cortesia, né, dizer: "Tô aqui mesmo". Então tá, você voltou pra torre, chegou na torre. E aí?
+[01:11:56] ladeiraA: Olá, tudo bem?
+[01:12:05] ladeiraA: Uhum.
+[01:12:22] ladeiraA: Cara, eu chego, eu bato na porta. Eu não sei se ela tá trancada
+[01:12:28] MatosS: Vou lá. Tá trancada, vou lá abrir
+[01:12:33] ladeiraA: Óia, já, já economizei três moeda. Que bom, hein? Fico feliz. Toca seus bolo
+[01:12:39] MatosS: Novo dono, novas regras, falei pra ele
+[01:12:43] ladeiraA: Tá aqui seu bolo. Faça bom proveito
+[01:12:46] MatosS: Obrigado. Peguei, segurei os dois bolo e tô indo pra, pra mesa. Aí eu falei: "Mas como que ela fez tão rápido?"
+[01:12:51] ladeiraA: [ruído]
+[01:12:52] huberling: Belém
+[01:12:55] ladeiraA: Eu, eu coloco a mão na boca: "Shh, segredo de confeiteiro".
+[01:13:04] ladeiraA: O importante é que tá na mão
+[01:13:09] huberling: O match tá mais gostoso que os outros porque tem-- ela colocou pedaços de chocolate dessa vez
+[01:13:18] MatosS: Ah, comprei tanto bolo que o nível da confeiteira aumentou
+[01:13:20] huberling: [risada]
+[01:13:21] ladeiraA: [risada]
+[01:13:25] ladeiraA: Só os quatro
+[01:13:26] huberling: Daqui a pouco, daqui a pouco ela tá fazendo uns creme a mais aí no meio
+[01:13:31] ladeiraA: Daqui a pouco os bolo tá dando b-- eu falo: "ó, só pera aí". Eu, eu, eu vou pego um pedaço assim, um pedaço até que generoso assim, boto num, num pratinho, eu vou lá fora da, da torre e deixo em cima da cerca
+[01:13:32] MatosS: [ruído]
+[01:13:48] huberling: Tá beleza
+[01:13:49] MatosS: Caralho
+[01:13:53] huberling: Ok.
+[01:13:57] Oto: Tudo bem?
+[01:13:57] huberling: Coltoi?
+[01:13:58] ladeiraA: É, eu vou voltar. Eu falei: "E aí, cê, cê tá estudando o livro? O negócio que o Arcavel deixou pra, pra você, que que cê..."
+[01:14:06] MatosS: [ruído de microfone] Não, não, não, não é uma lida, mas é uma coisa básica, básica, coisa simples. Não se preocupa. Não dá nada não, também não exagera
+[01:14:11] ladeiraA: Tão simples, eu consigo usar os portais dele? Ah, tá. Então tá bom. Só pra mim ter uma medida, só pra mim ter uma medida
+[01:14:17] Oto: [riso]
+[01:14:22] MatosS: Mandei a foto atual do Glim lá depois de comer um monte de bolo
+[01:14:27] Oto: [pausa]
+[01:14:28] MatosS: Boa tarde. [riso]
+[01:14:29] huberling: O Green gordo, Green gordou. [riso] Ééé, o Green gordinho. Podia ter deixado ali manchado de chocolate na boca também. Muito bom
+[01:14:33] Oto: [risada]
+[01:14:34] MatosS: [risada]
+[01:14:45] ladeiraA: É, e, e que que cê tá fazendo mesmo que cê falou? Perdão
+[01:14:45] Oto: [ruído]
+[01:14:50] MatosS: Continuo estudando, sempre estudando, sempre aprimorando minhas já magníficas habilidades
+[01:14:57] ladeiraA: É
+[01:15:01] ladeiraA: Ó, ó, o Arcavel não tá, né? Eu olho pros lado assim só pra confirmar, né, vai que, né, ele aparece aí do nada. Eu sei de um segredo do Arcavel
+[01:15:12] MatosS: Tem a sobrancelhada segredo? Que segredo? O cavaleiro tem muitos
+[01:15:17] ladeiraA: É, deve ser só um deles. Mas então, é que não é o-- eu descobri que não é Arkavel, é Arkaveys
+[01:15:27] MatosS: Hum, explique-se
+[01:15:31] ladeiraA: É, eu não sei, ainda não enten-- ele já tentou me explicar, mas eu não entendi ainda. Não sei se é irmão, se é tio, se é primo, mas tem um monte de gente igual ele que ele deixa guardado
+[01:15:40] MatosS: Você já foi embora?
+[01:15:40] huberling: Sabe lá, ô. Ô César, cê sabe lá
+[01:15:45] MatosS: Ele deixa claro
+[01:15:46] ladeiraA: E eu sei lá. Ééé, tenho tudo guardadinho lá
+[01:15:50] MatosS: Cruzei os braços assim, eu falei: "Oxe, cê não tava bêbado, não?"
+[01:15:56] ladeiraA: Ó, eu, eu acho-- e agora é a dúvida, se eu tava ou não, mas eu, na minha cabeça tem um caminho. Cê quer me seguir? [riso]
+[01:16:00] Oto: [risada]
+[01:16:06] MatosS: Nossa cabeça assim, eu não sei não, hein? S-- é, tenho medo de ficar andando muito nessa torre aqui, o Arkavel é maluco. Mas se cê for na frente eu vou
+[01:16:08] Oto: [ruído]
+[01:16:16] ladeiraA: É, acho que, acho que tá bom então. Vamo, vamo lá, vai ser legal. Eu vou-- e vamo lá, Bruno. Tá no [ruído de microfone]
+[01:16:17] Oto: [ruído]
+[01:16:22] MatosS: Olha aqui
+[01:16:26] huberling: Beleza, você chegou ali onde era a mesa, né, que é, ela vai ter que virar a escada, né? Você chegou ali onde era a mesa, você fez a mesma coisa que o Arcavel fez naquela vez. É algo simples, né, porque ele modifica isso aí a cada três segundos. A mesa entrou no chão e o chão de repente começou a descer e virou uma escada em espiral
+[01:16:30] ladeiraA: [ruído]
+[01:16:37] ladeiraA: [ruído]
+[01:16:45] ladeiraA: Poucas pessoas Eu tenho certeza que cê não sabia fazer isso, viu? Aham
+[01:16:51] huberling: Que não vai pro primeiro andar, porque cês tão no segundo, né? Deveria ir pro-- ele deveria ir pro primeiro
+[01:16:58] MatosS: Eu falei: "É lógico que eu sabia fazer, que eu respeito a privacidade do Arkamel, mas já que você insiste que a gente vá ver, então
+[01:17:05] ladeiraA: Eu acho que eu consigo usar os portões da ca-do arcadão
+[01:17:10] huberling: Desceram? Matias, tem um monte de Arkavel, um monte de Arkavel deitado, né, o corpo completamente preservado, nenhum deles aparenta tá respirando, todos com os braços cruzados, ééé, todos vestidos, é, mas é um, uma vestimenta simples e [ruído]
+[01:17:12] ladeiraA: Vê se
+[01:17:32] MatosS: Como se fosse um, como se fosse uuum mausoléu assim? Tipo, como se fosse assim, um monte de-- um necrotério, tipo um monte de ar-- de corpo de arcavel estocado aí, tipo isso?
+[01:17:42] huberling: Ééé, assim, você que tem conhecimento arcano, né? Ééé, ele, ele usa isso como receptáculo, né? Caso ele morra, a alma dele volta num corpo desse
+[01:17:55] MatosS: Aí eu cocei a cabeça assim, eu falei: "Eita!"
+[01:17:59] ladeiraA: Cê viu? Falei pra você que a família dele é grande, olha o tanto que tem aqui
+[01:18:03] MatosS: Ééé, que coisa, hein? Bom, tá bom, mas não é melhor, não fala pra ele que cê me contou não, deixa isso aí. Um dia eu conto pra ele que eu sei. Tá bom não, peraí
+[01:18:15] Oto: [ruído]
+[01:18:15] huberling: [riso] Aquele momento: agora a gente sabe, se a gente quiser matar o Arkavel, tem que primeiro matar tudo que tá aqui
+[01:18:15] ladeiraA: Alô, é?
+[01:18:22] MatosS: É, melhor não, não, não mexer nas coisas do Orcavel não, hein?
+[01:18:28] ladeiraA: Eu, eu só, eu só a hora que eu tô su-- na hora que a gente tá subindo de volta, eu falo assim: "será que dói ficar ali?"
+[01:18:35] MatosS: Não, não, não, não. Aquilo ali são, são clones. Ééé, são cópias dele, não é a família, não, pô. É, são cópias dele pra caso ele morrer, eee a alma dele vai direto pra aquele corpo ali e ele ressuscita automaticamente. Por isso que ele deve ser muito velho
+[01:18:53] ladeiraA: Entendi, até de velhice. Então ele morre de velhice e volta ali também
+[01:18:57] MatosS: É, eu acho que sim. Já subindo lá em cima, eu falo: "Ó, mas deixa eu te falar uma coisa. Importante, hein? Importante, presta atenção. Abaixa aqui, baixa aqui, baixa aqui". Peguei, coloquei a mão assim na cabeça dos-- as duas mãos assim do lado da cabeça do Creve assim, olhei nos olhos dele e falei: "Não conta pro Wakai". Falei: "Não conta. O Wakai é curioso e enxerido, ele vai querer mexer nesses bi-- nessas coisa e o Arkavan não vai gostar".
+[01:19:00] ladeiraA: Oi! Que coisa
+[01:19:10] ladeiraA: Dinheiro é dinheiro, não importa a fonte.
+[01:19:27] ladeiraA: Ah não, não, mostrar é mostrar, mexer não, mexer-- minha família me deu pouca educação, mas me deu alguma também, né? Não é pra tanto
+[01:19:31] MatosS: Não, isso não conta não
+[01:19:37] MatosS: É, mas você contou pra mim, fez certo. Tá certo, tem que contar pra mim tudo mesmo. Agora, por cá é leva [risada]
+[01:19:40] ladeiraA: Eu não te quero ver. [riso]
+[01:19:47] ladeiraA: Cara, eu vooou, eu, e, e, e Grinin, importante também, né? Outra coisa, outra pendência aí que a Arkavel deixou, tá escrito. E os nossos animal? Que que cê vai querer fazer com eles?
+[01:20:02] MatosS: Poxa, então, i-isso eu acho que vou falar pro Folha Seca levar eles, se o Folha Seca vim hoje aqui mesmo, né?
+[01:20:08] ladeiraA: Eu ti- eu tinha pensado em dar de comida pra igreja
+[01:20:14] MatosS: Ah, mas eles não aceitaram porque é presente que eles mesmo nos deu, né? Sei lá, falaram que ia ficar chato se a gente desse, sei lá. Porque a gente realmente não tem como cuidar disso. Toda hora a gente tá saindo, não tem como ficar alimentando eles
+[01:20:18] ladeiraA: É, amém. E vamos [som de bip].
+[01:20:25] ladeiraA: Mas se cê não falar que foi aquele, fala que é outro, uai
+[01:20:30] MatosS: Ah, enfim, eu-- dá pro Folha Seca, o Folha Seca leva eles e cuida deles e, e abate pra comer, sei lá. Vamo ver se ele vai querer também. É, senão
+[01:20:34] huberling: [ruído]
+[01:20:38] huberling: Pinta o bezerro de branco. Pinta o bezerro de branco por preto e fala que é outro
+[01:20:44] MatosS: É, senão, sei lá. Ou a gente faz outro churrasco amanhã e, e assa todos de uma vez. Quantos são? Quantos são?
+[01:20:48] ladeiraA: Não, beleza, exato. Olha a seriedade
+[01:20:56] huberling: Tem animal pra caramba. Não tem só, não tem só porco, tem cabrito, tem vaca, tem boi, tem de tudo, né?
+[01:20:56] ladeiraA: Vixe, tem pra caralho, né? Eu não lembro a quantidade não, isso já tem é muito
+[01:21:05] MatosS: Então, é, a gente não tem como cuidar de tudo isso
+[01:21:06] ladeiraA: Ter nego vai lá com os bicho. Pra cima. Ter nego vai pra cidade inteira ali
+[01:21:09] huberling: Tem as galinha, tem os bolo
+[01:21:11] MatosS: Pô, e aí, tá, tá na, tá no nosso quarto dimensional lá, Bruno? Onde que fica esse animal aqui?
+[01:21:16] huberling: Ééé, tu tá aquela porta que sai num ca-- que sai numa torre
+[01:21:16] ladeiraA: Aí está.
+[01:21:20] MatosS: Aham, mas e, mas essa, mas lá tem pasto, tem alguma coisa ou a gente tá alimentando eles tudo lá?
+[01:21:26] huberling: H-hm, vocês, vocês colocaram eles dentro da torre, vocês não saíram pro lado de fora, porque a torre não tem saída, ela não tem nem janela
+[01:21:29] MatosS: [ruído]
+[01:21:35] MatosS: Eu falei: "Então, ou então, então a gente paga alguém pra cuidar pra gen- da gen- pra gente." Do lado de, do lado de fora daaa, se a gente fizer um cercado, alguma coisa do lado de fora da torre, ô Bruno, dá pra fazer?
+[01:21:36] ladeiraA: [ruído]
+[01:21:40] ladeiraA: E como que a pessoa vai lá?
+[01:21:48] huberling: Então, mas cê não sabe nem que torre é essa, cês nunca acharam a saída da torre. Ah, já tem cercado, pô. Tem aquela cerquinha mal feita de cordinha. Cabe, ó o tamanho. Olhando no mapa aí é grande
+[01:21:51] MatosS: Não, não, não, a torre é essa agora do Arca Vel aqui na cidade
+[01:21:57] MatosS: Bom, cabe os animais ali? Fazer um curral ou alguma coisa? Tá, então, é, ô Lenã, entãooo, a gente sabe onde tem um carpinteiro aqui? A gente sabe onde tem um carpinteiro? Sabe onde tem um carpinteiro aqui, Bruno?
+[01:22:05] ladeiraA: Eu, eu olho pro Glim e falo: "Glim, você é muito empreendedor, é uma fonte de inspiração"
+[01:22:15] huberling: Carpinteiro? Qual é ooo, ooo, ah, vou falar, vou carpinteiro, né?
+[01:22:18] MatosS: O carro é grande, né?
+[01:22:22] MatosS: Então eu vou lá, vou, vou lá na casa do Caio. Ele deve tá trabalhando agora, mas vou falar com a, a esposa dele. "Eu vou lá, me siga os bons", falei pro Cris. Fechei a porta e, e chamei lá
+[01:22:27] huberling: Ele é assim.
+[01:22:32] Oto: [ruído]
+[01:22:35] huberling: Ok, esse soro tá ali o Carlos, é do outro lado da rua. Bateu a palma ali, deu um tempo, abriu a porta. "Oi, nossa, que, que prazer, por favor, entrem. Eu vou fazer um chá."
+[01:22:49] MatosS: "Não, não, é, é, vamo, vamo lá, Cleide". É a esposa dele, né? Ele falou: "Ééé, o Carlos tá trabalhando, eu imagino, né?"
+[01:22:53] ladeiraA: [ruído]
+[01:22:56] huberling: Sim, sim, ele chega tarde
+[01:23:00] MatosS: É, eee será que ele tem um tempo pra fazer um trabalho pra gente? E-eu não sei o valor, acho que ele já tá trabalhando bastante, né, mas
+[01:23:05] huberling: Claro. Não, claro, o que vocês precisam?
+[01:23:10] MatosS: Então, porque cê lembra que a gente ganhou uns presentes, né, um tempo atrás e ganhamos muitos animais. E o, e os animais tão, acredita? Tá lá dentro da torre. Eee, mas é muito apertado, não tem muito sol, né? Então a, a gente precisava de duas coisas: a gente precisava a-a fazer um, um celeiro, é, do lado de fora ali, no cercado. Eee, e aí eu também vou precisar contratar alguém pra cuidar dos animais pra gente, né?
+[01:23:34] huberling: Ah, se, se, se, se não tiver ninguém eu po-- eu poderia cuidar
+[01:23:40] MatosS: Já, cê já tá sempre aqui pertinho? Acho que não deve dar muito trabalho, não. E cê acha que ele consegue fazer o assoleiro?
+[01:23:44] ladeiraA: [ruído]
+[01:23:45] huberling: Cara, ela ficou superanimada. Ela tá bem feliz e bem empolgada. E consegue, claro, claro que consegue
+[01:23:54] MatosS: [ruído]
+[01:23:55] huberling: Eu vou, eu vou avisar ele
+[01:23:57] ladeiraA: Aí cê vê certinho quanto cê cobra por, por mês. Ok
+[01:24:03] MatosS: É, eu, eu fiz, levantei o dedo assim, eu falei: "Pera um pouco". Aí eu saí correndo, saí pela porta, corri até a Torre Bruno. Vou pegar ooo, o outro bolo e vou voltar com o bolo pra comer junto com o chá
+[01:24:04] ladeiraA: [ruído]
+[01:24:11] huberling: Beleza.
+[01:24:18] huberling: Beleza. [riso] Cara, ela tá superfeliz, empolgada, porque ela conseguiu um emprego, né? Ela, ela não trabalhava, ela ficava em casa. E o emprego é na frente da casa dela, então dá pra ela cuidar das criança, fazer o trabalho tranquilamente
+[01:24:19] Oto: É o gordinho? Gordinho
+[01:24:23] ladeiraA: [ruído]
+[01:24:23] MatosS: [ruído]
+[01:24:31] MatosS: [ruído]
+[01:24:36] ladeiraA: É pra botar a criança pra dar comida pros bicho, né? Tox
+[01:24:40] huberling: Ééé, e já era. Tá, tá top. Cara, ela foi fazer um chá pra vocês, fez o chá, sentou felizona, ficou até com vergonha de pegar o bolo porque isso é caro pra caramba. As crianças-- então, as crianças tavam ali também. Ela serviu as crianças um pedacinho de bolo, mas cê tá ligado aquela cara de mãe de não pede de novo?
+[01:24:50] ladeiraA: [ruído]
+[01:24:52] MatosS: Então falei: "Ele também vai pegar um pedaço pro, pro Carlos também"
+[01:24:57] ladeiraA: [ruído]
+[01:25:03] ladeiraA: Também se parece muito com o que você está explicando, verdade
+[01:25:04] MatosS: [riso] Não, não, não é. Eu ofereci pras criança aí, ó, comer à vontade. Aí eu falei: "Só deixa um pedaço pro pai de vocês, hein?" Ó lá, eu falei, fiz a, fiz a, fiz aquele, tipo assim, dois dedos no olho assim, apontei pras criança assim, ó: "Vou perguntar pro Carlos se vocês vão comer o pedaço dele depois, hein?"
+[01:25:09] huberling: [ruído]
+[01:25:22] huberling: Cara, a mi-- a menina veio te abraçar, o menino também, tipo, super feliz assim. Ééé, olha, eu não sei como, como agradecer vocês de verdade. Vocês, sabe, salvaram a gente do-- o, o Carlos, é, ele trabalha demais e com o cansaço eu, eu achava que eu ia perder ele
+[01:25:45] ladeiraA: Ele disse que acho que eu acho que eu imagino que eu não estou entendendo. Ele disse que ela fosse se juntar com ele, mas nunca volta a fazer aquilo.
+[01:25:48] MatosS: Não, fica tranquila, você, cê já vai ajudar a gente cuidando dos animais e o Carlos vai fazer o celeiro pra gente. E é isso aí
+[01:25:54] ladeiraA: Eu sei, eu já tinha visto
+[01:25:58] ladeiraA: Obrigado por informação.
+[01:26:00] huberling: Ela deu-- assim, lacrimejou, mas não chorou, tá ligado? Ééé, a filha ficou abraçada com ela quando ela começou a querer lacrimejar. E o menino tá querendo brincar com as arma dooo, do César ali, tá tentando pegar na, a, na, na corrente, tentando brincar com corrente, tal
+[01:26:17] Oto: Eu quero pegar na espada do César
+[01:26:20] ladeiraA: Lá ele. Cuidado, uai, quando cê machucar com isso aí é...
+[01:26:25] huberling: Ele não tem espada. Ééé, bom, ele tá ali tentando mexer com a corrente, tentando ver, aí ele pega umas cordinha lá e fica fingindo que é as corrente do César, que ele também luta igual o César, essas coisas
+[01:26:42] huberling: Ééé, o celeiro você quer aberto ou fechado?
+[01:26:43] ladeiraA: Conta!
+[01:26:51] MatosS: Eu, eu, hããã, não sei, eu nunca cuidei de animais. Que que é melhor?
+[01:26:58] MatosS: Acho que meio aberta e meio fechada, assim cê pode tomar sol e pode se proteger da chuva
+[01:27:03] huberling: É porque como vai ser nessa, nesse circular e eu me lembro que tinha muito animal, eu acho que fechado pra todos, você vai ficar sem espaço pra iluminação. Mas também não pode deixar também tudo aberto, porque se chover também, coitados dos animal, né? Eu vou conversar com ele
+[01:27:18] MatosS: É não pode
+[01:27:20] ladeiraA: [ruído]
+[01:27:22] MatosS: É, não pode. Cê sabe que o arcavel é meio chato, né? Não pode atrapalhar o arcavel, hein? Tem que fazer, não pode, sei lá, deixa a parte da frente ali da porta pelo menos, né? Sempre
+[01:27:26] ladeiraA: [ruído]
+[01:27:29] huberling: Claro, senhor.
+[01:27:30] ladeiraA: [ruído]
+[01:27:34] huberling: Ah, eu vooou, eu vou pedir pra ele colocar algumas placas de "não perturbe", aí o Arkavel vai gostar da construção
+[01:27:40] ladeiraA: [ruído]
+[01:27:41] MatosS: Hum, é verdade, doida mesmo. Isso é verdade
+[01:27:45] huberling: Pode deixar
+[01:27:50] huberling: Ok. Bom, cês tomaram chá, comeram bolo, tá dando final da tarde, cara
+[01:27:52] ladeiraA: [ruído]
+[01:27:57] ladeiraA: No desenvolvimento das [ruído]
+[01:27:58] MatosS: Olha, eu-- logo que a gente conversou, eu vou voltar pra, pra torre, vou me despedir aí e falar: "Ó, eu tenho que voltar a estudar algumas coisas". A gente tem sempre muita coisa pra fazer, né? Mas, é, qualquer coisa que você, que o, que o Carlos precisar, cê fala pra ele me chamar, gente. Você pode-- fala pra ele colocar ooo, comprar o material em Haverno em nome dos Magníficos, que eu passo pra pagar. E se ele precisar contratar alguém pra ajudar ele também, pode contratar, porque a gente precisava disso rápido, assim, porque os animais vão estar lá dentro, né? Então era bom talvez ele contratar uma, duas, três, não sei quantas pessoas pra ajudar ele.
+[01:28:02] ladeiraA: [inaudível]
+[01:28:06] huberling: [ruído]
+[01:28:17] ladeiraA: E ele perguntou a um de seus filhos: "Quem quer me proteger? Eu não matei o seu irmão."
+[01:28:19] huberling: Não, pode, pode deixar. Pode deixar. Tá legal
+[01:28:25] ladeiraA: [ruído]
+[01:28:36] huberling: Tá bem. Pode deixar, eu aviso ele. Muito obrigado. Beleza. Eles saíram, foram pra casa de novo, não deu 10 minuto, bateram na porta
+[01:28:41] MatosS: Combinado. Vou sair
+[01:28:43] ladeiraA: [ruído]
+[01:28:51] MatosS: Vou lá, amigo
+[01:28:54] huberling: Como eu falei
+[01:28:55] Oto: Ainda bem que eu não tô mais nesse, nesse, nesse castelo aí véi
+[01:28:58] MatosS: É o, é o Folha Seca? Opa, quanto tempo, hein? E-entra aqui
+[01:28:58] huberling: Sei que eu falei seco. E aí, Guinho? Ele tá com a cara de um bicho
+[01:29:06] huberling: Com licença
+[01:29:10] huberling: Fechou?
+[01:29:12] MatosS: Não é espiral afinal de 24 anos
+[01:29:13] ladeiraA: Só, só rapidinho, só pra avisar que nós saiu da casa da mulher lá, a gente falou que tinha coisa pra fazer, eu fui pra taverna, tá? Tomar uma cervejinha. Não, não tem problema nenhum, só pra, só pra avisar que eu não tô junto
+[01:29:22] huberling: Tá, beleza, foi mal. Eu já passo pra você então, César, deixa que eu
+[01:29:22] MatosS: Olá, tudo bem?
+[01:29:29] MatosS: Acho que não tem mais bolo, senão eu te oferecia, a gente comeu tudo. Mas, é
+[01:29:33] huberling: Não, obrigada. Não dorme comigo, vou arrumar na minha
+[01:29:37] MatosS: Aqui. Viu como a casa da casal tá bonita agora? Não sei se já tinha entrado aqui. Já tinha entrado aqui?
+[01:29:37] ladeiraA: [ruído]
+[01:29:43] ladeiraA: Ok.
+[01:29:43] huberling: Eu entrei sim da outra vez, realmente tá bem diferente, muito bonito. Tá realmente muito diferente, os móveis são melhores, muito bonito
+[01:29:47] MatosS: É? É.
+[01:29:53] MatosS: É então. Ééé, tá, calma aí, deixa eu pensar um pouco aqui
+[01:29:55] ladeiraA: Nós estamos agora com 3.607
+[01:30:00] ladeiraA: [ruído]
+[01:30:02] MatosS: Ééé, tem um as-- é um assunto meio delicado pra falar com você
+[01:30:06] ladeiraA: É claro que tem algumas questões gerais aqui
+[01:30:07] huberling: Você tem? Se importa seu beber? William puxou o cantil dele. Você quer um pouco?
+[01:30:10] MatosS: Não, não. Desculpa. Então cê parece meio, cê parece meio abatido. Desculpa nem ter perguntado antes, né? Se é com relação ao, aos rangers sumidos?
+[01:30:12] ladeiraA: Obrigado. Continuando, meu pai dizia, ele dizia: "Seu dever é proteger meio milhão de brasileiros que devem a vida deles a vocês. Não podemos desistir agora." Mas também podemos agradecer aos nossos muitos companheiros que estão junto conosco. Então sempre, sempre é só chance. E nós agradecemos por esse momento de fazer
+[01:30:22] huberling: É, umaaa amiga nossa desapareceu. A gente fez buscas, mas sem resposta
+[01:30:35] MatosS: Baixa a cabeça meio triste assim e: "Desculpa eu não ter conseguido ajudar você, eu sei que eu prometi que eu ia te ajudar, mas é, é muita coisa, a gente parece que tá sempre se correndo contra o tempo".
+[01:30:46] huberling: Não, tudo bem. De qualquer forma, nem passou o quê? Nem alguns dias. Ééé, a gente não esperava que fosse acontecer numa região próxima, mas aconteceu. É, cê tem copo? Cê quer? Eu já aviso que é forte
+[01:30:51] ladeiraA: fazer isso sem apoiá-lo
+[01:30:52] MatosS: É
+[01:30:58] ladeiraA: [ruído]
+[01:31:03] MatosS: Ah, não, eu não costumo beber muito não, mas eu, eu vou buscar pegar um copo pra ele
+[01:31:03] ladeiraA: [ruído]
+[01:31:08] huberling: Não, eu não preciso, eu vou beber da minha garrafa. Tá, ele tá bebendo
+[01:31:10] MatosS: Ah, ok.
+[01:31:12] ladeiraA: Não é uma coisa que você tem que ter cuidado? Então, você vai fazer qualquer coisa por uma razão Sempre sendo desconfiadas. Não existe isso
+[01:31:14] MatosS: Então, ééé, cê sabe-- voc-- bom, foi você que me falou das, de algumas coisas que acontecia aqui no submundo da cidade, né?
+[01:31:23] ladeiraA: Eu queria perguntar, hein, velho, você não tá mais pra posição de terceiro, que é confiável? Os quatro nomes que o Rainn faltava mais, eram os que estavam com o maior aporte da Amiga Games. Tem a Amiga Games? Não, não tem não. Não tem.
+[01:31:25] huberling: [ruído]
+[01:31:28] MatosS: Eee, ô, quem tá com a TV ligada aí, gente? Mutei, é. Ééé, então, foi até vo-- justamente, foi até você que nos falou e, e, e aí é até uma questão que eu queria falar com você, porque você disse na época do Torque, né? Cê desconfiava do Torque. E você tem um motivo específico pra você desconfiar do Torque? Você-- tipo assim, era uma desconfiança ou cê tinha certeza? Porque assim, de tudo que a gente conseguiu investigar até agora, não parece que o Torque tá envolvido com essas coisas ruins, vamos dizer assim, da cidade, sabe?
+[01:31:32] Oto: [ruído]
+[01:32:09] huberling: Bom, ééé, são os comentários que eu ouvi dentro da minhaaa, do meu grupo, ééé, de-- e fica difícil acreditar que ele não saiba, já que tudo acontece debaixo do nariz dele, né?
+[01:32:09] MatosS: [som de bolha]
+[01:32:26] MatosS: É então, o que a gente o-o descobriu foi o seguinte, que na verdade, de fato, ele sabe assim, ou ele, ele desconfia, né, de muita gente e tal, só que ele meio que desistiu de fazer alguma coisa porque houveram algumas mortes quando ele começou a investigar. Então, de fato, em partes você tá certo, ele sabe, mas ele acho que tava meio que de mão atada, não conseguia fazer muita coisa, com medo de, da população sofrer represálias desse, esse submundo da cidade
+[01:32:56] huberling: [ruído]
+[01:32:56] MatosS: Pelo menos é o que a gente descobriu e que eu acho que eu acredito até agora, né?
+[01:33:02] huberling: Bom, então é mais triste do que eu imaginava, porque é um homem que deixa de fazer o seu papel que deveria fazer por medo do oposto, que é justamente tudo aquilo que ele não acredita
+[01:33:21] MatosS: Então, e dito isso, é um assunto, acho que um tanto delicado, principalmente agora depois que você disse isso, o que eu tenho pra te dizer, porque a gente obteve algumas informações de que existem alguns rangers também envolvidos nesse submundo da cidade
+[01:33:43] huberling: Isso não é nenhum tipo de surpresa pra mim
+[01:33:48] MatosS: Hum. Então, é, mas, e você sabe o motivo? Porque, né, eu, eu acho que talvez tenha, não sei, talvez tenha um bom motivo pra isso. Eu-- pelo menos a minha esperança é essa
+[01:34:05] huberling: Tudo que envolve a escória, não existe bons motivos
+[01:34:13] huberling: Ou você elimina a escória, ou você se alia à escória, ou você finge que a escória não existe
+[01:34:25] huberling: As duas últimas opções não têm motivos bons
+[01:34:32] MatosS: É, eu falo com a cabeça meio baixa assim porque [riso] lembrando do meu passado. [riso] Mas
+[01:34:39] huberling: Ao invés de pensar sobre motivos bons, seriam mais motivos de sobrevivência talvez. Ou se
+[01:34:50] MatosS: É, foi isso que eu quis dizer
+[01:34:53] huberling: Ou que são pessoas tão escória quanto o restante. Eu vou ser bem sincero com você, no meu meio, assim como no seu e assim como no de qualquer outro, existem pessoas de índole não tão boa, que não se importam com certas situações
+[01:35:17] huberling: Mas ao mesmo tempo, existem pessoas que não é que não se importem, mas a índole não é boa o suficiente pra poder transitar dos dois lados da moeda
+[01:35:35] MatosS: Uhum. É, o que eu, o que eu ouvi é que essa arena que tem na cidade, ela usava animais e depois que parece que algum Ranger ou alguns Rangers se envolveram, ela parou de usar animais. Então eu imagino que talvez uma das motivações tenha sido essa. É
+[01:35:37] huberling: [som de engolir]
+[01:35:56] huberling: Essa foi a motivação pra que eles não fossem excluídos do meio dos meu, do, do meu grupo. Quando eles se aliaram inicialmente, não tinha nenhuma coisa a ver com isso. E quando nós descobrimos, porque eu sei quem são, nós demos esse ultimato. Então se eles queriam participar de algo tão nojento, que pelo menos fizessem algo de bom. Nós não poderíamos lutar com a colonização, isso estava fora de questão. Então pelo menos usamos os
+[01:36:06] MatosS: [ruído]
+[01:36:12] MatosS: [ruído]
+[01:36:23] MatosS: Eu sou o esquecido
+[01:36:40] huberling: podres pra resolver um assunto
+[01:36:44] MatosS: Certo, faz sentido. Bom, mas então tem uma questão difícil aí com relação à índole deles mesmo, né? [ruído de microfone]
+[01:36:53] huberling: E é por isso que eu sei o que eu sei. É por isso que eu achava que o capitão da guarda era corrupto
+[01:37:03] MatosS: Bom, eu, eu acredito que você está errado nisso e eu espero muito que você esteja errado nisso, não é verdade? Ééé, porque tá pra acontecer algo muito grande e, e pelo que você disse, o seu apoio vai ser essencial pro que tá pra acontecer. Ééé, a gente tá colocando um grande, bem grande plano em movimento. Amanhã a gente vai dar um golpe bem forte nesse submundo da cidade, se tudo, né, der certo. Eee uma das coisas que a gente precisa garantir é de que a informação do que acontece-- do que vai acontecer, não, não chegue nos aliados deles. Ééé, porqueee eu vou, vou, enfim, vou ser sincero aqui, né, como eu fui. Ééé, existem alguns grupos na cidade relacionados a esse submundo. Então existe o grupo da guarda, existe o grupo da arena e existe também um grupo fora da cidade que é da Vila Goblin, que também tá envolvida nesse mesmo-- são todos aliados, né? E você deve saber, metade da guarda tá em viagem, que saiu com o prefeito, né? Ééé, mas na verdade, o prefeito tava, de certa forma, envolvido. Eu não vou entrar muito em detalhes aqui, mas, ééé, e, hã, eu baixo a cabeça assim
+[01:38:19] huberling: Tchau.
+[01:38:34] MatosS: Bom, o prefeito, na verdade, nem tá mais vivo. Eles saíram da cidade pra ter uma desculpa pra m-morte do prefeito
+[01:38:45] MatosS: É. E, e aí a gente não quer
+[01:38:45] huberling: Hum. Alguém descobriu tua organização e matou ele?
+[01:38:52] MatosS: É, cocei a cabeça assim: "É, isso meio que foi a gente"
+[01:38:58] MatosS: Com a ajuda do Orcavel. Ééé... Então, eee, e aí então, bom, voltando. Tem esse pessoal que tá fora da cidade, metade da guarda tá fora da cidade, metade dos corruptos, mas ainda tem vários aqui. Mas o Torque garantiu que vai cuidar dos corruptos que tá na cidade, ele mesmo. Ele tem um plano muito bem elaborado pra fazer isso. Eu tô confiando que vai dar certo e que ele é, obviamente, de fato confiável. Em paralelo a isso, nós vamos atacar a arena junto com alguns membros da Igreja. E a nossa ideia é garantir que ninguém fuja, a gente tem plano também pra isso, mas resta essa ponta solta dos rangers que estão envolvidos. A gente tem o receio-- na verdade, esse é um do-- e-esse é o primeiro ponto, né? A gente tem o receio de que talvez eles avisem os guardas que estão fora da cidade eee-- ou os goblins, né, que são fora da cidade, né? E que aí eles poderiam fazer um ataque, enfim, eles já não estariam mais surpresos, eles poderiam fazer um ataque mais eficaz contra o que vai restar da guarda, né, porque não vai ser muita coisa, e, e a Igreja e nós, etc, né?
+[01:39:48] Oto: [ruído]
+[01:40:18] huberling: Deixa eu ver se eu entendi, porque alguns fatos que você tá cuspindo não tão muito perfeitos. Os goblins que estão fora fazem parte da mesma organização junto com quem tá ali na parte da arena, junto com os membros dos rangers, mais o prefeito da cidade, mais uma boa parte da guarda. Entendi. E vocês vão eliminar a guarda da cidade mais a organização do mundo. E aí vocês vão ter duas complicações, que são os goblins e a guarda que tá chegando
+[01:40:26] MatosS: [ruído]
+[01:40:32] MatosS: [som de engasgo]
+[01:40:37] MatosS: Eu aguardo. Exato
+[01:40:46] MatosS: É, metade da guarda pelo menos, é, só da arena
+[01:40:57] MatosS: Exato
+[01:41:00] huberling: Quantos homens vocês têm?
+[01:41:04] MatosS: Hã, dei uma respirada assim. Não, não muitos. Digo, somos nós, os Magníficos, eee alguns membros da igreja e os membros que vão sobrar da Guarda, que não são muitos
+[01:41:18] MatosS: Eu diria que se enfrentarmos só a, a guarda restante ou só os goblins, provavelmente estamos em números iguais. Agora, se enfrentarmos os dois, eles estariam pelo menos dois pra um, de talvez
+[01:41:35] huberling: Eu não sei sobre o poderio dos goblins, mas eu conheço alguns membros da guarda que estão fora. Eu diria que eles têm sozinhos uma certa vantagem de vocês
+[01:41:50] MatosS: Então claro que disse que tem alguns deles bem competentes
+[01:41:50] huberling: Eu... É, eu vi, eu vi vocês lutarem, né? Tive esse, esse vislum da-- de ver vocês em combate. Então, eu
+[01:42:04] MatosS: [riso] Ele não viu não, quem foi foi o Hunter, cara. [riso] O Hunter conta pra ele. É. [riso]
+[01:42:06] huberling: Ah, foi o Hunter. Eu ouvi falar, hein, cara. Eu ouvi falar sobre o combate de vocês e ooo, e o desastre que foi. Ééé
+[01:42:17] MatosS: Aquela não foi o melhor exemplo das habilidades do Kraven, eu confesso. O Kraven é mais eficiente que aquilo normalmente
+[01:42:25] huberling: Bom, e também fiquei sabendo da luta do Kraven na taverna que foi meio que humilhante
+[01:42:31] MatosS: É, aquele também não é mole não [riso]
+[01:42:35] huberling: [riso]
+[01:42:38] MatosS: [riso] Daí eu falei: "Não, pai, eu confio. O Magnífico assina embaixo que o Kraven vai dar conta dessa vez". [riso]
+[01:42:45] huberling: [riso] Mas foi todas as lutas que ele teve, foi uma mais humilhante que a outra, né? Ééé, bom, é, baseado do que eu s-- do que eu ouvi falar, eu diria que a guarda tem mais chances contra vocês do que vocês contra eles. E baseado nos goblins, eu já não sei dizer, porque eu não conheço realmente a força deles
+[01:43:09] MatosS: Mas por isso é mais importante ainda que a gente mantenha o elemento surpresa, né? Assim a gente consegue ter alguma tipo de vantagem. E aí entra a segunda parte do, do que você poderia nos ajudar, né? Depois do, da empreitada de amanhã, é, depois que a cidade no momento estiver limpa, é, a, nós precisaríamos da ajuda dos rangers pra escoltar a região e verificar quando os soldados estiverem voltando e avisar a gente, né? Pra gente ter algum margem de tempo
+[01:43:39] huberling: Quais são as rendas que estão do lado deles?
+[01:43:43] MatosS: Aí eu vou buscar nas minhas, minhas coisa aí a, a anotação, Bruno. É
+[01:43:48] huberling: E vai dar os nomes. Eu vooou oferecer uma proposta
+[01:43:53] MatosS: Hum
+[01:44:00] huberling: Nós, os membros da floresta, vamos resolver a guarda sozinhos, sem ajuda, sem vocês, sem ninguém. Exato. Em contrapartida, esses seis nomes vão ser esquecidos. Esse assunto nunca ocorreu, eles nunca fizeram parte de absolutamente nada e nunca estiveram vinculados a absolutamente nada
+[01:44:12] MatosS: Aos guardas que tão viajando?
+[01:44:19] MatosS: Hum
+[01:44:39] MatosS: Respirada assim, eu falei: "bom". E
+[01:44:43] huberling: Se vocês não aceitarem
+[01:44:47] huberling: Eu tenho praticamente certeza que a chance de vitória de vocês é muito baixa
+[01:44:53] MatosS: Você
+[01:44:57] MatosS: Pra que eles não, é, é, bom, eu, eu-- que a decisão não é exatamente minha, né, cê sabe, mas eu posso falar a favor disso pro TORC, depois que tudo terminar, enfim, pras autoridades, né? Ééé, mas cê acha queee-- sim, mas, mas, mas assim, mas você acha queee, hã, não sei, é justo isso pra você? Digo, cê acha que eles não participaram tanto assim, digamos assim? Eles não, não sei. Ou você vai dar algum tipo de punição pra eles?
+[01:45:11] huberling: Eu queria a resposta antes, porque
+[01:45:27] huberling: [som de água]
+[01:45:33] huberling: [som de fundo]
+[01:45:37] huberling: [som de água]
+[01:45:37] MatosS: Eu diria que isso só soa melhor na negociação, em vez de falar que eles serão esquecidos e não serão punidos, dizer que eles sofrerão a punição do seu próprio grupo, da sua própria comunidade.
+[01:45:51] huberling: O seu grupo recebeu alguma punição ou simplesmente o Arcavel trouxe um pedido de clemência do próprio rei e fez com que tudo desaparecesse? Eu estou pedindo a mesma clemência
+[01:46:09] MatosS: O inhofe que eu já nem lembro mais do que pra que, por que que foi o-- ah, foi por causa que eles mataram o Gnoll, né?
+[01:46:13] huberling: Ééé, eu estou pedindo o mesmo nível de clemência. Eu não vou
+[01:46:18] MatosS: Ah, eu, eu entendo, mas é que assim, é, é just-- o que aconteceu, assim, não, não querendo defender, mas o que aconteceu com meu grupo foi justamente que a gente matou um criminoso, né? Claro, foi-- não foi exatamente dentro da lei, mas não era um inocente, né? É, agora eu, eu
+[01:46:33] huberling: Mas qual foi a coisa que eles prometeram? Você sabe me dizer quais são?
+[01:46:38] MatosS: Não, exato, eu-- por isso que eu estou perguntando pra você, estou confiando em você, eu sou-- eu tô supondo que se você está me fazendo essa proposta é porque você acredita que eles, né, digamos que ainda têm salvação, né? Que eles não são tão-- têm uma índole ruim de fato, né?
+[01:46:53] huberling: Eu não vou mentir pra você, Magnífico, porque nós já nos conhecemos. Nós praticamente somos aliados. Então eu vou deixar bem claro, eu vou deixar bem claro uma coisa: eu não sei o que eles fizeram e eu não quero saber. E eu não vou julgar de forma alguma, porque perante a mi-- o meu grupo, a minha família, a minha casa, eles são os melhores possíveis. O que eles fazem dali pra fora não me diz respeito. Mas nesse momento, infelizmente, por culpa dessa situação, eu vou ter que defendê-los. E a forma que eu encontro é essa. Se vocês querem a nossa ajuda, ela vai ser dada dessa forma e eles participarão desse combate. Alexa, para. Se vocês não quiserem aceitar, nós não vamos ajudá-los. E eu também não vou impedir os Seito de fazer qualquer coisa que eles queiram fazer
+[01:47:03] MatosS: Uhum. E olha, eu, eu acho que ela sim conhece ela
+[01:47:11] MatosS: Uhum
+[01:47:20] MatosS: [ruído]
+[01:47:36] MatosS: [ruído]
+[01:47:47] MatosS: [ruído]
+[01:48:00] MatosS: Não, é, assim, não, é, não é nem porque você não tá me dando muita escolha, mas eu acho que faz sentido, sim, se você, ééé, se você-- se funciona dessa forma pra você, euuu garanto que eu vou ser bem incisivo com o Torque e fazê-lo aceitar essa, essa condição. Afinal, eu acho que tu-tudo é mais importante, né, a punição, enfim, é, é secundária ao fato de livrar a cidade desse mal, né?
+[01:48:35] MatosS: É, inclusive, assim, é, eu j-- a gente já fez um acordo muito parecido com esse, com, com outro grupo que tava envolvido, então não vejo por que de não fazer com, com você também e, e o que você tá propondo é um-- diria que é, é até mais, é um pagamento até mais sólido, né, do que o acordo anterior, então faz sentido
+[01:49:02] huberling: Eu vou ficar aqui pra receber a resposta, se não se importa, e encher a minha cara
+[01:49:08] MatosS: Tá, você quer, você quer uma garantia do, do Tark? Quer que eu vá lá agora? Tá. Eu posso, posso te procurar amanhã cedo, não pode ser?
+[01:49:15] huberling: Para exato
+[01:49:21] huberling: É que quanto mais rápido essa resposta vier, mais rápido eu vou me preparar, porque se eu vou lutar com aqueles homens, não vai ser apenas um combate. Eu vou ter que preparar muita coisa, vai ter que ser uma emboscada muito bem feita. Nós podemos ser muitos, e nós somos, mas há homens ali bem ruins
+[01:49:37] MatosS: Não me fode
+[01:49:46] MatosS: Não, tudo bem. Ééé, posso te encontrar só em outro lugar? Porque eu acho que se o Arkavel te encontrar aqui sozinho na torre dele, ele não vai gostar muito, sabe?
+[01:49:55] huberling: Eu ficarei do lado de fora da torre, sentado na grama. Algum problema com isso?
+[01:50:01] MatosS: Não, se não é um problema pra você, tudo bem. Eu já volto
+[01:50:06] huberling: Beleza, ele saiu com você. Cara, ele tá muito, ele tá muito abalado, né? Tanto que ele nuuum, não teve papa na língua, mas, ééé, cê percebe que há um ódio nele tão grande que não tem a ver com essa história. Não tem a ver com cês, não tem a ver com-- ééé a, seja lá quem for que ele perdeu. Cê vê que ele tááá, cara, ele tá, vamos dizer que ele tá até puxando pra uma felicidade, assim, alguns, alguns momentos quando ele falou, que ele abriu um pequeno sorriso, foi quando, tipo, ele falou que eles vão matar os cara. É como se, tipo, eu vou ter alguém pra descontar, tá ligado? Entãooo ele n-- ele tá bem abalado mesmo, cara, bem abalado.
+[01:50:18] MatosS: [som de água]
+[01:50:26] MatosS: [ruído]
+[01:50:42] MatosS: Não importa. Não.
+[01:50:50] MatosS: A gente sabe que o que ele perdeu era importante pra ele
+[01:50:52] huberling: Pra caralho, pra caralho. É nitidamente pra caralho. Ele vai, ele vai deitar na grama, ele vai nem sentar, ele vai deitar na grama e ficar bebendo deitado
+[01:51:02] MatosS: Tá. Pera aí, eu vou lá co-- eu não sei nem que horas são, se já tá mais tardezíssimo, tá? Sei lá, vou lá tentar falar com o [ruído de microfone]
+[01:51:07] huberling: Ah, umas oito já, umas oito já. Beleza, então cê foi. Cesar, cê chegou na taverna
+[01:51:10] MatosS: Vou tentar achar aqui
+[01:51:13] MatosS: [ruído]
+[01:51:19] huberling: Cezinha? Tá aí, Cezinha?
+[01:51:24] ladeiraA: Tô, eu tô falando mutado aqui. Novamente, como eu sempre digo, toda porta de bang bang, já chego na porta, entro com tudo. Voltei, falei que eu voltava. Como que tá aí? Tem bastante gente? Como que...?
+[01:51:37] MatosS: [ruído]
+[01:51:41] huberling: Agora tá com bastante gente, a galera tá bebendo, o pessoal começou a cantar, vão cantar a música dos Magnífico, só porque cê entrou
+[01:51:50] ladeiraA: Eu vou ach-- primeira coisa que eu vou fazer então é me juntar com eles pra cantar junto
+[01:51:55] huberling: Beleza. Então você tá lá cantando a música dos Marisco com os cara, todo mundo lá festejando, bebendo, tal. E aí você viu aaa, a mulher do Carlos entrando na taverna e indo conversar com a taverneira
+[01:51:56] ladeiraA: [ruído]
+[01:52:12] MatosS: [ruído]
+[01:52:13] ladeiraA: Certo. Assim, eu tô, tô meio de rabo de zóio assim, mas sei lá, na minha cabeça talvez seja normal isso, [riso] não sei
+[01:52:23] MatosS: Quem, quem, quem que tá falando que é a taverneira? Entendi não. Ah, é
+[01:52:23] huberling: Beleza. A Mune e o Carlos. É, é, é. A, ela abraçou ela, beijou ela, tudo, tal. Parece que as duas tão comemorando alguma coisa. Eee a taverneira chamou um dos menininho que fica ali, que cê pagou já a moeda uma vez lá pra fazer não sei o quê, eu não lembro nem o que que era. Aí ela chamou um dos menininho ali, os-- o menininho colou, falou os negócio pra ele, deu um, um-- alguma coisa pra ele, ele saiu pulando e saiu pra fora
+[01:52:26] ladeiraA: Tá vendo? Aquele acabou de arrumar emprego, não é?
+[01:52:59] huberling: A hora que cê vê ali, ali fora, dá pro cê ver ali da onde cê tá, ele juntou um monte de criança, conversaram entre eles e caiu cada um prum canto, se separaram
+[01:53:05] ladeiraA: [ruído]
+[01:53:14] ladeiraA: Cara, o, o Kraven tá tipo assim, ele ficou meio desconfiado, né? Num, num é normal isso acontecer, só que ele não vai sair dan-- ele é burro, mas não vai dar tanta bandeira assim também, tá ligado? Eu [ruído de microfone]
+[01:53:23] Oto: [som de interferência]
+[01:53:27] Oto: [ruído]
+[01:53:28] huberling: Beleza, a, a mãe do Carlos vai sair da taverna felizona
+[01:53:34] ladeiraA: Cara, ela sai, eu vou meio que saindo atrás dela e assim, eu vou seguir ela em direção à torre, caso ela vá pra outro caminho, é isso aí
+[01:53:39] huberling: [ruído]
+[01:53:47] huberling: Ela tá indo por outro caminho
+[01:53:51] ladeiraA: Tá, não, eu vou, eu vou em direção à torre mesmo, já tô-- bebi um pouquinho, né, imagino que isso não foi muito rápido que aconteceu tudo isso. Então eu vou direção pra torre e conversar com-- se eu encontrar o Glynn, [riso] eu vou falar isso pra ele.
+[01:54:00] huberling: Obrigado
+[01:54:02] MatosS: [som de interferência]
+[01:54:06] MatosS: [ruído]
+[01:54:12] huberling: Beleza, então cê vai pra torre. Cara, cê vai chegar na torre, cê vai ver o Folha Seca deitado na, na grama, bebendo, mas tipo assim, ele tá meio chateado porque ele tá tentando jogar mais bebida pra boca e não tem mais no cantil
+[01:54:30] ladeiraA: Ôôô, eu vejo aquilo ali e falo: "Ixe, rapaz!" Ah, ô Bruno, só posso ter feito só uma coisinha antes, enchido o barril de-- o barrilzinho que a meia me deu, enchi de novo pra, pra viagem. Eu, eu vou-- falei: "Ih, rapaz, essa se não é a maior, é uma das maiores tristezas de um homem, viu?" Eu pego o, o barrilzinho, faço assim, dou pra ele. "Fala, quem que, quem que deixou você aí do lado de fora? Vamos entrar, que falta de educação é essa?"
+[01:54:40] huberling: Tá de boa. Tá de boa
+[01:54:43] Oto: [som de água]
+[01:54:46] MatosS: [som de água]
+[01:54:50] MatosS: [ruído]
+[01:55:00] huberling: Ah, ele pediu pra me esperar aqui fora por culpa do Arkavel
+[01:55:09] ladeiraA: Vim? Vou, peraí
+[01:55:10] MatosS: Creio que tenha a cópia da chave, senão vai ficar pra fora também [risos]
+[01:55:15] ladeiraA: É, eu, eu vou, eu vou chegar lá na porta provavelmente, vou ba-- vou tentar abrir a porta, a porta tá trancada. Aí eu vou deitar lá do lado do Folha Seca. [riso] É, eu tô pro lado de fora também
+[01:55:15] Oto: [som de água]
+[01:55:18] huberling: [ruído]
+[01:55:25] huberling: [ruído]
+[01:55:29] huberling: [ruído]
+[01:55:35] huberling: Pelo menos dá pra olhar as estrelas. Daqui a pouco elas começam a aparecer de fato
+[01:55:42] ladeiraA: Ééé, tem alguma vantagem olhar as estrela? Que que muda ao olhar as estrela?
+[01:55:50] huberling: Calmaria no meio de tanto caos
+[01:55:55] ladeiraA: Ah, eu até que gosto de bagunça, viu? Eu acho que a calmaria que faz esquecer os problema. Ó, falei ao contrário, a calmaria faz lembrar dos problema, a bagunça cê tá focado em outra coisa
+[01:56:14] huberling: É, cê tá certo. Cara, ele virou uns golão do, da cerveja e passou procê
+[01:56:22] ladeiraA: Eu dou um golão também. Aí é o Levando meio que brincando sozinho assim, né, que ele
+[01:56:26] huberling: Tem o cuidado de não cair no breu. Ele só tá alto, mas não tá bêbado, mas tá alto
+[01:56:33] ladeiraA: Eu, eu meio que levanto assim o, o copinho, né? Ele não tem outro, né? Mas eu, eu falo: "Pelos problemas!" E dou um gole pra dentro. Cara, eu vou, eu vou meio que tipo assim, eu, eu conservo, vou conver-- começo a conversar com ele ali. Eu falo: "Mas e aí, qual que é a da cachaçada? Cê tem cachaça ou tem problema?"
+[01:57:00] huberling: Umaaa amiga de longa data, ela desapareceu sem deixar rastro
+[01:57:11] ladeiraA: E não tem esperança de achar?
+[01:57:14] huberling: Ela desapareceu perto de um local que vários outros rangers desapareceram, então não
+[01:57:24] ladeiraA: É, tendo a esperança tá baixo. É, eu, meus, meus pêsames, né? É isso
+[01:57:36] ladeiraA: Realmente nada tá fácil pra gente aqui dessa cidade. Achei que eu ia vir pra essa cidade arrumar um serviço tranquilo, mas só bucha, só bucha, só bucha
+[01:57:44] Oto: [efeito sonoro]
+[01:57:47] huberling: É o problema de cidade pequena. Todos os lados as coisas acontecem
+[01:57:56] ladeiraA: É, acho que o maior problema é que tudo nós tá envolvido, né? Tu-- nós assim digo, os Magnífico, né? Acho que se não fosse nós nesse lugar aqui, esse lugar estava parado, tinha nem graça essa cidade
+[01:58:08] huberling: Olha, quase que isso é culpa sua, né?
+[01:58:12] ladeiraA: É minha?
+[01:58:14] huberling: Você que não gosta de calmaria?
+[01:58:17] ladeiraA: Não, mas não precisa ser na porrada também, uma cervejada, a musiquinha. Aí eu cantarolo a música dos Magnífico lá que eu escutei na taverna
+[01:58:28] huberling: Acho que isso é uma ordem ter vindo pra essa torre. Ela atrai problemas
+[01:58:29] ladeiraA: Eu gosto?
+[01:58:36] ladeiraA: É, eu concordo. O, o Arkava é gente fina, mas um homem complicado. É o que falam, né? A idade deixa todo mundo ranzinza, né?
+[01:58:50] huberling: Quanto mais poder você tem, mais vai ser procurado
+[01:59:00] ladeiraA: Eu, eu tenho até medo, viu? Porque se sem poder eu já tô sendo tão procurado, imagina o dia que eu tiver algum poder
+[01:59:00] huberling: [ruído]
+[01:59:06] huberling: Você tá no centro de todo o poder? Eu não sei se tem alguma coisa que seja mais poderosa que o Arkavel que eu conheça
+[01:59:17] ladeiraA: É, eu tenho certeza que não. [riso] Pelo menos sobre o meu conhecimento. O homem-- eu falo que o homem é bizarro, o homem é bizarro
+[01:59:24] huberling: [ruído]
+[01:59:29] huberling: Bom, porque hoje é o dia do gato
+[01:59:30] ladeiraA: Além de poder, tem contato, tem tu-- só falta dinheiro, mas de resto
+[01:59:36] huberling: Eu acredito que deva ter muito dinheiro pra conseguir fazer tanta coisa
+[01:59:40] ladeiraA: Ah, Maytan, é que ele gasta muito também, né? Só o que ele gasta de bolo não tá escrito
+[01:59:49] ladeiraA: A, a, eu tenho certeza que se o, se o Arkavel sumir e atualmente o Glim sumir, a, a taverna fecha
+[01:59:58] huberling: É
+[02:00:02] ladeiraA: Mas
+[02:00:03] huberling: Eles rodaram vários com nós também
+[02:00:09] ladeiraA: O, o, o Grimm ficou viciado nesse bolo aí, mas
+[02:00:13] huberling: É que é muito bom, né? Vamos ser sinceros
+[02:00:16] ladeiraA: Então, tu ainda-- então, a, nessa cidade ainda tem coisas boas, né? Cara, eu novamente levanto a cerveja assim, novamente um brinde aos problemas e dou um gole aí e vou-- tô deitado aí olhando pras estrela. Tô vendo se eu entendo alguma coisa, assim. Provavelmente ele fica olhando, entendendo, olhando as constelação e eu tô tentando entender o que que ele tá vendo
+[02:00:21] huberling: [ruído]
+[02:00:40] huberling: Beleza. Cara, eu vou ficar falando coisas a ermos aí, né, porque eu tô muito chateado. Eu tô tentando ficar bêbado, mas ele tem um gosto tão bom, então ele vai ficar alegre, meio bebinho, mas não vai ficar bêbado não
+[02:00:49] ladeiraA: [ruído]
+[02:00:57] ladeiraA: Uhum
+[02:00:58] huberling: Quando isso, Mati, cê chegou, cê chegou lá na guarda, foi na guarda que cê foi?
+[02:01:06] huberling: Boa noite
+[02:01:08] MatosS: Opa, boa noite. Toc tá trabalhando ainda?
+[02:01:12] huberling: Ah, normalmente nesse horário ele já foi embora, mas como vai ter uns negócios amanhã que ele tá organizando, ele tá aí ainda
+[02:01:12] Oto: [som de bolhas]
+[02:01:18] ladeiraA: pela exercício social que a gente tem
+[02:01:18] MatosS: Ah, ele falou que vai ter uma galera que vai ser promovida aí, né? É, deixa eu só... Só cinco minutinhos só pra falar com ele, não vou atrapalhar ele muito não. Pera aí
+[02:01:22] huberling: É, vou parar por aqui
+[02:01:29] ladeiraA: [ruído]
+[02:01:29] huberling: Beleza
+[02:01:32] MatosS: Vou lá. Eu digo: "Esquema encosta a porta aí, cês, cês já tamo sozinho, senão espera ele pedir pra alguém sair"
+[02:01:34] huberling: [ruído]
+[02:01:41] huberling: Eu pedi-lhe
+[02:01:44] MatosS: [ruído]
+[02:01:45] huberling: Oi Glenn? O que te traz?
+[02:01:47] ladeiraA: [ruído]
+[02:01:48] MatosS: Ééé, vou ser rápido pra não chamar muita atenção, né? Ééé, os rangers, eles vão cuidar dos, do, dos guardas que tão fora da cidade. Vai ser um baita problemão pra gente a menos resolver depois que a
+[02:01:52] huberling: [ruído]
+[02:01:59] ladeiraA: [ruído]
+[02:02:04] ladeiraA: [ruído]
+[02:02:04] huberling: Esse é o, esse é o Lucas Batista
+[02:02:05] Oto: [ruído]
+[02:02:07] MatosS: É, depois de amanhã, a única coisa que sobra pra gente resolver é a questão dos goblins. Ééé, só tem uma questão, né? Óbvio que os rangers não vão fazer isso 100% de graça, né?
+[02:02:08] ladeiraA: E eu vou querer uma bicha aí que tá passando
+[02:02:20] MatosS: Ééé, dou uma gole seca assim, existe alguns poucos Rangers que tiveram algum tipo de envolvimento com o submundo aí. Eee, e aí fiz assim pra ele, né? Tipo assim: "Cê já, já pegou, né?" [riso] Tipo assim: "Eees querem que a gente esqueça essa situação com os Rangers em troca deles cuidarem dos guardas fora da cidade."
+[02:02:20] huberling: [ruído]
+[02:02:21] ladeiraA: Você precisa ter esse dinheiro para fazer uma boa campanha.
+[02:02:32] ladeiraA: [ruído]
+[02:02:46] huberling: A gente simplesmente esquece?
+[02:02:50] MatosS: É, eu acho que, eu espero, acredito que eles vão aplicar, talvez vão aplicar uma punição própria ali. César, vota aí, César. Eles vão aplicar uma punição própria, talvez, dentro da comunidade deles ali, que cê sabe que eles são meio isolados, né? Eee, e assim, não é como se a gente tivesse muita opção também pra que, sinceramente, a gente precisa deles, que se-- nem que, nem que eles não fossem resolver esse problema, a gente precisaria deles pelo menos pra fazer um reconhecimento da região, pra saber como os guardas tivessem voltando, etc, né? É o Otto agora que tá jogado. Otto, vota aí, Otto
+[02:02:53] Oto: [ruído]
+[02:02:55] ladeiraA: [som de água]
+[02:02:58] Oto: [som de água]
+[02:03:22] Oto: [ruído]
+[02:03:22] huberling: [ruído]
+[02:03:28] MatosS: É verdade
+[02:03:29] huberling: Mas é, é durooo. Hããã, a gente simplesmente vai perdoar os crimes do nada?
+[02:03:39] MatosS: Então, é que esse aí, a gente na verdade, a gente nem sabe quais, se, se o-- se eles em si cometeram algum crime, né? A gente não sabe qual foi a exata participação deles. Talvez eles tenham, parece que houve algum tipo de acordo pra que a arena não usasse mais animais, né, depois que os Rangers fizeram parte. Então talvez eles tenham colaborado de alguma forma simples, sei lá, ou de algum jeito pra que isso não acontecesse mais. Eu, eu, eu entendo, mas assim, a gente já fez esse acordo, não exatamente esse, né, mas um acordo muito parecido com os outros lá, né?
+[02:04:18] MatosS: Que inclusive usou
+[02:04:18] huberling: É, mas os outros vão pa-vão pagar de alguma forma, só vai ser uma pena um pouco mais leve, vamos dizer assim, ajuda comunitária ou coisas do gênero
+[02:04:24] MatosS: [ruído]
+[02:04:28] MatosS: É, então, ó, tem que ser algo bem leve, porque até eles vão ajudar a gente a garantir que ninguém da arena vai fugir também, sabe? E-eles co-- apesar deles te-terem dito inicialmente que não participariam do combate, eles aceitaram como boa vontade, né, justamente pra, vamos dizer assim, pra barganhar essa questão da-da, da pena leve, é, ajudar a gente nisso, que vai-- eles garantem que ninguém vai escapar pra avisar os goblins, né? E-e, e nem os guardas. E agora, se os rangers cuidarem dos guardas, a gente tem 80% do problema resolvido. A gente vai ter tempo, é, pra cuidar dos goblins, né? E-e aí, pra cuidar dos goblins, a gente consegue usar o que, enfim, se-- ou nós mesmos, os Magníficos, conseguimos fazer algum tipo de emboscada, etc., ou talvez a gente contrate algum ou alguns dos rangers pra fazer um reconhecimento pra gente, ajudar nas emboscadas. Talvez a igreja ajude, talvez você ajude com o que sobrar da guarda, enfim, fica s-- uma situação muito mais controlada, né? Você mesmo disse que os outros membros da guarda que tão em viagem, eles são perigosos, né? São bem eficientes. E o Folha Seca disse isso também. Ele disse que [ruído de microfone]
+[02:05:40] huberling: É, pra ser sincero, só de imaginar o combate, eu não acredito que os rangers vão sair ilesos. Alguns vão morrer
+[02:05:49] MatosS: Então, mas o motivo, eles vão-- se eles vão pagar esse preço, como eu di-- justamente, já é de certa forma um preço, né? E o, e o Folha Seca disse que esses que estão envolvidos, eles vão participar desse combate, então talvez algum deles pague o maior preço de todos, digamos assim, né?
+[02:06:12] huberling: Ah, que droga, que droga, que droga
+[02:06:17] huberling: A gente não tem escolha, né?
+[02:06:20] MatosS: Eu acho que a gente não tem escolha e mesmo que se tivesse, me parece uma, uma opção razoável assim
+[02:06:30] huberling: É que perdoar um crime pra conseguir finalizar outro parece justo. Ainda mais quando não sabe o tamanho do crime. A gente não faz ideia do que eles fizeram, eles podem ter matado pessoas, eles podem ter feito N coisas. [interferência no microfone]
+[02:06:36] MatosS: Mais fino possível
+[02:06:40] MatosS: É, mais barato. Então se todos nós votarmos no prefeito, Stork, infelizmente, e essa-- pensa que no resultado final, vai, a gente vai resolver o problema da cidade. O, o, o novo prefeito vai chegar aqui com [interferência no microfone]
+[02:06:50] huberling: [som de interferência]
+[02:06:55] huberling: Se eu achasse, se eu achasse que a gente tem a mínima chance nesse combate, eu não pediria ajuda
+[02:07:08] MatosS: [ruído]
+[02:07:09] huberling: Mas eu sei quem tá lá e eu sei que eu não sou capaz de derrotar
+[02:07:16] MatosS: Então acho que as, a, a s-- a ocasião fez a escolha pela gente, né? Ééé, bom, é isso. Só p- só pra aproveitar que eu já tô aqui, com relação ao, aos, aos Kenkos, né, que vão nos ajudar nessa questão de não deixar ninguém escapar, é, a ideia deles é continuar disfarçados, tá? Então mesmo que a gente aplique algum tipo de punição pra eles, leve, né, espero que se tenha um, um bom senso nisso e, e, e priorize a paz e a estabilidade na cidade, eles devem continuar disfarçados, porqueee pra não gerar desconfiança, né, de, de sei lá, algum membro da organização que escape ou do mercado negro ou sei lá de quem, que poderia perceber que, na verdade, eles nos ajudaram, né. Se eles ficarem disfarçados, ééé, fica tudo meio que por baixo dos panos, digamos assim, né, sei lá
+[02:08:13] huberling: Entendi
+[02:08:14] MatosS: A gente resolve essas, essa na-- questão narra-da narrativa depois, né?
+[02:08:23] MatosS: Só é importante que a gente esteja alinhado no, nos acordos
+[02:08:27] huberling: Existe a possibilidade da gente poder ganhar alguma coisa com os Rangers, não?
+[02:08:31] MatosS: Eu acredito que não. Folha Seca deixou claro que ele não pretende ajudar se, se a gente não acatar esse, esse acordo deles. Porque ele disse que esses rangers envolvidos, eles pra comunidade dele, eles nunca fizeram nada de mal, eles so-foram sempre bons, etc. Então, ele fez essa escolha de tentar proteger eles
+[02:08:50] huberling: Bom, meus hom-- meus homens não sabem de nada, né? De-- os nomes, as lista, nem nada. A lista quem tinha era você e eu. Então, a gente vai fingir que esses seis nomes nunca apareceram na lista
+[02:09:13] huberling: Ele, ele não tá feliz, é nítido, mas até você falar isso, ele já cons-- ele se considerava um homem morto, né? Então, em tese, fazer o quê? Não tem o que fazer
+[02:09:17] MatosS: Uhum
+[02:09:24] MatosS: [ruído]
+[02:09:30] MatosS: Falei: "Bom, eu-- o Folha Seca tá esperando minha resposta, eu vou, tenho que ir"
+[02:09:37] MatosS: Vou, vou me retirar. Cumprimento ele e vou sair
+[02:09:41] huberling: Beleza, beleza. Ok
+[02:09:47] huberling: Cê saiu e foi voltar lá pra torre de novo. Bom, tu chegou na torre, tá o César e ooo, e o Folha Seca deitado na grama, já beberam o barril, já não tem mais cerveja no barril. O Folha Seca tá um pouco bêbado, mas ainda tá sóbrio o suficiente pra conversar, entendeu?
+[02:10:11] MatosS: Bonito, né Cleiver? Eu tr
+----- FIM DA TRANSCRICAO ORIGINAL -----
+
+
+===== PARTE 2 DE 3 =====
+Pasta de origem: 2026-06-17 - GLIM 2
+Inicio da gravacao (Sao Paulo): 17/06/2026, 22:25:31
+Entradas disponiveis: 20
+
+----- INICIO DA TRANSCRICAO ORIGINAL -----
+[00:00:00] Oto: Estou com muito sono
+[00:00:02] MatosS: É, não
+[00:00:18] MatosS: [bocejo]
+[00:00:33] ladeiraA: É muito engraçado, né? Quando cê tá falando sozinho, as pessoas te respondem, mano. Esse sempre acho que tá
+[00:00:37] Oto: [riso] Porque aqui te escondeu
+[00:00:44] ladeiraA: Não, já nem lembro mais, eu já tô uns 10 minuto falando aqui, cês tão me respondendo e, tá vendo? Não tem nada pra mim
+[00:00:52] huberling: É, até entendo que cê tá com sono, né, Ot? Cê praticamente não jogou, né, véio. O foda é que cê tava preso. Mas é o seguinte: pra gente resolver essa parada aqui, é, eu vou pedir aí pra quando ele for passar, a gente correr realmente o tempo, porque senão fica um jogador muito morto, véio. É foda. [som de microfone]
+[00:00:56] Oto: [ruído]
+[00:01:09] Oto: É, véi, tá me dando um sono aqui, eu tô até deitado, eu tô até deitado agora ouvindo, ouvindo tudo do Discord, porque eu tava, tava com um frio do caralho lá na, na, na cadeira
+[00:01:20] huberling: Ah, eu tô deitado também. Eu tô com muita dor na coluna, minhas costas tá meio foda. Bom, [tosse] vamo lá. Voltando então. Pô, pelo menos agora de não tinha plano nenhum, o plano ficou bem melhor, né?
+[00:01:35] Oto: [ruído]
+[00:01:35] MatosS: Porra, claro que tenho aqui o planejador Master Blaster Plus aqui, rapaz
+[00:01:42] huberling: Mas eu achei que cês não iam chamar a igreja, cara, que cês não lembraram no dia. Cês falaram de chamar o Krenko e não falaram da igreja. Falei: "Caraca, os cara vão nem chamar os hempers". Bom, beleza. Bom, ééé, vocês tão-- vocês terminaram de falar, terminei e fui embora. E aí?
+[00:01:46] MatosS: [ruído]
+[00:02:06] MatosS: Aí vai-- o Key vai entrar na torre e nós vai ficar de boa aí, eu vou lá estudar na biblioteca tal, passar um tempo, dormir. Esperar o dia seguinte. O dia seguinte preparo, preparo minhas magias e acho que não tem muito o que a gente fazer, né?
+[00:02:16] ladeiraA: É, ele chegou a dormir ali. Mas ele chegou a dormir ontem, né?
+[00:02:16] huberling: Casamento por amor?
+[00:02:22] huberling: Uhum. E beleza. Missão cumprida, né? Missão cumprida. Agora vamo descobrir como é que vai ser o fight. Tá legal. Quando foi, quando
+[00:02:26] ladeiraA: Seja o que Deus quiser
+[00:02:28] MatosS: [ruído]
+----- FIM DA TRANSCRICAO ORIGINAL -----
+
+
+===== PARTE 3 DE 3 =====
+Pasta de origem: 2026-06-17 - GLIM 3
+Inicio da gravacao (Sao Paulo): 17/06/2026, 22:42:23
+Entradas disponiveis: 3
+
+----- INICIO DA TRANSCRICAO ORIGINAL -----
+[00:00:02] huberling: Muito mais nas interpretações. Ééé, o pessoal vai fazer a construção, cês vão ter um almoço ali, um churrasco com todo mundo, a galera vai agradecer, vai almoçar [interferência do microfone] entende? Ééé, as pessoas que vieram ajudar vocês são ali da, da comunidade, mas algumas pessoas são chaves que vocês sabem quem são, que é os familiares das crianças que morreram, infelizmente, mas que vocês trouxeram uma, uma resposta, né? E também, hã, o Carlos, né, que tá ali e a taverneira, ela fechou a taverna hoje. Tá a taverneira aí e alguns funcionários da taverna também, tá? Ajudando vocês ali na, na, nas coisas ali também. Ééé, então esses são os mais chaves que mais conhecem, mas tem mais gente aí da comunidade que é agradecida [interferência do microfone]
+[00:00:57] huberling: Zero, tal, que tão ali também, tá? Ééé, deu aí umas 200 pessoas durante o período da manhã, mas deu um pico aí de umas 300 pessoas em alguns momentos, tá? Ééé, eles, tipo: "Ah, meu horário de almoço eu vou ali dar-- é, eu vooou, eu vou dar uma passada lá pra ver se eles tão precisando de-- por diante". E também teve a galera que em vez de tá aí, eles tão cortando ainda madeira e trazendo mais madeira, tá? Porque a construção
+[00:01:00] MatosS: [ruído]
+----- FIM DA TRANSCRICAO ORIGINAL -----
