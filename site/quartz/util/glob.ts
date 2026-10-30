@@ -15,7 +15,9 @@ export async function glob(
     await globby(pattern, {
       cwd,
       ignore: ignorePatterns,
-      gitignore: true,
+      // Campaign content is generated and deliberately excluded from version control.
+      // Quartz's explicit ignorePatterns still apply to the staged public content.
+      gitignore: false,
     })
   ).map(toPosixPath)
   return fps as FilePath[]
