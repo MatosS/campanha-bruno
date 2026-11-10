@@ -6,10 +6,16 @@ publico: true
 status: "documentado_parcial"
 origens: ["Fontes/Vault/Vault - Glim Sombrasselva - Cronologia da Campanha", "Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre", "Fontes/Confirmacoes/2026-10-30 - Prazo do ranger e indicacao do tunel pela guarda"]
 aliases: []
-atualizado: "2026-10-30"
+atualizado: "2026-11-10"
 ---
 
 # Glim — cronologia da campanha
+
+## Atualização de 03/11/2026
+
+Depois do ponto de entrada relatado na sessão sem gravação, o grupo desce aproximadamente 1,8 km pelo túnel, encontra uma caverna vasta e avança cerca de duas horas e meia até as ruínas ocupadas pelos neogi. O mestre corrige a estimativa inicial de quatro horas; quatro horas e meia era o limite de planejamento para depois voltar e subir antes da atividade noturna dos predadores. [[Fontes/Registros/Glim - 2026-11-03 - Leitura e recuperacao|Fontes e localizadores de 03/11]].
+
+Não há virada de dia, descanso completo, invasão ou retorno à superfície confirmado. Três ou quatro dias de avanço e o prazo de dez dias mencionado são planos/referências, não dias automaticamente somados. Os cerca de 12m31s sem áudio entre capturas são tempo real de gravação, sem equivalência presumida no calendário ficcional. O total absoluto continua sem reconciliação; o jogador confirmou 03/11 como sessão 28, reservando 27 para a sessão intermediária sem gravação. [[Sessoes/Glim - Sessao 28 - 2026-11-03|Diário de 03/11]].
 
 A contagem estimada herdada chega a cerca de **55 dias desde a primeira cena da caravana até a sessão 19**, ou cerca de 51–52 desde a chegada a Eral. É estimativa explícita, com deslocamentos possíveis de um ou mais dias. Fonte: [[Fontes/Vault/Vault - Glim Sombrasselva - Cronologia da Campanha|Cronologia integral herdada]].
 

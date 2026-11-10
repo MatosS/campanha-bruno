@@ -39,5 +39,7 @@ Diários integrais separados por sessão, na ordem da mesa. Datas da mesa não r
 - [[Sessoes/Glim - Sessao 24 - 2026-09-30|Sessão 24 — 2026-09-30]]
 - [[Sessoes/Glim - Sessao 25 - 2026-10-05|Sessão 25 — 2026-10-05]]
 - [[Sessoes/Glim - Sessao 26 - 2026-10-20|Sessão 26 — 2026-10-20]]
+- Sessão 27 sem gravação: número reservado com confirmação do jogador, sem data exata ou diário fictício. Ver [[Pendencias/Acervo/FT-001 - Sessao recente sem gravacao e novo personagem|FT-001]].
+- [[Sessoes/Glim - Sessao 28 - 2026-11-03|Sessão 28 - 2026-11-03]] - data documentada e número confirmado pelo jogador. [[Fontes/Registros/Glim - 2026-11-03 - Leitura e recuperacao|Recuperação e lacunas]]
 
 [[Fontes/Transcricoes/Indice|Transcrições disponíveis]]

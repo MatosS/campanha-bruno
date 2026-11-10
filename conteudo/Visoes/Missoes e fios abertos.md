@@ -6,14 +6,14 @@ publico: true
 status: "documentado_parcial"
 origens: ["Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre", "Fontes/Vault/Vault - Glim Sombrasselva - Cronologia da Campanha", "Fontes/Confirmacoes/2026-10-29 - Redencao de Crave e recuperacao do amuleto", "Fontes/Confirmacoes/2026-10-29 - Cinto de Kord nao recuperado", "Fontes/Confirmacoes/2026-10-29 - Porta mantida aberta para retorno", "Fontes/Confirmacoes/2026-10-30 - Mapa antigo e resolucao dos problemas de Eral", "Fontes/Confirmacoes/2026-10-30 - Tunel reaberto na sessao sem gravacao", "Fontes/Confirmacoes/2026-10-30 - Crave continua sem sombra", "Fontes/Confirmacoes/2026-10-30 - Encontro com Folha-Seca e sucesso dos rangers", "Fontes/Confirmacoes/2026-10-30 - Prazo do ranger e indicacao do tunel pela guarda", "Fontes/Confirmacoes/2026-10-30 - PC-009 encerrada sem informacoes adicionais", "Fontes/Confirmacoes/2026-10-30 - Agua de Eral tribo e hipotese de acao do exercito", "Fontes/Confirmacoes/2026-10-30 - Intriga de Firael e Mercado sem explicacao conhecida", "Fontes/Confirmacoes/2026-10-30 - Suspeita sobre sacerdote de Kord como informante", "Fontes/Confirmacoes/2026-10-30 - Exercito permanece em Eral e futura guarda desconhecida", "Fontes/Confirmacoes/2026-10-30 - Ryld sem achados e necessidade da incursao", "Fontes/Confirmacoes/2026-10-30 - Exercito confirmou resolucao da agua sem detalhes", "Fontes/Confirmacoes/2026-10-30 - Eral e refugiados sem detalhes adicionais", "Fontes/Confirmacoes/2026-10-30 - Morte de Carlos no ataque e possessao do cadaver"]
 aliases: []
-atualizado: "2026-10-30"
+atualizado: "2026-11-10"
 ---
 
 # Missões e fios abertos
 
 Este quadro descreve o estado dos fios da campanha, não uma lista de perguntas para os jogadores. Mistérios e missões futuras podem continuar em aberto. A revisão editorial fica em [[Pendencias/Indice|Contradições e gaps de sequência]].
 
-Este quadro reúne investigações e consequências sem registrar planos como feitos consumados. O corte atual do acervo é a sessão 26 de Glim. Cada pergunta aponta para evidências e limites, não para um desfecho inventado.
+Este quadro reúne investigações e consequências sem registrar planos como feitos consumados. O acervo inclui agora a [[Sessoes/Glim - Sessao 28 - 2026-11-03|continuação de 03/11]], com número 28 confirmado pelo jogador. Cada pergunta aponta para evidências e limites, não para um desfecho inventado.
 
 | Fio | Consultar | Registros de continuidade |
 | --- | --- | --- |
@@ -46,7 +46,9 @@ A regra das portas foi esclarecida em [[Pendencias/Itens/IT-005 - Fechar e reabr
 
 O [[Eventos/Agua envenenada de Eral|caso da água envenenada]] foi resolvido após a chegada do exército. O jogador confirmou posteriormente que o exército resolveu o problema, sem fornecer detalhes. A ação pela força continua apenas hipótese anterior; culpa tribal e método não foram confirmados. [[Fontes/Confirmacoes/2026-10-30 - Exercito confirmou resolucao da agua sem detalhes|Esclarecimento do jogador — 30/10/2026]] [[Pendencias/Eventos/EV-008 - Conclusão do caso da água envenenada|EV-008]] e [[Pendencias/Faccoes/FC-024 - Envenenamento e Crepúsculos Venenosos|FC-024]] estão encerradas como consultas, com essas incertezas preservadas. [[Fontes/Confirmacoes/2026-10-30 - Agua de Eral tribo e hipotese de acao do exercito|Esclarecimento do jogador — 30/10/2026]] O jogador informou que a maioria dos problemas de Eral foi resolvida; os demais fios locais deste quadro aguardam discriminação antes de serem classificados como ativos ou encerrados. Isso não altera automaticamente destinos individuais ou mistérios fora de Eral. [[Fontes/Confirmacoes/2026-10-30 - Mapa antigo e resolucao dos problemas de Eral|Esclarecimento do jogador — 30/10/2026]]
 
-## Incursão subterrânea pendente
+## Incursão subterrânea - estado em 03/11
+
+A entrada e o reconhecimento ocorreram. O grupo encontrou uma grande caverna e ruínas dos Sarrukh ocupadas por neogi, escravos asabi e umber hulks. Mercado e troca de patrulha foram observados; decidir entre ampliar a exploração, negociar ou informar o exército continua em aberto. Não houve combate nem confirmação sobre a colônia principal dos Mind Shredders. O texto abaixo conserva o ponto de retomada relatado em 30/10, anterior a essa gravação. [[Sessoes/Glim - Sessao 28 - 2026-11-03|Diário de 03/11]]; [[Fontes/Registros/Glim - 2026-11-03 - Leitura e recuperacao|Fontes e limites]].
 
 A ameaça dos túneis de Eral está apenas parcialmente contida. O acesso foi reaberto na sessão sem gravação, e o grupo ia entrar quando a sessão terminou. A investigação continua pendente, sem colônia eliminada. Ver [[Eventos/Retomada dos tuneis de Eral]] e [[Pendencias/Faccoes/FC-022 - Colônia dos Mind Shredders|FC-022]]. [[Fontes/Confirmacoes/2026-10-30 - Tunel reaberto na sessao sem gravacao|Relato do jogador — 30/10/2026]]
 

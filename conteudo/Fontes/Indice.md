@@ -10,6 +10,12 @@ aliases: []
 
 # Acervo de fontes
 
+## Registros novos de sessão
+
+- [[Fontes/Registros/Glim - 2026-11-03 - Leitura e recuperacao|03/11/2026 - recuperação, fontes e limites da sessão de Glim]]. O diário está em [[Sessoes/Glim - Sessao 28 - 2026-11-03|Sessão 28]]; áudio e conversas brutas permanecem no acervo privado do jogador.
+
+## Acervo histórico e confirmações
+
 Documentos integrais que sustentam a base. As cópias exatas dos arquivos de origem ficam em `arquivo/originais/`, fora da pasta de publicação. Variantes que diferem em texto ou apresentação permanecem separadas.
 
 - [[Fontes/Documentos/Indice|Documentos integrais]]

@@ -6,13 +6,13 @@ publico: true
 status: "documentado_parcial"
 origens: ["Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre", "Fontes/Documentos/Diario - Glim Sombrasselva", "Fontes/Confirmacoes/2026-10-29 - Ryld e sessao recente sem gravacao", "Fontes/Confirmacoes/2026-10-30 - Tunel reaberto na sessao sem gravacao", "Fontes/Confirmacoes/2026-10-30 - Aelion e participantes da incursao", "Fontes/Confirmacoes/2026-10-30 - Encontro com Folha-Seca e sucesso dos rangers", "Fontes/Confirmacoes/2026-10-30 - Prazo do ranger e indicacao do tunel pela guarda", "Fontes/Documentos/Preludio de Ryld"]
 aliases: []
-atualizado: "2026-10-30"
+atualizado: "2026-11-10"
 ---
 
 
 # Campanha de Glim
 
-Campanha em andamento, com registros consolidados até a sessão 26, de 20/10/2026. O diário de Glim é uma perspectiva; as análises e transcrições também preservam cenas privadas e explicações em off sem atribuir esse conhecimento automaticamente a todos os personagens. Fontes: [[Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre|H]] e [[Fontes/Documentos/Diario - Glim Sombrasselva|G]].
+Campanha em andamento, com diários das sessões 1-26 e da [[Sessoes/Glim - Sessao 28 - 2026-11-03|sessão de 03/11/2026, registrada como 28]], além da solo. O diário de Glim é uma perspectiva; as análises distinguem cenas privadas e explicações em off sem atribuir esse conhecimento automaticamente a todos os personagens. As fontes migradas até 26 continuam preservadas em [[Fontes/Vault/Vault - RPG - Handoff do cenario para o mestre|H]] e [[Fontes/Documentos/Diario - Glim Sombrasselva|G]].
 
 ## Personagens nos registros consolidados
 
@@ -33,11 +33,15 @@ Campanha em andamento, com registros consolidados até a sessão 26, de 20/10/20
 - [[Eventos/Memorias de Kael|Memórias da campanha antiga]]
 - [[Eventos/Confronto com Vesperal|Vesperal e preparação da torre]]
 
-## Sessão recente sem gravação
+## Sessão intermediária sem gravação
 
-O usuário informou que a sessão mais recente não foi gravada. Nela foi introduzido outro personagem do jogador que antes interpretava Ryld e havia ficado um período sem jogar. O nome foi informado posteriormente: [[Personagens/Aelion|Aelion]], personagem de Diogo. Data e número da sessão não foram fornecidos. [[Fontes/Confirmacoes/2026-10-30 - Aelion e participantes da incursao|Confirmação do jogador — 30/10/2026]] A reconstrução foi adiada até haver outra gravação, em [[Pendencias/Acervo/FT-001 - Sessao recente sem gravacao e novo personagem|FT-001]]. [[Fontes/Confirmacoes/2026-10-29 - Ryld e sessao recente sem gravacao|Esclarecimento do jogador — 29/10/2026]]
+O usuário informou que a sessão mais recente não foi gravada. Nela foi introduzido outro personagem do jogador que antes interpretava Ryld e havia ficado um período sem jogar. O nome foi informado posteriormente: [[Personagens/Aelion|Aelion]], personagem de Diogo. Data e número ainda não tinham sido fornecidos em 30/10; em 10/11 foi confirmado o número 27, sem data exata. [[Fontes/Confirmacoes/2026-10-30 - Aelion e participantes da incursao|Confirmação do jogador — 30/10/2026]]; [[Fontes/Registros/Glim - 2026-11-03 - Leitura e recuperacao|Atualização de 10/11]]. A reconstrução foi adiada até haver outra gravação, em [[Pendencias/Acervo/FT-001 - Sessao recente sem gravacao e novo personagem|FT-001]]. [[Fontes/Confirmacoes/2026-10-29 - Ryld e sessao recente sem gravacao|Esclarecimento do jogador — 29/10/2026]]
 
 ## Consultar e atualizar
+
+Atualização: Glim, Crave, Okay e Aelion entram no túnel reaberto, encontram um grande ecossistema subterrâneo e uma cidade dos Sarrukh caída da superfície, ocupada por neogi com asabi escravizados e umber hulks. Marcas antigas indicam que um tarrasque provocou o afundamento, sem encontro atual com a criatura. O grupo amplia o reconhecimento e não realiza ataque ou negociação. [[Sessoes/Glim - Sessao 28 - 2026-11-03|Diário de 03/11]]; [[Fontes/Registros/Glim - 2026-11-03 - Leitura e recuperacao|Evidências e limites]].
+
+A numeração 28 foi confirmada pelo jogador em 10/11, reservando 27 para a sessão sem gravação. Não há data exata ou diário inventado para esse intervalo. A recuperação das cinco trilhas e a segunda transcrição deixam cerca de 12m31s sem áudio entre capturas; não é um salto temporal da campanha. [[Fontes/Registros/Glim - 2026-11-03 - Leitura e recuperacao|Confirmação e fontes]].
 
 - [[Sessoes/Indice|Diários por sessão]]
 - [[Fontes/Transcricoes/Indice|Transcrições]]

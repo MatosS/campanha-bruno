@@ -6,11 +6,15 @@ publico: true
 status: "documentado_parcial"
 origens: ["Fontes/Confirmacoes/2026-10-30 - Aelion e participantes da incursao", "Fontes/Confirmacoes/2026-10-29 - Ryld e sessao recente sem gravacao", "Fontes/Confirmacoes/2026-10-30 - Aelion acompanha os Magnificos", "Fontes/Documentos/Background - Aelion Stormlash"]
 aliases: ["Aelion"]
-atualizado: "2026-10-30"
+atualizado: "2026-11-10"
 jogador: "Diogo"
 ---
 
 # Aelion Stormlash
+
+## Continuação em 03/11
+
+Acompanha Glim, Crave e Okay na entrada efetiva no túnel e no reconhecimento das ruínas ocupadas por neogi. Na discussão sobre uma operação, ressalta a falta de recursos para executar o plano com segurança e não apresenta proteção própria suficiente contra a dominação. Nenhum combate dele é registrado nesta sessão. A companhia continua distinta de ingresso formal nos Magníficos. [[Sessoes/Glim - Sessao 28 - 2026-11-03|Diário de 03/11]]; [[Fontes/Registros/Glim - 2026-11-03 - Leitura e recuperacao|Parte 2 - 01h02m e 01h42m-01h47m]].
 
 ## Identidade e chegada
 
